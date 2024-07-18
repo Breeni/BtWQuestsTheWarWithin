@@ -56,6 +56,7 @@ new_read_globals = {
     'Enum',
     'LE_EXPANSION_SHADOWLANDS',
     'LE_EXPANSION_DRAGONFLIGHT',
+    'LE_EXPANSION_THE_WAR_WITHIN',
 
     -- Deprecated API Functions
     'IsQuestFlaggedCompleted',
