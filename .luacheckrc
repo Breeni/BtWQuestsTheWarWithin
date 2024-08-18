@@ -67,6 +67,7 @@ new_read_globals = {
     'bit.bxor',
     'bit.lshift',
     'bit.rshift',
+    'C_AddOns.IsAddOnLoaded',
     'C_AzeriteEmpoweredItem.GetAllTierInfo',
     'C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem',
     'C_AzeriteEmpoweredItem.IsPowerSelected',
