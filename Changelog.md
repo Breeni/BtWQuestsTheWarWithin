@@ -1,3 +1,7 @@
+# v1.0
+
+- Updated Introduction questline
+- Added search index
 
 # v0.1-beta
 
