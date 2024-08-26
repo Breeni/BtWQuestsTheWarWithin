@@ -195,6 +195,15 @@ Database:AddChain(Chain.Introduction, {
             variations = {
                 {
                     type = "quest",
+                    id = 78529,
+                    restrictions = {
+                        type = "quest",
+                        id = 78529,
+                        status = {'active', 'completed'}
+                    }
+                },
+                {
+                    type = "quest",
                     id = 83543,
                     restrictions = THREADS_OF_FATE_RESTRICTION,
                 },
