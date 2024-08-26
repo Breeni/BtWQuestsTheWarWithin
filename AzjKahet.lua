@@ -1885,9 +1885,13 @@ Database:AddChain(Chain.TempChain25, {
             standing = 5,
         },
     },
+    active = {
+        type = "quest",
+        id = 83276,
+    },
     completed = {
         type = "quest",
-        id = 82141,
+        id = 83277,
     },
     items = {
         {
