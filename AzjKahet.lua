@@ -725,10 +725,7 @@ Database:AddChain(Chain.MelodyOfMadness, {
     },
     completed = {
         type = "quest",
-        ids = {
-            79715,80572
-        },
-        count = 2,
+        id = 80572
     },
     items = {
         {
