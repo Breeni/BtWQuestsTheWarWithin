@@ -235,7 +235,7 @@ Database:AddChain(Chain.AgainstTheCurrent, {
     },
     active = {
         type = "quest",
-        id = 79197,
+        id = 79333,
         status = {'active', 'completed'},
     },
     completed = {
