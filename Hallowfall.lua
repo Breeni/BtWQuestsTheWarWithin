@@ -792,7 +792,7 @@ Database:AddChain(Chain.StrikingSteel, {
             },
         },
         {
-            name = L["BTWQUESTS_WAIT_FOR_WEEKLY_RESET"],
+            name = format(L["BTWQUESTS_WAIT_DAYS"], 2),
             active = {
                 type = "quest",
                 id = 82217,
