@@ -2792,6 +2792,28 @@ Database:AddMapRecursive(2216, {
     id = CATEGORY_ID,
 })
 
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.FriendsInTheDark)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.UnravelingTheTrapped)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.PlansWithinPlans)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.RakUshSwarmery)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.PillarnestVosh)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.GutterWork)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.MelodyOfMadness)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.PawnsAndPuppetry)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheWormlands)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.HagglingWithMmarl)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheSecondFront)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.MrSunflowersTherapy)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheWildCamp)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.PillarnestOfHorrors)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.SubterfugeInSilk)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.SilkenWard)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.GrieveWeave)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.AllGoodThings)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain25)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain26)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain28)
+
 --@debug@
 Database:AddContinentItems(CONTINENT_ID, {
     {

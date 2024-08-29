@@ -2498,6 +2498,26 @@ Database:AddMapRecursive(MAP_ID, {
     id = CATEGORY_ID,
 })
 
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheGuidingStar)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.GatheringShadows)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.HopeInSolidarity)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.LightToVelhansClaim)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.ThePriory)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.StrikingSteel)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.LostInTheDarkness)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheSkysTheLimit)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.CrushingDepths)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheLastMageOfHallowfall)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheWeightOfDuty)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.ApartForPurpose)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.RestAtLast)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.AnOrphansDilemma)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheMysteriousChef)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.WhatGrowsInTheDark)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.SuspiciousMinds)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.MemoriesOfTheSky)
+
+
 --@debug@
 Database:AddContinentItems(CONTINENT_ID, {
     {

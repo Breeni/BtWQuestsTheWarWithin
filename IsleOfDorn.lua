@@ -2320,6 +2320,26 @@ Database:AddMapRecursive(MAP_ID, {
     id = CATEGORY_ID,
 })
 
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.BreakingPoint)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.EarthenFissures)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheFirstBlow)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.SporesOfDread)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.BehindClosedDoors)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.SevenSoldiers)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.LostLordOfTheStorm)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.HopeAnAnomaly)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TheHermit)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.ATitanicExpedition)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.RememberMeEarthen)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.BrotherhoodInTheSkolzgalWood)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.AllOreNothing)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain14)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain21)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain25)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain30)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain31)
+BtWQuestsDatabase:AddQuestItemsForChain(Chain.TempChain32)
+
 --@debug@
 Database:AddContinentItems(CONTINENT_ID, {
     {
