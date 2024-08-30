@@ -1819,7 +1819,7 @@ Database:AddChain(Chain.TempChain32, {
         {
             type = "currency",
             id = 2900,
-            amount = 5,
+            amount = 8,
             x = -1,
             connections = {
                 2, 
@@ -1861,7 +1861,7 @@ Database:AddChain(Chain.TempChain32, {
         {
             type = "currency",
             id = 2900,
-            amount = 15,
+            amount = 14,
             x = -1,
             connections = {
                 2, 
@@ -1882,7 +1882,7 @@ Database:AddChain(Chain.TempChain32, {
         {
             type = "currency",
             id = 2900,
-            amount = 20,
+            amount = 21,
             connections = {
                 2, 
             },
