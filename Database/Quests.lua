@@ -6084,6 +6084,10 @@ BtWQuestsDatabase:AddQuestsTable({
     [79282] = {
         name = "The Grand Debut",
         contentTuningID = 2837,
+        source = {
+            type = "npc",
+            id = 214296,
+        },
         rewards = {
             {
                 type = "money",
