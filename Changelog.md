@@ -1,3 +1,7 @@
+# v5.1
+
+- Fixed error opening quest chain The Flame Within in Hallowfall
+
 # v5.0
 
 - Added raid questline To Kill a Queen
