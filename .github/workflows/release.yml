@@ -22,3 +22,5 @@ jobs:
 
       - name: Package and release
         uses: BigWigsMods/packager@v2
+        with:
+          args: "-p 1010391 -w 26776 -a bGoMAr60"
