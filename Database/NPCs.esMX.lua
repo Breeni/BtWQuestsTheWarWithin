@@ -117,17 +117,8 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [225454] = {
         name = "Pacificadora Hektare",
     },
-    [225481] = {
-        name = "Buceababa Kazzandra",
-    },
-    [225500] = {
-        name = "Grimla Manivélaz",
-    },
     [225555] = {
         name = "Curioseadora",
-    },
-    [225571] = {
-        name = "Renzik \"Chafarote\"",
     },
     [225582] = {
         name = "Capataza Duinth",
@@ -141,15 +132,6 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [225616] = {
         name = "Engránimo",
     },
-    [225669] = {
-        name = "Alleria Brisaveloz",
-    },
-    [226569] = {
-        name = "Snap Lubrivitela",
-    },
-    [226728] = {
-        name = "Humphrey Tragocorto",
-    },
     [226750] = {
         name = "Devota de Freya Etterca",
     },
@@ -159,23 +141,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [226792] = {
         name = "Ranchero Edidithet",
     },
-    [228158] = {
-        name = "Gusarín",
+    [227758] = {
+        name = "Alleria Brisaveloz",
     },
-    [228286] = {
-        name = "Skedgit Ceniestallidos",
-    },
-    [230554] = {
-        name = "Viejo Lowe",
-    },
-    [230841] = {
-        name = "El Caballero Verdín",
-    },
-    [233235] = {
-        name = "Gerry Tapabuche",
-    },
-    [233420] = {
-        name = "Benny Gansohete",
+    [232132] = {
+        name = "Alba",
     },
 })
 ]])()

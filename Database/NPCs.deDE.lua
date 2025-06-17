@@ -120,17 +120,8 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [225454] = {
         name = "Friedensbewahrerin Hektare",
     },
-    [225481] = {
-        name = "Schleimtaucherin Kazzandra",
-    },
-    [225500] = {
-        name = "Grimla Knisterkurbel",
-    },
     [225555] = {
         name = "Schnickschnack",
-    },
-    [225571] = {
-        name = "Renzik \"Das Messer\"",
     },
     [225582] = {
         name = "Vorarbeiterin Duinth",
@@ -144,17 +135,8 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [225616] = {
         name = "Ratzels",
     },
-    [225669] = {
-        name = "Alleria Windläufer",
-    },
     [226255] = {
         name = "Schneif",
-    },
-    [226569] = {
-        name = "Schnapp Schmierpergament",
-    },
-    [226728] = {
-        name = "Humphrey Kurzschluck",
     },
     [226750] = {
         name = "Freyschwörerin Etterca",
@@ -167,27 +149,6 @@ BtWQuestsDatabase:UpdateNPCsTable({
     },
     [227222] = {
         name = "Ysabel Schimmerwaach",
-    },
-    [228158] = {
-        name = "Zocknudel",
-    },
-    [228286] = {
-        name = "Skedgit Glutfransen",
-    },
-    [230554] = {
-        name = "Der alte Leo",
-    },
-    [230555] = {
-        name = "Pitz Leo",
-    },
-    [230841] = {
-        name = "Der Grünschmierritter",
-    },
-    [233235] = {
-        name = "Gerry Klotzkropf",
-    },
-    [233420] = {
-        name = "Benny Gänsesprenger",
     },
 })
 ]])()

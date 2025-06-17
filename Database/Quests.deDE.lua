@@ -1056,18 +1056,6 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [79556] = {
         name = "Ausbildung vor Ort",
     },
-    [79559] = {
-        name = "Der Grünschmierritter",
-    },
-    [79561] = {
-        name = "Herr der Riesen",
-    },
-    [79563] = {
-        name = "Dame des Sees",
-    },
-    [79564] = {
-        name = "Der Grünschmierritter kehrt zurück",
-    },
     [79565] = {
         name = "Jankys Kerzen",
     },
@@ -1256,12 +1244,6 @@ BtWQuestsDatabase:UpdateQuestsTable({
     },
     [80082] = {
         name = "Rückkehr nach Gundargaz",
-    },
-    [80096] = {
-        name = "Die Schaufel im Stein",
-    },
-    [80144] = {
-        name = "Der Heilige Blecheimer",
     },
     [80145] = {
         name = "Die Hauptader",
@@ -2037,6 +2019,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [82518] = {
         name = "Rohre flicken",
     },
+    [82523] = {
+        name = "Kerzenkönigbrecher",
+    },
     [82524] = {
         name = "Exterminieren",
     },
@@ -2202,125 +2187,14 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [83087] = {
         name = "Die alte Garde",
     },
-    [83088] = {
-        name = "Ätzende Sammlung",
-    },
-    [83089] = {
-        name = "Hier herrscht Brillenpflicht!",
-    },
-    [83091] = {
-        name = "Brille auf",
-    },
     [83092] = {
         name = "Ein feuriges Ende",
-    },
-    [83096] = {
-        name = "Willkommen in Lorenhall",
     },
     [83101] = {
         name = "Ressourcenhunger",
     },
     [83108] = {
         name = "Carpe Diagnosem",
-    },
-    [83109] = {
-        name = "Der Grimlaexpress",
-    },
-    [83114] = {
-        name = "Rotes Band",
-    },
-    [83115] = {
-        name = "In der Runde",
-    },
-    [83116] = {
-        name = "Trankaufruhr",
-    },
-    [83117] = {
-        name = "Auf der Jagd nach einer Spur",
-    },
-    [83118] = {
-        name = "Prüft die Zeitpläne",
-    },
-    [83119] = {
-        name = "Ist einen Versuch wert",
-    },
-    [83120] = {
-        name = "Raub der Schlüssel",
-    },
-    [83121] = {
-        name = "Vermögensverwaltung",
-    },
-    [83122] = {
-        name = "Den Markt zerstören",
-    },
-    [83123] = {
-        name = "Eine fiese Mine",
-    },
-    [83124] = {
-        name = "V.O.G.E.L.-Beobachtung",
-    },
-    [83125] = {
-        name = "Preiserhöhung",
-    },
-    [83126] = {
-        name = "Astrale Invasion",
-    },
-    [83127] = {
-        name = "Wettlauf mit der Zeit",
-    },
-    [83128] = {
-        name = "Holt unsere Leute raus",
-    },
-    [83129] = {
-        name = "Kein Versteck mehr",
-    },
-    [83130] = {
-        name = "Saurer Sieg",
-    },
-    [83137] = {
-        name = "Wenn eine Gelegenheit hochgeht",
-    },
-    [83138] = {
-        name = "Das Ende des Tages",
-    },
-    [83139] = {
-        name = "Gemischte Nachrichten",
-    },
-    [83140] = {
-        name = "Feindliche Arbeitsumgebung",
-    },
-    [83141] = {
-        name = "Minenermittlungen",
-    },
-    [83142] = {
-        name = "Ein großer Befehl",
-    },
-    [83143] = {
-        name = "Gute, ehrliche Arbeit",
-    },
-    [83144] = {
-        name = "Aderlass",
-    },
-    [83145] = {
-        name = "Paranoiaprävention",
-    },
-    [83146] = {
-        name = "Pamsys prächtige Pumpe",
-    },
-    [83147] = {
-        name = "Blutiges Geschäft",
-    },
-    [83148] = {
-        name = "X-treme Kälte",
-    },
-    [83149] = {
-        name = "Nehmt für sie Rache",
-    },
-    [83150] = {
-        name = "Den Plan ausweiten",
-    },
-    [83151] = {
-        name = "In Lorenhall",
     },
     [83153] = {
         name = "Problematische Proben",
@@ -2337,89 +2211,14 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [83162] = {
         name = "Nichts wie weg damit!",
     },
-    [83163] = {
-        name = "Venture gespalten",
-    },
     [83165] = {
         name = "Böse, Bot!",
-    },
-    [83167] = {
-        name = "Augen von oben",
-    },
-    [83168] = {
-        name = "Eine Schwarzblutspur",
-    },
-    [83169] = {
-        name = "Weit weg von der Beutebucht",
-    },
-    [83170] = {
-        name = "Nicht schon wieder!",
-    },
-    [83171] = {
-        name = "Es brennt in den Augen",
-    },
-    [83172] = {
-        name = "Schwarzblutstaffellauf",
-    },
-    [83173] = {
-        name = "Das Depot ausräumen",
-    },
-    [83174] = {
-        name = "Unser lieber Freund",
-    },
-    [83175] = {
-        name = "Ein weiterer Teil des Puzzles",
-    },
-    [83176] = {
-        name = "Nur ein Gefühl",
     },
     [83181] = {
         name = "Gute Freunde, gleiches Ende",
     },
     [83182] = {
         name = "Blutiges Erbe",
-    },
-    [83194] = {
-        name = "Unter Feuer",
-    },
-    [83195] = {
-        name = "Mobilisiert das Volk",
-    },
-    [83196] = {
-        name = "Aufteilen!",
-    },
-    [83197] = {
-        name = "Wem gehört die Straße?",
-    },
-    [83198] = {
-        name = "Hinterhofmarine",
-    },
-    [83199] = {
-        name = "Das hab ich mir aufgehoben",
-    },
-    [83200] = {
-        name = "Ahoi, Ihr Lappen!",
-    },
-    [83201] = {
-        name = "Expresslieferung",
-    },
-    [83202] = {
-        name = "Schlagfertige Argumente",
-    },
-    [83203] = {
-        name = "Waffen scharf",
-    },
-    [83204] = {
-        name = "Das Dingsbums",
-    },
-    [83205] = {
-        name = "Produktionsstopp",
-    },
-    [83206] = {
-        name = "Uns gehört die Straße",
-    },
-    [83207] = {
-        name = "Mein bester Lakai",
     },
     [83229] = {
         name = "Spezialauftrag: Wenn die Tiefen sich regen",
@@ -2487,59 +2286,8 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [83339] = {
         name = "Der Spitzenbrecher",
     },
-    [83417] = {
-        name = "Verschwägert",
-    },
-    [83418] = {
-        name = "Der perfekte Mantel",
-    },
-    [83419] = {
-        name = "Die perfekte Gästeliste",
-    },
-    [83420] = {
-        name = "Perfektes Catering",
-    },
-    [83421] = {
-        name = "Die perfekte Hochzeit",
-    },
-    [83442] = {
-        name = "Geworfen und gedreht",
-    },
-    [83445] = {
-        name = "Hier stinkt was",
-    },
-    [83446] = {
-        name = "Abmahnung",
-    },
-    [83484] = {
-        name = "Elendige Ratten!",
-    },
-    [83485] = {
-        name = "Wirksame Tränke",
-    },
-    [83486] = {
-        name = "Heimarbeit",
-    },
-    [83487] = {
-        name = "Berufsrisiko",
-    },
     [83497] = {
         name = "Ein besorgter Freund",
-    },
-    [83519] = {
-        name = "Aber was ist mit dem Casino?",
-    },
-    [83522] = {
-        name = "Schuld begleichen, Freiheit einstreichen",
-    },
-    [83524] = {
-        name = "Des einen Müll, des anderen Gold",
-    },
-    [83527] = {
-        name = "Gewinnen ist sowieso was für Verlierer",
-    },
-    [83528] = {
-        name = "Alles Teil des Spiels",
     },
     [83529] = {
         name = "Angelfest von Heilsturz",
@@ -2550,29 +2298,14 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [83532] = {
         name = "Angelfest von Heilsturz",
     },
-    [83534] = {
-        name = "Keine Aufwärmübung",
-    },
-    [83535] = {
-        name = "Plunderparty-Erdbeben",
-    },
     [83537] = {
         name = "Geothermale Edelsteinbehandlung",
     },
-    [83540] = {
-        name = "Vordrängeln",
-    },
-    [83541] = {
-        name = "Es hagelt Kritik",
-    },
-    [83542] = {
-        name = "Schnelle Kiemen gegen Gold",
+    [83538] = {
+        name = "Ausgrabungsbefreiung",
     },
     [83543] = {
         name = "Abenteuer in Khaz Algar",
-    },
-    [83546] = {
-        name = "Verantwortung",
     },
     [83548] = {
         name = "Insel von Dorn",
@@ -2582,18 +2315,6 @@ BtWQuestsDatabase:UpdateQuestsTable({
     },
     [83551] = {
         name = "Heilsturz",
-    },
-    [83558] = {
-        name = "Casinohof",
-    },
-    [83563] = {
-        name = "Kaffee für den Erfolg",
-    },
-    [83566] = {
-        name = "Oh, das Casino!",
-    },
-    [83569] = {
-        name = "Tod und Steuern",
     },
     [83587] = {
         name = "Unsere Chance, zuzuschlagen",
@@ -2658,224 +2379,11 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [83930] = {
         name = "Wurmkurlösung",
     },
-    [83933] = {
-        name = "Die Kaja'Küste",
-    },
     [84022] = {
         name = "Durchtrennte Fäden zusammenführen",
     },
-    [84121] = {
-        name = "Eine kleine Absicherung",
-    },
-    [84122] = {
-        name = "Kameras aus",
-    },
-    [84140] = {
-        name = "Mach-ich-Caddie",
-    },
-    [84141] = {
-        name = "Betrugshülsen",
-    },
-    [84142] = {
-        name = "Doch noch ein Loch",
-    },
-    [84214] = {
-        name = "Der Auftrag",
-    },
-    [84215] = {
-        name = "Die Mannschaft",
-    },
-    [84216] = {
-        name = "Das Spiel",
-    },
-    [84217] = {
-        name = "Hoch hinaus",
-    },
-    [84218] = {
-        name = "Der Fluchtwagen",
-    },
-    [84221] = {
-        name = "Papierkram lässt die Lore sinken",
-    },
-    [84242] = {
-        name = "Haldentauchgang",
-    },
-    [84244] = {
-        name = "Schwarzmeerstrandwelle",
-    },
-    [84249] = {
-        name = "Ein Fass mit Boden",
-    },
-    [84298] = {
-        name = "AUSHILFE GESUCHT: Kaja'Kuriositäten",
-    },
-    [84300] = {
-        name = "Veredeln, reparieren, von vorn.",
-    },
-    [84301] = {
-        name = "Mineralienwahnsinn",
-    },
-    [84302] = {
-        name = "Kreative Iteration",
-    },
-    [84303] = {
-        name = "Experimentelle Anwendung",
-    },
-    [84304] = {
-        name = "Kaja'Split",
-    },
-    [84376] = {
-        name = "Abgewerteter Besitz",
-    },
-    [84378] = {
-        name = "Mieterversicherung",
-    },
-    [84379] = {
-        name = "Mietnomaden",
-    },
-    [84380] = {
-        name = "Waffentruhe",
-    },
-    [84381] = {
-        name = "Neuverhandlungen",
-    },
     [84392] = {
         name = "Großer Hunger im Grollwinkel",
-    },
-    [84439] = {
-        name = "Kaja'Fazit",
-    },
-    [84621] = {
-        name = "Sporen eines Knappen",
-    },
-    [84667] = {
-        name = "G.O.L.E.M. des Fortschritts",
-    },
-    [84672] = {
-        name = "Müllabholung",
-    },
-    [84673] = {
-        name = "Genialer Erfinder...-s Sohn",
-    },
-    [84674] = {
-        name = "Der G.O.L.E.M. ist durchgedreht!",
-    },
-    [84675] = {
-        name = "Duell unterm Dach",
-    },
-    [84683] = {
-        name = "Ab in die Gosse",
-    },
-    [84821] = {
-        name = "Biologisches Stechpuppier",
-    },
-    [84885] = {
-        name = "Arbeiten für G.E.T.A.",
-    },
-    [84891] = {
-        name = "G.E.T.A. und die radioaktive Ratte",
-    },
-    [84892] = {
-        name = "G.E.T.A. und der Krokodilian",
-    },
-    [84893] = {
-        name = "G.E.T.A. und der Kapitän",
-    },
-    [85174] = {
-        name = "Raus wagen",
-    },
-    [85189] = {
-        name = "Unser Tag am Gericht",
-    },
-    [85190] = {
-        name = "Der Staub legt sich",
-    },
-    [85191] = {
-        name = "Schnitt für Schnitt",
-    },
-    [85192] = {
-        name = "Heimkehr",
-    },
-    [85409] = {
-        name = "Wer petzt, wird verletzt",
-    },
-    [85410] = {
-        name = "Lorenhalls langer Schatten",
-    },
-    [85438] = {
-        name = "Sonst setzt's was!",
-    },
-    [85444] = {
-        name = "Gefundene Familie",
-    },
-    [85449] = {
-        name = "Phasenverschiebung",
-    },
-    [85450] = {
-        name = "Evakuierungsplan",
-    },
-    [85562] = {
-        name = "Zäher als gedacht",
-    },
-    [85711] = {
-        name = "Unerbetene Rückmeldungen",
-    },
-    [85724] = {
-        name = "Gegenwehr",
-    },
-    [85780] = {
-        name = "Genau wo wir ihn haben wollen",
-    },
-    [85941] = {
-        name = "Arbeitsmoral aufwerten",
-    },
-    [86204] = {
-        name = "Befreiung von Lorenhall: Das Haus verliert",
-    },
-    [86271] = {
-        name = "Grab der Vernunft",
-    },
-    [86272] = {
-        name = "Schwarzblut entgegenwirken",
-    },
-    [86273] = {
-        name = "Werkstattbesuch",
-    },
-    [86274] = {
-        name = "Automatisierungslösung",
-    },
-    [86275] = {
-        name = "Schädlingsbekämpfer gesucht",
-    },
-    [86276] = {
-        name = "Draußen auf den Feldern",
-    },
-    [86277] = {
-        name = "Nie wieder \"Wurmfutter\"",
-    },
-    [86297] = {
-        name = "Führung bedingt Arbeitsmoral",
-    },
-    [86408] = {
-        name = "Mein Loch in der Wand",
-    },
-    [86417] = {
-        name = "Bereitschaft",
-    },
-    [86575] = {
-        name = "Raketenrumba",
-    },
-    [86697] = {
-        name = "Der Räumtrupp",
-    },
-    [87008] = {
-        name = "Spontaner Hochzeitsplaner",
-    },
-    [87297] = {
-        name = "Scheck einlösen",
-    },
-    [87321] = {
-        name = "Unerledigte Dinge",
     },
 })
 ]])()

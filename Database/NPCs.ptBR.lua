@@ -144,17 +144,8 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [225454] = {
         name = "Pacificadora Hektara",
     },
-    [225481] = {
-        name = "Visgoleira Kazzandra",
-    },
-    [225500] = {
-        name = "Grimla Rangenice",
-    },
     [225555] = {
         name = "Quinquilharia",
-    },
-    [225571] = {
-        name = "Renzik, \"O Bicudo\"",
     },
     [225582] = {
         name = "Encarregada Duinta",
@@ -168,12 +159,6 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [225616] = {
         name = "Engrenym",
     },
-    [225669] = {
-        name = "Alleria Correventos",
-    },
-    [225756] = {
-        name = "Monte Gasganete",
-    },
     [225857] = {
         name = "Lerrenai Faim",
     },
@@ -182,15 +167,6 @@ BtWQuestsDatabase:UpdateNPCsTable({
     },
     [226255] = {
         name = "Cebolita",
-    },
-    [226273] = {
-        name = "Monte Gasganete",
-    },
-    [226569] = {
-        name = "Estalo Graxavelino",
-    },
-    [226728] = {
-        name = "Humberto Goladinha",
     },
     [226750] = {
         name = "Jurada de Freya Etterca",
@@ -207,32 +183,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [227222] = {
         name = "Isebel Refulgrado",
     },
-    [228158] = {
-        name = "Mac Rámen",
+    [227758] = {
+        name = "Alleria Correventos",
     },
-    [228286] = {
-        name = "Marquita Franjínea",
-    },
-    [229236] = {
-        name = "Monte Gasganete",
-    },
-    [230554] = {
-        name = "Velho Taum",
-    },
-    [230555] = {
-        name = "Suka Taum",
-    },
-    [230841] = {
-        name = "Cavaleiro Graxaverdi",
-    },
-    [233235] = {
-        name = "Gérson Garrentala",
-    },
-    [233420] = {
-        name = "Bené Foguetaço",
-    },
-    [233482] = {
-        name = "Monte Gasganete",
+    [232132] = {
+        name = "Sol",
     },
 })
 ]])()
