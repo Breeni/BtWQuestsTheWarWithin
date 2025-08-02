@@ -4,4 +4,16 @@ if GetLocale() ~= "frFR" then
     return
 end
 
-BtWQuestsDatabase:UpdateObjectsTable(C_EncodingUtil.DeserializeCBOR([[£\000\n¦¡DnamePPanneau Ã€ louer\000\n´¡DnameOCache dâ€™armes\000ø+¡DnameTFeuilles de missions]]))
+loadstring([[
+BtWQuestsDatabase:UpdateObjectsTable({
+    [456747] = {
+        name = "Feuilles de missions",
+    },
+    [461478] = {
+        name = "Panneau Ã€ louer",
+    },
+    [461492] = {
+        name = "Cache dâ€™armes",
+    },
+})
+]])()

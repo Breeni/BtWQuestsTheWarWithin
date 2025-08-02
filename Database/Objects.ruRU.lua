@@ -4,4 +4,16 @@ if GetLocale() ~= "ruRU" then
     return
 end
 
-BtWQuestsDatabase:UpdateObjectsTable(C_EncodingUtil.DeserializeCBOR([[�\000\n��DnameXЗнак \"Сдается\"\000\n��DnameXСундук с оружием\000�+�DnameX,Объявления о подработке]]))
+loadstring([[
+BtWQuestsDatabase:UpdateObjectsTable({
+    [456747] = {
+        name = "Объявления о подработке",
+    },
+    [461478] = {
+        name = "Знак \"Сдается\"",
+    },
+    [461492] = {
+        name = "Сундук с оружием",
+    },
+})
+]])()

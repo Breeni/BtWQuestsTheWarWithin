@@ -4,4 +4,16 @@ if GetLocale() ~= "esES" then
     return
 end
 
-BtWQuestsDatabase:UpdateObjectsTable(C_EncodingUtil.DeserializeCBOR([[£\000\n¦¡DnameVCartel de \"Se alquila\"\000\n´¡DnameNAlijo de armas\000ø+¡DnameOHojas de curros]]))
+loadstring([[
+BtWQuestsDatabase:UpdateObjectsTable({
+    [456747] = {
+        name = "Hojas de curros",
+    },
+    [461478] = {
+        name = "Cartel de \"Se alquila\"",
+    },
+    [461492] = {
+        name = "Alijo de armas",
+    },
+})
+]])()

@@ -1,3 +1,22555 @@
 ----- AUTO GENERATED - DO NOT EDIT
 
-BtWQuestsDatabase:AddQuestsTable(C_EncodingUtil.DeserializeCBOR("¹!\0006¤Fsource¢DtypeCnpcBid\000J¹OcontentTuningID\nîDnameRHair of the SpiderGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000G¢OcontentTuningID-DnameLEggstraction\000@€\000Q¤Fsource¢DtypeCnpcBid\000ÌOcontentTuningIDHDnameS\"Worm\" Food No MoreGrewards¢DtypeEmoneyFamount\000’\000:¤Fsource¢DtypeCnpcBid\000ZˆOcontentTuningID\nîDnameX\"The Caretaker of Brunwin's TerraceGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000C¤Fsource¢DtypeCnpcBid\000mäOcontentTuningID\rDnameIThe VoiceGrewards‚¢DtypeEmoneyFamount\000$ £FamountBidÀDtypeHcurrency\000D‡¢OcontentTuningID5DnameOMineral Buildup\000E¤Fsource¢DtypeCnpcBid\000rVOcontentTuningIDHDnameJMy Top GalGrewards¢DtypeEmoneyFamount\000$ \0005‰¤Fsource¢DtypeCnpcBid\000JnOcontentTuningID\rDnameGGo LoudGrewards¢DtypeEmoneyFamount\000’\0006	¤Fsource¢DtypeCnpcBid\000P@OcontentTuningID\nîDnameVProtecting the HarvestGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000G¤Fsource¢DtypeCnpcBid\000T;OcontentTuningID,DnameVThose Are Chitin WordsGrewards¢DtypeEmoneyFamount\000’\000@¤Fsource¢DtypeCnpcBid\000büOcontentTuningID\nÊDnameWThe Voice of the PeopleGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000C¤Fsource¢DtypeCnpcBid\000mäOcontentTuningID\rDnameTRinging in the DeepsGrewards¢DtypeEmoneyFamount[h\000D¤Fsource¢DtypeCnpcBid\000nÆOcontentTuningID\nîDnameWAn Opportunity to RelaxGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000Dˆ¢OcontentTuningID5DnamePTaelloch Cleanup\0005\n¤Fsource¢DtypeCnpcBid\000EWOcontentTuningID\nÊDnameVBeautification ProjectGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Eˆ¤Fsource¢DtypeCnpcBid\000u¾OcontentTuningID\níDnameNThe EarthwoundGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\0006\n¤Fsource¢DtypeCnpcBid\000J¹OcontentTuningID\nîDnameUA Poultice for PoisonGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000G¤Fsource¢DtypeCnpcBid\000T;OcontentTuningID,DnameXVenom? More Like Get 'EmGrewards¢DtypeEmoneyFamount\000’\000@	¤Fsource¢DtypeCnpcBid\0009ÑOcontentTuningID-DnameOHere's the PlanGrewards¢DtypeEmoneyFamount\000’\000:\n¢OcontentTuningIDDnameRAlong for the Ride\000C	¤Fsource¢DtypeCnpcBid\000nYOcontentTuningID\rDnameTGood Help These DaysGrewards‚¢DtypeEmoneyFamount\000’£Famount\nBidÀDtypeHcurrency\000D‰¤Fsource¢DtypeCnpcBid\000p«OcontentTuningID\níDnameSNot Enough MineralsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005¤Fsource¢DtypeCnpcBid\000ETOcontentTuningID\nÊDnameQExpert ConsultantGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0005‹¤Fsource¢DtypeCnpcBid\000JnOcontentTuningID\rDnameSManufactured MutinyGrewards¢DtypeEmoneyFamount\000$ \0006¤Fsource¢DtypeCnpcBid\000J¹OcontentTuningID\nîDnameLA Royal CureGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000G	¤Fsource¢DtypeCnpcBid\000T;OcontentTuningID,DnameXA Small Ocean's Worth of BloodGrewards¢DtypeEmoneyFamount\000’\000?Š£OcontentTuningIDDnameX&Skyrider Racing - Storm's Watch SurveyGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000@\n¤Fsource£Ilocations¡T¢Ayû?ç!ÿ.Hè§Axû?ä\"çöô¾ƒDtypeDareaBidïOcontentTuningID—DnameNThe War WithinGrewards‚¤HminLevelFDtypeJexperienceGamounts‡\r‚HmaxLevelL¢DtypeEmoneyFamountmº\000Qˆ¤Fsource¢DtypeCnpcBid\000}ùOcontentTuningIDHDnameSMy Hole in the WallGrewards¢DtypeEmoneyFamount[h\000:¢OcontentTuningIDDnameTElemental Excavation\000C\n¤Fsource¢DtypeCnpcBid\000nbOcontentTuningID\rDnameTHaywired and HostileGrewards‚¢DtypeEmoneyFamount\000’£Famount\nBidÀDtypeHcurrency\0004¤Fsource¢DtypeFobjectBid\000OşOcontentTuningID\nîDnameMMore Candles!Grewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000DŠ¤Fsource¢DtypeCnpcBid\000p®OcontentTuningID\níDnameMThe OpalfrontGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005¢OcontentTuningID-DnameMSpider Optics\0005Œ¤Fsource¢DtypeCnpcBid\000JIOcontentTuningID\rDnameONews From BelowGrewards¢DtypeEmoneyFamount\000\n¶0\0006¤Fsource¢DtypeFobjectBid\000vOcontentTuningID\nîDnamePA Clutch of HopeGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000?£OcontentTuningIDDnameOWater the SheepGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000C¤Fsource¢DtypeCnpcBid\000njOcontentTuningID\rDnameUHey, What's Going On?Grewards‚¢DtypeEmoneyFamount\000’£Famount\nBidÀDtypeHcurrency\000D‹¤Fsource¢DtypeCnpcBid\000pÆOcontentTuningID\níDnameQA Place ForgottenGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0005\r¤Fsource¢DtypeCnpcBid\000GıOcontentTuningID\nÊDnameSBright Young NiffenGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000E‹¤Fsource¢DtypeCnpcBid\000uçOcontentTuningID\níDnamePThe SpirebreakerGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000?Œ£OcontentTuningIDDnameXSkyrider Racing - The Wold WaysGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0002¤Fsource¢DtypeCnpcBid\000:óOcontentTuningID\nÊDnamePHeroes Never DieGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000C¤Fsource¢DtypeCnpcBid\000n‘OcontentTuningID\rDnameNBuilt to BlastGrewards‚¢DtypeEmoneyFamount\000’£FamountBidÀDtypeHcurrency\000D¤Fsource¢DtypeCnpcBid\000nÆOcontentTuningID\nîDnameTTo Opportunity PointGrewards‚¤HminLevelIDtypeJexperienceGamounts‡\nŒ\n¾\nğ\"\"rLHmaxLevelO¢DtypeEmoneyFamountä„\000DŒ¤Fsource¢DtypeCnpcBid\000vOcontentTuningID\níDnameNThe Old OrdersGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005¤Fsource¢DtypeCnpcBid\000GıOcontentTuningID\nÊDnameXRak-Ush Under New ManagementGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0007¤Fsource¢DtypeCnpcBid\000QOcontentTuningID\nÊDnameQSearching the WebGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000C\r¤Fsource¢DtypeCnpcBid\000nbOcontentTuningID\rDnamePBat Versus WorldGrewards‚¢DtypeEmoneyFamount\000$ £FamountBidÀDtypeHcurrency\000KŒ¤Fsource¢DtypeCnpcBid\000…OcontentTuningIDÀDnameIThe OasisGrewards¢DtypeEmoneyFamount[h\000D\r¢OcontentTuningID\n®DnameRThanks for the Wax\0005¤Fsource¢DtypeCnpcBid\000EWOcontentTuningID\nÊDnameWIt's Rough to Be a Bug!Grewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0007¤Fsource¢DtypeCnpcBid\000QOcontentTuningID\nÊDnameVKlaskin's Great EscapeGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000?£OcontentTuningIDDnameX#Skyrider Racing - Orecreg's DoglegsGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000:¤Fsource¢DtypeCnpcBid\0009ÑOcontentTuningID\nÊDnameWRations and RevelationsGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000J¤Fsource¢DtypeCnpcBid\000VğOcontentTuningIDHDnameNSquire's SpursGrewards¢DtypeEmoneyFamount\000’\000C¤Fsource¢DtypeCnpcBid\000njOcontentTuningID\rDnameMFound FriendsGrewards¢DtypeEmoneyFamount[h\0005¤Fsource£DtypeCnpcIlocations¡Ï¢Ayû?éß(R.¡Axû?è+™\nşaBid\000ETOcontentTuningID\nÊDnameTBeetle in a HaystackGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0006¤Fsource¢DtypeCnpcBid\000MvOcontentTuningID\nîDnameXDripsy Forgot Her CandleGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0009¤Fsource¢DtypeCnpcBid\000VşOcontentTuningIDHDnameOThe Holey GrailGrewards¢DtypeEmoneyFamount\000$ \0002¤Fsource¢DtypeCnpcBid\000KˆOcontentTuningID\nÊDnameRFear the Old BloodGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000L¤Fsource¢DtypeCnpcBid\000‡’OcontentTuningIDÀDnameRThose We Have LostGrewards¢DtypeEmoneyFamount\000’\000D¤Fsource¢DtypeCnpcBid\000pÀOcontentTuningID\níDnameMThe Old GuardGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\0005¤Fsource£DtypeCnpcIlocations¡Ï¢Ayû?éÔ„Q2ø{Axû?è&ö¶Bid\000EWOcontentTuningID\nÊDnameHBug TestGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0006‘¤Fsource¢DtypeCnpcBid\000MvOcontentTuningID\nîDnameVChomps and the Cave-InGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000?£OcontentTuningIDDnameX&Skyrider Racing - Ringing Deeps RambleGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0009¤Fsource¢DtypeCnpcBid\000UşOcontentTuningID\rDnameNThe MotherlodeGrewards¢DtypeEmoneyFamount\000’\0001’¤Fsource¢DtypeCnpcBid\000*oOcontentTuningID\nÊDnameXA Most Intriguing InvitationGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\000B¢OcontentTuningIDDnameVBook It to the Library\0003’¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\nîDnameNAbsent SpeakerGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000L¤Fsource¢DtypeCnpcBid\000‡’OcontentTuningIDÀDnameNExtended ReachGrewards¢DtypeEmoneyFamount\000’\000D¤Fsource¢DtypeCnpcBid\000pÉOcontentTuningIDHDnameTCaustic CollectablesGrewards¢DtypeEmoneyFamount\000’\0005¤Fsource£DtypeCnpcIlocations¡Ï¢Ayû?éÔ„Q2ø{Axû?è&ö¶Bid\000EWOcontentTuningID\nÊDnameOScarab ScoutingGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000:¤Fsource¢DtypeCnpcBid\000ZûOcontentTuningID\nîDnameRBuckets and BloomsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000C£OcontentTuningID\rDnameXBountiful Delves - TemplateGrewards¢DtypeEmoneyFamount\000$ \000L¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?åÜJƒ±ĞÈAxû?àTfõŸ<Bid\000‡’OcontentTuningIDÀDnameVMachinations of MemoryGrewards¢DtypeEmoneyFamount\000’\0004“¢OcontentTuningID-DnameOTruffle Shuffle\0005¤Fsource£DtypeCnpcIlocations¡Ï¢Ayû?éÔ„Q2ø{Axû?è&ö¶Bid\000EWOcontentTuningID\nÊDnameNPermanent HireGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0006“¤Fsource¢DtypeCnpcBid\000MvOcontentTuningID\nîDnameXThe Day the Stoneheads CameGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000?’£OcontentTuningIDDnameX&Skyrider Racing - Chittering ConcourseGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0001”¤Fsource¢DtypeCnpcBid\0009—OcontentTuningID\nÊDnameVInto a Skittering CityGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\000C£OcontentTuningIDDnameXDelves: Worldwide ResearchGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ=\"=ê>ä?¬@¦AnBhC0D*DòHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000L¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?åÜJƒ±ĞÈAxû?àTfõŸ<Bid\000‡’OcontentTuningIDÀDnameXThose We Have Yet to SaveGrewards¢DtypeEmoneyFamount\000’\0004”¤Fsource¢DtypeCnpcBid\000E¬OcontentTuningID\níDnameTWeapons and WarriorsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠP´æJ|àN4\rHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000$¢\000ÉHmaxLevelG\0005¤Fsource¢DtypeCnpcBid\000GÓOcontentTuningID\rDnameXConduit of the Southern StormGrewards¢DtypeEmoneyFamount\000É\0006¢OcontentTuningID\nùDnameTBog Beast Banishment\000>“£OcontentTuningID-DnameWWet Work: Tithe to KillGrewards¢DtypeEmoneyFamount\000’\000?¤Fsource¢DtypeCnpcBid\000auOcontentTuningID\nÊDnameQSpring CollectionGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000A¤Fsource¢DtypeFobjectBid\000ÄŒOcontentTuningID\nîDnameSRust and RedemptionGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000Q‘¤Fsource¢DtypeCnpcBid\000rTOcontentTuningIDHDnameKReady CheckGrewards¢DtypeEmoneyFamount\000’\000B£OcontentTuningIDDnameUPreserving Plush PalsGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0003¤Fsource¢DtypeCnpcBid\000@tOcontentTuningID\nïDnameXThe Bastion of HallowfallGrewards‚¤HminLevelKDtypeJexperienceGamounts… Ğ!4!˜!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\0003•¤Fsource¢DtypeCnpcBid\000BAOcontentTuningID\nîDnameTSympathetic SpeakersGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0004•¤Fsource¢DtypeCnpcBid\000H¡OcontentTuningID\níDnameOPilfered PearlsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000M’¤Fsource¢DtypeCnpcBid\000‹ŸOcontentTuningIDÀDnameRAn Eye for TroubleGrewards¢DtypeEmoneyFamount\000$ \000>”¤Fsource¢DtypeCnpcBid\000_sOcontentTuningIDDnameKForeign FogGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000A”¢OcontentTuningID-DnameHGrub Run\000:¤Fsource¢DtypeCnpcBid\000^pOcontentTuningID\nîDnameMToo Much DripGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000B”¢OcontentTuningID5DnameXCourier Mission: Ore Recovery\0003¤Fsource£DtypeCnpcIlocations¡§¢Ayû?àônÒE²’Axû?Úhn~bÜnBid\000@tOcontentTuningID\nïDnamePMereldar's LightGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0003–¤Fsource¢DtypeCnpcBid\000COcontentTuningID\nîDnameXBattle of the EarthenworksGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000D”¤Fsource¢DtypeCnpcBid\000q.OcontentTuningID\nîDnameNAn Igneous EndGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0006–¤Fsource¢DtypeCnpcBid\000MvOcontentTuningID\nîDnameSThe Wickless CandleGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000?¤Fsource¢DtypeCnpcBid\000c´OcontentTuningID\nÊDnameXAzj-Kahet's Next Top DyemasterGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \0008–¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\níDnameWCalling the StormridersGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000A£OcontentTuningIDDnameNReserve RumpusGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0001—¤Fsource£DtypeCnpcIlocations¡¨¢Ayû?Ôlr\"õAxû?åhh3Æ\000*Bid\0009—OcontentTuningID\nÊDnameXLike a Spider on the WallGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000:¤Fsource¢DtypeCnpcBid\000^pOcontentTuningID\nîDnameWSeeking Ausgazur's GemsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000B•€\0003¤Fsource¢DtypeCnpcBid\000[ÜOcontentTuningID\nïDnameNThe Bell TollsGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\0003—¤Fsource¢DtypeCnpcBid\000@ÀOcontentTuningID\níDnameOBefore I DepartGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0004—¤Fsource¢DtypeCnpcBid\000IOcontentTuningID\níDnameOHeart of a HeroGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\0006¢OcontentTuningID\nùDnameXWeb of Manipulation - Activate\000>–¤Fsource¢DtypeCnpcBid\000_sOcontentTuningIDDnameSUnnatural PredatorsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000?£OcontentTuningID\nÊDnameRSubterfuge in SilkGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0001˜¤Fsource¢DtypeCnpcBid\000:+OcontentTuningID\nÊDnameWRewriting the RewrittenGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000B€\000B–£OcontentTuningIDDnameOMired in ShadowGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0003˜¤Fsource¢DtypeCnpcBid\000B·OcontentTuningID\níDnameTHonor Their MemoriesGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005˜¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\nîDnameNA Hint of FearGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\000>—¤Fsource¢DtypeCnpcBid\000_sOcontentTuningIDDnameLFog FollowerGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000?¤Fsource¢DtypeCnpcBid\000c´OcontentTuningID\nÊDnameSI Expect You To DyeGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0001™¤Fsource¢DtypeCnpcBid\000*oOcontentTuningID\nÊDnameQThe Weaver's GiftGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000:¤Fsource¢DtypeCnpcBid\000ljOcontentTuningID\nîDnameQShimmermist FallsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡\nŒ\n¾\nğ\"\"rLHmaxLevelO¢DtypeEmoneyFamountä„\000B—£OcontentTuningIDDnameXIgniting the Fire WithinGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0003™¤Fsource¢DtypeCnpcBid\000B·OcontentTuningID\níDnameTYou No Take Plunder!Grewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005¤Fsource£DtypeCnpcIlocations¡È¢Ayû?âN[BEõ®Axû?ĞeÊİßBid\000GÿOcontentTuningID\rDnameJRook RallyGrewards¢DtypeEmoneyFamount\000$ \0007¤Fsource¢DtypeCnpcBid\000QPOcontentTuningID\nïDnameVWipe Away Their SmilesGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000?˜£OcontentTuningIDDnameX#Skyrider Racing - Tenir's TraversalGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0001š¤Fsource¢DtypeCnpcBid\000[“OcontentTuningID\nÊDnameNForce Your WayGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000B£OcontentTuningIDDnameLChew On ThisGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000B˜£OcontentTuningIDDnameNLight's GambitGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000K¤Fsource¢DtypeCnpcBid\000……OcontentTuningIDÀDnameTIll-met in StarlightGrewards¢DtypeEmoneyFamount[h\0003š¤Fsource¢DtypeCnpcBid\000B·OcontentTuningID\níDnameQLaws Apply to AllGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0004¤Fsource¢DtypeCnpcBid\000CPOcontentTuningID\nîDnameMConjured HelpGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000D˜¤Fsource¢DtypeCnpcBid\000pÜOcontentTuningIDHDnameTWelcome to UndermineGrewards¢DtypeEmoneyFamount\000’\0005š¤Fsource¢DtypeCnpcBid\000JìOcontentTuningID\nîDnameRMineral Water WoesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000?¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\nîDnameVOrientation: GundargazGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\000@¤Fsource¢DtypeCnpcBid\0009ÑOcontentTuningID	DnameOTo Arathi's EndGrewards¢DtypeEmoneyFamount[h\000I˜¤Fsource¢DtypeFobjectBid\000\n¦OcontentTuningIDHDnameQProperty DevaluedGrewards¢DtypeEmoneyFamount[h\000B™£OcontentTuningIDDnameQWith Great Pyrew?Grewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000K¤Fsource¢DtypeCnpcBid\000ƒYOcontentTuningIDÀDnameRA Friendly WarningGrewards¢DtypeEmoneyFamount\000$ \0003›¤Fsource¢DtypeCnpcBid\000B¸OcontentTuningID\níDnameRThe Great CollapseGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000D¤Fsource¢DtypeCnpcBid\000L÷OcontentTuningID\nîDnameMStone TracingGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0005›¤Fsource¢DtypeCnpcBid\000JåOcontentTuningID\nîDnameRPut On a Good FaceGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0007¤Fsource¢DtypeCnpcBid\000a4OcontentTuningID\nïDnameQDreaded DreadfangGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000H™¤Fsource¢DtypeCnpcBid\000zaOcontentTuningIDHDnameRA Little InsuranceGrewards¢DtypeEmoneyFamount\000’\000I¤Fsource¢DtypeCnpcBid\000wOcontentTuningIDHDnamePA Vat in the PanGrewards¢DtypeEmoneyFamount\000É\0001œ¤Fsource¢DtypeCnpcBid\0009ÑOcontentTuningID\nÊDnameQScrappy StragglerGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Bš¢OcontentTuningID	DnameKSpore Ender\0003¤Fsource£DtypeCnpcIlocations¡§¢Ayû?á…j7¬>¸Axû?ÚFà!p“Bid\000@tOcontentTuningID\nïDnameVCrossroads of TwilightGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0003œ¤Fsource¢DtypeCnpcBid\000B¸OcontentTuningID\níDnamePCutting the WickGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005œ¤Fsource¢DtypeCnpcBid\000KOcontentTuningID\nîDnameIEpicenterGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000N¤Fsource¢DtypeCnpcBid\000OcontentTuningID½DnameJPast GloryGrewards¢DtypeEmoneyFamount[h\0007¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ãÈÀÎ‘ÈëAxû?Ò›=ÈK^Bid\000QPOcontentTuningID\nïDnamePGo to the PrioryGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\000?›£OcontentTuningIDDnameX#Skyrider Racing - Stillstone SlalomGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000Hš¤Fsource¢DtypeCnpcBid\000qmOcontentTuningIDHDnameOCut the CamerasGrewards¢DtypeEmoneyFamount\000’\000Q¤Fsource¢DtypeCnpcBid\000gOcontentTuningIDHDnameXMorale Reflects LeadershipGrewards¢DtypeEmoneyFamount\000’\0001¤Fsource¢DtypeCnpcBid\0009ôOcontentTuningID\nÊDnameHLet Fly!Grewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000:¢OcontentTuningIDDnameTFending off Darkness\0003¤Fsource¢DtypeCnpcBid\000E‚OcontentTuningID\nïDnameQThe Shadow RisingGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000C›¤Fsource¢DtypeCnpcBid\000måOcontentTuningID\nïDnamePSomething EarthyGrewards‚¤HminLevelKDtypeJexperienceGamounts… Ğ!4!˜!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\0004£OcontentTuningID\nîDnameQBless These HomesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000U¤Fsource¢DtypeCnpcBid\000¡¶OcontentTuningIDHDnameRThings Left UndoneGrewards¢DtypeEmoneyFamount[h\0005¤Fsource¢DtypeCnpcBid\000K\rOcontentTuningID\nîDnameKBoiling MadGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\0007¤Fsource¢DtypeCnpcBid\000Q6OcontentTuningID\nïDnameWSweet-Sting InfestationGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Aœ¢OcontentTuningID-DnameXUnassuming Delivery Spider\000Cœ¤Fsource¢DtypeCnpcBid\000måOcontentTuningID\nïDnameTSomething Not RuinedGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000L¤Fsource¢DtypeCnpcBid\000‡şOcontentTuningIDÀDnameTAn Outcast's RequestGrewards¢DtypeEmoneyFamount\000’\0005¤Fsource¢DtypeCnpcBid\000KOcontentTuningID\nîDnameNClean Up HouseGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000F¤Fsource¢DtypeCnpcBid\000u¨OcontentTuningIDHDnameIOh, Rats!Grewards¢DtypeEmoneyFamount\000’\000?¤Fsource¢DtypeCnpcBid\000\\ÿOcontentTuningID\nîDnameXDesperately Seeking SkorthuzGrewards‚¤HminLevelIDtypeJexperienceGamounts‡\nŒ\n¾\nğ\"\"rLHmaxLevelO¢DtypeEmoneyFamountä„\000A¢OcontentTuningIDDnamePWeathered Quests\000;¢OcontentTuningID-DnameREyes of the Weaver\000Kœ¤Fsource¢DtypeCnpcBid\000|)OcontentTuningIDHDnameXG.E.T.A. The CrocodilianGrewards¢DtypeEmoneyFamount\000’\0004£OcontentTuningID\nîDnameQEvoking the ForgeGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000D¢OcontentTuningID5DnameVReaching for Resources\000E¢OcontentTuningID5DnameX'Special Assignment: When the Deeps Stir\0005Ÿ¤Fsource¢DtypeCnpcBid\000KOcontentTuningID\nîDnameKFault LinesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000F¤Fsource¢DtypeCnpcBid\000u–OcontentTuningIDHDnameOPotent PotablesGrewards¢DtypeEmoneyFamount\000’\0007¤Fsource¢DtypeCnpcBid\000Q6OcontentTuningID\nïDnameSBurning ReflectionsGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000?£OcontentTuningIDDnameX\"Skyrider Racing - Mereldar MeanderGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000@¤Fsource¢DtypeCnpcBid\000cOcontentTuningID	DnameLBOOM Treats!Grewards¢DtypeEmoneyFamount\000’\000A£OcontentTuningIDDnameLInto ShadowsGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000A¢OcontentTuningIDDnameJDO NOT USE\0003 ¤Fsource£DtypeCnpcIlocations¡§¢Ayû?áu6\rAxû?ÕÍ¼ì„ùBid\000@tOcontentTuningID\nïDnameTA Candle in the DarkGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000K¤Fsource¢DtypeCnpcBid\000|)OcontentTuningIDHDnameTG.E.T.A. The CaptainGrewards¢DtypeEmoneyFamount\000’\000L¤Fsource¢DtypeCnpcBid\000‡şOcontentTuningIDÀDnameRCleansing the VoidGrewards¢DtypeEmoneyFamount\000’\0005 ¤Fsource¢DtypeCnpcBid\000KOcontentTuningID\nîDnameRThese Strong HandsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\000F¤Fsource¢DtypeFobjectBid\000ï8OcontentTuningIDHDnameKRemote WorkGrewards¢DtypeEmoneyFamount\000­Œ\0007 ¤Fsource£DtypeCnpcIlocations¡§¢Ayû?×ÊÑJ\nMAxû?Ù\\_|gY«Bid\000Q6OcontentTuningID\nïDnamePMissing SomebodyGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000AŸ¢OcontentTuningIDDnameHCrystals\000J¤Fsource¢DtypeCnpcBid\000jƒOcontentTuningID½DnameXTrouble in the HighlandsGrewards¢DtypeEmoneyFamount[h\000; ¢OcontentTuningID-DnameRHand of the Vizier\000CŸ¤Fsource¢DtypeCnpcBid\000måOcontentTuningID\nïDnameMEnough GarlicGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000L¤Fsource¢DtypeCnpcBid\000‰OcontentTuningIDÀDnameVPriest of the Old WaysGrewards¢DtypeEmoneyFamount\000’\0005¡¤Fsource¢DtypeCnpcBid\000QşOcontentTuningID\nîDnameKFearbreakerGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000F¤Fsource¢DtypeFobjectBid\000¾OcontentTuningIDHDnameSOccupational HazardGrewards¢DtypeEmoneyFamount\000$ \0006¡¤Fsource¢DtypeCnpcBid\000YOcontentTuningID\níDnamePSeizing EvidenceGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0007!¤Fsource£DtypeCnpcIlocations¡§¢Ayû?×ÊÑJ\nMAxû?Ù\\_|gY«Bid\000Q6OcontentTuningID\nïDnameXSacred Flame InquisitionGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000? £OcontentTuningIDDnameX'Skyrider Racing - City of Threads TwistGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000JŸ¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningID½DnameOTorches and TarGrewards¢DtypeEmoneyFamount\000’\0003\"¤Fsource£DtypeCnpcIlocations¡§¢Ayû?àônÒE²’Axû?Úhn~bÜnBid\000@tOcontentTuningID\nïDnameHSpar DayGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0003¢¤Fsource¢DtypeFobjectBid\000x3OcontentTuningID\níDnameMLost DeliveryGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0005¢¤Fsource¢DtypeCnpcBid\000LOcontentTuningID\nîDnameVThe Bronzebeard LegacyGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\000F ¤Fsource¢DtypeCnpcBid\000c¸OcontentTuningID\nÊDnameNThe EntrenchedGrewards‚¤HminLevelNDtypeJexperienceGamounts‚!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\0007\"¤Fsource¢DtypeCnpcBid\000Q6OcontentTuningID\nïDnameX-Priory of the Sacred Flame: A Brother's GriefGrewards‚¤HminLevelKDtypeJexperienceGamounts…WNXzY¦ZÒ[şHmaxLevelO¢DtypeEmoneyFamount\000H@\000B!¤Fsource¢DtypeCnpcBid\000i•OcontentTuningID\níDnameMPrecious GemsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000J £OcontentTuningID½DnameXEmblematic of Things to ComeGrewards¢DtypeEmoneyFamount[h\0003#¤Fsource¢DtypeCnpcBid\000o¤OcontentTuningID\nïDnameOThe Final FrontGrewards‚¤HminLevelKDtypeJexperienceGamounts…\nğ\"\"T†HmaxLevelO¢DtypeEmoneyFamountä„\0003£¤Fsource¢DtypeCnpcBid\000G‰OcontentTuningID\níDnameRPlaying in the MudGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005#¤Fsource¢DtypeCnpcBid\000HIOcontentTuningID\nÊDnameQAlone in the DarkGrewards‚¤HminLevelNDtypeJexperienceGamounts‚!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\0005£¤Fsource¢DtypeCnpcBid\000@\000OcontentTuningID\nîDnameOWax On, Pot OffGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0006£¤Fsource¢DtypeCnpcBid\000YOcontentTuningID\níDnamePSomething HiddenGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0007#¤Fsource¢DtypeCnpcBid\000j\nOcontentTuningID\nÊDnameNTrade PartnersGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000A¢¤Fsource¢DtypeCnpcBid\000lYOcontentTuningID\nÊDnameMAbsent ErrandGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000B\"¤Fsource¢DtypeCnpcBid\000j´OcontentTuningID\níDnameSWhat We Do For GemsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000J¡¤Fsource¢DtypeCnpcBid\000”¦OcontentTuningID½DnameKIll TidingsGrewards¢DtypeEmoneyFamount[h\0003$¤Fsource£DtypeCnpcIlocations¡§¢Ayû?æê–oŸËAxû?ØğŒÅuÀvBid\000@tOcontentTuningID\nïDnameOTrapdoor SprungGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0003¤¤Fsource¢DtypeCnpcBid\000GŠOcontentTuningID\níDnameXLots and Lots of Fire HoneyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005$¤Fsource¢DtypeCnpcBid\000H“OcontentTuningID\rDnameLGoldbrickingGrewards¢DtypeEmoneyFamount\000’\000M¡¤Fsource¢DtypeCnpcBid\000qìOcontentTuningIDHDnameUSnitches Get StitchesGrewards¢DtypeEmoneyFamount\000’\000A£¤Fsource¢DtypeCnpcBid\000jOcontentTuningID\nÊDnameQAn Honorless KillGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000B#¤Fsource¢DtypeCnpcBid\000j´OcontentTuningID\níDnamePGems Are ForeverGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000;$¤Fsource¢DtypeCnpcBid\000]µOcontentTuningID\nîDnameTDefragmenting MemoryGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0003¥¤Fsource¢DtypeCnpcBid\000B»OcontentTuningID\níDnameXHoney and Clay the Pain AwayGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000M¢¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?ì¡·à¬}¢Axû?æ}™ˆÒ¡ùBid\000q?OcontentTuningIDHDnameWUndermine's Long ShadowGrewards¢DtypeEmoneyFamount\000$ \0006¥¤Fsource¢DtypeCnpcBid\000YOcontentTuningID\níDnameXReport to the CouncilwardGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000A$¢OcontentTuningIDDnameMWeak Lionfish\000A¤¤Fsource¢DtypeCnpcBid\000iëOcontentTuningID\nÊDnameLLoss of LimbGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000B$¢OcontentTuningID-DnameLLet Them Win\000J£¤Fsource¢DtypeCnpcBid\000–!OcontentTuningID½DnamePCurfew KerfuffleGrewards¢DtypeEmoneyFamount\000’\0003&¤Fsource£DtypeCnpcIlocations¡§¢Ayû?êòE,YûAxû?ØÑVŸIBid\000@sOcontentTuningID\nïDnameXThe Rise of the ReckoningGrewards‚¤HminLevelKDtypeJexperienceGamounts…AnBhC0D*DòHmaxLevelO¢DtypeEmoneyFamount\000\n¶0\0003¦¤Fsource¢DtypeCnpcBid\000B»OcontentTuningID\níDnameVPulse Within the EarthGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000D¤¤Fsource¢DtypeCnpcBid\000pıOcontentTuningID\nîDnameQDaily DiagnosticsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡TöV\"WNXzY¦2ú!üHmaxLevelO¢DtypeEmoneyFamount\000H@\0006¦¤Fsource¢DtypeFobjectBid\000Œ÷OcontentTuningID\níDnameHSeditionGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000A%¤Fsource¢DtypeCnpcBid\000@™OcontentTuningID\nïDnameOA Batty RequestGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000;&¤Fsource¢DtypeCnpcBid\000^.OcontentTuningID	DnameITime LostGrewards¢DtypeEmoneyFamount\000’\0003§¤Fsource¢DtypeCnpcBid\000G‰OcontentTuningID\níDnameOTo Wake a GiantGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000D¥¤Fsource¢DtypeCnpcBid\000pÜOcontentTuningIDHDnameRThe Grimla ExpressGrewards¢DtypeEmoneyFamount\000’\000F¥€\000G%¤Fsource¢DtypeCnpcBid\000x•OcontentTuningID\nuDnameVDelves: The WaterworksGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ=\"=ê>ä?¬@¦AnBhC0D*DòHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ÛÌ\000\n¶0HmaxLevelG\000A&¤Fsource¢DtypeCnpcBid\000@™OcontentTuningID\nïDnameWDoes Anyone Like Wasps?Grewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000A¦¢OcontentTuningIDDnameWA Small Bundle of Goods\000B&¢OcontentTuningIDDnameNArcane Riddles\000J¥¤Fsource¢DtypeCnpcBid\000–!OcontentTuningID½DnameODeputy DeliveryGrewards¢DtypeEmoneyFamount\000’\000S$¤Fsource¢DtypeCnpcBid\000ˆbOcontentTuningIDÀDnameX Manaforge Omega: Dimensius LoomsGrewards¢DtypeEmoneyFamount\000Ö;À\0003¨¤Fsource¢DtypeCnpcBid\000COcontentTuningID\nîDnameTDark Iron from AboveGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \0006¨¤Fsource¢DtypeCnpcBid\000YOcontentTuningID\níDnameQDispelling RumorsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000?§£OcontentTuningIDDnameX#Skyrider Racing - Siegehold ScuttleGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000@'¤Fsource¢DtypeCnpcBid\000b’OcontentTuningID\nÊDnameWCollecting a ConcoctionGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000A'¤Fsource¢DtypeCnpcBid\000@™OcontentTuningID\nïDnameMRegular FiberGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0001©¤Fsource¢DtypeCnpcBid\000PòOcontentTuningID\nÊDnameSSpecific PersonagesGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000+*¢OcontentTuningID\nùDnameSSpreading the Light\0003©¤Fsource¢DtypeCnpcBid\000C$OcontentTuningID\nîDnamePInto the MachineGrewards‚¤HminLevelIDtypeJexperienceGamounts‡?¬@¦AnBhC0&HdHmaxLevelO¢DtypeEmoneyFamount\000\n¶0\0005)¤Fsource¢DtypeCnpcBid\000gåOcontentTuningID\rDnameOMetal and StoneGrewards¢DtypeEmoneyFamount\000’\0006©¤Fsource¢DtypeCnpcBid\000YOcontentTuningID\níDnameOForcing My HandGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000@¨£OcontentTuningIDDnameMKobyss KiboshGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000A(¤Fsource¢DtypeCnpcBid\000@™OcontentTuningID\nïDnameREconomical RequestGrewards‚¤HminLevelKDtypeJexperienceGamounts… Ğ!4!˜!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000A¨¢OcontentTuningIDLDnamePWeathered Crests\0003*¤Fsource¢DtypeCnpcBid\000>'OcontentTuningID\nîDnameULeave No Stone BehindGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000K§¤Fsource¢DtypeCnpcBid\000ˆ@OcontentTuningIDÀDnameXUntil the Sands Bleed VoidGrewards¢DtypeEmoneyFamount\000’\000E(¢OcontentTuningID	DnameRThe Theater Troupe\0006ª¤Fsource¢DtypeCnpcBid\000YSOcontentTuningID\níDnameLBad BusinessGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000G(£OcontentTuningID\nuDnameQThreats of ZekvirGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000P§¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameQThe Power of GodsGrewards¢DtypeEmoneyFamount\000É\000A)¤Fsource¢DtypeCnpcBid\000q¯OcontentTuningID\nïDnameUUnderground EconomicsGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000I¨¤Fsource¢DtypeCnpcBid\000eÛOcontentTuningID\nïDnamePHungry in HollowGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\000;*¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?İİëÙAxû?ãÍ3H+éBid\000]µOcontentTuningID\nîDnameNOne Last StoryGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000K¨¤Fsource¢DtypeCnpcBid\000ˆ>OcontentTuningIDÀDnameRAnd We Will AnswerGrewards¢DtypeEmoneyFamount\000’\000L(¤Fsource¢DtypeCnpcBid\000†ØOcontentTuningIDÀDnameTWhat Is Left of HomeGrewards¢DtypeEmoneyFamount\000É\0005+¤Fsource¢DtypeCnpcBid\000H«OcontentTuningID\rDnameSFlight Training 101Grewards¢DtypeEmoneyFamount\000’\000F)£OcontentTuningID	DnameRA Concerned FriendGrewards¢DtypeEmoneyFamount[h\000@*¤Fsource¢DtypeCnpcBid\000b’OcontentTuningID\nÊDnameXA Nudge in the Right DirectionGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000P¨¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameSDiminishing ReturnsGrewards¢DtypeEmoneyFamount\000É\000J©¤Fsource¢DtypeCnpcBid\000‚4OcontentTuningID½DnamePMarran TrollbaneGrewards¢DtypeEmoneyFamount\000É\0003,¤Fsource¢DtypeCnpcBid\000>'OcontentTuningID\nîDnameRRetaking the MinesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000K©¤Fsource¢DtypeCnpcBid\000ˆDOcontentTuningIDÀDnameTTo Walk Among ShadowGrewards¢DtypeEmoneyFamount\000’\000Dª¤Fsource¢DtypeCnpcBid\000tOcontentTuningIDHDnameHRed TapeGrewards¢DtypeEmoneyFamount\000’\0005,¤Fsource¢DtypeCnpcBid\000H¨OcontentTuningID\nîDnameUThe Nibelgaz RefineryGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000@+¤Fsource¢DtypeCnpcBid\000b’OcontentTuningID\nÊDnameWThe Fruits of Our LaborGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000P©¤Fsource¢DtypeCnpcBid\000—YOcontentTuningID¿DnameLRunning FreeGrewards¢DtypeEmoneyFamount\000É\000A+¤Fsource¢DtypeCnpcBid\000@™OcontentTuningID\nïDnameRSpice Up Your LifeGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000R©¤Fsource¢DtypeCnpcBid\000ÌOcontentTuningIDHDnamePThe Cleanup CrewGrewards¢DtypeEmoneyFamount\000’\0003-¤Fsource¢DtypeCnpcBid\000=-OcontentTuningID\nîDnameRCracking CogchewerGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000Kª¤Fsource¢DtypeCnpcBid\000ˆQOcontentTuningIDÀDnameNNexus RegicideGrewards¢DtypeEmoneyFamount\000$ \000D«¤Fsource¢DtypeCnpcBid\000q\"OcontentTuningIDHDnameJIn the MixGrewards¢DtypeEmoneyFamount[h\0005-¤Fsource¢DtypeCnpcBid\000HÂOcontentTuningID\nîDnameWRampage in the RefineryGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000F«¤Fsource¢DtypeCnpcBid\000KîOcontentTuningID,DnameX$The Beginning of Something BeautifulGrewards¢DtypeEmoneyFamount\000’\000G+¤Fsource¢DtypeCnpcBid\000xÃOcontentTuningID\nuDnameXDelves: Nightfall SanctumGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ=\"=ê>ä?¬@¦AnBhC0D*DòHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ÛÌ\000\n¶0HmaxLevelG\000@,¤Fsource¢DtypeCnpcBid\000c	OcontentTuningID	DnameUThe Blacksmith's FateGrewards¢DtypeEmoneyFamount\000$ \000Pª£OcontentTuningID¿DnameQThe Super SnifferGrewards¢DtypeEmoneyFamount\000É\000A,¤Fsource¢DtypeCnpcBid\000@™OcontentTuningID\nïDnameTEagle Eye, Eagle DieGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0001®¤Fsource¢DtypeCnpcBid\000PòOcontentTuningID\nÊDnamePStolen InfluenceGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000J«¤Fsource¢DtypeCnpcBid\000OcontentTuningID½DnameOA Familiar FaceGrewards¢DtypeEmoneyFamount\000’\0003.¤Fsource¢DtypeCnpcBid\000>'OcontentTuningID\nîDnameWEngineering DestructionGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0004®¤Fsource¢DtypeCnpcBid\000jÈOcontentTuningID\rDnameSA Mysterious SignalGrewards¢DtypeEmoneyFamount[h\0005.¤Fsource¢DtypeCnpcBid\000EOcontentTuningIDDnameXThespians at the ProsceniumGrewards¢DtypeEmoneyFamount\000’\000F¬¤Fsource¢DtypeCnpcBid\000w–OcontentTuningID\nÊDnameNTense RecoveryGrewards‚¤HminLevelNDtypeJexperienceGamounts‚!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000@-¤Fsource¢DtypeCnpcBid\000c	OcontentTuningID	DnameSInvasion DisruptionGrewards¢DtypeEmoneyFamount\000í(\000H¬¤Fsource¢DtypeCnpcBid\000{>OcontentTuningIDHDnameLCan-Do CaddyGrewards¢DtypeEmoneyFamount\000’\000A-¤Fsource¢DtypeCnpcBid\000h#OcontentTuningID\nïDnameJFull DressGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0001¯¤Fsource¢DtypeCnpcBid\000IuOcontentTuningID\nÊDnameOJust Act CasualGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000B-¤Fsource¢DtypeCnpcBid\000j°OcontentTuningID\nïDnameRA Helping FarmhandGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000:®¤Fsource¢DtypeCnpcBid\000OÅOcontentTuningID\nÊDnamePNothing VenturedGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0003/¤Fsource¢DtypeCnpcBid\000?ÿOcontentTuningID\nîDnameLKo-boldeningGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Ö : Ğ!4!˜$²HmaxLevelO¢DtypeEmoneyFamount\000’\0004/£OcontentTuningID\nîDnameWA Shadow Over GundargazGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\0004¯¤Fsource¢DtypeCnpcBid\000F‡OcontentTuningID\rDnameWSmall Friend, Big PlansGrewards¢DtypeEmoneyFamount\000’\0005/¤Fsource¢DtypeCnpcBid\000HÅOcontentTuningID\nïDnameSAn Orphan's RequestGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000F-€\000F­¤Fsource¢DtypeCnpcBid\000w˜OcontentTuningID\nÊDnameOAncient RespiteGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000?.£OcontentTuningIDDnameTMead for the CatalogGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000@.£OcontentTuningID\níDnameQSlept Like a RockGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000H­¤Fsource¢DtypeCnpcBid\000{>OcontentTuningIDHDnameIScam CansGrewards¢DtypeEmoneyFamount\000’\0009/¤Fsource¢DtypeCnpcBid\000I'OcontentTuningID\nïDnameMThe Last MageGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\0001°¤Fsource¢DtypeCnpcBid\000K%OcontentTuningID\nÊDnameWThe General's ConsensusGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000B.¤Fsource¢DtypeCnpcBid\000lzOcontentTuningID\nïDnameXRegularly Scheduled MaintenanceGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\00030¤Fsource¢DtypeCnpcBid\000JxOcontentTuningID\nîDnameQManifesto DestinyGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000D.¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?ãØ¡eAxû?â¨¸ñMµ•Bid\000mZOcontentTuningID\nîDnameRUndoing the DamageGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0004°¤Fsource¢DtypeCnpcBid\000F‡OcontentTuningID\rDnameMFactory ReconGrewards¢DtypeEmoneyFamount\000’\00050¤Fsource¢DtypeCnpcBid\000SÎOcontentTuningID\nïDnamePGutting the PoolGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000H®¤Fsource¢DtypeCnpcBid\000{>OcontentTuningIDHDnameMThe Hole DealGrewards¢DtypeEmoneyFamount\000$ \00090¤Fsource¢DtypeCnpcBid\000WÿOcontentTuningID\nïDnameOArcane TricklesGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000*2¢OcontentTuningID\nùDnameXA Better Cabbage Smacker\00031¤Fsource¢DtypeCnpcBid\000?ÿOcontentTuningID\nîDnameSTackling TorchsnarlGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000K®¤Fsource¢DtypeCnpcBid\000…SOcontentTuningIDÀDnameJThe TabiqaGrewards¢DtypeEmoneyFamount\000’\00041¤Fsource¢DtypeCnpcBid\000:ÄOcontentTuningID\nÊDnameNBoom or BlightGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000D¯¤Fsource¢DtypeCnpcBid\000qeOcontentTuningIDHDnameQIt's Worth a ShotGrewards¢DtypeEmoneyFamount\000’\000E/¤Fsource¢DtypeCnpcBid\000rWOcontentTuningID\nïDnamePSuspicious MindsGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000F/¤Fsource¢DtypeCnpcBid\000^OcontentTuningID	DnameRReturn to DornogalGrewards¢DtypeEmoneyFamount[h\000?0¤Fsource¢DtypeCnpcBid\000]OcontentTuningID\nîDnameNLisky BusinessGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0008±¤Fsource¢DtypeCnpcBid\000@sOcontentTuningID\nïDnameUThe Flame Still BurnsGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\00091¤Fsource¢DtypeCnpcBid\000WÿOcontentTuningID\nïDnameRArcane ExperimentsGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000B0¤Fsource¢DtypeCnpcBid\000l{OcontentTuningID\nïDnameWJob Killing Robot Or...Grewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000;1¤Fsource¢DtypeCnpcBid\000ZûOcontentTuningID\nîDnameSTending to AusgazurGrewards‚¤HminLevelIDtypeJexperienceGamounts‡\nŒ\n¾\nğ\"\"rLHmaxLevelO¢DtypeEmoneyFamountä„\00042¤Fsource¢DtypeCnpcBid\000:ÄOcontentTuningID\nÊDnameUIntention vs InstinctGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000D°¤Fsource¢DtypeCnpcBid\000qfOcontentTuningIDHDnameQStealing the KeysGrewards¢DtypeEmoneyFamount\000$ \00052¤Fsource¢DtypeCnpcBid\000HÖOcontentTuningID\nïDnameOA Final GoodbyeGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0005²¤Fsource¢DtypeCnpcBid\000EOcontentTuningIDDnameOThe Grand DebutGrewards¢DtypeEmoneyFamount\000$ \000F°¤Fsource¢DtypeCnpcBid\000w˜OcontentTuningID\nÊDnameORings of MemoryGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000?1¤Fsource¢DtypeCnpcBid\000]OcontentTuningID\nîDnameKOozemodiousGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000@1¤Fsource¢DtypeCnpcBid\000cOcontentTuningID	DnameQAn End to the EndGrewards¢DtypeEmoneyFamount\000$ \000P¯¤Fsource¢DtypeCnpcBid\000“ OcontentTuningID¿DnameNSmell Ya LaterGrewards¢DtypeEmoneyFamount[h\000A1¢OcontentTuningIDDnameWExcavation Extravaganza\000:2¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\nîDnameNInto the DeepsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡\nŒ\n¾\nğ\"\"rLHmaxLevelO¢DtypeEmoneyFamountä„\000:²£OcontentTuningID\nùDnameRBlossoming DelightGrewards¢DtypeEmoneyFamount\000’\000D±¤Fsource¢DtypeCnpcBid\000{$OcontentTuningIDHDnamePAsset ManagementGrewards¢DtypeEmoneyFamount\000’\0006³¤Fsource¢DtypeCnpcBid\000O¢OcontentTuningID\nÊDnameMElectrifying!Grewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\00073£OcontentTuningIDËDnameOIt's ElementaryGrewards‚¤HminLevelFDtypeJexperienceGamountsŠQrRSÊTöV\"WN1œ!š4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000%\000H@HmaxLevelG\000P°¤Fsource¢DtypeCnpcBid\000“LOcontentTuningID¿DnameXOn a Bed of Bones They LieGrewards¢DtypeEmoneyFamount\000’\00093¤Fsource¢DtypeCnpcBid\000X%OcontentTuningID\nïDnameOFinding JusticeGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000:³¤Fsource¢DtypeCnpcBid\000]³OcontentTuningID\nÊDnameRTool of AttunementGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000D2¢OcontentTuningID5DnamePWax Contribution\000D²¤Fsource¢DtypeCnpcBid\000qpOcontentTuningIDHDnameSCrashing the MarketGrewards¢DtypeEmoneyFamount\000’\00054¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ÖÓºı—oôAxû?èÇ`|AšBid\000GÓOcontentTuningID\rDnameJThe EdictsGrewards¢DtypeEmoneyFamount[h\0006´¤Fsource¢DtypeCnpcBid\000Q:OcontentTuningID\nÊDnamePThe Party's OverGrewards‚¤HminLevelNDtypeJexperienceGamounts‚T†HmaxLevelO¢DtypeEmoneyFamountä„\000P±¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?ã^ÎWˆAxû?ãô{gkBid\000OcontentTuningIDÀDnameMLife for LifeGrewards¢DtypeEmoneyFamount\000’\000A³¢OcontentTuningIDDnameX#Special Assignment: Cinderbee Surge\000:´¤Fsource¢DtypeCnpcBid\000]³OcontentTuningID\nÊDnameNField ResearchGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\00045¤Fsource£Ilocations¡Ï¢Ayû?Ù‘!%µ¿Axû?ÚÊ¸—DtypeCnpcBid\000D<OcontentTuningID\nÊDnameLHeeeelllp!!!Grewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\000D³¤Fsource¢DtypeCnpcBid\000r7OcontentTuningIDHDnameOA Miner MistakeGrewards¢DtypeEmoneyFamount[h\00055¤Fsource¢DtypeCnpcBid\000G„OcontentTuningID\rDnamePTitanic FailsafeGrewards¢DtypeEmoneyFamount\000$ \0006µ¤Fsource£DtypeCnpcIlocations¡Ï¢Ayû?ão.Œ†Axû?èÓ=)V:ŸBid\000OÅOcontentTuningID\nÊDnameQBurn It With FireGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000P²¤Fsource¢DtypeCnpcBid\000“LOcontentTuningID¿DnameQThe Scent of LoveGrewards¢DtypeEmoneyFamount\000É\000:µ¤Fsource¢DtypeCnpcBid\000]»OcontentTuningID\nÊDnameXResounding RepercussionsGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000+7¢OcontentTuningID\nùDnameX$Right Between Gyro-Optics - Activate\000K³¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningIDÀDnameRClearing the DunesGrewards¢DtypeEmoneyFamount\000’\00046¤Fsource¢DtypeCnpcBid\000D˜OcontentTuningID\nÊDnameMDelegated DigGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000D´¤Fsource¢DtypeCnpcBid\000qpOcontentTuningIDHDnameQB.I.R.D. WatchingGrewards¢DtypeEmoneyFamount\000$ \0006¶¤Fsource¢DtypeCnpcBid\000p’OcontentTuningID\níDnameXThe Councilward's SummonsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000P³¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnamePSlateback SoccerGrewards¢DtypeEmoneyFamount\000$ \000:¶¤Fsource¢DtypeCnpcBid\000]ÀOcontentTuningID\nÊDnameNEnemies AboundGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000S3¤Fsource¢DtypeCnpcBid\000“óOcontentTuningIDÀDnameHRegroup!Grewards¢DtypeEmoneyFamount[h\000Dµ¤Fsource¢DtypeCnpcBid\000qpOcontentTuningIDHDnameJPrice HikeGrewards¢DtypeEmoneyFamount\000$ \00057¤Fsource¢DtypeCnpcBid\000I\nOcontentTuningID\nïDnameSDereliction of DutyGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0006·¤Fsource¢DtypeCnpcBid\000OíOcontentTuningID\níDnameUDornogal's BenefactorGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000P´¤Fsource¢DtypeCnpcBid\000’èOcontentTuningIDÀDnameLGive me FuelGrewards¢DtypeEmoneyFamount\000’\00028¤Fsource¢DtypeCnpcBid\000*oOcontentTuningID\nÊDnameOThe Tangled WebGrewards‚¤HminLevelNDtypeJexperienceGamounts‚!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000:·¤Fsource¢DtypeCnpcBid\000h5OcontentTuningID\nÊDnameQSong of RestoringGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\000D¶¤Fsource¢DtypeCnpcBid\000q…OcontentTuningIDHDnameQEthereal InvasionGrewards¢DtypeEmoneyFamount\000’\00058¤Fsource¢DtypeCnpcBid\000IOcontentTuningID\nïDnameXFishing is Good for the SoulGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Mµ¤Fsource¢DtypeCnpcBid\000Œ2OcontentTuningIDÀDnameNOverwhelm ThemGrewards¢DtypeEmoneyFamount\000’\0006¸¤Fsource¢DtypeCnpcBid\000POcontentTuningID\níDnameVSecurity Through TradeGrewards‚¤HminLevelFDtypeJexperienceGamountsŠP´æJ|àN4\rHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000$¢\000ÉHmaxLevelG\000G6¤Fsource¢DtypeFobjectBid\000ôOcontentTuningID\nuDnameXDelver's Call: Dread PitGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ=\"=ê>ä?¬@¦AnBhC0D*DòHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ÛÌ\000\n¶0HmaxLevelG\000Oµ¤Fsource¢DtypeCnpcBid\000~OcontentTuningIDHDnameSAttitude AdjustmentGrewards¢DtypeEmoneyFamount\000’\000H6£Fsource¢DtypeCnpcBid\000*oOcontentTuningID\nÊDnameWUniting Severed Threads\0009¸¤Fsource£Ilocations¡§¢Ayû?Ó/œ¥½”KAxû?áH¡Y{–DtypeDareaBid:»OcontentTuningID\nïDnameLGasping PleaGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\00029¤Fsource¢DtypeCnpcBid\000*oOcontentTuningID\nÊDnameQA Seeming RespiteGrewards‚¤HminLevelNDtypeJexperienceGamounts‚!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000:¸¤Fsource¢DtypeCnpcBid\000h6OcontentTuningID\nÊDnameNLeave No TraceGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000D·¤Fsource¢DtypeCnpcBid\000OcontentTuningIDHDnamePRacing the ClockGrewards¢DtypeEmoneyFamount[h\000M¶¤Fsource¢DtypeCnpcBid\000Œ2OcontentTuningIDÀDnameRMandatory Time OffGrewards¢DtypeEmoneyFamount\000’\000F·¤Fsource¢DtypeCnpcBid\000J¬OcontentTuningID\nÊDnameSOpen CommunicationsGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\000G7¤Fsource¢DtypeFobjectBid\000ôOcontentTuningIDBDnameXDelver's Call: The SinkholeGrewards‚¤HminLevelFDtypeJexperienceGamountsŠôV÷Úû^şâ\000f\000ê\000	n\000ò\000v\000úHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\0003o0\000*ØÀHmaxLevelG\0009¹¤Fsource¢DtypeCnpcBid\000Y&OcontentTuningID\nïDnameLTidal CharmsGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000:¹¤Fsource¢DtypeCnpcBid\000wVOcontentTuningID\nÊDnameSHarmonious ApproachGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000D¸¤Fsource¢DtypeCnpcBid\000q·OcontentTuningIDHDnameRGet Our People OutGrewards¢DtypeEmoneyFamount\000’\0005:¤Fsource¢DtypeCnpcBid\000IOcontentTuningID\nïDnameGBurnoutGrewards‚¤HminLevelKDtypeJexperienceGamounts…àv¨HmaxLevelO¢DtypeEmoneyFamount\000É\000M·¤Fsource¢DtypeCnpcBid\000Œ2OcontentTuningIDÀDnameUDrain Their ResourcesGrewards¢DtypeEmoneyFamount\000$ \000>9£OcontentTuningIDDnamePArtifacts GaloreGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0006º¤Fsource¢DtypeCnpcBid\000P	OcontentTuningID\níDnameUThe Machine SpeakeasyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000G8¤Fsource¢DtypeFobjectBid\000ôOcontentTuningIDBDnameX$Delver's Call: The Skittering BreachGrewards‚¤HminLevelFDtypeJexperienceGamountsŠôV÷Úû^şâ\000f\000ê\000	n\000ò\000v\000úHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\0003o0\000*ØÀHmaxLevelG\0008º¤Fsource¢DtypeCnpcBid\000MøOcontentTuningID\nîDnameNKobold KleanupGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000Q7¤Fsource¢DtypeCnpcBid\000„ÊOcontentTuningIDÀDnameRThe Tempest FieldsGrewards¢DtypeEmoneyFamount[h\0009º¤Fsource¢DtypeCnpcBid\000Y&OcontentTuningID\nïDnameTVoices from the DeepGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000:º¤Fsource¢DtypeCnpcBid\000]ÂOcontentTuningID\nÊDnamePStaunch the FlowGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000D¹¤Fsource¢DtypeCnpcBid\000qÂOcontentTuningIDHDnameTNowhere Left to HideGrewards¢DtypeEmoneyFamount\000$ \000M¸¤Fsource¢DtypeCnpcBid\000Œ2OcontentTuningIDÀDnameVConfuse Their ContactsGrewards¢DtypeEmoneyFamount\000É\000G9¤Fsource¢DtypeFobjectBid\000ô\nOcontentTuningID\nuDnameX Delver's Call: Mycomancer CavernGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ=\"=ê>ä?¬@¦AnBhC0D*DòHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ÛÌ\000\n¶0HmaxLevelG\000P¸¤Fsource¢DtypeCnpcBid\000’èOcontentTuningIDÀDnameLGive me FireGrewards¢DtypeEmoneyFamount\000’\000A:¢OcontentTuningIDDnameXA Floral Flair for Every Ram\0009»¤Fsource¢DtypeCnpcBid\000Y&OcontentTuningID\nïDnameNAlluring OfferGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000:»¤Fsource¢DtypeCnpcBid\000]ÂOcontentTuningID\nÊDnameVDecipher the CacophonyGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000+½£OcontentTuningID\nùDnameKTater TrawlGrewards¢DtypeEmoneyFamount\000’\000Dº¤Fsource¢DtypeCnpcBid\000’@OcontentTuningIDHDnameLSour VictoryGrewards¢DtypeEmoneyFamount[h\000M¹¤Fsource¢DtypeCnpcBid\000Œ2OcontentTuningIDÀDnameJEyes on UsGrewards¢DtypeEmoneyFamount\000É\000G:¤Fsource¢DtypeCnpcBid\000;	OcontentTuningIDBDnameXDelver's Call: Spiral WeaveGrewards‚¤HminLevelFDtypeJexperienceGamountsŠôV÷Úû^şâ\000f\000ê\000	n\000ò\000v\000úHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\0003o0\000*ØÀHmaxLevelG\000P¹¤Fsource¢DtypeCnpcBid\000’èOcontentTuningIDÀDnameXWatch me Make These Bugs ExpireGrewards¢DtypeEmoneyFamount\000’\000A»¢OcontentTuningID-DnameOOpposing Forces\000:¼¤Fsource¢DtypeCnpcBid\000]ÂOcontentTuningID\nÊDnameSDiscordant MeasuresGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \0005=¤Fsource¢DtypeCnpcBid\000I-OcontentTuningID	DnamePA Moment to RestGrewards¢DtypeEmoneyFamount[h\000Mº¤Fsource¢DtypeCnpcBid\000Œ2OcontentTuningIDÀDnameQOn a TechnicalityGrewards¢DtypeEmoneyFamount\000$ \000N:¤Fsource¢DtypeCnpcBid\000POcontentTuningIDHDnameWTougher Than We ThoughtGrewards¢DtypeEmoneyFamount\000’\000G;¤Fsource¢DtypeFobjectBid\000ô(OcontentTuningIDBDnameXDelver's Call: Tak-Rethan AbyssGrewards‚¤HminLevelFDtypeJexperienceGamountsŠôV÷Úû^şâ\000f\000ê\000	n\000ò\000v\000úHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\0003o0\000*ØÀHmaxLevelG\000A¼¢OcontentTuningID-DnameWDocumenting Discordance\000:½£OcontentTuningID-DnameXDropping Eaves: Spoils of WarGrewards¢DtypeEmoneyFamount\000’\0005>¤Fsource¢DtypeCnpcBid\000U­OcontentTuningID	DnameKLost PiecesGrewards¢DtypeEmoneyFamount\000’\000@=£OcontentTuningIDÉDnameJWhat Army?Grewards‚¤HminLevelFDtypeJexperienceGamountsŠQrRSÊTöV\"WNXzY¦ZÒ[şHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000%\000H@HmaxLevelG\000A=£OcontentTuningIDDnamePRising the FallsGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000R;¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameMTo MaldraxxusGrewards¢DtypeEmoneyFamount[h\000L<¤Fsource¢DtypeCnpcBid\000ˆúOcontentTuningIDÀDnameWA Lucrative OpportunityGrewards¢DtypeEmoneyFamount[h\0005?¤Fsource¢DtypeCnpcBid\000I#OcontentTuningID	DnameMCrowdsourcingGrewards¢DtypeEmoneyFamount\000’\0005¿¢OcontentTuningID\nùDnameXHose 'Em Down - Activate\000>>¢OcontentTuningID-DnameXDropping Eaves: Thieving Weave\0007?¤Fsource¢DtypeCnpcBid\000H¨OcontentTuningID\nîDnameXMuddled Mind in the MineGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000?¾¢OcontentTuningIDDnameXCoreway Maintenance Request\000P¼¤Fsource¢DtypeCnpcBid\000\nOcontentTuningID§DnameX(Liberation of Undermine: The House LosesGrewards¢DtypeEmoneyFamount\000Ö;À\000A>€\000A¾£Fsource£Ilocations¡¦¢Ayû?Ôıiô`Axû?Şi”PXŞDtypeCnpcBid\000`ÎOcontentTuningIDDnameJDO NOT USE\000R<¤Fsource¢DtypeCnpcBid\000™TOcontentTuningID¿DnameRRitualistic MurderGrewards¢DtypeEmoneyFamount\000’\0003@£OcontentTuningID\nùDnameLHose It DownGrewards¢DtypeEmoneyFamount\000’\000L=¤Fsource¢DtypeCnpcBid\000ŠHOcontentTuningIDÀDnameQObtaining PermitsGrewards¢DtypeEmoneyFamount\000É\0005@¤Fsource¢DtypeCnpcBid\000T›OcontentTuningID	DnameNLight's GambitGrewards¢DtypeEmoneyFamount\000’\000>?¢OcontentTuningID-DnameXDropping Eaves: Saving the Past\0006À¤Fsource¢DtypeCnpcBid\000ZOcontentTuningID\nîDnameGHot WaxGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0007@¤Fsource¢DtypeCnpcBid\000P+OcontentTuningID\nîDnameMPipe PatchingGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000A¿¢OcontentTuningIDDnameSEarth-Encrusted Gem\000R=¤Fsource¢DtypeCnpcBid\000™TOcontentTuningID¿DnameX$A Plague a Day Keeps the Doctor AwayGrewards¢DtypeEmoneyFamount\000’\000:À¤Fsource¢DtypeCnpcBid\000]¸OcontentTuningID\nîDnameMListener LostGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\0003A¢OcontentTuningID\nùDnameSThe Midnight Sentry\000L>¤Fsource¢DtypeCnpcBid\000ŠHOcontentTuningIDÀDnameWArticles of AcquisitionGrewards¢DtypeEmoneyFamount[h\0005Á¤Fsource¢DtypeCnpcBid\000TFOcontentTuningID\nïDnameJNightwatchGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000>@¢OcontentTuningID-DnameX$Information Control: Ansurek's Truth\0006Á¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnamePA Natural RemedyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0007A¤Fsource¢DtypeCnpcBid\000P+OcontentTuningID\nîDnameMPlumber PowerGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0009Á¤Fsource£DtypeCnpcIlocations¡	¢Ayû?â|“cõrŞAxû?ç9jğ8â Bid\000ZíOcontentTuningID\níDnameIDepartureGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000R>¤Fsource¢DtypeCnpcBid\000™TOcontentTuningID¿DnameVI Don't Even Work HereGrewards¢DtypeEmoneyFamount\000’\000:Á¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?İ#éêqAxû?ãÙÙ)®OBid\000]¸OcontentTuningID\nîDnameWReadying the RecitationGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\0003B¤Fsource¢DtypeCnpcBid\000CßOcontentTuningID\nïDnameQThe Hallowed PathGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\000L?¤Fsource¢DtypeCnpcBid\000ŠyOcontentTuningIDÀDnameMExpired GoodsGrewards¢DtypeEmoneyFamount\000’\000>A£OcontentTuningID-DnameX.Information Control: The Right Side of HistoryGrewards¢DtypeEmoneyFamount\000’\0007B¤Fsource¢DtypeCnpcBid\000P+OcontentTuningID\nîDnameRCritical Pressure!Grewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000R?¤Fsource¢DtypeCnpcBid\000™TOcontentTuningID¿DnamePA Poor ImitationGrewards¢DtypeEmoneyFamount\000$ \000:Â¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?İİëÙAxû?ãÍ3H+éBid\000]µOcontentTuningID\nîDnameRThe Common CostumeGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\0003C¤Fsource¢DtypeCnpcBid\000@|OcontentTuningID\nïDnameWWhere the Light TouchesGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\000DÁ¤Fsource¢DtypeCnpcBid\000q#OcontentTuningIDHDnameXWhen Opportunity ExplodesGrewards¢DtypeEmoneyFamount[h\0007C¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?ÕKQ7*8¹Axû?Ş&Rz WBid\000@ OcontentTuningID\nîDnameXHome Is Where the Candle IsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\0009Ã¢OcontentTuningID5DnameMFoggy Faceoff\000R@¤Fsource¢DtypeCnpcBid\000™TOcontentTuningID¿DnameMGet Your JabsGrewards¢DtypeEmoneyFamount\000É\0002Ä¤Fsource¢DtypeCnpcBid\000g¾OcontentTuningID\níDnameQErratic ArtifactsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000DÂ¤Fsource¢DtypeCnpcBid\000qÜOcontentTuningIDHDnameNEnd of the DayGrewards¢DtypeEmoneyFamount\000’\000e>¤Fsource¢DtypeCnpcBid\000ÃPOcontentTuningID?DnameUPhase-Lost AdventurerGrewards¢DtypeEmoneyFamount\000’\0005Ä¤Fsource¢DtypeCnpcBid\000KÁOcontentTuningID\nïDnameLThe NotebookGrewards‚¤HminLevelKDtypeJexperienceGamounts… Ğ!4!˜!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000>C£OcontentTuningID-DnameX%Breaking the Phalanx: Royal AppointeeGrewards¢DtypeEmoneyFamount\000’\0006Ä¤Fsource¢DtypeCnpcBid\000P+OcontentTuningID\nîDnameSOn the Job TrainingGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000RA¤Fsource¢DtypeCnpcBid\000™TOcontentTuningID¿DnameLTo the OasisGrewards¢DtypeEmoneyFamount[h\0002Å¤Fsource¢DtypeCnpcBid\000=âOcontentTuningID\níDnamePSecure the BeachGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000DÃ¤Fsource¢DtypeCnpcBid\000xËOcontentTuningIDHDnameNMixed MessagesGrewards¢DtypeEmoneyFamount\000’\0005Å¤Fsource¢DtypeCnpcBid\000r…OcontentTuningID\nïDnameKHeight ClubGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000>D£OcontentTuningID-DnameXBounty: Chitinous GoliathGrewards¢DtypeEmoneyFamount\000’\000AD€\000RB¤Fsource¢DtypeCnpcBid\000.OcontentTuningID¿DnameRA Cultured PaletteGrewards¢DtypeEmoneyFamount\000É\000BÄ¤Fsource¢DtypeCnpcBid\000I'OcontentTuningID\nïDnameVThe Brothers BraunpykeGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\0004F¤Fsource¢DtypeCnpcBid\000CPOcontentTuningID\nîDnameUBrax's Brass KnucklesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000DÄ¤Fsource¢DtypeCnpcBid\000q3OcontentTuningIDHDnameXHostile Work EnvironmentGrewards¢DtypeEmoneyFamount\000’\0005F¤Fsource¢DtypeCnpcBid\000I5OcontentTuningID\nÊDnameTInfested InfestationGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0005Æ¤Fsource¢DtypeCnpcBid\000r…OcontentTuningID\nïDnameRGone with the WindGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000>E£OcontentTuningID-DnameSArmaments: WeaponryGrewards¢DtypeEmoneyFamount\000’\0007F¤Fsource¢DtypeFobjectBid\000ˆgOcontentTuningID\níDnameUConcerning FungariansGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000RC¤Fsource¢DtypeCnpcBid\000.OcontentTuningID¿DnamePCustodial DutiesGrewards¢DtypeEmoneyFamount\000É\0002Ç¤Fsource¢DtypeCnpcBid\000N4OcontentTuningID\níDnameTThey Come from BelowGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000DÅ¤Fsource¢DtypeCnpcBid\000ykOcontentTuningIDHDnameTMiner InvestigationsGrewards¢DtypeEmoneyFamount\000’\0005G¤Fsource¢DtypeCnpcBid\000PòOcontentTuningID\nÊDnameWI Think I'm a Drone NowGrewards‚¤HminLevelNDtypeJexperienceGamounts‚T†HmaxLevelO¢DtypeEmoneyFamountä„\000MÄ¤Fsource¢DtypeCnpcBid\000{vOcontentTuningIDHDnameLFound FamilyGrewards¢DtypeEmoneyFamount\000’\000>F£OcontentTuningID-DnameX Relics of War: The Ruptured LakeGrewards¢DtypeEmoneyFamount\000’\0006Ç¤Fsource¢DtypeCnpcBid\000…¹OcontentTuningIDHDnameVThe Verdigrease KnightGrewards¢DtypeEmoneyFamountä„\000?Æ£OcontentTuningIDDnameMFeline FrenzyGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000@F¤Fsource¢DtypeCnpcBid\000@™OcontentTuningID\nùDnamePThe Light's CallGrewards¢DtypeEmoneyFamount[h\0002È¤Fsource¢DtypeCnpcBid\000RüOcontentTuningID\níDnameOImpossible OddsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000DÆ¤Fsource¢DtypeFobjectBid\000õ~OcontentTuningIDHDnameROrder of MagnitudeGrewards¢DtypeEmoneyFamount\000’\0005H¤Fsource¢DtypeCnpcBid\000POcontentTuningID\níDnameOOpals and RunesGrewards‚¤HminLevelFDtypeJexperienceGamountsŠP´æJ|àN4\rHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000$¢\000ÉHmaxLevelG\0005È¤Fsource¢DtypeCnpcBid\000R	OcontentTuningID\nïDnameLCare PackageGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\000>G£OcontentTuningID-DnameXRequisitions: UmbrashroomsGrewards¢DtypeEmoneyFamount\000’\0008H¤Fsource¢DtypeCnpcBid\000gOcontentTuningID\nîDnameLRaging RiftsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000:H¤Fsource¢DtypeCnpcBid\000Y-OcontentTuningIDDnameNA Sassy ArathiGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0003I¤Fsource¢DtypeCnpcBid\000l6OcontentTuningID\nïDnameNTunnel TroubleGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000DÇ¤Fsource¢DtypeCnpcBid\000z±OcontentTuningIDHDnamePGood Honest WorkGrewards¢DtypeEmoneyFamount\000­Œ\000EG¤Fsource¢DtypeCnpcBid\000G…OcontentTuningID\rDnameXThere's Always Another SecretGrewards¢DtypeEmoneyFamount[h\000>H£OcontentTuningID-DnameXWild Reagents: Maddening DeepGrewards¢DtypeEmoneyFamount\000’\0006É¤Fsource¢DtypeCnpcBid\000VòOcontentTuningIDHDnameRLord of the GiantsGrewards¢DtypeEmoneyFamount\000$ \000@È£OcontentTuningIDDnameLPool CleanerGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000AH¤Fsource¢DtypeCnpcBid\000*oOcontentTuningID-DnameQAdvance to FaerinGrewards¢DtypeEmoneyFamount[h\000:I¢OcontentTuningIDDnameQServing the Queen\0002Ê¤Fsource¢DtypeCnpcBid\000S0OcontentTuningID\níDnameLGroup EffortGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0003J¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ã\\™‘6Axû?æk‘³ò\ntBid\000l6OcontentTuningID\nïDnameTThe Only Good SpiderGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000DÈ¤Fsource¢DtypeCnpcBid\000q<OcontentTuningIDHDnameLBloodlettingGrewards¢DtypeEmoneyFamount\000’\000>I€\0009J¤Fsource¢DtypeCnpcBid\000ZOcontentTuningID\nîDnameOHot Pollenate-oGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0002Ë¤Fsource¢DtypeCnpcBid\000e[OcontentTuningID\níDnameOLasting RepairsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0003K¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ã„³ÃçJıAxû?æp6ÉÀ¨ÒBid\000@|OcontentTuningID\nïDnameRRekindled MemoriesGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000DÉ¤Fsource¢DtypeCnpcBid\000q=OcontentTuningIDHDnameSParanoia PreventionGrewards¢DtypeEmoneyFamount\000’\000FI£Fsource¢DtypeCnpcBid\000vOcontentTuningID.DnameXHallowfall Fishing Derby\0006Ë¤Fsource¢DtypeCnpcBid\000VÕOcontentTuningIDHDnamePLady of the LakeGrewards¢DtypeEmoneyFamount\000$ \0007K¤Fsource¢DtypeCnpcBid\000LOcontentTuningID\níDnameTMonsters in the DarkGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0009K¤Fsource¢DtypeCnpcBid\000XİOcontentTuningID\nÊDnameLSocial CluesGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0002Ì¤Fsource¢DtypeCnpcBid\000e[OcontentTuningID\níDnameNTo the MeaderyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0003L¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ã„³ÃçJıAxû?æp6ÉÀ¨ÒBid\000@|OcontentTuningID\nïDnameXRally on the DawnbreakerGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\000DÊ¤Fsource¢DtypeCnpcBid\000Œ+OcontentTuningIDHDnameSPamsy's Prized PumpGrewards¢DtypeEmoneyFamount[h\000MÉ¤Fsource¢DtypeCnpcBid\000q…OcontentTuningIDHDnameKPhase ShiftGrewards¢DtypeEmoneyFamount\000’\000FJ¢OcontentTuningID.DnameXHallowfall Fishing Derby\0006Ì¤Fsource¢DtypeCnpcBid\000MöOcontentTuningIDHDnameXThe Verdigrease Knight ReturnsGrewards¢DtypeEmoneyFamount\000É\0007L¤Fsource¢DtypeCnpcBid\000LOcontentTuningID\níDnameUBuried, Not ForgottenGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000OÉ¤Fsource¢DtypeCnpcBid\000…,OcontentTuningIDÀDnamePMoving the PawnsGrewards¢DtypeEmoneyFamount\000É\0009L¤Fsource¢DtypeCnpcBid\000_¤OcontentTuningID\nÊDnameXEspionage and VentriloquismGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000RI¤Fsource¢DtypeCnpcBid\000ZOcontentTuningID¿DnameMTriple TwentyGrewards¢DtypeEmoneyFamount\000É\0002Í¤Fsource¢DtypeCnpcBid\000?\rOcontentTuningID\níDnameLLay the TrapGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0003M¤Fsource¢DtypeCnpcBid\000n²OcontentTuningID\nïDnameSFor Their Eyes OnlyGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000DË¤Fsource¢DtypeCnpcBid\000~OcontentTuningIDHDnameOBloody BusinessGrewards¢DtypeEmoneyFamount\000’\0005Í¤Fsource¢DtypeCnpcBid\000KıOcontentTuningID\nïDnameMStatus ReportGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\000FK¢OcontentTuningID.DnameXHallowfall Fishing Derby\0006Í¤Fsource¢DtypeCnpcBid\000ZOcontentTuningID\nîDnameMJanky CandlesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000@Ì¤Fsource¢DtypeCnpcBid\000/OcontentTuningID~DnameXThe Beginning of the EndGrewards¢DtypeEmoneyFamount\000’\0009M¤Fsource¢DtypeCnpcBid\000_¥OcontentTuningID\nÊDnameOPulling StringsGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000RJ¤Fsource¢DtypeCnpcBid\000ZOcontentTuningID¿DnameOMedical CheckupGrewards¢DtypeEmoneyFamount\000É\0002Î¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\níDnameOEvacuation AreaGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0003N¤Fsource¢DtypeCnpcBid\000n±OcontentTuningID\nïDnameUSiege Weapon SabotageGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000DÌ¤Fsource¢DtypeCnpcBid\000q>OcontentTuningIDHDnameMX-Treme ChillGrewards¢DtypeEmoneyFamount\000’\000EL¤Fsource¢DtypeCnpcBid\000*oOcontentTuningID-DnameVSaving Private SpindleGrewards¢DtypeEmoneyFamount\000’\0005Î¤Fsource¢DtypeCnpcBid\000KÿOcontentTuningID\nïDnameMSeek the LostGrewards‚¤HminLevelKDtypeJexperienceGamounts… Ğ!4!˜!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000FL£OcontentTuningID.DnameXHallowfall Fishing DerbyGrewards£Famount\nBidïDtypeHcurrency\000>Í¤Fsource¢DtypeCnpcBid\000]µOcontentTuningID\nîDnameSLet's Not Worry HerGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\000?Í¤Fsource¢DtypeCnpcBid\000P(OcontentTuningID	DnameXCan Catch More Fires with HoneyGrewards¢DtypeEmoneyFamount\000’\000@Í¤Fsource¢DtypeCnpcBid\000/OcontentTuningID\nÊDnameMA Spy Like UsGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0009N¤Fsource¢DtypeCnpcBid\000_¥OcontentTuningID\nÊDnamePMarionette MercyGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0009Î¤Fsource¢DtypeCnpcBid\000<OcontentTuningID\níDnamePShattered SpiresGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000RK¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameLRay-ket BallGrewards¢DtypeEmoneyFamount\000É\0002Ï¤Fsource¢DtypeCnpcBid\000?\rOcontentTuningID\níDnameVPoking the Spider NestGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0003O¤Fsource£DtypeCnpcIlocations¡§¢Ayû?åØ¶%öAxû?â5²ÔÔKBid\000@€OcontentTuningID\nïDnameXThe Light of the DawntowerGrewards‚¤HminLevelKDtypeJexperienceGamounts…àv¨HmaxLevelO¢DtypeEmoneyFamount\000É\000KÌ¤Fsource¢DtypeCnpcBid\000ƒ^OcontentTuningID¼DnameTFriendly CompetitionGrewards¢DtypeEmoneyFamount[h\000DÍ¤Fsource¢DtypeCnpcBid\000q?OcontentTuningIDHDnameKAvenge ThemGrewards¢DtypeEmoneyFamount\000$ \000EM¤Fsource¢DtypeCnpcBid\000rãOcontentTuningID-DnameRPersonal PilferingGrewards¢DtypeEmoneyFamount\000’\0005Ï¤Fsource¢DtypeCnpcBid\000KÿOcontentTuningID\nïDnameMStem the FlowGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000@Î¤Fsource¢DtypeCnpcBid\000fFOcontentTuningID\nÊDnameUDefense of the PeopleGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0009O¤Fsource¢DtypeCnpcBid\000YOcontentTuningID\níDnameOHow Scandalous!Grewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000IÍ¢OcontentTuningID5DnameUConstruct Containment\000RL¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameNDubious IntentGrewards¢DtypeEmoneyFamount\000É\0002Ğ¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\níDnameQBring the ThunderGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\0003P¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ä´_½‹çAxû?áPxR÷ô™Bid\000@|OcontentTuningID\nïDnameTA Lamplighter's DutyGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000CÎ¤Fsource¢DtypeCnpcBid\000I'OcontentTuningID\nïDnameQThe Price of HopeGrewards‚¤HminLevelKDtypeJexperienceGamounts… Ğ!4!˜!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000DÎ¤Fsource¢DtypeCnpcBid\000q>OcontentTuningIDHDnameRExpanding the PlanGrewards¢DtypeEmoneyFamount\000’\0005Ğ¤Fsource¢DtypeCnpcBid\000KÿOcontentTuningID\nïDnameNMow the MassesGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000>O£OcontentTuningID-DnameX\"Breaking the Phalanx: ThreadbladesGrewards¢DtypeEmoneyFamount\000’\000>Ï£OcontentTuningIDDnameKWick PointsGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000@O¤Fsource¢DtypeCnpcBid\000M÷OcontentTuningID\nîDnameUNew Home, New Candle!Grewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\000@Ï¤Fsource¢DtypeCnpcBid\000fFOcontentTuningID\nÊDnameNMake Them PreyGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0009P¢OcontentTuningID5DnameTDigging into Trouble\0001Ñ£OcontentTuningID\níDnameNTo RambleshireGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ\n(\nZ\nŒ\nŒ\n¾\nğ@\rHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000Qä„HmaxLevelG\000RM¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameMBooster ShotsGrewards¢DtypeEmoneyFamount\000É\0002Ñ¤Fsource¢DtypeCnpcBid\000RùOcontentTuningID\níDnameUReturn to the CorewayGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000CÏ¤Fsource¢DtypeCnpcBid\000n¢OcontentTuningID\níDnameRThe Weight of DutyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0004Q¤Fsource¢DtypeCnpcBid\000EjOcontentTuningID\nïDnameRTricks of the DarkGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000DÏ¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?ì¡·à¬}¢Axû?æ}™ˆÒ¡ùBid\000q?OcontentTuningIDHDnameNDown UndermineGrewards¢DtypeEmoneyFamount\000’\000EO£OcontentTuningID\nïDnameRProve One's MettleGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0005Ñ¤Fsource£DtypeCnpcIlocations¡§¢Ayû?à—×¾˜Axû?è+®³é§Bid\000KÿOcontentTuningID\nïDnameVWhat Grows in the DarkGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000>P£OcontentTuningID-DnameX&Breaking the Phalanx: Schismatic SagesGrewards¢DtypeEmoneyFamount\000’\0009Q¤Fsource¢DtypeCnpcBid\000dOcontentTuningIDDnameVAn Oddball in DornogalGrewards‚¤HminLevelFDtypeJexperienceGamountsŠP´æJ|àv¨HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000$¢\000ÉHmaxLevelG\0001Ò¤Fsource¢DtypeCnpcBid\000;OcontentTuningID\níDnameLSleepy SheepGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000RN¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameOThe Golden OozeGrewards¢DtypeEmoneyFamount\000É\0002Ò¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnameJRecompenseGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000CP¤Fsource¢DtypeCnpcBid\000lˆOcontentTuningID\níDnameMCloud FishingGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000DĞ¤Fsource¢DtypeCnpcBid\000q.OcontentTuningID\nîDnameMMagmanagementGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000>Q£OcontentTuningID-DnameXBounty: Zorikal the PatronGrewards¢DtypeEmoneyFamount\000’\000NÏ¤Fsource¢DtypeCnpcBid\000u¨OcontentTuningIDHDnameTUnsolicited FeedbackGrewards¢DtypeEmoneyFamount\000$ \0008R¤Fsource¢DtypeCnpcBid\000P§OcontentTuningID\nÊDnameHSpiders!Grewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0008Ò¤Fsource¢DtypeCnpcBid\000@\000OcontentTuningID\nîDnameQBack to GundargazGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\000AQ£OcontentTuningIDDnameMBurrow BurialGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0001Ó¤Fsource¢DtypeCnpcBid\000;OcontentTuningID\níDnameOPower PredatorsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000RO¤Fsource¢DtypeCnpcBid\000—YOcontentTuningID¿DnameWThe Freedom of Ray-cingGrewards¢DtypeEmoneyFamount\000$ \000BÑ€\000DÑ¤Fsource¢DtypeCnpcBid\000q/OcontentTuningID\nîDnameNSampling SteamGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000FQ¢OcontentTuningID5DnameXGeothermal Gem Treatment\0008S¤Fsource¢DtypeCnpcBid\000R(OcontentTuningID\nÊDnameX...And Now I'm ArachnophobicGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000@Ò¤Fsource¢DtypeCnpcBid\000fFOcontentTuningID\nÊDnameQA Shot at the TopGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000AR£OcontentTuningIDDnameUSieging Siege WeaponsGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0001Ô¤Fsource¢DtypeCnpcBid\0003şOcontentTuningID\níDnameVLost Lord of the StormGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000BÒ€\0004T¤Fsource¢DtypeCnpcBid\000EhOcontentTuningID\nïDnameTFickle Fiendish FishGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000DÒ¤Fsource¢DtypeCnpcBid\000qOcontentTuningID\nDnameWKnicknack's KnickknacksGrewards¢DtypeEmoneyFamount\000’\000FR¢OcontentTuningID5DnameUExcavation Liberation\0008T¤Fsource¢DtypeCnpcBid\000R(OcontentTuningID\nÊDnameSLegs in the CeilingGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000@Ó€\000AS£OcontentTuningIDDnameSHonoring Our FallenGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000AÓ¢OcontentTuningID-DnameXSlay the Goo, Save the World\000BÓ€\000DÓ¤Fsource¢DtypeCnpcBid\000qHOcontentTuningID\nîDnameQTired of TrippingGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000ES¤Fsource¢DtypeCnpcBid\000rAOcontentTuningID\nïDnameJFor MoraleGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000>T£OcontentTuningID-DnameXArmaments: Smithing ToolsGrewards¢DtypeEmoneyFamount\000’\000>Ô£OcontentTuningIDDnameLRecovery JobGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0007U¤Fsource¢DtypeCnpcBid\000R¦OcontentTuningID\níDnameSThe Cavalry is HereGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0008U¤Fsource¢DtypeCnpcBid\000SŠOcontentTuningID\nÊDnameTMaggots in your EyesGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\0009U¤Fsource¢DtypeCnpcBid\000dOcontentTuningIDDnameXHoly Fire in RambleshireGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0001Ö¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ÓZ%„‚Axû?âÏ®ÿ\\lBid\000;OcontentTuningID\níDnamePThunderhead ButtGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000BÔ€\000DT¢OcontentTuningID5DnameRThieving Snufflers\000>U£OcontentTuningID-DnameX)Relics of War: The Salien Gutter ConflictGrewards¢DtypeEmoneyFamount\000’\000>Õ£OcontentTuningIDDnamePTunnels Be Gone!Grewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0008V¢OcontentTuningID-DnameXWorm Sign, Sealed, Delivered\000@Õ£OcontentTuningIDDnameX!Documenting: Field Manual EditionGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0009V¤Fsource¢DtypeCnpcBid\000d”OcontentTuningIDDnameX!A Time to Kill at the Lumber MillGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000QÓ€\000BÕ€\000CU¤Fsource¢DtypeCnpcBid\000mZOcontentTuningID\nîDnameRA Functional FavorGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000LT¤Fsource¢DtypeCnpcBid\000‰ïOcontentTuningID¿DnameODon't Bee CrazyGrewards¢DtypeEmoneyFamount\000’\000>V¢OcontentTuningID-DnameXRelics of War: Rak-Zakaz\000>Ö¢OcontentTuningIDDnameRBells of the Light\000?V¢OcontentTuningID5DnameMCloud Farming\0008W¢OcontentTuningID-DnamePWormcraft Rumble\0009W¤Fsource¢DtypeCnpcBid\000d˜OcontentTuningIDDnameVUngirthin' the EarthenGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000AÖ¢OcontentTuningIDDnamePWeathered Crests\000BV¢OcontentTuningID5DnameLPipe Patcher\000BÖ€\000CV¤Fsource¢DtypeCnpcBid\000mZOcontentTuningID\nîDnameLAntifogmaticGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\0004X¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÔìVuW›Axû?á¨ùã†MBid\000EhOcontentTuningID\nïDnameQSomething's FishyGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000EV¤Fsource¢DtypeCnpcBid\000røOcontentTuningID\rDnameXWhat's Hidden Beneath DornogalGrewards¢DtypeEmoneyFamount[h\000>W£OcontentTuningID-DnameXRequisitions: BrightbloomsGrewards¢DtypeEmoneyFamount\000’\000?W¤Fsource¢DtypeCnpcBid\000P(OcontentTuningID	DnameQFire and GemstoneGrewards¢DtypeEmoneyFamount\000’\0008X¢OcontentTuningID-DnameOTaking it To Go\0009X¤Fsource¢DtypeCnpcBid\000d–OcontentTuningIDDnameVConcealed in the WealdGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000QÕ€\000BW¢OcontentTuningID5DnameVYou Go Take Candle 181\000B×€\000CW¤Fsource¢DtypeCnpcBid\000JÄOcontentTuningIDDnameRQuickchange ArtistGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0004Y¤Fsource¢DtypeCnpcBid\000_¬OcontentTuningID\nïDnameRShadow upon ShadowGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\000D×¤Fsource¢DtypeCnpcBid\000qHOcontentTuningID\nîDnameTA Little Off the TopGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \0005Y¤Fsource¢DtypeCnpcBid\000H©OcontentTuningID\nîDnameUSpinning Spore SpinesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000FW£OcontentTuningIDDnameXAdventuring in Khaz AlgarGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0009Y¤Fsource¢DtypeCnpcBid\000dšOcontentTuningIDDnameXA Lamplight for the ShipwrightGrewards‚¤HminLevelFDtypeJexperienceGamountsŠP´æJ|àv¨HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000$¢\000ÉHmaxLevelG\000I×¤Fsource£DtypeCnpcIlocations¡^¢Ayû?âX÷‡‹Axû?ÉYO&®ÀrBid\000|ÖOcontentTuningIDHDnamePKaja'ConclusionsGrewards¢DtypeEmoneyFamount[h\000BØ€\000LW¤Fsource¢DtypeCnpcBid\000‰ïOcontentTuningID¿DnameSSuch a Sleebee-headGrewards¢DtypeEmoneyFamount\000’\000DØ¤Fsource¢DtypeCnpcBid\000qPOcontentTuningID\nîDnameRCinderbrew ReserveGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0005Z¤Fsource¢DtypeCnpcBid\000Q‚OcontentTuningID\nîDnameMTo the SourceGrewards‚¤HminLevelIDtypeJexperienceGamounts‡\nŒ\n¾\nğ\"\"rLHmaxLevelO¢DtypeEmoneyFamountä„\000>Y£OcontentTuningID-DnameXWild Reagents: Salien GuttersGrewards¢DtypeEmoneyFamount\000’\0009Z¤Fsource¢DtypeCnpcBid\000dœOcontentTuningIDDnameXUp to No Good Down in SilkwoodGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~7F88¤9lHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000BY¢OcontentTuningID-DnameUPawns of Dark Masters\0002Û¤Fsource¢DtypeCnpcBid\000>pOcontentTuningID\nîDnameXUnderground and OverwhelmedGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0004[¤Fsource¢DtypeCnpcBid\000E…OcontentTuningID\nïDnameRThe Darkened FlameGrewards‚¤HminLevelKDtypeJexperienceGamounts…àv¨HmaxLevelO¢DtypeEmoneyFamount\000É\000EÙ¤Fsource¢DtypeCnpcBid\000tÖOcontentTuningIDHDnameHOut-lawsGrewards¢DtypeEmoneyFamount\000’\000>Z£OcontentTuningID-DnameXWild Reagents: Twitching GorgeGrewards¢DtypeEmoneyFamount\000’\0006Û¤Fsource¢DtypeCnpcBid\000<lOcontentTuningID\nÊDnameXThat Airspace is Mine(d)!Grewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000AZ€\000CZ¢OcontentTuningID.DnameXHallowfall Fishing Derby\000LY¤Fsource£DtypeCnpcIlocations¡®¢Ayû?å6CˆëÌAxû?ç8A$~Bid\000‰ïOcontentTuningID¿DnameRBeehemian RhapsodyGrewards¢DtypeEmoneyFamount\000É\000DÚ¤Fsource¢DtypeCnpcBid\000t OcontentTuningID\nîDnameXPut it Back, Put it Back!Grewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000EÚ¤Fsource¢DtypeCnpcBid\000tÖOcontentTuningIDHDnamePThe Perfect CoatGrewards¢DtypeEmoneyFamount\000’\000>[€\0006Ü¤Fsource¢DtypeCnpcBid\000<lOcontentTuningID\nÊDnameQOffensive CounterGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000GÚ¢OcontentTuningID5DnameRDeworming Solution\000QY¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameSAre You Kitting Me?Grewards¢DtypeEmoneyFamount\000É\000B[¢OcontentTuningID5DnameRCandle Kingbreaker\0002İ¤Fsource¢DtypeCnpcBid\000T²OcontentTuningID\nîDnameQGetting Off TrackGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0003]¤Fsource¢DtypeCnpcBid\000V[OcontentTuningID\nîDnamePThe Tunnel's EndGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Ö : Ğ!4!˜$²HmaxLevelO¢DtypeEmoneyFamount\000­Œ\0004]¤Fsource¢DtypeCnpcBid\000jÈOcontentTuningID	DnameUA Tide Needing TurnedGrewards¢DtypeEmoneyFamount[h\000DÛ¤Fsource¢DtypeCnpcBid\000~OcontentTuningIDHDnameMSplit VentureGrewards¢DtypeEmoneyFamount\000’\0005]¤Fsource¢DtypeCnpcBid\000XtOcontentTuningID\nÊDnameMSurface BoundGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\0005İ¤Fsource¢DtypeCnpcBid\000PóOcontentTuningID\rDnameUShadowvein ExtractionGrewards¢DtypeEmoneyFamount[h\000>\\£OcontentTuningID-DnameX Wet Work: Step Into Their ParlorGrewards¢DtypeEmoneyFamount\000’\000A\\¤Fsource¢DtypeCnpcBid\000hëOcontentTuningID	DnameXThe Sorrowful Journey HomeGrewards¢DtypeEmoneyFamount\000É\000B\\¢OcontentTuningID-DnameKExterminate\0003^¤Fsource¢DtypeCnpcBid\000DOcontentTuningID\nïDnameJLights OutGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\0004^¤Fsource¢DtypeCnpcBid\000DÿOcontentTuningID	DnameWThe Might of Khaz AlgarGrewards¢DtypeEmoneyFamount\000$ \000EÜ¤Fsource¢DtypeCnpcBid\000tÚOcontentTuningIDHDnameVCatering to PerfectionGrewards¢DtypeEmoneyFamount\000’\000F\\£OcontentTuningIDDnameLIsle of DornGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0007^¤Fsource¢DtypeCnpcBid\000QİOcontentTuningID\nÊDnameSA Fin of Every KindGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000@İ¤Fsource¢DtypeCnpcBid\000/OcontentTuningID\nÊDnameOTo Kill a QueenGrewards‚¤HminLevelNDtypeJexperienceGamounts‚ZÒ[şHmaxLevelO¢DtypeEmoneyFamount\000Ö;À\000Bİ¢OcontentTuningID5DnameVAggregation of Horrors\000C]¤Fsource¢DtypeCnpcBid\000P OcontentTuningIDDnamePAttention-GetterGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000KÜ¤Fsource¢DtypeCnpcBid\000y®OcontentTuningIDÀDnameTA Shadowy InvitationGrewards¢DtypeEmoneyFamount[h\0004_¤Fsource¢DtypeCnpcBid\000DÿOcontentTuningID	DnamePSteel and FlamesGrewards¢DtypeEmoneyFamount\000’\000Dİ¤Fsource¢DtypeCnpcBid\000jOcontentTuningID\nîDnameQBadly Behaved BotGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\0005ß¤Fsource¢DtypeCnpcBid\000KÙOcontentTuningID\nîDnameTThe Glittering ShardGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000>^£OcontentTuningID-DnameX$Testing Formulae: Malodorous PhilterGrewards¢DtypeEmoneyFamount\000’\000>Ş¢OcontentTuningID,DnameSActivation Protocol\0007_¤Fsource¢DtypeCnpcBid\000R|OcontentTuningID\nÊDnameSThat's Pretty GrossGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\000Gİ¤Fsource¢DtypeCnpcBid\000qgOcontentTuningIDHDnameNThe Kaja'CoastGrewards¢DtypeEmoneyFamount[h\000B^¢OcontentTuningID-DnameHBug Them\000Jİ¤Fsource¢DtypeCnpcBid\000x«OcontentTuningID\rDnameKThe SpeakerGrewards¢DtypeEmoneyFamount[h\000C^£Fsource¢DtypeCnpcBid\000JÁOcontentTuningID\000DnameUAuthenticity in Dress\000Kİ¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningIDÀDnameXReturn to the Veiled MarketGrewards¢DtypeEmoneyFamount[h\0005à¤Fsource£Ilocations¡	#¢Ayû?éÿ†]|²ÙAxû?Ö÷¯îoµDtypeCnpcBid\000LgOcontentTuningID\rDnameTEmbassies and EnvoysGrewards¢DtypeEmoneyFamount\000’\000F^£OcontentTuningIDDnameQThe Ringing DeepsGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000@ß¤Fsource¢DtypeCnpcBid\000upOcontentTuningID\nÊDnameVThe Path of DissonanceGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\0003a¤Fsource¢DtypeCnpcBid\000BnOcontentTuningID\nïDnameVIf It Leads, It BleedsGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000KŞ¤Fsource¢DtypeCnpcBid\000†*OcontentTuningIDÀDnameNBeasts UnboundGrewards¢DtypeEmoneyFamount\000’\000Dß¤Fsource¢DtypeCnpcBid\000qROcontentTuningIDHDnameOEyes from AboveGrewards¢DtypeEmoneyFamount\000’\0005á¢OcontentTuningID\nùDnameOGlowing Harvest\000F_£OcontentTuningIDDnameJHallowfallGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0007a¤Fsource£DtypeCnpcIlocations¡Ï¢Ayû?å#]gº#}Axû?ã9`sŞ.Bid\000QİOcontentTuningID\nÊDnameUMoonlight Gutter SwimGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000@à¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?Û‹z%ĞtAxû?â[ ¥&•–Bid\000]¸OcontentTuningID\nîDnameKOn the RoadGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \0002â¤Fsource¢DtypeCnpcBid\000>×OcontentTuningID\nîDnameTDiscarded and BrokenGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0003b¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÀÁDO¹Axû?İN3i¹×şBid\000BmOcontentTuningID\nïDnameUSituational AwarenessGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Kß¤Fsource¢DtypeCnpcBid\000†+OcontentTuningIDÀDnameULost Lines of DefenseGrewards¢DtypeEmoneyFamount\000’\000Dà¤Fsource¢DtypeCnpcBid\000q{OcontentTuningIDHDnameVA Trail of Black BloodGrewards¢DtypeEmoneyFamount\000’\000F`£OcontentTuningIDDnameIAzj-KahetGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0007b¤Fsource£DtypeCnpcIlocations¡Ï¢Ayû?å#]gº#}Axû?ã9`sŞ.Bid\000QİOcontentTuningID\nÊDnameQRescuing the FoodGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Qß¤Fsource¢DtypeCnpcBid\000’zOcontentTuningIDÀDnameQThe Reshii RibbonGrewards¢DtypeEmoneyFamount\000’\0002ã¤Fsource¢DtypeCnpcBid\000>×OcontentTuningID\nîDnameUThe Weight of a WorldGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000Ca¤Fsource¢DtypeCnpcBid\000mZOcontentTuningID\nîDnameUGhosts in the MachineGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000Kà¤Fsource¢DtypeCnpcBid\000êOcontentTuningIDÀDnameUThe Darkness Among UsGrewards¢DtypeEmoneyFamount\000$ \000Dá¤Fsource¢DtypeCnpcBid\000qOcontentTuningIDHDnameWLong Way from Booty BayGrewards¢DtypeEmoneyFamount[h\000>b£OcontentTuningID-DnameX Sabotage: Alchemical InstrumentsGrewards¢DtypeEmoneyFamount\000­Œ\0007c¤Fsource¢DtypeCnpcBid\000QİOcontentTuningID\nÊDnameVGrand, Gutsy SolutionsGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000?â¤Fsource¢DtypeCnpcBid\000/OcontentTuningID\nÊDnameTUnfulfilled RequestsGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000@â¢OcontentTuningIDDnameX#Special Assignment: Cinderbee Surge\0002ä¤Fsource¢DtypeCnpcBid\000>×OcontentTuningID\nîDnamePReforged PurposeGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0003d¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÀÁDO¹Axû?İN3i¹×şBid\000BmOcontentTuningID\nïDnameSTeach a Man to FishGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Sà¤Fsource£DtypeCnpcIlocations¡	*¢Ayû?ÛñØf€Axû?ĞÅ¸ÜU\000\rBid\000tÖOcontentTuningIDHDnameVAd-Hoc Wedding PlannerGrewards¢DtypeEmoneyFamount\000’\0004d¤Fsource¢DtypeCnpcBid\000EOcontentTuningID	DnameSA Light in the DarkGrewards¢DtypeEmoneyFamount\000$ \000Dâ¤Fsource¢DtypeCnpcBid\000q–OcontentTuningIDHDnameJNot Again!Grewards¢DtypeEmoneyFamount\000’\0007d¤Fsource¢DtypeCnpcBid\000p­OcontentTuningID\níDnameVThe History Beneath UsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000QÔ€\000QÒ¤Fsource¢DtypeCnpcBid\000–ĞOcontentTuningID¼DnameJA LifelineGrewards¢DtypeEmoneyFamount\000’\000D“¤Fsource¢DtypeCnpcBid\000pÉOcontentTuningIDHDnamePShield Your EyesGrewards¢DtypeEmoneyFamount\000$ \000)×£Fsource¢DtypeCnpcBid\000&ÀOcontentTuningID\nùDnameXKeep the Home Fires Burning\0009¼¤Fsource¢DtypeCnpcBid\000Y&OcontentTuningID\nïDnameQReturn to the SeaGrewards‚¤HminLevelKDtypeJexperienceGamounts… Ğ!4!˜!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000Bc¢OcontentTuningID-DnameX%Special Assignment: Bombs from Behind\000Jâ¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningID½DnameLCrime FamilyGrewards¢DtypeEmoneyFamount\000’\000Cc¢OcontentTuningID\nùDnameX)Special Assignment: Rise of the Colossals\000;(¤Fsource¢DtypeFobjectBid\000¶ROcontentTuningID\nùDnameQTarnished CompassGrewards¢DtypeEmoneyFamount[h\000]¤Fsource¢DtypeCnpcBid\000¯ØOcontentTuningIDÀDnameUThe Untethered HorrorGrewards¢DtypeEmoneyFamount\000$ \000Dã¤Fsource¢DtypeCnpcBid\000q–OcontentTuningIDHDnameWEye Sores for Sore EyesGrewards¢DtypeEmoneyFamount\000’\0005e¤Fsource¢DtypeCnpcBid\000?ÿOcontentTuningID\nîDnameSNot Waste, Not WantGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0005å¤Fsource¢DtypeCnpcBid\000LUOcontentTuningID\rDnameQThe Fleet ArrivesGrewards¢DtypeEmoneyFamount\000É\000\\ÿ¤Fsource¢DtypeCnpcBid\000¯ØOcontentTuningIDÀDnameSThe Untethered VoidGrewards¢DtypeEmoneyFamount\000’\000Nâ¤Fsource¢DtypeCnpcBid\000ƒ–OcontentTuningIDÀDnameUSalvaging What's LeftGrewards¢DtypeEmoneyFamount[h\0007e¤Fsource¢DtypeCnpcBid\000R\\OcontentTuningID\nÊDnamePMeans of IngressGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000]$¤Fsource¢DtypeCnpcBid\000¯ÁOcontentTuningIDÀDnameMAnother WorldGrewards¢DtypeEmoneyFamount\000’\000]Ù¤Fsource¢DtypeCnpcBid\000¯´OcontentTuningIDÀDnameJWrapped UpGrewards¢DtypeEmoneyFamount\000’\000Uw¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameTThe Skies of K'areshGrewards¢DtypeEmoneyFamount\000$ \00051¤Fsource¢DtypeCnpcBid\000HÖOcontentTuningID\nïDnameJVae VictisGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \0004³¤Fsource¢DtypeCnpcBid\000LIOcontentTuningID\rDnameUElemental TrepidationGrewards¢DtypeEmoneyFamount\000’\000Ut¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameQK'arrocing PhotosGrewards¢DtypeEmoneyFamount\000É\000Jã¤Fsource¢DtypeCnpcBid\000‰TOcontentTuningID½DnameNTo See a TrollGrewards¢DtypeEmoneyFamount[h\0003f¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÀÀh ÓJAxû?İEbàŸèhBid\000BnOcontentTuningID\nïDnameXReclaiming Velhan's ClaimGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Kã¤Fsource¢DtypeCnpcBid\000”iOcontentTuningIDÀDnameSSealing the ShadowsGrewards¢DtypeEmoneyFamount\000’\0004f¤Fsource¢DtypeCnpcBid\000EOcontentTuningID	DnameTCutting Off the LegsGrewards¢DtypeEmoneyFamount\000’\000Dä¤Fsource¢DtypeCnpcBid\000zOcontentTuningIDHDnameVBlack Blood Baton PassGrewards¢DtypeEmoneyFamount[h\0005f£OcontentTuningID\nîDnameOBroken MemoriesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Ö : Ğ!4!˜$²HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000I¤Fsource£DtypeCnpcIlocations¡	*¢Ayû?ÕÑ¿zÔ²tAxû?ØäŸQi Bid\000|OcontentTuningIDHDnameUDiving into the HeapsGrewards¢DtypeEmoneyFamount\000É\000FZ¤Fsource¢DtypeCnpcBid\000vÊOcontentTuningIDHDnameNResponsibilityGrewards¢DtypeEmoneyFamount\000É\000Uq¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnamePFrom Death, LifeGrewards¢DtypeEmoneyFamount\000É\0007f¤Fsource¢DtypeCnpcBid\000R\\OcontentTuningID\nÊDnameXSkeins Street IrregularsGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000R/¤Fsource¢DtypeCnpcBid\000“6OcontentTuningIDHDnameKRocket RollGrewards¢DtypeEmoneyFamount[h\0005Ç¤Fsource¢DtypeCnpcBid\000r†OcontentTuningID\nïDnameVA Principled PrincipalGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0005¤Fsource¢DtypeCnpcBid\000&ÀOcontentTuningID	DnameLFollow MiralGrewards¢DtypeEmoneyFamount\000’\000Tş¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameX A Truth Universally AcknowledgedGrewards¢DtypeEmoneyFamount\000$ \000Tı¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameQShameless HawkingGrewards¢DtypeEmoneyFamount\000’\000Be¢OcontentTuningID-DnameMDye! Dye Dye!\000Jä¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningID½DnameXThe Syndicate Strikes BackGrewards¢DtypeEmoneyFamount[h\0003g¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÀÀh ÓJAxû?İEbàŸèhBid\000BnOcontentTuningID\nïDnameHLamp LitGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Kä¤Fsource¢DtypeCnpcBid\000”jOcontentTuningIDÀDnameSHeroes Among ShadowGrewards¢DtypeEmoneyFamount\000’\0004g¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÚâÅ\\–Axû?áıX…Ó8Bid\000E„OcontentTuningID\nïDnameREver Deeper ShadowGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Då¤Fsource¢DtypeCnpcBid\000{OcontentTuningIDHDnameVClearing Out the DepotGrewards¢DtypeEmoneyFamount\000’\000Tû¤Fsource¢DtypeCnpcBid\000‹ÁOcontentTuningID¿DnameISalad BarGrewards¢DtypeEmoneyFamount\000É\0005ç¤Fsource¢DtypeCnpcBid\000@ÀOcontentTuningID\níDnameROne More TraditionGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000>f£OcontentTuningID\rDnameHShip It!Grewards¢DtypeEmoneyFamount[h\000Tü¤Fsource¢DtypeCnpcBid\000‹ÁOcontentTuningID¿DnameSRooting for TroubleGrewards¢DtypeEmoneyFamount\000É\000QM¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameULapbug Essence HunterGrewards¢DtypeEmoneyFamount\000’\000Qx¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameMFoxy FootworkGrewards¢DtypeEmoneyFamount\000$ \000QX¤Fsource¢DtypeCnpcBid\000—YOcontentTuningID¿DnameQFantastic Ms. FoxGrewards¢DtypeEmoneyFamount\000É\000QO¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameMStrike a PoseGrewards¢DtypeEmoneyFamount\000É\000QZ¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameXWhat Does the Fox Dream?Grewards¢DtypeEmoneyFamount\000É\000QN¤Fsource¢DtypeCnpcBid\000“LOcontentTuningID¿DnameKEau de FoxyGrewards¢DtypeEmoneyFamount\000É\000QL¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameHFox BaneGrewards¢DtypeEmoneyFamount\000’\000Jå¤Fsource¢DtypeCnpcBid\000‰ZOcontentTuningID½DnameOHammerfall DownGrewards¢DtypeEmoneyFamount\000’\0003h¤Fsource¢DtypeCnpcBid\000BlOcontentTuningID\nîDnameWWe Don't Go to TaellochGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000Kå¤Fsource¢DtypeCnpcBid\000“óOcontentTuningIDÀDnameRCore ContributionsGrewards¢DtypeEmoneyFamount\000’\0004h¤Fsource¢DtypeCnpcBid\000EOcontentTuningID\nïDnameTThe Final ResistanceGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000Dæ¤Fsource¢DtypeCnpcBid\000sOcontentTuningIDHDnameLOur Good PalGrewards¢DtypeEmoneyFamount\000’\000P®¤Fsource¢DtypeCnpcBid\000“ OcontentTuningID¿DnameXOne Mushroom to Rule Them AllGrewards¢DtypeEmoneyFamount\000’\0005è¤Fsource¢DtypeCnpcBid\000LiOcontentTuningID\níDnameWThe Forging of MemoriesGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000Ff¤Fsource¢DtypeCnpcBid\000vØOcontentTuningIDHDnameLCasino CourtGrewards¢DtypeEmoneyFamount\000É\000>ç£OcontentTuningIDDnameXHoney Thieving NerubiansGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000?g¢OcontentTuningID5DnameTScrounge that Scrap!\000P­¤Fsource¢DtypeCnpcBid\000“ OcontentTuningID¿DnameOFungal InvasionGrewards¢DtypeEmoneyFamount\000’\000P¬¤Fsource¢DtypeCnpcBid\000“ OcontentTuningID¿DnameLMore-shroomsGrewards¢DtypeEmoneyFamount\000’\000P«¤Fsource¢DtypeCnpcBid\000“ OcontentTuningID¿DnameXThe Smallest Possible EffortGrewards¢DtypeEmoneyFamount\000’\000P¦¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameLGhost BusterGrewards¢DtypeEmoneyFamount\000’\000QW¤Fsource¢DtypeCnpcBid\000—OcontentTuningID¿DnameQReturn to K'areshGrewards¢DtypeEmoneyFamount[h\000QV¤Fsource¢DtypeCnpcBid\000—OcontentTuningID¿DnameNAny Old ExcuseGrewards¢DtypeEmoneyFamount\000É\000Jæ¤Fsource¢DtypeCnpcBid\000‰[OcontentTuningID½DnameUOnce Bitten Twice ShyGrewards¢DtypeEmoneyFamount\000$ \0003i¤Fsource¢DtypeCnpcBid\000B‚OcontentTuningID\nîDnameWGhost of a Company TownGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000QU¤Fsource¢DtypeCnpcBid\000—OcontentTuningID¿DnameMTime for NomsGrewards¢DtypeEmoneyFamount\000É\000QT¤Fsource¢DtypeCnpcBid\000—OcontentTuningID¿DnameVSustainable HarvestingGrewards¢DtypeEmoneyFamount\000É\000Dç¤Fsource¢DtypeFobjectBid\000£‹OcontentTuningIDHDnameXAnother Piece of the PuzzleGrewards¢DtypeEmoneyFamount\000’\000QS¤Fsource¢DtypeCnpcBid\000—OcontentTuningID¿DnameVUsing the Whole AnimalGrewards¢DtypeEmoneyFamount\000’\0005é¤Fsource¢DtypeCnpcBid\000LiOcontentTuningID\níDnamePThe Last JourneyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠxrÖ : ĞN@ HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\0006ó\000­ŒHmaxLevelG\000>h£OcontentTuningIDDnameSProps and Incense??Grewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000KV¤Fsource¢DtypeCnpcBid\000”ùOcontentTuningID¿DnameJTo IskaaraGrewards¢DtypeEmoneyFamount[h\0007i¤Fsource¢DtypeCnpcBid\000=GOcontentTuningID\níDnamePFire in the HoleGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000?è¤Fsource¢DtypeCnpcBid\000P(OcontentTuningID	DnamePNew and ImprovedGrewards¢DtypeEmoneyFamount[h\000QQ¤Fsource¢DtypeCnpcBid\000”ùOcontentTuningID¿DnameTProtecting the YoungGrewards¢DtypeEmoneyFamount\000’\000QR¤Fsource¢DtypeCnpcBid\000”ùOcontentTuningID¿DnameUA Percussive AntidoteGrewards¢DtypeEmoneyFamount\000’\000QP¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameXHunting for a Good AuthorGrewards¢DtypeEmoneyFamount[h\000M¤Fsource¢DtypeCnpcBid\000‹ÁOcontentTuningID¿DnameTThe Royal ProcessionGrewards¢DtypeEmoneyFamount\000$ \000Bh¢OcontentTuningID-DnameVExfiltration Operation\0002ê¤Fsource¢DtypeCnpcBid\000>äOcontentTuningID\níDnameMFrayed LegacyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000Ch¤Fsource¢DtypeCnpcBid\000U§OcontentTuningID\níDnameOAll Ore NothingGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000Kç¤Fsource¢DtypeCnpcBid\000”|OcontentTuningIDÀDnameXThe Shadowguard ShatteredGrewards¢DtypeEmoneyFamount\000$ \000Dh¢OcontentTuningID5DnameOWayward Walkers\000Dè¤Fsource¢DtypeCnpcBid\000{OcontentTuningIDHDnameLJust a HunchGrewards¢DtypeEmoneyFamount\000$ \000M\r¤Fsource¢DtypeCnpcBid\000‹ÁOcontentTuningID¿DnameHBee RollGrewards¢DtypeEmoneyFamount\000É\0005ê¤Fsource¢DtypeCnpcBid\000@ÃOcontentTuningID\níDnamePThe Lost EarthenGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000M¤Fsource¢DtypeCnpcBid\000‹ÁOcontentTuningID¿DnameQHiving a Hard DayGrewards¢DtypeEmoneyFamount\000É\000M¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameLWaggle DanceGrewards¢DtypeEmoneyFamount\000É\0007j¢OcontentTuningID-DnameKGutter Work\000M\n¤Fsource¢DtypeCnpcBid\000‹ÁOcontentTuningID¿DnameNOh Honey HoneyGrewards¢DtypeEmoneyFamount\000É\000]¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?âLy1DFAxû?ßU!š„{$Bid\000‰ïOcontentTuningID¿DnameRLet There Bee LoveGrewards¢DtypeEmoneyFamount[h\000@é¤Fsource¢DtypeCnpcBid\000LhOcontentTuningID\rDnameTEmbassies and EnvoysGrewards¢DtypeEmoneyFamount\000’\000M¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?âLy1DFAxû?ßU!š„{$Bid\000‰ïOcontentTuningID¿DnameOBotany, FinallyGrewards¢DtypeEmoneyFamount\000É\000M¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?âLy1DFAxû?ßU!š„{$Bid\000‰ïOcontentTuningID¿DnameMTranquila-BeeGrewards¢DtypeEmoneyFamount\000É\000M	¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?ã—¦zR¬uAxû?Ş÷3¨£ø˜Bid\000‰ïOcontentTuningID¿DnameOPrimus BuzznessGrewards¢DtypeEmoneyFamount[h\0002ë¤Fsource¢DtypeCnpcBid\000>ÜOcontentTuningID\níDnameJMycomayhemGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000L[¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?ã—¦zR¬uAxû?Ş÷3¨£ø˜Bid\000‰ïOcontentTuningID¿DnameLPhotogra-BeeGrewards¢DtypeEmoneyFamount\000É\0003ë¤Fsource¢DtypeFobjectBid\000OşOcontentTuningID\nîDnameOGo Take Candle!Grewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000L\\¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?ã—¦zR¬uAxû?Ş÷3¨£ø˜Bid\000‰ïOcontentTuningID¿DnameJBee StrongGrewards¢DtypeEmoneyFamount\000É\000Dé¤Fsource¢DtypeCnpcBid\000/OcontentTuningID-DnameSSocialized MedicineGrewards¢DtypeEmoneyFamount\000’\000M¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameJA Bee TestGrewards¢DtypeEmoneyFamount[h\0005ë¤Fsource¢DtypeCnpcBid\000O.OcontentTuningID\níDnameUA Change of TraditionGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000>j£OcontentTuningID\rDnamePBountiful DelvesGrewards¢DtypeEmoneyFamount\000$ \000LZ¤Fsource£DtypeCnpcIlocations¡®¢Ayû?å6CˆëÌAxû?ç8A$~Bid\000‰ïOcontentTuningID¿DnameJTo K'areshGrewards¢DtypeEmoneyFamount[h\0007k¤Fsource¢DtypeCnpcBid\000R\\OcontentTuningID\nÊDnameXRepatriation by SubtractionGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000LX¤Fsource£DtypeCnpcIlocations¡®¢Ayû?å6CˆëÌAxû?ç8A$~Bid\000‰ïOcontentTuningID¿DnameXAn Un-Bee-lievable SolutionGrewards¢DtypeEmoneyFamount\000’\000LV¤Fsource¢DtypeCnpcBid\000‰ïOcontentTuningID¿DnameQBee in the BonnetGrewards¢DtypeEmoneyFamount\000’\000LU¤Fsource¢DtypeCnpcBid\000‰ïOcontentTuningID¿DnameNSticky FingersGrewards¢DtypeEmoneyFamount\000’\000LS¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameLTo StormsongGrewards¢DtypeEmoneyFamount[h\000U,¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameIJunk MailGrewards¢DtypeEmoneyFamount\000’\000U*¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameSDay One OrientationGrewards¢DtypeEmoneyFamount\000’\0002ì¤Fsource¢DtypeCnpcBid\000>ÜOcontentTuningID\níDnameMWold MemoriesGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0003l¤Fsource¢DtypeCnpcBid\000MŸOcontentTuningID\nîDnameUControlled DemolitionGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000U+¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameROngoing ActivitiesGrewards¢DtypeEmoneyFamount\000’\000U)¤Fsource¢DtypeCnpcBid\000¢OcontentTuningID¿DnamePCustodian DutiesGrewards¢DtypeEmoneyFamount\000É\000Dê¤Fsource¢DtypeCnpcBid\000/OcontentTuningID-DnameVRules and ConsequencesGrewards¢DtypeEmoneyFamount\000’\000Ej£OcontentTuningID\nÊDnameXWhere the Wild Things CampGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0005ì¤Fsource¢DtypeCnpcBid\000LmOcontentTuningID\níDnameTTools of DeclarationGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000Tú¤Fsource¢DtypeCnpcBid\000¢„OcontentTuningID¿DnameIThe OasisGrewards¢DtypeEmoneyFamount[h\000Lù¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?ã^ÎWˆAxû?ãô{gkBid\000OcontentTuningIDÀDnameSA Once-Proud PriestGrewards¢DtypeEmoneyFamount\000$ \0007l¤Fsource¢DtypeCnpcBid\000R£OcontentTuningID\níDnameUA Titanic Expedition!Grewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000A2¤Fsource¢DtypeCnpcBid\000gĞOcontentTuningID\nõDnameOPapers? Please!Grewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø++\"ö,bHmaxLevelO¢DtypeEmoneyFamount\000’\0004´¤Fsource¢DtypeCnpcBid\000LLOcontentTuningID\rDnameXWe Require More MineralsGrewards¢DtypeEmoneyFamount\000’\000Eİ¤Fsource¢DtypeCnpcBid\000tÖOcontentTuningIDHDnameSThe Perfect WeddingGrewards¢DtypeEmoneyFamount\000$ \000Mˆ¤Fsource¢DtypeCnpcBid\000‹ŸOcontentTuningIDÀDnameOMarket ResearchGrewards¢DtypeEmoneyFamount\000É\000M‡¤Fsource¢DtypeCnpcBid\000‹ŸOcontentTuningIDÀDnamePApplied MixologyGrewards¢DtypeEmoneyFamount\000É\000L¤Fsource¢DtypeCnpcBid\000‡şOcontentTuningIDÀDnameTThe Blood of K'areshGrewards¢DtypeEmoneyFamount\000’\0002í¤Fsource¢DtypeCnpcBid\000TİOcontentTuningID\níDnameLKeeper's AidGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0003m¤Fsource¢DtypeCnpcBid\000M OcontentTuningID\nîDnameRThe Truth in ChalkGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000L¤Fsource¢DtypeCnpcBid\000†úOcontentTuningIDÀDnameSPackets of PromisesGrewards¢DtypeEmoneyFamount\000­Œ\000KZ¤Fsource¢DtypeCnpcBid\000…›OcontentTuningIDÀDnamePEco-Dome: RhovanGrewards¢DtypeEmoneyFamount[h\000K“¤Fsource¢DtypeCnpcBid\000…SOcontentTuningIDÀDnamePK'aresh That WasGrewards¢DtypeEmoneyFamount\000­Œ\0005m¤Fsource¢DtypeCnpcBid\000pÆOcontentTuningID\níDnameOThe AnachronismGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005í¤Fsource¢DtypeCnpcBid\000LmOcontentTuningID\níDnameOCleansing AshesGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0006m¢OcontentTuningID\nùDnameMLurking Below\000K¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningIDÀDnameRSigns in the SandsGrewards¢DtypeEmoneyFamount\000É\0007m¤Fsource¢DtypeCnpcBid\000RäOcontentTuningID\níDnameRNot a Heating PackGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000d²¤Fsource¢DtypeCnpcBid\000ÃIOcontentTuningID?DnameTUntethered PotentialGrewards¢DtypeEmoneyFamount\000’\000]\000¤Fsource¢DtypeCnpcBid\000¯ØOcontentTuningIDÀDnameTWhat Doesn't See YouGrewards¢DtypeEmoneyFamount\000’\000@ì¢OcontentTuningIDDnameX'Special Assignment: When the Deeps Stir\000Al¤Fsource¢DtypeCnpcBid\000\\öOcontentTuningID	DnameXRemembrance for the FallenGrewards¢DtypeEmoneyFamount\000’\000c:£OcontentTuningIDÀDnameWA Skip Through the VoidGrewards¢DtypeEmoneyFamount[h\000c¤¤Fsource£DtypeCnpcIlocations¡	­¢Ayû?àÿâ£Î¦ÂAxû?ãÖlô!-Bid\000¬ÊOcontentTuningIDÀDnameRHunger of the VoidGrewards¢DtypeEmoneyFamount\000$ \0002î¤Fsource¢DtypeCnpcBid\000TİOcontentTuningID\níDnamePBoss of the BoskGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000Cl¤Fsource¢DtypeCnpcBid\000mÃOcontentTuningID\níDnamePThird Mine BlindGrewards‚¤HminLevelFDtypeJexperienceGamountsŠP´æJ|àN4\rHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000$¢\000ÉHmaxLevelG\000Cb¤Fsource¢DtypeCnpcBid\000mZOcontentTuningID\nîDnameLDuty of CareGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000Jé¤Fsource¢DtypeCnpcBid\000‰’OcontentTuningID½DnameOFallen FortressGrewards¢DtypeEmoneyFamount[h\000Ky¤Fsource¢DtypeCnpcBid\000’zOcontentTuningIDÀDnamePEco-Dome: PrimusGrewards¢DtypeEmoneyFamountä„\000\\ì¤Fsource¢DtypeCnpcBid\000²OcontentTuningIDÀDnameXA Piece of Something GreaterGrewards¢DtypeEmoneyFamount\000’\0005î¤Fsource¢DtypeCnpcBid\000LmOcontentTuningID\níDnameMAs He DepartsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0006n¢OcontentTuningID\nùDnameMWaters of War\000\\ë¤Fsource¢DtypeCnpcBid\000kOcontentTuningIDÀDnameLWasted LandsGrewards¢DtypeEmoneyFamount[h\0007n¤Fsource¢DtypeCnpcBid\000R8OcontentTuningID\níDnameM\"Cataloguing\"Grewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000S¤Fsource¢DtypeCnpcBid\000¬ÊOcontentTuningIDÀDnameOThe Void HunterGrewards¢DtypeEmoneyFamount\000’\000c\\¤Fsource¢DtypeCnpcBid\000ÉYOcontentTuningIDÀDnameNA Common CauseGrewards¢DtypeEmoneyFamount[h\000K¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?áCoÁXûAxû?ç:}ªOÊBid\000ƒOcontentTuningIDÀDnameSOf Bonds and BoughsGrewards¢DtypeEmoneyFamount\000’\000KT¤Fsource£DtypeCnpcIlocations¡	C¢Ayû?áªSü\000–ÿAxû?èn¨TGñBid\000ƒYOcontentTuningIDÀDnameQBy Oath and BloodGrewards¢DtypeEmoneyFamount\000É\000K¤Fsource¢DtypeCnpcBid\000ƒYOcontentTuningIDÀDnamePWe Are Our WordsGrewards¢DtypeEmoneyFamount\000É\000K¤Fsource¢DtypeCnpcBid\000ƒYOcontentTuningIDÀDnameQToil and TrespassGrewards¢DtypeEmoneyFamount\000É\000Jì¤Fsource¢DtypeCnpcBid\000ƒ\nOcontentTuningID½DnameWReturning to StromgardeGrewards¢DtypeEmoneyFamount[h\0003o¤Fsource¢DtypeCnpcBid\000GlOcontentTuningID\nîDnameOBuried in StoneGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000Kì¤Fsource¢DtypeCnpcBid\000†úOcontentTuningIDÀDnameQChipping the VoidGrewards¢DtypeEmoneyFamount\000’\000K¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningIDÀDnameQBridge to NowhereGrewards¢DtypeEmoneyFamount\000É\000Dí¤Fsource¢DtypeCnpcBid\000d›OcontentTuningIDDnameWBest Friends, Same EndsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~7F88¤9lHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000L-¤Fsource¢DtypeCnpcBid\000ˆ`OcontentTuningIDÀDnameMThat's a WrapGrewards¢DtypeEmoneyFamount\000\n¶0\0005ï£OcontentTuningID\nîDnameVEveryday I'm Snufflin'Grewards‚¤HminLevelIDtypeJexperienceGamounts‡Ö : Ğ!4!˜$²HmaxLevelO¢DtypeEmoneyFamount\000­Œ\0006o¢OcontentTuningID\nùDnameJBleak Sand\000K¦¤Fsource¢DtypeCnpcBid\000ˆ?OcontentTuningIDÀDnameUAdverse InstantiationGrewards¢DtypeEmoneyFamount\000’\0007o¤Fsource¢DtypeCnpcBid\000R;OcontentTuningID\níDnameRBecause It's ShinyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000K¤¤Fsource¢DtypeCnpcBid\000ˆOcontentTuningIDÀDnameXLike a Knife Through AetherGrewards¢DtypeEmoneyFamount\000’\000K£¤Fsource¢DtypeCnpcBid\000…¡OcontentTuningIDÀDnameUShadowguard DiffusionGrewards¢DtypeEmoneyFamount\000’\000K¢¤Fsource¢DtypeCnpcBid\000ˆOcontentTuningIDÀDnameTThe Sands of K'areshGrewards¢DtypeEmoneyFamount\000’\000K¡¤Fsource¢DtypeCnpcBid\000…¢OcontentTuningIDÀDnameXThe Calm Before We StormGrewards¢DtypeEmoneyFamount\000’\000Aî¢OcontentTuningID-DnameX#Special Assignment: A Pound of Cure\000K ¤Fsource¢DtypeCnpcBid\000…‚OcontentTuningIDÀDnameRThe Next DimensionGrewards¢DtypeEmoneyFamount[h\000Jí¤Fsource¢DtypeCnpcBid\000‰OcontentTuningID½DnameTRise of the Red DawnGrewards¢DtypeEmoneyFamount\000\n¶0\0003p¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?äÄŞÁÁ×Axû?åã²VÿÁBid\000GjOcontentTuningID\nîDnamePFind the ForemanGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000Kí¤Fsource¢DtypeCnpcBid\000†úOcontentTuningIDÀDnameROf Motes and HusksGrewards¢DtypeEmoneyFamount\000’\000K¤Fsource¢DtypeCnpcBid\000…ROcontentTuningIDÀDnameNRestoring HopeGrewards¢DtypeEmoneyFamount\000’\000Dî¤Fsource¢DtypeCnpcBid\000SÎOcontentTuningID\nïDnameTA Bloody InheritanceGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0005p£OcontentTuningID\nùDnameSWeb of ManipulationGrewards¢DtypeEmoneyFamount\000’\0005ğ¤Fsource¢DtypeCnpcBid\000G…OcontentTuningID\rDnameMUrban OdysseyGrewards¢DtypeEmoneyFamount[h\000Fn¤Fsource£DtypeCnpcIlocations¡	*¢Ayû?ÜYWŠ*ÍAxû?â+GA1MBid\000vNOcontentTuningIDHDnamePOh, That Casino!Grewards¢DtypeEmoneyFamount\000É\000Q<¤Fsource¢DtypeCnpcBid\000’ÎOcontentTuningIDÀDnameUDistribution of PowerGrewards¢DtypeEmoneyFamount\000’\0007p¤Fsource¢DtypeCnpcBid\000RäOcontentTuningID\níDnameUIt's Probably NothingGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0004V¤Fsource£DtypeCnpcIlocations¡§¢Ayû?Ó­…ß¨q¤Axû?áAáKßÒcBid\000EjOcontentTuningID\nïDnameTBlades of the ArathiGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Kp¤Fsource¢DtypeCnpcBid\000„êOcontentTuningIDÀDnameOBefore the VoidGrewards¢DtypeEmoneyFamount\000’\000Kf¤Fsource¢DtypeCnpcBid\000‘–OcontentTuningIDÀDnameREnemies of EnemiesGrewards¢DtypeEmoneyFamount\000$ \0009§¢OcontentTuningIDDnameX!Rocks, Water and Elemental Fodder\000Kb¤Fsource¢DtypeCnpcBid\000‘–OcontentTuningIDÀDnameNTempest CleftsGrewards¢DtypeEmoneyFamount\000’\000K_¤Fsource¢DtypeCnpcBid\000ƒ–OcontentTuningIDÀDnameVThe Rhovan InfestationGrewards¢DtypeEmoneyFamount\000’\000K[¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningIDÀDnameRThe Shattered DomeGrewards¢DtypeEmoneyFamount\000’\0003q¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?äŠ^ş“vAxû?åéÀ\"š^»Bid\000GlOcontentTuningID\nîDnameLWhat She SawGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000Kî¤Fsource¢DtypeCnpcBid\000†úOcontentTuningIDÀDnameNShards of HopeGrewards¢DtypeEmoneyFamount\000’\000a•¤Fsource¢DtypeCnpcBid\000³jOcontentTuningIDÀDnameSMy Part of the DealGrewards¢DtypeEmoneyFamount\000’\0004ñ¤Fsource¢DtypeCnpcBid\000o¤OcontentTuningID\nïDnameSConsecrated CleanupGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0005q¤Fsource¢DtypeCnpcBid\000F‡OcontentTuningID\rDnameLBack to BaseGrewards¢DtypeEmoneyFamount[h\000S¢¤Fsource¢DtypeCnpcBid\000 ‰OcontentTuningIDÀDnameWUnwrapped and UnraveledGrewards¢DtypeEmoneyFamount\000’\0002¤Fsource¢DtypeCnpcBid\000KˆOcontentTuningID\nÊDnameSFor Naught, So VialGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000AN£OcontentTuningIDDnameKAquacalypseGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0007q¤Fsource¢DtypeCnpcBid\000R\\OcontentTuningID\nÊDnamePEducate YourselfGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000>_£OcontentTuningID-DnameX\"Infiltration: Terror Made ManifestGrewards¢DtypeEmoneyFamount\000’\000K¤Fsource¢DtypeCnpcBid\000…OcontentTuningIDÀDnamePCounter MeasuresGrewards¢DtypeEmoneyFamount\000’\000K~¤Fsource¢DtypeCnpcBid\000…©OcontentTuningIDÀDnameMVoid AllianceGrewards¢DtypeEmoneyFamount\000’\000Ap£OcontentTuningIDDnameTWork Hard, Play HardGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000K}¤Fsource¢DtypeCnpcBid\000…OcontentTuningIDÀDnameQThis Is Our Dome!Grewards¢DtypeEmoneyFamount\000’\000K|¤Fsource¢DtypeCnpcBid\000…OcontentTuningIDÀDnameOEco-StabilizingGrewards¢DtypeEmoneyFamount\000’\000Jï¤Fsource¢DtypeCnpcBid\000ŠÄOcontentTuningID¼DnameUThe Expedition AwaitsGrewards¢DtypeEmoneyFamount[h\0003r¤Fsource¢DtypeCnpcBid\000Y<OcontentTuningID\nîDnameXThe High Speaker's SecretGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Fxxxª9&HmaxLevelO¢DtypeEmoneyFamount[h\000K{¤Fsource¢DtypeCnpcBid\000…OcontentTuningIDÀDnameQDamage Report 101Grewards¢DtypeEmoneyFamount\000’\000Kz¤Fsource¢DtypeCnpcBid\000…OcontentTuningIDÀDnameNSystem RestartGrewards¢DtypeEmoneyFamount\000’\000\\í¤Fsource¢DtypeCnpcBid\000²OcontentTuningIDÀDnameSThe Void ConfluenceGrewards¢DtypeEmoneyFamount[h\000Kx¤Fsource¢DtypeCnpcBid\000‘ÚOcontentTuningIDÀDnameVWhere the Void GathersGrewards¢DtypeEmoneyFamount\000’\000Kw¤Fsource¢DtypeCnpcBid\000…–OcontentTuningIDÀDnameLDead SilenceGrewards¢DtypeEmoneyFamount\000’\000Ká¤Fsource¢DtypeCnpcBid\000”dOcontentTuningIDÀDnameQBarriers to EntryGrewards¢DtypeEmoneyFamount\000’\000L/¤Fsource¢DtypeCnpcBid\000ˆŒOcontentTuningIDÀDnameWCompromised ContainmentGrewards¢DtypeEmoneyFamount\000’\0007r¤Fsource£DtypeCnpcIlocations¡¥¢Ayû?Ó\r¿cíAxû?ÕÅ;Ê¸Bid\000R\\OcontentTuningID\nÊDnameNDogged PursuitGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000$ \000L¤Fsource¢DtypeCnpcBid\000„ÌOcontentTuningIDÀDnameX Restoring Operational EfficiencyGrewards¢DtypeEmoneyFamount\000’\000U¤Fsource¢DtypeCnpcBid\000¡¼OcontentTuningID½DnameXHow Old Are These Things?Grewards¢DtypeEmoneyFamount\000’\000Jê¤Fsource¢DtypeCnpcBid\000‰™OcontentTuningID½DnameXFrom Ironforge With LoveGrewards¢DtypeEmoneyFamount\000’\000J³¤Fsource¢DtypeCnpcBid\000¡¼OcontentTuningID½DnameUThe Search for FaerinGrewards¢DtypeEmoneyFamount\000’\000Añ¢OcontentTuningIDDnameJA Rare Key\000Jë¤Fsource¢DtypeCnpcBid\000‰˜OcontentTuningID½DnameUThe Search for DanathGrewards¢DtypeEmoneyFamount\000’\000Jğ¤Fsource¢DtypeCnpcBid\000ƒ[OcontentTuningID¼DnameRTo the Siren Isle!Grewards¢DtypeEmoneyFamount\000É\000Cq¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ã}æOTÒAxû?ŞMÕËyBid\000mÄOcontentTuningID\níDnameMBeetlejeweledGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000J±¤Fsource¢DtypeCnpcBid\000‰”OcontentTuningID½DnameTReturn to StromgardeGrewards¢DtypeEmoneyFamount[h\000Dq¤Fsource£DtypeCnpcIlocations¡¨¢Ayû?ÙäêĞÃÒAxû?á›¿\rÇhàBid\000iëOcontentTuningID\nÊDnameRSetting BoundariesGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000\\î¤Fsource£DtypeCnpcIlocations¡	­¢Ayû?àÿâ£Î¦ÂAxû?ãÖlô!-Bid\000¬ÊOcontentTuningIDÀDnameRDistilled DarknessGrewards¢DtypeEmoneyFamount\000’\000Jè¤Fsource¢DtypeCnpcBid\000‰•OcontentTuningID½DnameJFalse FlagGrewards¢DtypeEmoneyFamount\000É\000Jç¤Fsource¢DtypeCnpcBid\000‰{OcontentTuningID½DnameVDanath's DisappearanceGrewards¢DtypeEmoneyFamount[h\0006s¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ã^_0çÿXAxû?Ñ°Ì¼Õ,Bid\000GÓOcontentTuningID\rDnameUCharging Up That HillGrewards¢DtypeEmoneyFamount\000’\000>ò¢OcontentTuningID\rDnameX&Special Assignment: Titanic Resurgence\000MË¤Fsource¢DtypeCnpcBid\000‰XOcontentTuningID½DnameXThe Burning of HammerfallGrewards¢DtypeEmoneyFamount\000’\000Já¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningID½DnameXWithering the WitherbarkGrewards¢DtypeEmoneyFamount\000’\000Jà¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningID½DnameXA Different Point of ViewGrewards¢DtypeEmoneyFamount\000É\000J°¤Fsource¢DtypeCnpcBid\000…ŸOcontentTuningID½DnameTOnward to HammerfallGrewards¢DtypeEmoneyFamount[h\000J¬¤Fsource¢DtypeCnpcBid\000OcontentTuningID½DnameJSupply RunGrewards¢DtypeEmoneyFamount\000’\000Aò¢OcontentTuningIDDnameXA Cache of Crests and Power\0002t¢OcontentTuningID\nùDnameXReinforcements - Activate\000Jñ¤Fsource¢DtypeCnpcBid\000ƒbOcontentTuningID¼DnameQTo Scan a CrystalGrewards¢DtypeEmoneyFamount\000’\000Jª¤Fsource¢DtypeCnpcBid\000‚4OcontentTuningID½DnameXFinding Refuge at Refuge PointeGrewards¢DtypeEmoneyFamount\000É\000J²¤Fsource¢DtypeCnpcBid\000‰DOcontentTuningID½DnameNFinding FamilyGrewards¢DtypeEmoneyFamount\000’\000cŸ£OcontentTuningID½DnamePFaerin's RequestGrewards¢DtypeEmoneyFamount[h\000\\ï¤Fsource£DtypeCnpcIlocations¡	­¢Ayû?àÿâ£Î¦ÂAxû?ãÖlô!-Bid\000¬ÊOcontentTuningIDÀDnameEChaosGrewards¢DtypeEmoneyFamount\000$ \000Up¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameOBeing SpiritualGrewards¢DtypeEmoneyFamount\000’\000Eò¤Fsource¢DtypeCnpcBid\000u	OcontentTuningIDHDnameRTossed and TorquedGrewards¢DtypeEmoneyFamount\000É\0006t¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ã^_0çÿXAxû?Ñ°Ì¼Õ,Bid\000GÓOcontentTuningID\rDnamePHeeding the CallGrewards¢DtypeEmoneyFamount\000’\0005Ü¤Fsource¢DtypeCnpcBid\000POcontentTuningID\rDnameQTo the WaterworksGrewards¢DtypeEmoneyFamount[h\000>R£OcontentTuningID-DnameXBounty: Balaxir the BullyGrewards¢DtypeEmoneyFamount\000’\000E‰¤Fsource¢DtypeCnpcBid\000uèOcontentTuningID\níDnameLStormscarredGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\0003`¤Fsource¢DtypeCnpcBid\000BmOcontentTuningID\nïDnameKCage, MatchGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000?¤Fsource¢DtypeCnpcBid\000anOcontentTuningID\nÊDnameXMeasure Once, Cut ThriceGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000As£OcontentTuningIDDnameLRobot RumbleGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000Aó¢OcontentTuningIDDnameJDO NOT USE\000:t¤Fsource¢DtypeCnpcBid\000F{OcontentTuningID—DnameVThe Bronzebeard FamilyGrewards‚¤HminLevelFDtypeJexperienceGamounts‡( (  j64HmaxLevelL¢DtypeEmoneyFamount\000ID\000Jò¤Fsource¢DtypeCnpcBid\000ƒbOcontentTuningID¼DnameTFacet-nating SignalsGrewards¢DtypeEmoneyFamount\000’\000IP¤Fsource£DtypeCnpcIlocations¡^¢Ayû?âÿùµc#¼Axû?Ìã.8!¯}Bid\000|ÖOcontentTuningIDHDnameXA Gem-Splitting HeadacheGrewards¢DtypeEmoneyFamount\000$ \0003õ¤Fsource¢DtypeCnpcBid\000>pOcontentTuningID\nîDnameXPomp and Dire CircumstanceGrewards‚¤HminLevelIDtypeJexperienceGamounts‡\nŒ\n¾\nğ\"\"rLHmaxLevelO¢DtypeEmoneyFamountä„\000IO¤Fsource£DtypeCnpcIlocations¡^¢Ayû?âÿùµc#¼Axû?Ìã.8!¯}Bid\000|ÖOcontentTuningIDHDnameXExperimental ApplicationGrewards¢DtypeEmoneyFamount\000’\000IN¤Fsource£DtypeCnpcIlocations¡^¢Ayû?âÿùµc#¼Axû?Ìã.8!¯}Bid\000|ÖOcontentTuningIDHDnameRCreative IterationGrewards¢DtypeEmoneyFamount\000’\000Es¤Fsource¢DtypeCnpcBid\000røOcontentTuningID\rDnameXPreparing for the UnknownGrewards¢DtypeEmoneyFamount[h\0005õ¤Fsource¢DtypeCnpcBid\000D˜OcontentTuningID\nÊDnameREntrepreneur, Inc.Grewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0006u¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ãÁiÂ;ySAxû?ÒõÉ°Bid\000GÿOcontentTuningID\rDnameFStraysGrewards¢DtypeEmoneyFamount\000É\000IM¤Fsource¢DtypeCnpcBid\000|ÖOcontentTuningIDHDnameOMineral MadnessGrewards¢DtypeEmoneyFamount\000’\000IL¤Fsource¢DtypeCnpcBid\000|ÖOcontentTuningIDHDnameVRefine, Repair, RepeatGrewards¢DtypeEmoneyFamount\000’\000IJ¤Fsource¢DtypeFobjectBid\000ø+OcontentTuningIDHDnameXHELP WANTED: Kaja'CuriosityGrewards¢DtypeEmoneyFamount[h\000K›¤Fsource¢DtypeCnpcBid\000|)OcontentTuningIDHDnameXG.E.T.A. The Radioactive RatGrewards¢DtypeEmoneyFamount\000’\000K•¤Fsource¢DtypeFobjectBid\000ø+OcontentTuningIDHDnameTWorking for G.E.T.A.Grewards¢DtypeEmoneyFamount[h\000At£OcontentTuningIDDnameNRock CollectorGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000I¤Fsource¢DtypeCnpcBid\000}ùOcontentTuningIDHDnameNRenegotiationsGrewards¢DtypeEmoneyFamount\000$ \000Iœ¤Fsource¢DtypeFobjectBid\000\n´OcontentTuningIDHDnameLWeapons CashGrewards¢DtypeEmoneyFamount\000’\000Jó¤Fsource¢DtypeCnpcBid\000ƒOcontentTuningID¼DnameNBuried SecretsGrewards¢DtypeEmoneyFamount\000’\000Iš¤Fsource¢DtypeCnpcBid\000}ùOcontentTuningIDHDnameRRenter's InsuranceGrewards¢DtypeEmoneyFamount\000’\0003ö¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\nîDnameSCogs in the MachineGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000I›¤Fsource¢DtypeCnpcBid\000}üOcontentTuningIDHDnameNTenant TroubleGrewards¢DtypeEmoneyFamount\000’\000Fk¤Fsource¢DtypeCnpcBid\000vØOcontentTuningIDHDnameUCoffee is for ClosersGrewards¢DtypeEmoneyFamount\000É\000Ur¤Fsource¢DtypeCnpcBid\000—YOcontentTuningID¿DnameVPercussive NegotiationGrewards¢DtypeEmoneyFamount\000’\000LÅ¤Fsource¢DtypeCnpcBid\000vNOcontentTuningIDHDnamePOur Day in CourtGrewards¢DtypeEmoneyFamount[h\000FO¤Fsource¢DtypeCnpcBid\000ŠEOcontentTuningIDHDnameXPlunder Party Rockin' RumbleGrewards¢DtypeEmoneyFamount\000É\000FN¤Fsource¢DtypeCnpcBid\000vSOcontentTuningIDHDnameTAin't No Warm Up ActGrewards¢DtypeEmoneyFamount\000É\000I¤Fsource¢DtypeCnpcBid\000‰„OcontentTuningIDHDnameVBlackwater Beach BlastGrewards¢DtypeEmoneyFamount\000É\000FV¤Fsource¢DtypeCnpcBid\000vvOcontentTuningIDHDnameXQuick Gills for Gold NowGrewards¢DtypeEmoneyFamount\000É\000FU¤Fsource¢DtypeCnpcBid\000vvOcontentTuningIDHDnameMReview BombedGrewards¢DtypeEmoneyFamount\000É\000FT¤Fsource¢DtypeCnpcBid\000vtOcontentTuningIDHDnameMWork the LineGrewards¢DtypeEmoneyFamount\000É\000Au£OcontentTuningIDDnameWThe Power of FriendshipGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000FH¤Fsource¢DtypeCnpcBid\000|zOcontentTuningIDHDnameTAll Part of the GameGrewards¢DtypeEmoneyFamount\000É\000:v¤Fsource¢DtypeCnpcBid\000^OcontentTuningID\nÊDnameXDon't Cry for Me, Azj-KahetGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Jô¤Fsource¢DtypeCnpcBid\000†çOcontentTuningID¼DnameQThe Radiant VaultGrewards¢DtypeEmoneyFamount\000$ \000FG¤Fsource¢DtypeCnpcBid\000|yOcontentTuningIDHDnameXWinning is for Losers, AnywayGrewards¢DtypeEmoneyFamount\000É\0003÷¤Fsource¢DtypeCnpcBid\000>'OcontentTuningID\nîDnameOKobold ShoulderGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Ö : Ğ!4!˜$²HmaxLevelO¢DtypeEmoneyFamount\000’\000FD¤Fsource¢DtypeCnpcBid\000|DOcontentTuningIDHDnameXGold In Them There TrashGrewards¢DtypeEmoneyFamount\000É\000FB¤Fsource¢DtypeCnpcBid\000såOcontentTuningIDHDnameTDebting For A LivingGrewards¢DtypeEmoneyFamount\000É\000Us¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameXMaking Stuff to Look ToughGrewards¢DtypeEmoneyFamount\000É\000Eõ¤Fsource¢DtypeCnpcBid\000u	OcontentTuningIDHDnamePSomething SmellsGrewards¢DtypeEmoneyFamount\000É\000:¢OcontentTuningIDDnameIPolarized\000Fq¤Fsource£DtypeCnpcIlocations¡	*¢Ayû?Üt’yèAxû?åwÖøjBid\000sáOcontentTuningIDHDnameODeath and TaxesGrewards¢DtypeEmoneyFamount\000É\000F?¤Fsource¢DtypeCnpcBid\000sáOcontentTuningIDHDnameXBut What About the Casino?Grewards¢DtypeEmoneyFamount\000É\0008à¤Fsource¢DtypeCnpcBid\000VşOcontentTuningIDHDnameWThe Shovel in the StoneGrewards¢DtypeEmoneyFamount\000$ \0004±¤Fsource¢DtypeCnpcBid\000POcontentTuningID\rDnameUA Plan Comes TogetherGrewards¢DtypeEmoneyFamount\000É\000A.¤Fsource¢DtypeCnpcBid\000h$OcontentTuningID\nïDnameRCooking With StyleGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Av£OcontentTuningIDDnameNMiniature ArmyGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000KU¤Fsource¢DtypeCnpcBid\000VòOcontentTuningIDHDnameWBiological QuintainmentGrewards¢DtypeEmoneyFamount\000’\00032¤Fsource¢DtypeCnpcBid\000?ÿOcontentTuningID\nîDnameTNew Candle, New HopeGrewards‚¤HminLevelIDtypeJexperienceGamounts‡?¬@¦AnBhC0&HdHmaxLevelO¢DtypeEmoneyFamount\000\n¶0\000Jõ¤Fsource¢DtypeCnpcBid\000zêOcontentTuningID¼DnameQThe Circlet CallsGrewards¢DtypeEmoneyFamount\000’\000Cn¤Fsource¢DtypeCnpcBid\000mÄOcontentTuningID\níDnameOAn Opal of MineGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000JÂ¤Fsource¢DtypeCnpcBid\000ˆ]OcontentTuningIDHDnameXThe G.O.L.E.M. Goes Berserk!Grewards¢DtypeEmoneyFamount\000’\0004²¤Fsource¢DtypeCnpcBid\000PóOcontentTuningID\rDnameXPutting the Works in WaterworksGrewards¢DtypeEmoneyFamount\000$ \000A/¤Fsource¢DtypeCnpcBid\000kšOcontentTuningID\nïDnameRA Home Cooked MealGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0005x¤Fsource¢DtypeCnpcBid\000jÈOcontentTuningID\rDnameOGathering IntelGrewards¢DtypeEmoneyFamount[h\000Eö¤Fsource¢DtypeCnpcBid\000uOcontentTuningIDHDnamePCease and DesistGrewards¢DtypeEmoneyFamount\000’\0006x¤Fsource£DtypeCnpcIlocations¡È¢Ayû?Ù†nCªy¼Axû?èO¹{·0ƒBid\000GÓOcontentTuningID\rDnameOPaying RespectsGrewards¢DtypeEmoneyFamount\000’\000>÷¤Fsource¢DtypeCnpcBid\000]OcontentTuningID\nîDnameRJuicy Krolusk MeatGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000JÁ¤Fsource¢DtypeCnpcBid\000ˆ]OcontentTuningIDHDnameXWorld's Okayest InventorGrewards¢DtypeEmoneyFamount\000’\000JÀ¤Fsource¢DtypeCnpcBid\000„›OcontentTuningIDHDnameKGarbage DayGrewards¢DtypeEmoneyFamount\000’\000B/¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ºyªæÈ÷UAxû?İxR÷ô˜ÄBid\000BmOcontentTuningID\nïDnameUThe Sword is MightierGrewards‚¤HminLevelKDtypeJexperienceGamounts… Ğ!4!˜!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000Hö£OcontentTuningIDHDnameGThe JobGrewards¢DtypeEmoneyFamount[h\000Aw£OcontentTuningIDDnameFZiriakGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000J»¤Fsource¢DtypeCnpcBid\000„šOcontentTuningIDHDnameXThe G.O.L.E.M. of ProgressGrewards¢DtypeEmoneyFamount\000’\0002y¤Fsource¢DtypeCnpcBid\000RşOcontentTuningID\níDnameRStones of DornogalGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000Jö¤Fsource¢DtypeCnpcBid\000zêOcontentTuningID¼DnameSUncovered MysteriesGrewards¢DtypeEmoneyFamount\000$ \0003y¤Fsource£Ilocations¡U¢Ayû?èûœ”öAxû?àAô+¶g0DtypeDareaBideOcontentTuningID—DnameNThe War WithinGrewards‚¤HminLevelFDtypeJexperienceGamounts‡\r‚HmaxLevelL¢DtypeEmoneyFamountmº\0006²¤Fsource¢DtypeCnpcBid\000O¤OcontentTuningID\nÊDnameRSmelly ShrubberiesGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Co¤Fsource¢DtypeCnpcBid\000mÄOcontentTuningID\níDnameNWeb Beats RockGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000Lö¤Fsource¢DtypeCnpcBid\000OcontentTuningIDÀDnameUStranger on the StepsGrewards¢DtypeEmoneyFamount\000É\000Uu¤Fsource¢DtypeCnpcBid\000“LOcontentTuningID¿DnameIBird BathGrewards¢DtypeEmoneyFamount\000É\00092¤Fsource¢DtypeCnpcBid\000X%OcontentTuningID\nïDnameRA Murder Most FoulGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0006y¤Fsource¢DtypeCnpcBid\000P@OcontentTuningID\nîDnameXTending to the TerrifiedGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000>ø¢OcontentTuningID5DnamePNothing to Waste\000EÛ¤Fsource¢DtypeCnpcBid\000tÚOcontentTuningIDHDnameVThe Perfect Guest ListGrewards¢DtypeEmoneyFamount\000’\000?ø¤Fsource£DtypeCnpcIlocations¡È¢Ayû?çZzJAxû?ÖhÛ‹¬q\rBid\000H«OcontentTuningID\rDnameSFlight Training 102Grewards¢DtypeEmoneyFamount\000’\000Cp¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ã}æOTÒAxû?ŞMÕËyBid\000mÄOcontentTuningID\níDnameSA Sedimental MomentGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000H÷¤Fsource¢DtypeCnpcBid\000{¾OcontentTuningIDHDnameHThe CrewGrewards¢DtypeEmoneyFamount\000É\000M¾¤Fsource¢DtypeCnpcBid\000OcontentTuningIDHDnameGOr ElseGrewards¢DtypeEmoneyFamount[h\000I÷€\000Bx¢OcontentTuningID5DnameMAll Worked Up\000J÷¤Fsource¢DtypeCnpcBid\000†äOcontentTuningID¼DnameQThe Second SignalGrewards¢DtypeEmoneyFamount\000É\0003z¤Fsource¢DtypeCnpcBid\000BtOcontentTuningID—DnamePA Poor ReceptionGrewards‚¤HminLevelFDtypeJexperienceGamounts‡\r‚HmaxLevelL¢DtypeEmoneyFamountmº\00044¤Fsource¢DtypeCnpcBid\000CmOcontentTuningID\nîDnameSOn Cold, Dark WingsGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000:|¤Fsource¢DtypeCnpcBid\000dOcontentTuningID\nîDnamePDread in the DenGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000L÷¤Fsource¢DtypeCnpcBid\000OcontentTuningIDÀDnameOA New DevouringGrewards¢DtypeEmoneyFamount\000’\000Uv¤Fsource¢DtypeCnpcBid\000…POcontentTuningID¿DnameQMedical ManeuversGrewards¢DtypeEmoneyFamount\000É\0005ú¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\nîDnameTThe Machine SpeakersGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\000;!¤Fsource¢DtypeCnpcBid\000^.OcontentTuningID	DnameRRunway Scare-a-wayGrewards¢DtypeEmoneyFamount\000’\000+,£OcontentTuningID\nùDnameUDefender of the FlameGrewards¢DtypeEmoneyFamount\000’\000B1¢OcontentTuningID-DnameVEnforcer Extermination\000?ù¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ä÷FˆzeAxû?ãÂé‰›õ”Bid\000H«OcontentTuningID\rDnameSFlight Training 103Grewards¢DtypeEmoneyFamount\000’\000@y£OcontentTuningIDDnameRBeledar's BlessingGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000Hø¤Fsource¢DtypeCnpcBid\000{¾OcontentTuningIDHDnameHThe PlayGrewards¢DtypeEmoneyFamount\000’\000Ay£OcontentTuningIDDnameOOne Hungry WormGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0009ú¤Fsource¢DtypeCnpcBid\000gŒOcontentTuningID\nîDnameSA Light of the DarkGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0002{¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnameRState of the UnionGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000Jø¤Fsource¢DtypeCnpcBid\000zêOcontentTuningID¼DnameMReforged AnewGrewards¢DtypeEmoneyFamount\000­Œ\0003{¤Fsource¢DtypeCnpcBid\000BxOcontentTuningID—DnameOAzeroth's VoiceGrewards‚¤HminLevelFDtypeJexperienceGamounts‡PP6N4\rHmaxLevelL¢DtypeEmoneyFamount\000$¢\0004µ¤Fsource¢DtypeCnpcBid\000F‡OcontentTuningID\rDnameMIt's SabotageGrewards¢DtypeEmoneyFamount\000’\000D‘¤Fsource¢DtypeCnpcBid\000pÉOcontentTuningIDHDnameVGiving Goblins GogglesGrewards¢DtypeEmoneyFamount\000É\000Lø¤Fsource¢DtypeCnpcBid\000OcontentTuningIDÀDnameSOnly Hunger RemainsGrewards¢DtypeEmoneyFamount\000’\000Ey£OcontentTuningID\nÊDnameLStrange BatsGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0005û¤Fsource¢DtypeCnpcBid\000I5OcontentTuningID\nÊDnameUPrisoner PreservationGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000G1¤Fsource¢DtypeCnpcBid\000xØOcontentTuningID\nuDnameUDelves: The UnderkeepGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ=\"=ê>ä?¬@¦AnBhC0D*DòHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ÛÌ\000\n¶0HmaxLevelG\000>`£OcontentTuningID-DnameXInfiltration: Hidden FiguresGrewards¢DtypeEmoneyFamount\000’\000D­¤Fsource¢DtypeCnpcBid\000qYOcontentTuningIDHDnameNChasing a LeadGrewards¢DtypeEmoneyFamount[h\000?ú¤Fsource¢DtypeCnpcBid\000GÿOcontentTuningID\rDnameJDhar OztanGrewards¢DtypeEmoneyFamount[h\0004¶¤Fsource¢DtypeCnpcBid\000_\000OcontentTuningID\rDnameXThe Voice of the SpeakersGrewards¢DtypeEmoneyFamount[h\000Hù¤Fsource¢DtypeCnpcBid\000{íOcontentTuningIDHDnameJThe HighstGrewards¢DtypeEmoneyFamount\000’\000Az£OcontentTuningIDDnameXThe Thing from the SwampGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000U¤Fsource¢DtypeCnpcBid\000•1OcontentTuningIDHDnameQCashing the CheckGrewards¢DtypeEmoneyFamount[h\0002|¤Fsource¢DtypeCnpcBid\000RüOcontentTuningID\níDnameJHypocenterGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000Bú¤Fsource¢DtypeCnpcBid\000lˆOcontentTuningID\níDnameXElemental Hors D'OeuvresGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000Cz¤Fsource¢DtypeCnpcBid\000^.OcontentTuningID	DnameJTime FoundGrewards¢DtypeEmoneyFamount\000’\000LÈ¤Fsource¢DtypeCnpcBid\000•OcontentTuningIDHDnameKComing HomeGrewards¢DtypeEmoneyFamount\000’\0004|£OcontentTuningID\nùDnameMHarvest HavocGrewards¢DtypeEmoneyFamount\000’\000Dú¤Fsource¢DtypeCnpcBid\000qİOcontentTuningIDHDnameJUnder FireGrewards¢DtypeEmoneyFamount\000É\000Ez¤Fsource¢DtypeCnpcBid\000I'OcontentTuningID	DnameX The Dawnbreaker: The ChristeningGrewards¢DtypeEmoneyFamount\000H@\0005ü¤Fsource¢DtypeCnpcBid\000I5OcontentTuningID\nÊDnameVAntifungal FirestarterGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000LÇ¤Fsource¢DtypeCnpcBid\000•OcontentTuningIDHDnameMCut After CutGrewards¢DtypeEmoneyFamount\000’\000LÆ¤Fsource¢DtypeCnpcBid\000vOcontentTuningIDHDnameLSettled DustGrewards¢DtypeEmoneyFamount\000’\000O¤Fsource¢DtypeCnpcBid\000–æOcontentTuningIDHDnameWRight Where We Want HimGrewards¢DtypeEmoneyFamount\000­Œ\000?û¤Fsource¢DtypeCnpcBid\000HíOcontentTuningID\rDnameMHome to RoostGrewards¢DtypeEmoneyFamount[h\0001«¤Fsource¢DtypeCnpcBid\0009ÇOcontentTuningID\nÊDnameXDalaran's Most DistressedGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Hú¤Fsource¢DtypeCnpcBid\000{õOcontentTuningIDHDnameKThe GetawayGrewards¢DtypeEmoneyFamount\000$ \000E¤Fsource¢DtypeCnpcBid\000rOOcontentTuningIDHDnameKPunching UpGrewards¢DtypeEmoneyFamount\000’\000E¤Fsource¢DtypeCnpcBid\000™IOcontentTuningIDHDnameRExpedited DeliveryGrewards¢DtypeEmoneyFamount[h\0002}¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnameOThe Fourth SeatGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000NÜ¤Fsource¢DtypeCnpcBid\000POcontentTuningIDHDnameRRepel the InvadersGrewards¢DtypeEmoneyFamount\000’\0003}¤Fsource£DtypeCnpcIlocations¡u¢Ayû?â]\000÷vÄ‚Axû?İÌÈ›åBid\000BxOcontentTuningID\níDnameTA Mysterious WarningGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000E\000¤Fsource¢DtypeCnpcBid\000rNOcontentTuningIDHDnamePA Vast, Ye SwabsGrewards¢DtypeEmoneyFamount\000’\000Dÿ¤Fsource¢DtypeCnpcBid\000rKOcontentTuningIDHDnameTBeen Savin' This OneGrewards¢DtypeEmoneyFamount\000’\000Dû¤Fsource¢DtypeCnpcBid\000udOcontentTuningIDHDnamePRally the PeopleGrewards¢DtypeEmoneyFamount\000’\000>a€\0005ı¤Fsource¢DtypeCnpcBid\000I5OcontentTuningID\nÊDnamePRemoving the CapGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \0002¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnameOBuilding BlocksGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000JË¤Fsource¢DtypeCnpcBid\000q7OcontentTuningIDHDnameOInto the GutterGrewards¢DtypeEmoneyFamount[h\000L¶¤Fsource¢DtypeCnpcBid\000póOcontentTuningIDHDnameMGet Out ThereGrewards¢DtypeEmoneyFamount\000É\0006¹¤Fsource¢DtypeCnpcBid\000OğOcontentTuningID\níDnameX$The Market Reeve of the ForgegroundsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005‡¤Fsource¢DtypeCnpcBid\000JkOcontentTuningID\rDnameRThe Queen's ChainsGrewards¢DtypeEmoneyFamount\000É\000D®¤Fsource¢DtypeCnpcBid\000qcOcontentTuningIDHDnameRCheck the ScheduleGrewards¢DtypeEmoneyFamount\000’\000A|£OcontentTuningIDDnameQMajor MalfunctionGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\000MÊ¤Fsource¢DtypeCnpcBid\000ŒÔOcontentTuningIDHDnameOEvacuation PlanGrewards¢DtypeEmoneyFamount\000’\000:}¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?ÚT\\ÈWóAxû?æII-Â±Bid\000dOcontentTuningID\nîDnameOA Suit of SlimeGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0002ş¢OcontentTuningID\nùDnameLCutting Edge\0003~¤Fsource¢DtypeCnpcBid\000F‰OcontentTuningID\níDnameTStrengthen the WardsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠxrÖ : ĞN@ HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\0006ó\000­ŒHmaxLevelG\000B·£OcontentTuningIDÉDnameXReclaiming the WaterworksGrewards‚¤HminLevelFDtypeJexperienceGamountsŠQrRSÊTöV\"WNXzY¦ZÒ[şHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000%\000H@HmaxLevelG\0004~¢OcontentTuningID-DnameMBeetle-Minded\000Dü¤Fsource¢DtypeCnpcBid\000udOcontentTuningIDHDnameIDisperse!Grewards¢DtypeEmoneyFamount\000’\000E|¤Fsource¢DtypeCnpcBid\000j\nOcontentTuningID\nÊDnameOA Silken ThreadGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000> £OcontentTuningIDÊDnameRRelease the BeastsGrewards‚¤HminLevelKDtypeJexperienceGamounts…WNXzY¦ZÒ[şHmaxLevelO¢DtypeEmoneyFamount\000H@\0005{¤Fsource¢DtypeCnpcBid\000*oOcontentTuningID\rDnameSA Spider's-Eye ViewGrewards¢DtypeEmoneyFamount\000’\000>ı¤Fsource¢DtypeCnpcBid\000`«OcontentTuningID\níDnamePTo Mourning RiseGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000Bø¤Fsource¢DtypeCnpcBid\000lŠOcontentTuningID\níDnameXBirdman of the Three ShieldsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ\n(\nZ\nŒ\nŒ\n¾\nğ@\rHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000Qä„HmaxLevelG\0003|¤Fsource¢DtypeCnpcBid\000ByOcontentTuningID—DnameOPainful LessonsGrewards‚¤HminLevelFDtypeJexperienceGamounts‡\r‚HmaxLevelL¢DtypeEmoneyFamountmº\0008~¤Fsource¢DtypeCnpcBid\000ZOcontentTuningID\nîDnameNMite Not RightGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000D¬¤Fsource¢DtypeCnpcBid\000qXOcontentTuningIDHDnamePPotion CommotionGrewards¢DtypeEmoneyFamount\000’\000Bù¤Fsource¢DtypeCnpcBid\000lˆOcontentTuningID\níDnameNCloudrook DownGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0009ş¤Fsource¢DtypeFobjectBid\000‘õOcontentTuningID	DnameREggs in One BasketGrewards¢DtypeEmoneyFamount\000’\000:~¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?ÚT\\ÈWóAxû?æII-Â±Bid\000dOcontentTuningID\nîDnameVHealing the HeadwatersGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0002~¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnameTEchoes of CompassionGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000C}¤Fsource¢DtypeCnpcBid\000^.OcontentTuningID	DnameMTime BorrowedGrewards¢DtypeEmoneyFamount\000’\0003e¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÀÁDO¹Axû?İN3i¹×şBid\000BmOcontentTuningID\nïDnamePSpears for FearsGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0005~¤Fsource¢DtypeCnpcBid\000JJOcontentTuningID\rDnameXCreeping Through CorridorsGrewards¢DtypeEmoneyFamount\000’\000Dı¤Fsource¢DtypeCnpcBid\000”7OcontentTuningIDHDnameUWho Owns the Streets?Grewards¢DtypeEmoneyFamount\000’\000E}¤Fsource¢DtypeCnpcBid\000mÙOcontentTuningID\nÊDnameQBountiful BeetlesGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\0002z¢OcontentTuningID\nùDnameXHavrest Havoc - Activator\0003¤Fsource£DtypeCnpcIlocations¡u¢Ayû?ãê˜$N“âAxû?Ú[‰“’œBid\000B{OcontentTuningID\níDnameSCitizens of DalaranGrewards‚¤HminLevelFDtypeJexperienceGamountsŠxrÖ : ĞN@ HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\0006ó\000­ŒHmaxLevelG\0002†¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnameNThe ProsceniumGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0002€¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnameTDelve into the EarthGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000C ¤Fsource¢DtypeCnpcBid\000måOcontentTuningID\nïDnameDSousGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0008¤Fsource£DtypeCnpcIlocations¡§¢Ayû?âmv% JùAxû?æçl‹C•Bid\000@|OcontentTuningID\nïDnameMIgniting HopeGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Hı¤Fsource¢DtypeCnpcBid\000|OcontentTuningIDHDnameX!Paperwork Makes the Mine Go UnderGrewards¢DtypeEmoneyFamount\000’\0005€¤Fsource¢DtypeCnpcBid\000IçOcontentTuningID	DnameNThose Who FellGrewards¢DtypeEmoneyFamount\000’\0002¤Fsource¢DtypeCnpcBid\000p«OcontentTuningID\níDnameOGolgrin's ReachGrewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000:¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?ÚT\\ÈWóAxû?æII-Â±Bid\000dOcontentTuningID\nîDnameOCasing the CampGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\0002Á£OcontentTuningID\níDnameNViolent ImpactGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000C~¤Fsource¢DtypeCnpcBid\000mjOcontentTuningID\nîDnameXDecommissioning DarknessGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \000>X£OcontentTuningID-DnameXRequisitions: FangpetalsGrewards¢DtypeEmoneyFamount\000’\000?€\000Dş¤Fsource¢DtypeCnpcBid\000rLOcontentTuningIDHDnameMBackyard NavyGrewards¢DtypeEmoneyFamount\000’\000E~¤Fsource¢DtypeFobjectBid\000OşOcontentTuningID\nîDnamePThe Final CandleGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000C”¤Fsource¢DtypeCnpcBid\000@€OcontentTuningID\nïDnameOZero Out XeroshGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000Cm¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ã·“DZ£Axû?ŞI#_€™Bid\000mÃOcontentTuningID\níDnameOHit Rock BottomGrewards‚¤HminLevelFDtypeJexperienceGamountsŠP´æJ|àN4\rHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000$¢\000ÉHmaxLevelG\000,Å£OcontentTuningID\nùDnameOLost in ShadowsGrewards¢DtypeEmoneyFamount\000’\000B£OcontentTuningIDDnameMNo More BreadGrewards¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO\0006§¤Fsource¢DtypeCnpcBid\000YOcontentTuningID\níDnameQDamage MitigationGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0008€¤Fsource¢DtypeCnpcBid\000ZOcontentTuningID\nîDnameHBeebiterGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \0002Æ¤Fsource¢DtypeCnpcBid\000;“OcontentTuningID\níDnameKTo DornogalGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000:¤Fsource¢DtypeCnpcBid\000dOcontentTuningID\nîDnameOSnouty SabotageGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0002Ã¤Fsource¢DtypeCnpcBid\000<OcontentTuningID\níDnameOUrgent RecoveryGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000:€¤Fsource¢DtypeCnpcBid\000dOcontentTuningID\nîDnameMBeat the BestGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \0003¤Fsource¢DtypeCnpcBid\000E„OcontentTuningID\nïDnameKTo MereldarGrewards‚¤HminLevelKDtypeJexperienceGamountsƒxxªHmaxLevelM¢DtypeEmoneyFamount[h\0003¤Fsource¢DtypeCnpcBid\000FOcontentTuningID\níDnameMMeet the TeamGrewards‚¤HminLevelFDtypeJexperienceGamountsŠP´æJ|àN4\rHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000$¢\000ÉHmaxLevelG\000:¤Fsource¢DtypeCnpcBid\000ZûOcontentTuningID\nîDnameMMossy EarthenGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Ö : Ğ!4!˜$²HmaxLevelO¢DtypeEmoneyFamount\000­Œ\0007	¤Fsource¢DtypeCnpcBid\000PòOcontentTuningID\nÊDnameNNot Quite DeadGrewards‚¤HminLevelNDtypeJexperienceGamounts‚T†HmaxLevelO¢DtypeEmoneyFamountä„\0005¤Fsource¢DtypeCnpcBid\000G|OcontentTuningID\níDnameFBreachGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0005¤Fsource¢DtypeCnpcBid\000JUOcontentTuningID\rDnameJLab AccessGrewards¢DtypeEmoneyFamount\000’\000:‚¤Fsource¢DtypeCnpcBid\000dOcontentTuningID\nîDnameRBreak out Berrund!Grewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000KÍ¤Fsource¢DtypeCnpcBid\000OcontentTuningID¼DnameLCave BargingGrewards¢DtypeEmoneyFamount\000’\0005¤Fsource¢DtypeCnpcBid\000HOcontentTuningID	DnameLSave TomothyGrewards¢DtypeEmoneyFamount\000’\000E‡¤Fsource¢DtypeFobjectBid\000ï?OcontentTuningID\níDnameXWanted: The BoroughbreakerGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\000FP€\000B	¤Fsource¢DtypeCnpcBid\000i•OcontentTuningID\níDnameTFor The Love of GemsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000:ƒ¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?ÚT\\ÈWóAxû?æII-Â±Bid\000dOcontentTuningID\nîDnamePPut the Shine OnGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000BÙ€\0003c¤Fsource¢DtypeCnpcBid\000COcontentTuningID\nïDnameUThe One That Got AwayGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \0002‚¢OcontentTuningID\nùDnameXShadows of Flavor - Activate\000Rş¤Fsource¢DtypeCnpcBid\000‰ŒOcontentTuningID¿DnameOAtrium HospitalGrewards¢DtypeEmoneyFamount[h\0003‚¤Fsource£DtypeCnpcIlocations¡u¢Ayû?ãê˜$N“âAxû?Ú[‰“’œBid\000B{OcontentTuningID\níDnameNTo Khaz Algar!Grewards‚¤HminLevelFDtypeJexperienceGamountsŠFFxx \r‚HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\0005…¤Fsource¢DtypeCnpcBid\000JLOcontentTuningID\rDnameSMaking of a MonsterGrewards¢DtypeEmoneyFamount\000É\000:„¤Fsource¢DtypeCnpcBid\000\\<OcontentTuningID\nîDnameQBump off the BossGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \0005¤Fsource£DtypeCnpcIlocations¡	¢Ayû?æÒ4ëšnAxû?Ößï¿@PBid\000G|OcontentTuningID\níDnameGRuptureGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000>K£OcontentTuningID-DnameX Infiltration: Production BlockerGrewards¢DtypeEmoneyFamount\000’\000B¸€\000?¤Fsource¢DtypeCnpcBid\000]OcontentTuningID\nîDnameJIn a PinchGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \0001Õ¤Fsource£DtypeCnpcIlocations¡È¢Ayû?ÓZáÍåÑAxû?âË%,à2ÛBid\0003şOcontentTuningID\níDnameTTheir Moss, Our GainGrewards‚¤HminLevelFDtypeJexperienceGamountsŠxrÖ : ĞN@ HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\0006ó\000­ŒHmaxLevelG\000?£OcontentTuningIDDnameXSparks of War: Isle of DornGrewards„£FamountôBid\000DtypeHcurrency£Famount\000† BidKDtypeHcurrency£Famount2Bid\nÿDtypeHcurrency£DtypeJreputationFamountúBid\n\0003'¤Fsource¢DtypeCnpcBid\000?OcontentTuningID\nîDnameXSpeaking to the SpeakersGrewards‚¤HminLevelIDtypeJexperienceGamounts‡Ö : Ğ!4!˜$²HmaxLevelO¢DtypeEmoneyFamount\000’\0009T¤Fsource¢DtypeCnpcBid\000djOcontentTuningIDDnameXThe Abductors' ObstructorsGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000Pÿ¤Fsource¢DtypeCnpcBid\000ÌOcontentTuningIDHDnameMSanity's RestGrewards¢DtypeEmoneyFamount\000’\000:Ñ¤Fsource£DtypeCnpcIlocations¡¦¢Ayû?İ#éêqAxû?ãÙÙ)®OBid\000]¸OcontentTuningID\nîDnameOA Sip of CinderGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000:¤Fsource¢DtypeCnpcBid\000ZûOcontentTuningID\nîDnamePA Perfect SpongeGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000­Œ\0002ƒ¤Fsource¢DtypeCnpcBid\000pÆOcontentTuningID\níDnameSCharge for a ChargeGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000Rÿ¤Fsource¢DtypeCnpcBid\000.OcontentTuningID¿DnamePRays of SunshineGrewards¢DtypeEmoneyFamount[h\000K€¤Fsource¢DtypeCnpcBid\000…©OcontentTuningIDÀDnameMHer Dark SideGrewards¢DtypeEmoneyFamount\000’\0009R¤Fsource¢DtypeCnpcBid\000d<OcontentTuningIDDnameXFound Around the UnboundGrewards‚¤HminLevelFDtypeJexperienceGamountsˆFFxxxªHmaxLevelM¤HminLevelFDtypeEmoneyGamounts‚mº[hHmaxLevelG\000BĞ€\0005¤Fsource¢DtypeCnpcBid\000jÈOcontentTuningID\rDnameOAfter the StormGrewards¢DtypeEmoneyFamount\000É\0007¤Fsource¢DtypeCnpcBid\000QROcontentTuningID\nïDnameNStave Them OffGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\0007W¤Fsource£DtypeCnpcIlocations¡È¢Ayû?çmzVŞ3'Axû?Û^	}Bid\000SiOcontentTuningID\níDnamePHope, An AnomalyGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0003+¤Fsource¢DtypeCnpcBid\000=-OcontentTuningID\nîDnameODeath and WaxesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000JÃ¤Fsource¢DtypeCnpcBid\000ŠôOcontentTuningIDHDnameUShowdown in the AtticGrewards¢DtypeEmoneyFamount\000’\000?‚£OcontentTuningIDDnameX Sparks of War: The Ringing DeepsGrewardsƒ£FamountˆBidBDtypeHcurrency£FamountôBid\000DtypeHcurrency£Famount\000† BidKDtypeHcurrency\000C`£Fsource¢DtypeCnpcBid\000JÀOcontentTuningID\000DnameTResonant Performance\0003%¤Fsource£DtypeCnpcIlocations¡§¢Ayû?æèœ¡‹ÖbAxû?ØígwZBid\000@sOcontentTuningID\nïDnameSRunning on ReservesGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Q\000¤Fsource¢DtypeCnpcBid\000“5OcontentTuningIDHDnameXCounteracting the Black BloodGrewards¢DtypeEmoneyFamount\000’\0001¨¤Fsource¢DtypeCnpcBid\000Q)OcontentTuningID\nÊDnameRWhat We Still HaveGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\000;%¤Fsource¢DtypeCnpcBid\000^.OcontentTuningID	DnameOTorching LightsGrewards¢DtypeEmoneyFamount\000’\0002„¤Fsource¢DtypeCnpcBid\000SOcontentTuningID\níDnameKThe ArchiveGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000C¤Fsource¢DtypeCnpcBid\000y®OcontentTuningID\rDnameQLingering ShadowsGrewards¢DtypeEmoneyFamount[h\000K¤Fsource¢DtypeCnpcBid\000…©OcontentTuningIDÀDnameRDivide and ConquerGrewards¢DtypeEmoneyFamount\000’\000D¢OcontentTuningID5DnameXRollin' Down in the Deeps\000>S£OcontentTuningID-DnameTArmaments: ArbalestsGrewards¢DtypeEmoneyFamount\000’\0005¤Fsource¢DtypeCnpcBid\000&ÀOcontentTuningID\nùDnameMSeeds of EvilGrewards¢DtypeEmoneyFamount\000’\000C¤¢OcontentTuningID\nùDnameXSpecial Assignment: Lynx Rescue\000?	¤Fsource¢DtypeCnpcBid\000IçOcontentTuningID	DnameRHonor Your EffortsGrewards¢DtypeEmoneyFamount[h\000>L£OcontentTuningID-DnameXWet Work: Death of a SalesmanGrewards¢DtypeEmoneyFamount\000’\000?¤Fsource¢DtypeCnpcBid\000c¸OcontentTuningID\nÊDnameKThe UpstartGrewards‚¤HminLevelNDtypeJexperienceGamounts‚!ü\"’HmaxLevelO¢DtypeEmoneyFamount\000­Œ\000>J£OcontentTuningID-DnameX$Testing Formulae: Gelatinous UnguentGrewards¢DtypeEmoneyFamount\000’\000;¢OcontentTuningID-DnameTBlade of the General\000:Ğ¢OcontentTuningID-DnameLForge a Pact\000Q¤Fsource¢DtypeCnpcBid\000“5OcontentTuningIDHDnameQVisit to the ShopGrewards¢DtypeEmoneyFamount[h\000AP¢OcontentTuningID5DnameX\"Capturing the Cataract's Creatures\000EŠ¤Fsource¢DtypeCnpcBid\000uçOcontentTuningID\níDnameOThe Mage SlayerGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ2È34X5 5¶6~Ü´\nZHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000’ˆ\000$ HmaxLevelG\0002…¤Fsource¢DtypeCnpcBid\000SiOcontentTuningID\níDnameMPrairie FeverGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000C¤Fsource¢DtypeCnpcBid\000lOcontentTuningID\rDnameQNo Breathing RoomGrewards‚¢DtypeEmoneyFamount\000’£Famount\nBidÀDtypeHcurrency\000K‚¤Fsource¢DtypeCnpcBid\000ŒÂOcontentTuningIDÀDnameRTo Purchase SafetyGrewards¢DtypeEmoneyFamount\000’\0008Ï¤Fsource¢DtypeCnpcBid\000VZOcontentTuningID\nîDnameUA Wrench in the WorksGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\0002¤Fsource¢DtypeCnpcBid\000L•OcontentTuningID\nÊDnamePA Guiding ThreadGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000E¤Fsource¢DtypeCnpcBid\000rQOcontentTuningIDHDnameKWeapons HotGrewards¢DtypeEmoneyFamount\000’\000Eƒ¤Fsource¢DtypeCnpcBid\000sÏOcontentTuningID\nîDnameTPreserve and PretendGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000?¤Fsource¢DtypeCnpcBid\000c¸OcontentTuningID\nÊDnameJThat's AllGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000Fƒ¤Fsource¢DtypeCnpcBid\000w‘OcontentTuningID~DnameTOur Chance to StrikeGrewards¢DtypeEmoneyFamount[h\000G¢OcontentTuningID5DnameOClaimed Salvage\0006Ö¤Fsource¢DtypeCnpcBid\000P-OcontentTuningID\nÊDnamePThe Second FrontGrewards‚¤HminLevelNDtypeJexperienceGamounts‚¨HmaxLevelO¢DtypeEmoneyFamount\000É\0009S¤Fsource¢DtypeCnpcBid\000djOcontentTuningIDDnameXThe Pillage of Freywold VillageGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0008…£OcontentTuningID\nùDnameTCrab Grab - ActivateGrewards¢DtypeEmoneyFamount\000’\000Q¤Fsource¢DtypeCnpcBid\000“6OcontentTuningIDHDnameSAutomation SolutionGrewards¢DtypeEmoneyFamount\000’\0006”¤Fsource¢DtypeCnpcBid\000MvOcontentTuningID\nîDnamePMipsy Mole-RiderGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\00020¤Fsource¢DtypeCnpcBid\000;(OcontentTuningID\nÊDnameQChasing the LightGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000:…¤Fsource¢DtypeCnpcBid\000UşOcontentTuningID\rDnameVBack to Where it BeganGrewards¢DtypeEmoneyFamount[h\000C¤Fsource¢DtypeCnpcBid\000l‹OcontentTuningID\rDnameRPrice of a MissionGrewards‚¢DtypeEmoneyFamount\000’£Famount\nBidÀDtypeHcurrency\000Kƒ¤Fsource¢DtypeCnpcBid\000…OcontentTuningIDÀDnameQStalking StalkersGrewards¢DtypeEmoneyFamount\000’\0004–¤Fsource¢DtypeCnpcBid\000H¡OcontentTuningID\níDnameQFrontline FarmersGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000>•¤Fsource¢DtypeCnpcBid\000_sOcontentTuningIDDnameHFog TagsGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+,$,º-P-æHmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000E¤Fsource¢DtypeCnpcBid\000®OcontentTuningIDHDnameOThe ThingamajigGrewards¢DtypeEmoneyFamount\000’\000:¤Fsource¢DtypeCnpcBid\000^pOcontentTuningID\nîDnameXGlintwick the Gem GrabberGrewards‚¤HminLevelIDtypeJexperienceGamounts‡5 5¶6~7F8ÖJHmaxLevelO¢DtypeEmoneyFamount\000$ \0001¤¤Fsource¢DtypeCnpcBid\000Q*OcontentTuningID\nÊDnameRKaheti HospitalityGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \0001ª¤Fsource¢DtypeCnpcBid\000PòOcontentTuningID\nÊDnameQGeneral AdmissionGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000?¤Fsource¢DtypeCnpcBid\000]OcontentTuningID\nîDnamePSticks and BonesGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000?…¤Fsource¢DtypeCnpcBid\000UŒOcontentTuningID\nïDnameNTargeted ReconGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000@€\0002¤Fsource£DtypeCnpcIlocations¡Ï¢Ayû?Ş+\noÅŠ¹Axû?ÔÉÉMìBid\000:óOcontentTuningID\nÊDnameUFriends in Low PlacesGrewards‚¢DtypeJexperienceFamountª¢DtypeEmoneyFamount[h\000Q¤Fsource¢DtypeCnpcBid\000“6OcontentTuningIDHDnameWBug Exterminator NeededGrewards¢DtypeEmoneyFamount\000’\000?¤Fsource¢DtypeCnpcBid\000b%OcontentTuningID\nïDnameX\"The Light at the End of the TunnelGrewards‚¤HminLevelKDtypeJexperienceGamounts…6~7F88¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \0003¤Fsource¢DtypeCnpcBid\000B¸OcontentTuningID\níDnameX!Who Runs this Fine Establishment?Grewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0002‡¤Fsource¢DtypeCnpcBid\000S*OcontentTuningID\níDnameKConvergenceGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000C¤Fsource¢DtypeCnpcBid\000l‹OcontentTuningID\rDnameSStanding in the WayGrewards‚¢DtypeEmoneyFamount\000’£Famount\nBidÀDtypeHcurrency\000?¤Fsource¢DtypeCnpcBid\000ElOcontentTuningID	DnamePThe Flame WithinGrewards¢DtypeEmoneyFamount[h\0003_¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÀÀh ÓJAxû?İEbàŸèhBid\000BnOcontentTuningID\nïDnameNCrash RecoveryGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000>]£OcontentTuningID-DnameX Testing Formulae: Roiling ElixirGrewards¢DtypeEmoneyFamount\000’\000E¤Fsource¢DtypeCnpcBid\000”èOcontentTuningIDHDnameQProduction HaltedGrewards¢DtypeEmoneyFamount\000’\000E…£OcontentTuningID5DnameVGearing Up for TroubleGrewards¢DtypeEmoneyFamount\000$ \0006¤Fsource¢DtypeCnpcBid\000J¹OcontentTuningID\nîDnameNA Nebb in NeedGrewards‚¤HminLevelIDtypeJexperienceGamounts‡J|àv²fHmaxLevelO¢DtypeEmoneyFamount\000É\0006¢¤Fsource¢DtypeCnpcBid\000YOcontentTuningID\níDnameTWithheld InformationGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\000?£OcontentTuningID\nÊDnameNShattered SilkGrewards‚¤HminLevelNDtypeJexperienceGamounts‚8¤9lHmaxLevelO¢DtypeEmoneyFamount\000$ \000?†£OcontentTuningID\nîDnameOReturn to MoiraGrewards‚¤HminLevelIDtypeJexperienceGamounts‡*b*ø+,$,ºdşHmaxLevelO¢DtypeEmoneyFamount\000’\000@€\0007¤Fsource¢DtypeCnpcBid\000Q6OcontentTuningID\nïDnameMMemorial WineGrewards‚¤HminLevelKDtypeJexperienceGamounts…+,$,º-P-æHmaxLevelO¢DtypeEmoneyFamount\000’\000Q¤Fsource¢DtypeCnpcBid\000ÌOcontentTuningIDHDnameQOut in the FieldsGrewards¢DtypeEmoneyFamount\000’\000)‰¢OcontentTuningID\nùDnamePGlow in the Dark\0002Â¤Fsource¢DtypeCnpcBid\000<OcontentTuningID\níDnameRSlay the SaboteursGrewards‚¤HminLevelFDtypeJexperienceGamountsŠ( )6)Ì*b*ø+Îš4HmaxLevelO¤HminLevelFDtypeEmoneyGamounts‚\000ID\000’HmaxLevelG\0002ˆ¢OcontentTuningID\nùDnameXGlow In The Dark - Activate\000C¤Fsource¢DtypeCnpcBid\000l‹OcontentTuningID\rDnameOTogether, AloneGrewards¢DtypeEmoneyFamount\000’\000K…¤Fsource¢DtypeCnpcBid\000‘–OcontentTuningIDÀDnamePHunting on GlassGrewards¢DtypeEmoneyFamount\000’\0004j¤Fsource£DtypeCnpcIlocations¡§¢Ayû?ÛÌ¼Õ,Axû?áÙWŠ*ÍBid\000b%OcontentTuningID\nïDnameQRestore the FlameGrewards‚¤HminLevelKDtypeJexperienceGamounts…\nğ\"\"T†HmaxLevelO¢DtypeEmoneyFamountä„\0005*¤Fsource¢DtypeCnpcBid\000G‡OcontentTuningID\rDnameOGround PoundersGrewards¢DtypeEmoneyFamount[h\000E¤Fsource¢DtypeCnpcBid\000ƒ|OcontentTuningIDHDnameRWe Own the StreetsGrewards¢DtypeEmoneyFamount\000’\0005ˆ¤Fsource¢DtypeCnpcBid\000JmOcontentTuningID\rDnameKRogue AgentGrewards¢DtypeEmoneyFamount\000’\0002/¤Fsource¢DtypeCnpcBid\000[“OcontentTuningID\nÊDnameNStrategic EdgeGrewards‚¤HminLevelNDtypeJexperienceGamounts‚-P-æHmaxLevelO¢DtypeEmoneyFamount\000’"))
+BtWQuestsDatabase:AddQuestsTable({
+    [76169] = {
+        name = "Glow in the Dark",
+        contentTuningID = 2809,
+    },
+    [76247] = {
+        name = "Keep the Home Fires Burning",
+        contentTuningID = 2809,
+        source = {
+            type = "npc",
+            id = 206528,
+        },
+    },
+    [76338] = {
+        name = "A Better Cabbage Smacker",
+        contentTuningID = 2809,
+    },
+    [76586] = {
+        name = "Spreading the Light",
+        contentTuningID = 2809,
+    },
+    [76588] = {
+        name = "Defender of the Flame",
+        contentTuningID = 2809,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [76599] = {
+        name = "Right Between Gyro-Optics - Activate",
+        contentTuningID = 2809,
+    },
+    [76733] = {
+        name = "Tater Trawl",
+        contentTuningID = 2809,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [76997] = {
+        name = "Lost in Shadows",
+        contentTuningID = 2809,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78226] = {
+        name = "A Most Intriguing Invitation",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 207471,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78228] = {
+        name = "Into a Skittering City",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211351,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78231] = {
+        name = "Like a Spider on the Wall",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211351,
+            locations = {
+                [2216] = {
+                    {
+                        x = 0.668995,
+                        y = 0.319119,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78232] = {
+        name = "Rewriting the Rewritten",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211499,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78233] = {
+        name = "The Weaver's Gift",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 207471,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78234] = {
+        name = "Force Your Way",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220051,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78236] = {
+        name = "Scrappy Straggler",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211409,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78237] = {
+        name = "Let Fly!",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211444,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78244] = {
+        name = "Kaheti Hospitality",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217386,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78248] = {
+        name = "What We Still Have",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217385,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78249] = {
+        name = "Specific Personages",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217330,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78250] = {
+        name = "General Admission",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217330,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78251] = {
+        name = "Dalaran's Most Distressed",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211399,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78254] = {
+        name = "Stolen Influence",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217330,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78255] = {
+        name = "Just Act Casual",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215413,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78256] = {
+        name = "The General's Consensus",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215845,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78289] = {
+        name = "To Rambleshire",
+        contentTuningID = 2797,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2600, 2650, 2700, 2700, 2750, 2800, 1600, 1050, 525, 260, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    70225, 58500, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78290] = {
+        name = "Sleepy Sheep",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 211740,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78291] = {
+        name = "Power Predators",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 211740,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78292] = {
+        name = "Lost Lord of the Storm",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 209918,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78293] = {
+        name = "Their Moss, Our Gain",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 209918,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.587298,
+                        y = 0.302422,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    7800, 7950, 8050, 8150, 8250, 8400, 4750, 3150, 1600, 800, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    210675, 175500, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78294] = {
+        name = "Thunderhead Butt",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 211740,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.587852,
+                        y = 0.302377,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78348] = {
+        name = "Friends in Low Places",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211699,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.324816,
+                        y = 0.471377,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78350] = {
+        name = "Heroes Never Die",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211699,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78352] = {
+        name = "For Naught, So Vial",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215944,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78353] = {
+        name = "Fear the Old Blood",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215944,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78354] = {
+        name = "A Guiding Thread",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 216213,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78383] = {
+        name = "Strategic Edge",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220051,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78384] = {
+        name = "Chasing the Light",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211752,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78392] = {
+        name = "The Tangled Web",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 207471,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8700, 8850, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [78393] = {
+        name = "A Seeming Respite",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 207471,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8700, 8850, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [78452] = {
+        name = "Reinforcements - Activate",
+        contentTuningID = 2809,
+    },
+    [78457] = {
+        name = "Stones of Dornogal",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217854,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78458] = {
+        name = "Havrest Havoc - Activator",
+        contentTuningID = 2809,
+    },
+    [78459] = {
+        name = "State of the Union",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217861,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78460] = {
+        name = "Hypocenter",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217852,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78461] = {
+        name = "The Fourth Seat",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217864,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78462] = {
+        name = "Echoes of Compassion",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217879,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78463] = {
+        name = "Building Blocks",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217881,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78464] = {
+        name = "Delve into the Earth",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217879,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78465] = {
+        name = "Golgrin's Reach",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225451,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78466] = {
+        name = "Shadows of Flavor - Activate",
+        contentTuningID = 2809,
+    },
+    [78467] = {
+        name = "Charge for a Charge",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225478,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78468] = {
+        name = "The Archive",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217857,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78469] = {
+        name = "Prairie Fever",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217961,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78470] = {
+        name = "The Proscenium",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217878,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78471] = {
+        name = "Convergence",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217898,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78472] = {
+        name = "Glow In The Dark - Activate",
+        contentTuningID = 2809,
+    },
+    [78529] = {
+        name = "Violent Impact",
+        contentTuningID = 2797,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78530] = {
+        name = "Slay the Saboteurs",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 211994,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78531] = {
+        name = "Urgent Recovery",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 211993,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78532] = {
+        name = "Erratic Artifacts",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 223166,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78533] = {
+        name = "Secure the Beach",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212450,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78534] = {
+        name = "To Dornogal",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 211859,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78535] = {
+        name = "They Come from Below",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216628,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78536] = {
+        name = "Impossible Odds",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217852,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78538] = {
+        name = "Group Effort",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217904,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78539] = {
+        name = "Lasting Repairs",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 222555,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78540] = {
+        name = "To the Meadery",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 222555,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78541] = {
+        name = "Lay the Trap",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212749,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78542] = {
+        name = "Evacuation Area",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212750,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78543] = {
+        name = "Poking the Spider Nest",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212749,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78544] = {
+        name = "Bring the Thunder",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212756,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78545] = {
+        name = "Return to the Coreway",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217849,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78546] = {
+        name = "Recompense",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217880,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78555] = {
+        name = "Underground and Overwhelmed",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212592,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78557] = {
+        name = "Getting Off Track",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 218290,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78562] = {
+        name = "Discarded and Broken",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212695,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78563] = {
+        name = "The Weight of a World",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212695,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78564] = {
+        name = "Reforged Purpose",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212695,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78570] = {
+        name = "Frayed Legacy",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212708,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78571] = {
+        name = "Mycomayhem",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212700,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78572] = {
+        name = "Wold Memories",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212700,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78573] = {
+        name = "Keeper's Aid",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 218333,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78574] = {
+        name = "Boss of the Bosk",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 218333,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78590] = {
+        name = "Cutting Edge",
+        contentTuningID = 2809,
+    },
+    [78607] = {
+        name = "To Mereldar",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214404,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78613] = {
+        name = "The Bastion of Hallowfall",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213108,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8400, 8500, 8600, 8700, 8850, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [78614] = {
+        name = "Mereldar's Light",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213108,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.412624,
+                        y = 0.529838,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78615] = {
+        name = "The Bell Tolls",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 220124,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78620] = {
+        name = "Crossroads of Twilight",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213108,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.410576,
+                        y = 0.547536,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78621] = {
+        name = "The Shadow Rising",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214402,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78624] = {
+        name = "A Candle in the Dark",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213108,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.340671,
+                        y = 0.546763,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78626] = {
+        name = "Spar Day",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213108,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.412624,
+                        y = 0.529838,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78627] = {
+        name = "The Final Front",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 225188,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2800, 2850, 2850, 2900, 2950, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [78628] = {
+        name = "Trapdoor Sprung",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213108,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.389682,
+                        y = 0.716136,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78629] = {
+        name = "Running on Reserves",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213107,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.38949,
+                        y = 0.715895,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78630] = {
+        name = "The Rise of the Reckoning",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213107,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.387777,
+                        y = 0.815179,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    16750, 17000, 17200, 17450, 17650, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 702000,
+            },
+        },
+    },
+    [78631] = {
+        name = "Speaking to the Speakers",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212741,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8150, 8250, 8400, 8500, 8600, 4900, 3250, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78634] = {
+        name = "Leave No Stone Behind",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212519,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78635] = {
+        name = "Death and Waxes",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212269,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78636] = {
+        name = "Retaking the Mines",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212519,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78637] = {
+        name = "Cracking Cogchewer",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212269,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78638] = {
+        name = "Engineering Destruction",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212519,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78639] = {
+        name = "Ko-boldening",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212991,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8150, 8250, 8400, 8500, 8600, 4900, 3250, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78640] = {
+        name = "Manifesto Destiny",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215672,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78641] = {
+        name = "Tackling Torchsnarl",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212991,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78642] = {
+        name = "New Candle, New Hope",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212991,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    16300, 16550, 16750, 17000, 17200, 9800, 6500, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 702000,
+            },
+        },
+    },
+    [78656] = {
+        name = "Hose It Down",
+        contentTuningID = 2809,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78657] = {
+        name = "The Midnight Sentry",
+        contentTuningID = 2809,
+    },
+    [78658] = {
+        name = "The Hallowed Path",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213983,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78659] = {
+        name = "Where the Light Touches",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213116,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78665] = {
+        name = "Tunnel Trouble",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224310,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78666] = {
+        name = "The Only Good Spider",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224310,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.700631,
+                        y = 0.613081,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78667] = {
+        name = "Rekindled Memories",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213116,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.701198,
+                        y = 0.609949,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78668] = {
+        name = "Rally on the Dawnbreaker",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213116,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.701198,
+                        y = 0.609949,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78669] = {
+        name = "For Their Eyes Only",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224946,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78670] = {
+        name = "Siege Weapon Sabotage",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224945,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78671] = {
+        name = "The Light of the Dawntower",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213120,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.569055,
+                        y = 0.682704,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5600, 5650, 5750, 5800, 5900, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78672] = {
+        name = "A Lamplighter's Duty",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213116,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.541073,
+                        y = 0.647018,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78685] = {
+        name = "The Tunnel's End",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 218715,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8150, 8250, 8400, 8500, 8600, 4900, 3250, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [78686] = {
+        name = "Lights Out",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214019,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78687] = {
+        name = "Crash Recovery",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213614,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.45736,
+                        y = 0.130863,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78688] = {
+        name = "Cage, Match",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213613,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78689] = {
+        name = "If It Leads, It Bleeds",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213614,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78690] = {
+        name = "Situational Awareness",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213613,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.457898,
+                        y = 0.130898,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78691] = {
+        name = "The One That Got Away",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213787,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78692] = {
+        name = "Teach a Man to Fish",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213613,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.457898,
+                        y = 0.130898,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78693] = {
+        name = "Spears for Fears",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213613,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.457898,
+                        y = 0.130898,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78694] = {
+        name = "Reclaiming Velhan's Claim",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213614,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.45736,
+                        y = 0.130863,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78695] = {
+        name = "Lamp Lit",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213614,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.45736,
+                        y = 0.130863,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78696] = {
+        name = "We Don't Go to Taelloch",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213612,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78697] = {
+        name = "Ghost of a Company Town",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213634,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78700] = {
+        name = "Controlled Demolition",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216479,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78701] = {
+        name = "The Truth in Chalk",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216480,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78703] = {
+        name = "Buried in Stone",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 214892,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78704] = {
+        name = "Find the Foreman",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 214890,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.684045,
+                        y = 0.627047,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78705] = {
+        name = "What She Saw",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 214892,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.684784,
+                        y = 0.641891,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78706] = {
+        name = "The High Speaker's Secret",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219452,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78713] = {
+        name = "The War Within",
+        contentTuningID = 2967,
+        source = {
+            type = "area",
+            id = 1637,
+            locations = {
+                [85] = {
+                    {
+                        x = 0.508051,
+                        y = 0.780649,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1050, 775, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 76,
+            },
+            {
+                type = "money",
+                amount = 28090,
+            },
+        },
+    },
+    [78714] = {
+        name = "A Poor Reception",
+        contentTuningID = 2967,
+        source = {
+            type = "npc",
+            id = 213620,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1050, 775, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 76,
+            },
+            {
+                type = "money",
+                amount = 28090,
+            },
+        },
+    },
+    [78715] = {
+        name = "Azeroth's Voice",
+        contentTuningID = 2967,
+        source = {
+            type = "npc",
+            id = 213624,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5200, 4150, 3150, 2100, 1050, 525, 
+                },
+                minLevel = 70,
+                maxLevel = 76,
+            },
+            {
+                type = "money",
+                amount = 140450,
+            },
+        },
+    },
+    [78716] = {
+        name = "Painful Lessons",
+        contentTuningID = 2967,
+        source = {
+            type = "npc",
+            id = 213625,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1050, 775, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 76,
+            },
+            {
+                type = "money",
+                amount = 28090,
+            },
+        },
+    },
+    [78717] = {
+        name = "A Mysterious Warning",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213624,
+            locations = {
+                [629] = {
+                    {
+                        x = 0.453479,
+                        y = 0.573853,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78718] = {
+        name = "Strengthen the Wards",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 214665,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    7800, 7950, 8050, 8150, 8250, 8400, 4750, 3150, 1600, 800, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    210675, 175500, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78719] = {
+        name = "Citizens of Dalaran",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213627,
+            locations = {
+                [629] = {
+                    {
+                        x = 0.411837,
+                        y = 0.622387,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    7800, 7950, 8050, 8150, 8250, 8400, 4750, 3150, 1600, 800, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    210675, 175500, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78721] = {
+        name = "Meet the Team",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 214669,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5300, 5350, 5450, 5500, 5600, 3150, 2100, 1050, 525, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    140450, 117000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78722] = {
+        name = "To Khaz Algar!",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213627,
+            locations = {
+                [629] = {
+                    {
+                        x = 0.411837,
+                        y = 0.622387,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78738] = {
+        name = "Absent Speaker",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212741,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78741] = {
+        name = "Sympathetic Speakers",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213569,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78742] = {
+        name = "Battle of the Earthenworks",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213763,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78743] = {
+        name = "Before I Depart",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213184,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78744] = {
+        name = "Honor Their Memories",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213687,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78745] = {
+        name = "You No Take Plunder!",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213687,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78746] = {
+        name = "Laws Apply to All",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213687,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78747] = {
+        name = "The Great Collapse",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213688,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78748] = {
+        name = "Cutting the Wick",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213688,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78749] = {
+        name = "Who Runs this Fine Establishment?",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213688,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78754] = {
+        name = "Lost Delivery",
+        contentTuningID = 2797,
+        source = {
+            type = "object",
+            id = 423987,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78755] = {
+        name = "Playing in the Mud",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 214921,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78756] = {
+        name = "Lots and Lots of Fire Honey",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 214922,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78757] = {
+        name = "Honey and Clay the Pain Away",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213691,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78758] = {
+        name = "Pulse Within the Earth",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213691,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78759] = {
+        name = "To Wake a Giant",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 214921,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78760] = {
+        name = "Dark Iron from Above",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213763,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78761] = {
+        name = "Into the Machine",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213796,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    16300, 16550, 16750, 17000, 17200, 9800, 6500, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 702000,
+            },
+        },
+    },
+    [78827] = {
+        name = "Go Take Candle!",
+        contentTuningID = 2798,
+        source = {
+            type = "object",
+            id = 413694,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78837] = {
+        name = "Pomp and Dire Circumstance",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212592,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2700, 2750, 2800, 2850, 2850, 1650, 1100, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [78838] = {
+        name = "Cogs in the Machine",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212741,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78839] = {
+        name = "Kobold Shoulder",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212519,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8150, 8250, 8400, 8500, 8600, 4900, 3250, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78860] = {
+        name = "More Candles!",
+        contentTuningID = 2798,
+        source = {
+            type = "object",
+            id = 413694,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78874] = {
+        name = "Conjured Help",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213840,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78877] = {
+        name = "Bless These Homes",
+        contentTuningID = 2798,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78879] = {
+        name = "Evoking the Forge",
+        contentTuningID = 2798,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78895] = {
+        name = "A Shadow Over Gundargaz",
+        contentTuningID = 2798,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78897] = {
+        name = "Boom or Blight",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211652,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78898] = {
+        name = "Intention vs Instinct",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211652,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78900] = {
+        name = "On Cold, Dark Wings",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213869,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78901] = {
+        name = "Heeeelllp!!!",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214076,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.406743,
+                        y = 0.399483,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78902] = {
+        name = "Delegated Dig",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214168,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78918] = {
+        name = "Brax's Brass Knuckles",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213840,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78929] = {
+        name = "Tricks of the Dark",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214378,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78932] = {
+        name = "Fickle Fiendish Fish",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214376,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78934] = {
+        name = "Blades of the Arathi",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214378,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.539292,
+                        y = 0.307466,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78936] = {
+        name = "Something's Fishy",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214376,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.551764,
+                        y = 0.326907,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78937] = {
+        name = "Shadow upon Shadow",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 221100,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78939] = {
+        name = "The Darkened Flame",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214405,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5600, 5650, 5750, 5800, 5900, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [78941] = {
+        name = "A Tide Needing Turned",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 223944,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [78942] = {
+        name = "The Might of Khaz Algar",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 214271,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78943] = {
+        name = "Steel and Flames",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 214271,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78948] = {
+        name = "A Light in the Dark",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 214273,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78950] = {
+        name = "Cutting Off the Legs",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 214276,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78951] = {
+        name = "Ever Deeper Shadow",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214404,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.562176,
+                        y = 0.420091,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78952] = {
+        name = "The Final Resistance",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 214413,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [78954] = {
+        name = "Restore the Flame",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 221733,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.557781,
+                        y = 0.434371,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2800, 2850, 2850, 2900, 2950, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [78972] = {
+        name = "Harvest Havoc",
+        contentTuningID = 2809,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [78974] = {
+        name = "Beetle-Minded",
+        contentTuningID = 2861,
+    },
+    [78995] = {
+        name = "Truffle Shuffle",
+        contentTuningID = 2861,
+    },
+    [78996] = {
+        name = "Weapons and Warriors",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 214444,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5300, 5350, 5450, 5500, 5600, 3150, 2100, 1050, 525, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    140450, 117000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78997] = {
+        name = "Pilfered Pearls",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 215201,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78998] = {
+        name = "Frontline Farmers",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 215201,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [78999] = {
+        name = "Heart of a Hero",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 215327,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79022] = {
+        name = "A Mysterious Signal",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 223944,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79023] = {
+        name = "Small Friend, Big Plans",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214663,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79024] = {
+        name = "Factory Recon",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214663,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79025] = {
+        name = "A Plan Comes Together",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 217245,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79026] = {
+        name = "Putting the Works in Waterworks",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 217331,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79027] = {
+        name = "Elemental Trepidation",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 216137,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79028] = {
+        name = "We Require More Minerals",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 216140,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79029] = {
+        name = "It's Sabotage",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214663,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79030] = {
+        name = "The Voice of the Speakers",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 220928,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79089] = {
+        name = "Consecrated Cleanup",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 225188,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79105] = {
+        name = "Breach",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 214908,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79106] = {
+        name = "Rupture",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 214908,
+            locations = {
+                [2305] = {
+                    {
+                        x = 0.357418,
+                        y = 0.71316,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79107] = {
+        name = "After the Storm",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 223944,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79108] = {
+        name = "Seeds of Evil",
+        contentTuningID = 2809,
+        source = {
+            type = "npc",
+            id = 206528,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79109] = {
+        name = "Follow Miral",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 206528,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79110] = {
+        name = "Save Tomothy",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 215041,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79114] = {
+        name = "Beautification Project",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214359,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79115] = {
+        name = "Expert Consultant",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214356,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79116] = {
+        name = "Spider Optics",
+        contentTuningID = 2861,
+    },
+    [79117] = {
+        name = "Bright Young Niffen",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215037,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79118] = {
+        name = "Rak-Ush Under New Management",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215037,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79119] = {
+        name = "It's Rough to Be a Bug!",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214359,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79120] = {
+        name = "Beetle in a Haystack",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214356,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.750387,
+                        y = 0.808477,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79121] = {
+        name = "Bug Test",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214359,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.750751,
+                        y = 0.807192,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79122] = {
+        name = "Scarab Scouting",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214359,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.750751,
+                        y = 0.807192,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79123] = {
+        name = "Permanent Hire",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214359,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.750751,
+                        y = 0.807192,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79124] = {
+        name = "Conduit of the Southern Storm",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214995,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79129] = {
+        name = "Rook Rally",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215039,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.256202,
+                        y = 0.572065,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79139] = {
+        name = "Alone in the Dark",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215113,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8700, 8850, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [79140] = {
+        name = "Goldbricking",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215187,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79145] = {
+        name = "Metal and Stone",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 223205,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79146] = {
+        name = "Ground Pounders",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214919,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79147] = {
+        name = "Flight Training 101",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215211,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79148] = {
+        name = "The Nibelgaz Refinery",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215208,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79149] = {
+        name = "Rampage in the Refinery",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215234,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79150] = {
+        name = "Thespians at the Proscenium",
+        contentTuningID = 2837,
+        source = {
+            type = "npc",
+            id = 214296,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79151] = {
+        name = "An Orphan's Request",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215237,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79152] = {
+        name = "Gutting the Pool",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 218062,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79153] = {
+        name = "Vae Victis",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215254,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79154] = {
+        name = "A Final Goodbye",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215254,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79156] = {
+        name = "The Edicts",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214995,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.765598,
+                        y = 0.356673,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79157] = {
+        name = "Titanic Failsafe",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214916,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79159] = {
+        name = "Dereliction of Duty",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215306,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79160] = {
+        name = "Fishing is Good for the Soul",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215301,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79162] = {
+        name = "Burnout",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215301,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5600, 5650, 5750, 5800, 5900, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79165] = {
+        name = "A Moment to Rest",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 215341,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79166] = {
+        name = "Lost Pieces",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 218541,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79167] = {
+        name = "Crowdsourcing",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 215331,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79168] = {
+        name = "Light's Gambit",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 218267,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79174] = {
+        name = "Infested Infestation",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215349,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79175] = {
+        name = "I Think I'm a Drone Now",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217330,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2900, 2950, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [79176] = {
+        name = "Opals and Runes",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217091,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5300, 5350, 5450, 5500, 5600, 3150, 2100, 1050, 525, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    140450, 117000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79193] = {
+        name = "Spinning Spore Spines",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215209,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79194] = {
+        name = "To the Source",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217474,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2700, 2750, 2800, 2850, 2850, 1650, 1100, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [79197] = {
+        name = "Surface Bound",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 219252,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79205] = {
+        name = "Not Waste, Not Want",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212991,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79206] = {
+        name = "Broken Memories",
+        contentTuningID = 2798,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8150, 8250, 8400, 8500, 8600, 4900, 3250, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [79213] = {
+        name = "The Anachronism",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225478,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79216] = {
+        name = "Web of Manipulation",
+        contentTuningID = 2809,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79217] = {
+        name = "Back to Base",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214663,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79224] = {
+        name = "Gathering Intel",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 223944,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79227] = {
+        name = "A Spider's-Eye View",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 207471,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79230] = {
+        name = "Creeping Through Corridors",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215626,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79232] = {
+        name = "Those Who Fell",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 215527,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79233] = {
+        name = "Lab Access",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215637,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79237] = {
+        name = "Making of a Monster",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215628,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79239] = {
+        name = "The Queen's Chains",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215659,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79240] = {
+        name = "Rogue Agent",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215661,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79241] = {
+        name = "Go Loud",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215662,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79243] = {
+        name = "Manufactured Mutiny",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215662,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79244] = {
+        name = "News From Below",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215625,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 702000,
+            },
+        },
+    },
+    [79256] = {
+        name = "A Hint of Fear",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212742,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79258] = {
+        name = "Mineral Water Woes",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215788,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79259] = {
+        name = "Put On a Good Face",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215781,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79260] = {
+        name = "Epicenter",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215822,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79261] = {
+        name = "Boiling Mad",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215821,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79262] = {
+        name = "Clean Up House",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215824,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79263] = {
+        name = "Fault Lines",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215824,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79264] = {
+        name = "These Strong Hands",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215836,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79265] = {
+        name = "Fearbreaker",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217598,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79266] = {
+        name = "The Bronzebeard Legacy",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216085,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79267] = {
+        name = "Wax On, Pot Off",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212992,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79282] = {
+        name = "The Grand Debut",
+        contentTuningID = 2837,
+        source = {
+            type = "npc",
+            id = 214296,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79295] = {
+        name = "Hose 'Em Down - Activate",
+        contentTuningID = 2809,
+    },
+    [79297] = {
+        name = "Nightwatch",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 218182,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79300] = {
+        name = "The Notebook",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 216001,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8400, 8500, 8600, 8700, 8850, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [79301] = {
+        name = "Height Club",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 225925,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79302] = {
+        name = "Gone with the Wind",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 225925,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79303] = {
+        name = "A Principled Principal",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 225926,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79304] = {
+        name = "Care Package",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217609,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79309] = {
+        name = "Status Report",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 216061,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79310] = {
+        name = "Seek the Lost",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 216063,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8400, 8500, 8600, 8700, 8850, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [79311] = {
+        name = "Stem the Flow",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 216063,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79312] = {
+        name = "Mow the Masses",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 216063,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79313] = {
+        name = "What Grows in the Dark",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 216063,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.755332,
+                        y = 0.518446,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79324] = {
+        name = "To the Waterworks",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 217245,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79325] = {
+        name = "Shadowvein Extraction",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 217331,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79327] = {
+        name = "The Glittering Shard",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216025,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79328] = {
+        name = "Embassies and Envoys",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 216167,
+            locations = {
+                [2339] = {
+                    {
+                        x = 0.358833,
+                        y = 0.812442,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79329] = {
+        name = "Glowing Harvest",
+        contentTuningID = 2809,
+    },
+    [79333] = {
+        name = "The Fleet Arrives",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 216149,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79335] = {
+        name = "One More Tradition",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213184,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79336] = {
+        name = "The Forging of Memories",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216169,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79337] = {
+        name = "The Last Journey",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216169,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    7800, 7950, 8050, 8150, 8250, 8400, 4750, 3150, 1600, 800, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    210675, 175500, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79338] = {
+        name = "The Lost Earthen",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 213187,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79339] = {
+        name = "A Change of Tradition",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216878,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79340] = {
+        name = "Tools of Declaration",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216173,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79341] = {
+        name = "Cleansing Ashes",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216173,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79342] = {
+        name = "As He Departs",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216173,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79343] = {
+        name = "Everyday I'm Snufflin'",
+        contentTuningID = 2798,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8150, 8250, 8400, 8500, 8600, 4900, 3250, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [79344] = {
+        name = "Urban Odyssey",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214917,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79349] = {
+        name = "Entrepreneur, Inc.",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 214168,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79354] = {
+        name = "The Machine Speakers",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212742,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79355] = {
+        name = "Prisoner Preservation",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215349,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79356] = {
+        name = "Antifungal Firestarter",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215349,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79357] = {
+        name = "Removing the Cap",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215349,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79367] = {
+        name = "A Nebb in Need",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215737,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79368] = {
+        name = "Hair of the Spider",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215737,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79369] = {
+        name = "Protecting the Harvest",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217152,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79370] = {
+        name = "A Poultice for Poison",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215737,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79371] = {
+        name = "A Royal Cure",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215737,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79372] = {
+        name = "A Clutch of Hope",
+        contentTuningID = 2798,
+        source = {
+            type = "object",
+            id = 423581,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79380] = {
+        name = "Bog Beast Banishment",
+        contentTuningID = 2809,
+    },
+    [79383] = {
+        name = "Web of Manipulation - Activate",
+        contentTuningID = 2809,
+    },
+    [79469] = {
+        name = "Lurking Below",
+        contentTuningID = 2809,
+    },
+    [79470] = {
+        name = "Waters of War",
+        contentTuningID = 2809,
+    },
+    [79471] = {
+        name = "Bleak Sand",
+        contentTuningID = 2809,
+    },
+    [79475] = {
+        name = "Charging Up That Hill",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214995,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.276416,
+                        y = 0.60527,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79476] = {
+        name = "Heeding the Call",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214995,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.276416,
+                        y = 0.60527,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79477] = {
+        name = "Strays",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215039,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.28986,
+                        y = 0.61736,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79480] = {
+        name = "Paying Respects",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214995,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.759732,
+                        y = 0.39883,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79481] = {
+        name = "Tending to the Terrified",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217152,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79504] = {
+        name = "Dripsy Forgot Her Candle",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216438,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79505] = {
+        name = "Chomps and the Cave-In",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216438,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79507] = {
+        name = "The Day the Stoneheads Came",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216438,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79508] = {
+        name = "Mipsy Mole-Rider",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216438,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79510] = {
+        name = "The Wickless Candle",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216438,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79521] = {
+        name = "Seizing Evidence",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219394,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79522] = {
+        name = "Withheld Information",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219394,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79523] = {
+        name = "Something Hidden",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219394,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79525] = {
+        name = "Report to the Councilward",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219394,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79526] = {
+        name = "Sedition",
+        contentTuningID = 2797,
+        source = {
+            type = "object",
+            id = 429303,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79527] = {
+        name = "Damage Mitigation",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219400,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79528] = {
+        name = "Dispelling Rumors",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219400,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79529] = {
+        name = "Forcing My Hand",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219400,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79530] = {
+        name = "Bad Business",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219475,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79538] = {
+        name = "Smelly Shrubberies",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 216996,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79539] = {
+        name = "Electrifying!",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 216994,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79540] = {
+        name = "The Party's Over",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217402,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2900, 2950, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [79541] = {
+        name = "Burn It With Fire",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217029,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.775786,
+                        y = 0.595512,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79542] = {
+        name = "The Councilward's Summons",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225426,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79543] = {
+        name = "Dornogal's Benefactor",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217069,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79544] = {
+        name = "Security Through Trade",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217095,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5300, 5350, 5450, 5500, 5600, 3150, 2100, 1050, 525, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    140450, 117000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79545] = {
+        name = "The Market Reeve of the Forgegrounds",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217072,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79546] = {
+        name = "The Machine Speakeasy",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217097,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79552] = {
+        name = "Hot Wax",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219674,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79553] = {
+        name = "A Natural Remedy",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217879,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79556] = {
+        name = "On the Job Training",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217131,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79559] = {
+        name = "The Verdigrease Knight",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 230841,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [79561] = {
+        name = "Lord of the Giants",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 218866,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79563] = {
+        name = "Lady of the Lake",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 218837,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79564] = {
+        name = "The Verdigrease Knight Returns",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 216566,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79565] = {
+        name = "Janky Candles",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219674,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79574] = {
+        name = "The Second Front",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217133,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79579] = {
+        name = "That Airspace is Mine(d)!",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 212076,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79580] = {
+        name = "Offensive Counter",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 212076,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79625] = {
+        name = "Not Quite Dead",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217330,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2900, 2950, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [79630] = {
+        name = "Searching the Web",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217356,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79631] = {
+        name = "Klaskin's Great Escape",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217355,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79641] = {
+        name = "Wipe Away Their Smiles",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217424,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79642] = {
+        name = "Stave Them Off",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217426,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79643] = {
+        name = "Dreaded Dreadfang",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 221492,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79644] = {
+        name = "Go to the Priory",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217424,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.290725,
+                        y = 0.618256,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79645] = {
+        name = "Sweet-Sting Infestation",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217398,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79646] = {
+        name = "Memorial Wine",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217398,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79647] = {
+        name = "Burning Reflections",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217398,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79648] = {
+        name = "Missing Somebody",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217398,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.396263,
+                        y = 0.371754,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79649] = {
+        name = "Sacred Flame Inquisition",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217398,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.396263,
+                        y = 0.371754,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79650] = {
+        name = "Priory of the Sacred Flame: A Brother's Grief",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 217398,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    22350, 22650, 22950, 23250, 23550, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 936000,
+            },
+        },
+    },
+    [79651] = {
+        name = "Trade Partners",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 223754,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [79667] = {
+        name = "It's Elementary",
+        contentTuningID = 3019,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    20850, 21150, 21450, 21750, 22050, 22350, 12700, 8450, 4250, 2100, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    1123600, 936000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79679] = {
+        name = "Muddled Mind in the Mine",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 215208,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79680] = {
+        name = "Pipe Patching",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217131,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79681] = {
+        name = "Plumber Power",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217131,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79682] = {
+        name = "Critical Pressure!",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217131,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79683] = {
+        name = "Home Is Where the Candle Is",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 213152,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.471089,
+                        y = 0.332722,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79686] = {
+        name = "Concerning Fungarians",
+        contentTuningID = 2797,
+        source = {
+            type = "object",
+            id = 428135,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79691] = {
+        name = "Monsters in the Dark",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216094,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79692] = {
+        name = "Buried, Not Forgotten",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 216094,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79701] = {
+        name = "The Cavalry is Here",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217766,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79703] = {
+        name = "Hope, An Anomaly",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217961,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.422874,
+                        y = 0.732114,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79710] = {
+        name = "A Fin of Every Kind",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217565,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79711] = {
+        name = "That's Pretty Gross",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217724,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79713] = {
+        name = "Moonlight Gutter Swim",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217565,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.600754,
+                        y = 0.660567,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79714] = {
+        name = "Rescuing the Food",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217565,
+            locations = {
+                [2255] = {
+                    {
+                        x = 0.600754,
+                        y = 0.660567,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79715] = {
+        name = "Grand, Gutsy Solutions",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217565,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79716] = {
+        name = "The History Beneath Us",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225453,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79717] = {
+        name = "Means of Ingress",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217692,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79718] = {
+        name = "Skeins Street Irregulars",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217692,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79721] = {
+        name = "Fire in the Hole",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212295,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79722] = {
+        name = "Gutter Work",
+        contentTuningID = 2861,
+    },
+    [79723] = {
+        name = "Repatriation by Subtraction",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217692,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79724] = {
+        name = "A Titanic Expedition!",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217763,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79725] = {
+        name = "Not a Heating Pack",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217828,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79726] = {
+        name = "\"Cataloguing\"",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217656,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79727] = {
+        name = "Because It's Shiny",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217659,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79728] = {
+        name = "It's Probably Nothing",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 217828,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [79729] = {
+        name = "Educate Yourself",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217692,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79730] = {
+        name = "Dogged Pursuit",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217692,
+            locations = {
+                [2213] = {
+                    {
+                        x = 0.340163,
+                        y = 0.297714,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79944] = {
+        name = "Raging Rifts",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 223000,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79954] = {
+        name = "Spiders!",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217255,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79955] = {
+        name = "...And Now I'm Arachnophobic",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217640,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79956] = {
+        name = "Legs in the Ceiling",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217640,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [79957] = {
+        name = "Maggots in your Eyes",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217994,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [79958] = {
+        name = "Worm Sign, Sealed, Delivered",
+        contentTuningID = 2861,
+    },
+    [79959] = {
+        name = "Wormcraft Rumble",
+        contentTuningID = 2861,
+    },
+    [79960] = {
+        name = "Taking it To Go",
+        contentTuningID = 2861,
+    },
+    [79998] = {
+        name = "Mite Not Right",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219674,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [79999] = {
+        name = "Igniting Hope",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213116,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.71575,
+                        y = 0.575862,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80000] = {
+        name = "Beebiter",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219674,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80005] = {
+        name = "Crab Grab - Activate",
+        contentTuningID = 2809,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80022] = {
+        name = "Calling the Stormriders",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 212747,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80049] = {
+        name = "The Flame Still Burns",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213107,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80058] = {
+        name = "Kobold Kleanup",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216568,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80079] = {
+        name = "A Wrench in the Works",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 218714,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80082] = {
+        name = "Back to Gundargaz",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212992,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [80096] = {
+        name = "The Shovel in the Stone",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 218878,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80144] = {
+        name = "The Holey Grail",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 218878,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80145] = {
+        name = "The Motherlode",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 218622,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80175] = {
+        name = "The Last Mage",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215335,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [80176] = {
+        name = "Arcane Trickles",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 219135,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80177] = {
+        name = "Arcane Experiments",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 219135,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80178] = {
+        name = "A Murder Most Foul",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 219173,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80179] = {
+        name = "Finding Justice",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 219173,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80202] = {
+        name = "Hot Pollenate-o",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219674,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80203] = {
+        name = "Social Clues",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 219357,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80204] = {
+        name = "Espionage and Ventriloquism",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221092,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80205] = {
+        name = "Pulling Strings",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221093,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80206] = {
+        name = "Marionette Mercy",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221093,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80207] = {
+        name = "How Scandalous!",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219393,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80208] = {
+        name = "Digging into Trouble",
+        contentTuningID = 2869,
+    },
+    [80209] = {
+        name = "An Oddball in Dornogal",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222224,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5300, 5350, 5450, 5500, 5600, 5650, 5750, 5800, 5900, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    140450, 117000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80210] = {
+        name = "Found Around the Unbound",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222268,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80211] = {
+        name = "The Pillage of Freywold Village",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222314,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80212] = {
+        name = "The Abductors' Obstructors",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222314,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80213] = {
+        name = "Holy Fire in Rambleshire",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222352,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80214] = {
+        name = "A Time to Kill at the Lumber Mill",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222356,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80215] = {
+        name = "Ungirthin' the Earthen",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222360,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80216] = {
+        name = "Concealed in the Weald",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222358,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80217] = {
+        name = "A Lamplight for the Shipwright",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222362,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5300, 5350, 5450, 5500, 5600, 5650, 5750, 5800, 5900, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    140450, 117000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80218] = {
+        name = "Up to No Good Down in Silkwood",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222364,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80295] = {
+        name = "Rocks, Water and Elemental Fodder",
+        contentTuningID = 2837,
+    },
+    [80312] = {
+        name = "Gasping Plea",
+        contentTuningID = 2799,
+        source = {
+            type = "area",
+            id = 15035,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.540116,
+                        y = 0.299781,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [80313] = {
+        name = "Tidal Charms",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 219430,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80314] = {
+        name = "Voices from the Deep",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 219430,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80315] = {
+        name = "Alluring Offer",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 219430,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80316] = {
+        name = "Return to the Sea",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 219430,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8400, 8500, 8600, 8700, 8850, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [80321] = {
+        name = "Departure",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 219885,
+            locations = {
+                [2307] = {
+                    {
+                        x = 0.725759,
+                        y = 0.577707,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80323] = {
+        name = "Foggy Faceoff",
+        contentTuningID = 2869,
+    },
+    [80334] = {
+        name = "Shattered Spires",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 211994,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80378] = {
+        name = "A Light of the Dark",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 223116,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80382] = {
+        name = "Eggs in One Basket",
+        contentTuningID = 2462,
+        source = {
+            type = "object",
+            id = 430581,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80392] = {
+        name = "The Caretaker of Brunwin's Terrace",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219784,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80394] = {
+        name = "Along for the Ride",
+        contentTuningID = 2837,
+    },
+    [80395] = {
+        name = "Elemental Excavation",
+        contentTuningID = 2837,
+    },
+    [80399] = {
+        name = "Rations and Revelations",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 211409,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80401] = {
+        name = "A Perfect Sponge",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219899,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [80402] = {
+        name = "Buckets and Blooms",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219899,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80404] = {
+        name = "Mossy Earthen",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219899,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8150, 8250, 8400, 8500, 8600, 4900, 3250, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [80405] = {
+        name = "Too Much Drip",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220784,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [80406] = {
+        name = "Seeking Ausgazur's Gems",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220784,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80407] = {
+        name = "Glintwick the Gem Grabber",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220784,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80408] = {
+        name = "Shimmermist Falls",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224362,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2700, 2750, 2800, 2850, 2850, 1650, 1100, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [80409] = {
+        name = "Polarized",
+        contentTuningID = 2837,
+    },
+    [80412] = {
+        name = "Fending off Darkness",
+        contentTuningID = 2837,
+    },
+    [80434] = {
+        name = "Into the Deeps",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 217887,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2700, 2750, 2800, 2850, 2850, 1650, 1100, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [80456] = {
+        name = "A Sassy Arathi",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 219437,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [80457] = {
+        name = "Serving the Queen",
+        contentTuningID = 2837,
+    },
+    [80500] = {
+        name = "The Bronzebeard Family",
+        contentTuningID = 2967,
+        source = {
+            type = "npc",
+            id = 214651,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10400, 8350, 6250, 4150, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 76,
+            },
+            {
+                type = "money",
+                amount = 280900,
+            },
+        },
+    },
+    [80502] = {
+        name = "Don't Cry for Me, Azj-Kahet",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220690,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80508] = {
+        name = "Dread in the Den",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 222234,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [80509] = {
+        name = "A Suit of Slime",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 222234,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.696446,
+                        y = 0.411383,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80510] = {
+        name = "Healing the Headwaters",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 222234,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.696446,
+                        y = 0.411383,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80511] = {
+        name = "Casing the Camp",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 222234,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.696446,
+                        y = 0.411383,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [80512] = {
+        name = "Beat the Best",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 222239,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80513] = {
+        name = "Snouty Sabotage",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 222239,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80514] = {
+        name = "Break out Berrund!",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 222239,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80515] = {
+        name = "Put the Shine On",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 222234,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.696446,
+                        y = 0.411383,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80516] = {
+        name = "Bump off the Boss",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220220,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80517] = {
+        name = "Back to Where it Began",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 218622,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [80558] = {
+        name = "Nothing Ventured",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 217029,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80562] = {
+        name = "Blossoming Delight",
+        contentTuningID = 2809,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80563] = {
+        name = "Tool of Attunement",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220595,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80564] = {
+        name = "Field Research",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220595,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80565] = {
+        name = "Resounding Repercussions",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220603,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [80566] = {
+        name = "Enemies Abound",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220608,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80567] = {
+        name = "Song of Restoring",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 223285,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [80568] = {
+        name = "Leave No Trace",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 223286,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80569] = {
+        name = "Harmonious Approach",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 227158,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80570] = {
+        name = "Staunch the Flow",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220610,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80571] = {
+        name = "Decipher the Cacophony",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220610,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80572] = {
+        name = "Discordant Measures",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 220610,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [80573] = {
+        name = "Dropping Eaves: Spoils of War",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80576] = {
+        name = "Listener Lost",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220600,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [80577] = {
+        name = "Readying the Recitation",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220600,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.620343,
+                        y = 0.455317,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [80578] = {
+        name = "The Common Costume",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220597,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.618785,
+                        y = 0.45507,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [80592] = {
+        name = "Forge a Pact",
+        contentTuningID = 2861,
+    },
+    [80593] = {
+        name = "A Sip of Cinder",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220600,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.620343,
+                        y = 0.455317,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80670] = {
+        name = "Eyes of the Weaver",
+        contentTuningID = 2861,
+    },
+    [80671] = {
+        name = "Blade of the General",
+        contentTuningID = 2861,
+    },
+    [80672] = {
+        name = "Hand of the Vizier",
+        contentTuningID = 2861,
+    },
+    [80673] = {
+        name = "Runway Scare-a-way",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 220718,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80676] = {
+        name = "Defragmenting Memory",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220597,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80677] = {
+        name = "Torching Lights",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 220718,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80678] = {
+        name = "Time Lost",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 220718,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [80680] = {
+        name = "Tarnished Compass",
+        contentTuningID = 2809,
+        source = {
+            type = "object",
+            id = 439890,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [80682] = {
+        name = "One Last Story",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220597,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.618785,
+                        y = 0.45507,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [80689] = {
+        name = "Tending to Ausgazur",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 219899,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2700, 2750, 2800, 2850, 2850, 1650, 1100, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [81465] = {
+        name = "Artifacts Galore",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81470] = {
+        name = "Dropping Eaves: Thieving Weave",
+        contentTuningID = 2861,
+    },
+    [81471] = {
+        name = "Dropping Eaves: Saving the Past",
+        contentTuningID = 2861,
+    },
+    [81472] = {
+        name = "Information Control: Ansurek's Truth",
+        contentTuningID = 2861,
+    },
+    [81473] = {
+        name = "Information Control: The Right Side of History",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81475] = {
+        name = "Breaking the Phalanx: Royal Appointee",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81476] = {
+        name = "Bounty: Chitinous Goliath",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81477] = {
+        name = "Armaments: Weaponry",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81478] = {
+        name = "Relics of War: The Ruptured Lake",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81479] = {
+        name = "Requisitions: Umbrashrooms",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81480] = {
+        name = "Wild Reagents: Maddening Deep",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81481] = {
+    },
+    [81482] = {
+        name = "Testing Formulae: Gelatinous Unguent",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81483] = {
+        name = "Infiltration: Production Blocker",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81484] = {
+        name = "Wet Work: Death of a Salesman",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81487] = {
+        name = "Breaking the Phalanx: Threadblades",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81488] = {
+        name = "Breaking the Phalanx: Schismatic Sages",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81489] = {
+        name = "Bounty: Zorikal the Patron",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81490] = {
+        name = "Bounty: Balaxir the Bully",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81491] = {
+        name = "Armaments: Arbalests",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81492] = {
+        name = "Armaments: Smithing Tools",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81493] = {
+        name = "Relics of War: The Salien Gutter Conflict",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81494] = {
+        name = "Relics of War: Rak-Zakaz",
+        contentTuningID = 2861,
+    },
+    [81495] = {
+        name = "Requisitions: Brightblooms",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81496] = {
+        name = "Requisitions: Fangpetals",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81497] = {
+        name = "Wild Reagents: Salien Gutters",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81498] = {
+        name = "Wild Reagents: Twitching Gorge",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81499] = {
+    },
+    [81500] = {
+        name = "Wet Work: Step Into Their Parlor",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81501] = {
+        name = "Testing Formulae: Roiling Elixir",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81502] = {
+        name = "Testing Formulae: Malodorous Philter",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81503] = {
+        name = "Infiltration: Terror Made Manifest",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81504] = {
+        name = "Infiltration: Hidden Figures",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81505] = {
+    },
+    [81506] = {
+        name = "Sabotage: Alchemical Instruments",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [81510] = {
+        name = "Ship It!",
+        contentTuningID = 2829,
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81512] = {
+        name = "Props and Incense??",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81514] = {
+        name = "Bountiful Delves",
+        contentTuningID = 2829,
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [81555] = {
+        name = "Wet Work: Tithe to Kill",
+        contentTuningID = 2861,
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81556] = {
+        name = "Foreign Fog",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 221043,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [81557] = {
+        name = "Fog Tags",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 221043,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [81558] = {
+        name = "Unnatural Predators",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 221043,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [81559] = {
+        name = "Fog Follower",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 221043,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [81568] = {
+        name = "Release the Beasts",
+        contentTuningID = 3018,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    22350, 22650, 22950, 23250, 23550, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 936000,
+            },
+        },
+    },
+    [81613] = {
+        name = "Let's Not Worry Her",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220597,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81615] = {
+        name = "Wick Points",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81620] = {
+        name = "Recovery Job",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81621] = {
+        name = "Tunnels Be Gone!",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81622] = {
+        name = "Bells of the Light",
+        contentTuningID = 2837,
+    },
+    [81630] = {
+        name = "Activation Protocol",
+        contentTuningID = 2860,
+    },
+    [81639] = {
+        name = "Honey Thieving Nerubians",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81650] = {
+        name = "Special Assignment: Titanic Resurgence",
+        contentTuningID = 2829,
+    },
+    [81655] = {
+        name = "Juicy Krolusk Meat",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220417,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81656] = {
+        name = "Nothing to Waste",
+        contentTuningID = 2869,
+    },
+    [81661] = {
+        name = "To Mourning Rise",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 221355,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [81667] = {
+        name = "The Upstart",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 222136,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8700, 8850, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [81668] = {
+        name = "Measure Once, Cut Thrice",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221550,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81669] = {
+        name = "Sticks and Bones",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220417,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81670] = {
+        name = "Shattered Silk",
+        contentTuningID = 2762,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [81672] = {
+        name = "In a Pinch",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220417,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [81673] = {
+        name = "Honor Your Efforts",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 215527,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81675] = {
+        name = "Water the Sheep",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81683] = {
+        name = "Spring Collection",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221557,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81685] = {
+        name = "Azj-Kahet's Next Top Dyemaster",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 222132,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [81686] = {
+        name = "Subterfuge in Silk",
+        contentTuningID = 2762,
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81687] = {
+        name = "I Expect You To Dye",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 222132,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81688] = {
+        name = "That's All",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 222136,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81689] = {
+        name = "Orientation: Gundargaz",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 212742,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81690] = {
+        name = "The Light at the End of the Tunnel",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 221733,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [81691] = {
+    },
+    [81692] = {
+        name = "The Flame Within",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 214380,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81693] = {
+        name = "Desperately Seeking Skorthuz",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220415,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2700, 2750, 2800, 2850, 2850, 1650, 1100, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [81710] = {
+        name = "Mead for the Catalog",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81712] = {
+        name = "Lisky Business",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220446,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81713] = {
+        name = "Oozemodious",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220446,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [81750] = {
+        name = "Cloud Farming",
+        contentTuningID = 2869,
+    },
+    [81751] = {
+        name = "Fire and Gemstone",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 217128,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81767] = {
+        name = "Scrounge that Scrap!",
+        contentTuningID = 2869,
+    },
+    [81793] = {
+        name = "Sparks of War: Isle of Dorn",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "currency",
+                id = 1792,
+                amount = 500,
+            },
+            {
+                type = "currency",
+                id = 2123,
+                amount = 100000,
+            },
+            {
+                type = "currency",
+                id = 2815,
+                amount = 50,
+            },
+            {
+                type = "reputation",
+                id = 2590,
+                amount = 250,
+            },
+        },
+    },
+    [81794] = {
+        name = "Sparks of War: The Ringing Deeps",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "currency",
+                id = 1602,
+                amount = 5000,
+            },
+            {
+                type = "currency",
+                id = 1792,
+                amount = 500,
+            },
+            {
+                type = "currency",
+                id = 2123,
+                amount = 100000,
+            },
+        },
+    },
+    [81797] = {
+        name = "Targeted Recon",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 218508,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81798] = {
+        name = "Return to Moira",
+        contentTuningID = 2798,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81802] = {
+        name = "Skyrider Racing - Storm's Watch Survey",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81804] = {
+        name = "Skyrider Racing - The Wold Ways",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81806] = {
+        name = "Skyrider Racing - Orecreg's Doglegs",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81808] = {
+        name = "Skyrider Racing - Ringing Deeps Ramble",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81810] = {
+        name = "Skyrider Racing - Chittering Concourse",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81816] = {
+        name = "Skyrider Racing - Tenir's Traversal",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81819] = {
+        name = "Skyrider Racing - Stillstone Slalom",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81822] = {
+        name = "Skyrider Racing - Mereldar Meander",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81824] = {
+        name = "Skyrider Racing - City of Threads Twist",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81831] = {
+        name = "Skyrider Racing - Siegehold Scuttle",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81854] = {
+        name = "Coreway Maintenance Request",
+        contentTuningID = 2837,
+    },
+    [81862] = {
+        name = "Feline Frenzy",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [81869] = {
+        name = "Can Catch More Fires with Honey",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 217128,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81890] = {
+        name = "Unfulfilled Requests",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 208782,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81896] = {
+        name = "New and Improved",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 217128,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81912] = {
+        name = "Flight Training 102",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215211,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.35015,
+                        y = 0.722243,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81913] = {
+        name = "Flight Training 103",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215211,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.617543,
+                        y = 0.655185,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81914] = {
+        name = "Dhar Oztan",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215039,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81915] = {
+        name = "Home to Roost",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 215277,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81925] = {
+    },
+    [81926] = {
+    },
+    [81927] = {
+    },
+    [81928] = {
+        name = "The Voice of the People",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221948,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81929] = {
+        name = "Here's the Plan",
+        contentTuningID = 2861,
+        source = {
+            type = "npc",
+            id = 211409,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81930] = {
+        name = "The War Within",
+        contentTuningID = 2967,
+        source = {
+            type = "area",
+            id = 1519,
+            locations = {
+                [84] = {
+                    {
+                        x = 0.629261,
+                        y = 0.7229,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1050, 775, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 76,
+            },
+            {
+                type = "money",
+                amount = 28090,
+            },
+        },
+    },
+    [81945] = {
+        name = "To Arathi's End",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 211409,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81950] = {
+        name = "BOOM Treats!",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 221977,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81959] = {
+        name = "Collecting a Concoction",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221842,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81962] = {
+        name = "A Nudge in the Right Direction",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221842,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81963] = {
+        name = "The Fruits of Our Labor",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 221842,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [81964] = {
+        name = "The Blacksmith's Fate",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 221961,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [81965] = {
+        name = "Invasion Disruption",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 221961,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 585000,
+            },
+        },
+    },
+    [81966] = {
+        name = "Slept Like a Rock",
+        contentTuningID = 2797,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [81969] = {
+        name = "An End to the End",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 221980,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [81981] = {
+        name = "What Army?",
+        contentTuningID = 3017,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    20850, 21150, 21450, 21750, 22050, 22350, 22650, 22950, 23250, 23550, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    1123600, 936000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [81990] = {
+        name = "The Light's Call",
+        contentTuningID = 2809,
+        source = {
+            type = "npc",
+            id = 213145,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [81999] = {
+        name = "New Home, New Candle!",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216567,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1350, 1400, 1400, 1400, 1450, 825, 550, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [82041] = {
+        name = "Beledar's Blessing",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82088] = {
+        name = "Kobyss Kibosh",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82120] = {
+        name = "Pool Cleaner",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82124] = {
+        name = "The Beginning of the End",
+        contentTuningID = 2942,
+        source = {
+            type = "npc",
+            id = 208782,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82125] = {
+        name = "A Spy Like Us",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 208782,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [82126] = {
+        name = "Defense of the People",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 222790,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82127] = {
+        name = "Make Them Prey",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 222790,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82130] = {
+        name = "A Shot at the Top",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 222790,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [82131] = {
+    },
+    [82133] = {
+        name = "Documenting: Field Manual Edition",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82141] = {
+        name = "To Kill a Queen",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 208782,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    23250, 23550, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 14040000,
+            },
+        },
+    },
+    [82143] = {
+        name = "The Path of Dissonance",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 226672,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [82144] = {
+        name = "On the Road",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 220600,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.573685,
+                        y = 0.430388,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [82146] = {
+        name = "Special Assignment: Cinderbee Surge",
+        contentTuningID = 2832,
+    },
+    [82153] = {
+        name = "Embassies and Envoys",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 216168,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82156] = {
+        name = "Special Assignment: When the Deeps Stir",
+        contentTuningID = 2832,
+    },
+    [82195] = {
+        name = "Rust and Redemption",
+        contentTuningID = 2798,
+        source = {
+            type = "object",
+            id = 443532,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82197] = {
+        name = "Reserve Rumpus",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82206] = {
+        name = "Into Shadows",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82212] = {
+        name = "Weak Lionfish",
+        contentTuningID = 2832,
+    },
+    [82213] = {
+        name = "A Batty Request",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213145,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82214] = {
+        name = "Does Anyone Like Wasps?",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213145,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82215] = {
+        name = "Regular Fiber",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213145,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82216] = {
+        name = "Economical Request",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213145,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8400, 8500, 8600, 8700, 8850, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [82217] = {
+        name = "Underground Economics",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 225711,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82219] = {
+        name = "Spice Up Your Life",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213145,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82220] = {
+        name = "Eagle Eye, Eagle Die",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213145,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82221] = {
+        name = "Full Dress",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 223267,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82222] = {
+        name = "Cooking With Style",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 223268,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82223] = {
+        name = "A Home Cooked Meal",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224154,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82225] = {
+        name = "Excavation Extravaganza",
+        contentTuningID = 2837,
+    },
+    [82226] = {
+        name = "Papers? Please!",
+        contentTuningID = 2805,
+        source = {
+            type = "npc",
+            id = 223184,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11150, 8950, 6700, 4450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82234] = {
+        name = "A Floral Flair for Every Ram",
+        contentTuningID = 2837,
+    },
+    [82237] = {
+        name = "Rising the Falls",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82238] = {
+    },
+    [82244] = {
+    },
+    [82248] = {
+        name = "Advance to Faerin",
+        contentTuningID = 2861,
+        source = {
+            type = "npc",
+            id = 207471,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [82254] = {
+        name = "Aquacalypse",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82256] = {
+        name = "Capturing the Cataract's Creatures",
+        contentTuningID = 2869,
+    },
+    [82257] = {
+        name = "Burrow Burial",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82258] = {
+        name = "Sieging Siege Weapons",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82259] = {
+        name = "Honoring Our Fallen",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82266] = {
+    },
+    [82268] = {
+        name = "The Sorrowful Journey Home",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 223467,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [82284] = {
+        name = "Remembrance for the Fallen",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 220406,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82288] = {
+        name = "Work Hard, Play Hard",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82291] = {
+        name = "Robot Rumble",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82292] = {
+        name = "Rock Collector",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82293] = {
+        name = "The Power of Friendship",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82294] = {
+        name = "Miniature Army",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82295] = {
+        name = "Ziriak",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82297] = {
+        name = "One Hungry Worm",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82298] = {
+        name = "The Thing from the Swamp",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82300] = {
+        name = "Major Malfunction",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82324] = {
+        name = "Grub Run",
+        contentTuningID = 2861,
+    },
+    [82332] = {
+        name = "Unassuming Delivery Spider",
+        contentTuningID = 2861,
+    },
+    [82333] = {
+        name = "Weathered Quests",
+        contentTuningID = 2832,
+    },
+    [82334] = {
+        name = "DO NOT USE",
+        contentTuningID = 2832,
+    },
+    [82335] = {
+        name = "Crystals",
+        contentTuningID = 2832,
+    },
+    [82338] = {
+        name = "Absent Errand",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 224345,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82339] = {
+        name = "An Honorless Kill",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 223760,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82340] = {
+        name = "Loss of Limb",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 223723,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82342] = {
+        name = "A Small Bundle of Goods",
+        contentTuningID = 2832,
+    },
+    [82344] = {
+        name = "Weathered Crests",
+        contentTuningID = 2892,
+    },
+    [82355] = {
+        name = "Special Assignment: Cinderbee Surge",
+        contentTuningID = 2837,
+    },
+    [82363] = {
+        name = "Opposing Forces",
+        contentTuningID = 2861,
+    },
+    [82364] = {
+        name = "Documenting Discordance",
+        contentTuningID = 2861,
+    },
+    [82366] = {
+        name = "DO NOT USE",
+        contentTuningID = 2832,
+        source = {
+            type = "npc",
+            id = 221390,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.475194,
+                        y = 0.327947,
+                    },
+                },
+            },
+        },
+    },
+    [82367] = {
+        name = "Earth-Encrusted Gem",
+        contentTuningID = 2832,
+    },
+    [82387] = {
+        name = "Slay the Goo, Save the World",
+        contentTuningID = 2861,
+    },
+    [82390] = {
+        name = "Weathered Crests",
+        contentTuningID = 2832,
+    },
+    [82414] = {
+        name = "Special Assignment: A Pound of Cure",
+        contentTuningID = 2861,
+    },
+    [82417] = {
+        name = "A Rare Key",
+        contentTuningID = 2832,
+    },
+    [82418] = {
+        name = "A Cache of Crests and Power",
+        contentTuningID = 2832,
+    },
+    [82419] = {
+        name = "DO NOT USE",
+        contentTuningID = 2832,
+    },
+    [82441] = {
+        name = "For The Love of Gems",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 223637,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82448] = {
+        name = "Book It to the Library",
+        contentTuningID = 2837,
+    },
+    [82451] = {
+        name = "Preserving Plush Pals",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82454] = {
+    },
+    [82455] = {
+        name = "No More Bread",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82456] = {
+        name = "Chew On This",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82465] = {
+        name = "Precious Gems",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 223637,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82466] = {
+        name = "What We Do For Gems",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 223924,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82467] = {
+        name = "Gems Are Forever",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 223924,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82468] = {
+        name = "Let Them Win",
+        contentTuningID = 2861,
+    },
+    [82470] = {
+        name = "Arcane Riddles",
+        contentTuningID = 2837,
+    },
+    [82477] = {
+        name = "A Helping Farmhand",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 223920,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82478] = {
+        name = "Regularly Scheduled Maintenance",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224378,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82479] = {
+        name = "The Sword is Mightier",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213613,
+            locations = {
+                [2215] = {
+                    {
+                        x = 0.460469,
+                        y = 0.103419,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8400, 8500, 8600, 8700, 8850, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [82480] = {
+        name = "Job Killing Robot Or...",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224379,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [82481] = {
+        name = "Enforcer Extermination",
+        contentTuningID = 2861,
+    },
+    [82518] = {
+        name = "Pipe Patcher",
+        contentTuningID = 2869,
+    },
+    [82519] = {
+        name = "You Go Take Candle 181",
+        contentTuningID = 2869,
+    },
+    [82521] = {
+        name = "Pawns of Dark Masters",
+        contentTuningID = 2861,
+    },
+    [82523] = {
+        name = "Candle Kingbreaker",
+        contentTuningID = 2869,
+    },
+    [82524] = {
+        name = "Exterminate",
+        contentTuningID = 2861,
+    },
+    [82526] = {
+        name = "Bug Them",
+        contentTuningID = 2861,
+    },
+    [82531] = {
+        name = "Special Assignment: Bombs from Behind",
+        contentTuningID = 2861,
+    },
+    [82533] = {
+        name = "Dye! Dye Dye!",
+        contentTuningID = 2861,
+    },
+    [82536] = {
+        name = "Exfiltration Operation",
+        contentTuningID = 2861,
+    },
+    [82552] = {
+        name = "All Worked Up",
+        contentTuningID = 2869,
+    },
+    [82580] = {
+        name = "Courier Mission: Ore Recovery",
+        contentTuningID = 2869,
+    },
+    [82581] = {
+    },
+    [82582] = {
+        name = "Mired in Shadow",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82583] = {
+        name = "Igniting the Fire Within",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82584] = {
+        name = "Light's Gambit",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82585] = {
+        name = "With Great Pyrew?",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+        },
+    },
+    [82586] = {
+        name = "Spore Ender",
+        contentTuningID = 2462,
+    },
+    [82615] = {
+        name = "Reclaiming the Waterworks",
+        contentTuningID = 3017,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    20850, 21150, 21450, 21750, 22050, 22350, 22650, 22950, 23250, 23550, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    1123600, 936000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82616] = {
+    },
+    [82628] = {
+        name = "The Brothers Braunpyke",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215335,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [82640] = {
+    },
+    [82641] = {
+    },
+    [82642] = {
+    },
+    [82643] = {
+    },
+    [82644] = {
+    },
+    [82645] = {
+    },
+    [82646] = {
+    },
+    [82647] = {
+    },
+    [82648] = {
+    },
+    [82649] = {
+    },
+    [82653] = {
+        name = "Aggregation of Horrors",
+        contentTuningID = 2869,
+    },
+    [82680] = {
+        name = "Birdman of the Three Shields",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224394,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2600, 2650, 2700, 2700, 2750, 2800, 1600, 1050, 525, 260, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    70225, 58500, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82681] = {
+        name = "Cloudrook Down",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224392,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82682] = {
+        name = "Elemental Hors D'Oeuvres",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224392,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82690] = {
+        name = "Lingering Shadows",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 227758,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [82691] = {
+        name = "No Breathing Room",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224397,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 10,
+            },
+        },
+    },
+    [82692] = {
+        name = "Price of a Mission",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224395,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 10,
+            },
+        },
+    },
+    [82693] = {
+        name = "Standing in the Way",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224395,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 10,
+            },
+        },
+    },
+    [82694] = {
+        name = "Together, Alone",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224395,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82695] = {
+        name = "The Voice",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224740,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 15,
+            },
+        },
+    },
+    [82696] = {
+        name = "Ringing in the Deeps",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224740,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [82697] = {
+        name = "Good Help These Days",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224857,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 10,
+            },
+        },
+    },
+    [82698] = {
+        name = "Haywired and Hostile",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224866,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 10,
+            },
+        },
+    },
+    [82699] = {
+        name = "Hey, What's Going On?",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224874,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 10,
+            },
+        },
+    },
+    [82700] = {
+        name = "Built to Blast",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224913,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 15,
+            },
+        },
+    },
+    [82701] = {
+        name = "Bat Versus World",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224866,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+            {
+                type = "currency",
+                id = 3008,
+                amount = 15,
+            },
+        },
+    },
+    [82702] = {
+        name = "Found Friends",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 224874,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [82705] = {
+        name = "Bountiful Delves - Template",
+        contentTuningID = 2829,
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [82706] = {
+        name = "Delves: Worldwide Research",
+        contentTuningID = 2838,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    15650, 15850, 16100, 16300, 16550, 16750, 17000, 17200, 17450, 17650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82768] = {
+        name = "Cloud Fishing",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224392,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82773] = {
+        name = "A Functional Favor",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224602,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82774] = {
+        name = "Antifogmatic",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224602,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [82775] = {
+        name = "Quickchange Artist",
+        contentTuningID = 2832,
+        source = {
+            type = "npc",
+            id = 215748,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82778] = {
+        name = "Hallowfall Fishing Derby",
+        contentTuningID = 2862,
+    },
+    [82781] = {
+        name = "Attention-Getter",
+        contentTuningID = 2832,
+        source = {
+            type = "npc",
+            id = 217248,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82782] = {
+        name = "Authenticity in Dress",
+        contentTuningID = 0,
+        source = {
+            type = "npc",
+            id = 215745,
+        },
+    },
+    [82784] = {
+        name = "Resonant Performance",
+        contentTuningID = 0,
+        source = {
+            type = "npc",
+            id = 215744,
+        },
+    },
+    [82785] = {
+        name = "Ghosts in the Machine",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224602,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [82786] = {
+        name = "Duty of Care",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224602,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82787] = {
+        name = "Special Assignment: Rise of the Colossals",
+        contentTuningID = 2809,
+    },
+    [82792] = {
+        name = "All Ore Nothing",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 218535,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82796] = {
+        name = "Third Mine Blind",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224707,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5300, 5350, 5450, 5500, 5600, 3150, 2100, 1050, 525, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    140450, 117000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82797] = {
+        name = "Hit Rock Bottom",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224707,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.473214,
+                        y = 0.616159,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5200, 5300, 5350, 5450, 5500, 5600, 3150, 2100, 1050, 525, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    140450, 117000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82798] = {
+        name = "An Opal of Mine",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224708,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82799] = {
+        name = "Web Beats Rock",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224708,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82800] = {
+        name = "A Sedimental Moment",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224708,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.473484,
+                        y = 0.609024,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82801] = {
+        name = "Beetlejeweled",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224708,
+            locations = {
+                [2248] = {
+                    {
+                        x = 0.473484,
+                        y = 0.609024,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82810] = {
+        name = "Time Found",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 220718,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82813] = {
+        name = "Time Borrowed",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 220718,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82814] = {
+        name = "Decommissioning Darkness",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224618,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [82836] = {
+        name = "Zero Out Xerosh",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 213120,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [82843] = {
+        name = "Something Earthy",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224741,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8400, 8500, 8600, 8700, 8850, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [82844] = {
+        name = "Something Not Ruined",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224741,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82847] = {
+        name = "Enough Garlic",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224741,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82848] = {
+        name = "Sous",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 224741,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82852] = {
+        name = "Special Assignment: Lynx Rescue",
+        contentTuningID = 2809,
+    },
+    [82894] = {
+        name = "The Price of Hope",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 215335,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8400, 8500, 8600, 8700, 8850, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [82895] = {
+        name = "The Weight of Duty",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 224930,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [82946] = {
+        name = "Rollin' Down in the Deeps",
+        contentTuningID = 2869,
+    },
+    [82952] = {
+        name = "An Opportunity to Relax",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224966,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82956] = {
+        name = "To Opportunity Point",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224966,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    2700, 2750, 2800, 2850, 2850, 1650, 1100, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [82957] = {
+        name = "Thanks for the Wax",
+        contentTuningID = 2734,
+    },
+    [82969] = {
+        name = "Stone Tracing",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 216311,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82990] = {
+        name = "Undoing the Damage",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 224602,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.583096,
+                        y = 0.620194,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [82994] = {
+        name = "Wax Contribution",
+        contentTuningID = 2869,
+    },
+    [83028] = {
+        name = "Thieving Snufflers",
+        contentTuningID = 2869,
+    },
+    [83048] = {
+        name = "Wayward Walkers",
+        contentTuningID = 2869,
+    },
+    [83057] = {
+        name = "Setting Boundaries",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 223723,
+            locations = {
+                [2216] = {
+                    {
+                        x = 0.550262,
+                        y = 0.391412,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    14500, 14700, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83079] = {
+        name = "Mineral Buildup",
+        contentTuningID = 2869,
+    },
+    [83080] = {
+        name = "Taelloch Cleanup",
+        contentTuningID = 2869,
+    },
+    [83081] = {
+        name = "Not Enough Minerals",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225451,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83082] = {
+        name = "The Opalfront",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225454,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83083] = {
+        name = "A Place Forgotten",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225478,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 800, 525, 260, 130, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83084] = {
+        name = "The Old Orders",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 226841,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10400, 10550, 10700, 10850, 11000, 11150, 6350, 4250, 2100, 1050, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    280900, 234000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83087] = {
+        name = "The Old Guard",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 225472,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83088] = {
+        name = "Caustic Collectables",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225481,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83089] = {
+        name = "Giving Goblins Goggles",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225481,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83091] = {
+        name = "Shield Your Eyes",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225481,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83092] = {
+        name = "An Igneous End",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 225582,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83096] = {
+        name = "Welcome to Undermine",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225500,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83101] = {
+        name = "Reaching for Resources",
+        contentTuningID = 2869,
+    },
+    [83108] = {
+        name = "Daily Diagnostics",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 225533,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    21750, 22050, 22350, 22650, 22950, 13050, 8700, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 936000,
+            },
+        },
+    },
+    [83109] = {
+        name = "The Grimla Express",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225500,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83114] = {
+        name = "Red Tape",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229236,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83115] = {
+        name = "In the Mix",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225570,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83116] = {
+        name = "Potion Commotion",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225624,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83117] = {
+        name = "Chasing a Lead",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225625,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83118] = {
+        name = "Check the Schedule",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225635,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83119] = {
+        name = "It's Worth a Shot",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225637,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83120] = {
+        name = "Stealing the Keys",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225638,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83121] = {
+        name = "Asset Management",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228132,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83122] = {
+        name = "Crashing the Market",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225648,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83123] = {
+        name = "A Miner Mistake",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225847,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83124] = {
+        name = "B.I.R.D. Watching",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225648,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83125] = {
+        name = "Price Hike",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225648,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83126] = {
+        name = "Ethereal Invasion",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225669,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83127] = {
+        name = "Racing the Clock",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229261,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83128] = {
+        name = "Get Our People Out",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225719,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83129] = {
+        name = "Nowhere Left to Hide",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225730,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83130] = {
+        name = "Sour Victory",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234048,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83137] = {
+        name = "When Opportunity Explodes",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225571,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83138] = {
+        name = "End of the Day",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225756,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83139] = {
+        name = "Mixed Messages",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 227531,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83140] = {
+        name = "Hostile Work Environment",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225587,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83141] = {
+        name = "Miner Investigations",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 227691,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83142] = {
+        name = "Order of Magnitude",
+        contentTuningID = 2888,
+        source = {
+            type = "object",
+            id = 456062,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83143] = {
+        name = "Good Honest Work",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228017,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [83144] = {
+        name = "Bloodletting",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225596,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83145] = {
+        name = "Paranoia Prevention",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225597,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83146] = {
+        name = "Pamsy's Prized Pump",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 232491,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83147] = {
+        name = "Bloody Business",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228894,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83148] = {
+        name = "X-Treme Chill",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225598,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83149] = {
+        name = "Avenge Them",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225599,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83150] = {
+        name = "Expanding the Plan",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225598,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83151] = {
+        name = "Down Undermine",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225599,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.702832,
+                        y = 0.894741,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83152] = {
+        name = "Magmanagement",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 225582,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83153] = {
+        name = "Sampling Steam",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 225583,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83154] = {
+        name = "Knicknack's Knickknacks",
+        contentTuningID = 2718,
+        source = {
+            type = "npc",
+            id = 225555,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83155] = {
+        name = "Tired of Tripping",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 225608,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83159] = {
+        name = "A Little Off the Top",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 225608,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13600, 13750, 13950, 14150, 14350, 8150, 5450, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83160] = {
+        name = "Cinderbrew Reserve",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 225616,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83162] = {
+        name = "Put it Back, Put it Back!",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 226336,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83163] = {
+        name = "Split Venture",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229246,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83165] = {
+        name = "Badly Behaved Bot",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 223759,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5450, 5500, 5600, 5650, 5750, 3250, 2150, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83167] = {
+        name = "Eyes from Above",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225618,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83168] = {
+        name = "A Trail of Black Blood",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225659,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83169] = {
+        name = "Long Way from Booty Bay",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229233,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83170] = {
+        name = "Not Again!",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225686,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83171] = {
+        name = "Eye Sores for Sore Eyes",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225686,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83172] = {
+        name = "Black Blood Baton Pass",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229242,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83173] = {
+        name = "Clearing Out the Depot",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229243,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83174] = {
+        name = "Our Good Pal",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229235,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83175] = {
+        name = "Another Piece of the Puzzle",
+        contentTuningID = 2888,
+        source = {
+            type = "object",
+            id = 500619,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83176] = {
+        name = "Just a Hunch",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229243,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83177] = {
+        name = "Socialized Medicine",
+        contentTuningID = 2861,
+        source = {
+            type = "npc",
+            id = 208782,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83178] = {
+        name = "Rules and Consequences",
+        contentTuningID = 2861,
+        source = {
+            type = "npc",
+            id = 208782,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83181] = {
+        name = "Best Friends, Same Ends",
+        contentTuningID = 2838,
+        source = {
+            type = "npc",
+            id = 222363,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 14150, 14350, 14500, 14700, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83182] = {
+        name = "A Bloody Inheritance",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 218062,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83194] = {
+        name = "Under Fire",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225757,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83195] = {
+        name = "Rally the People",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226660,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83196] = {
+        name = "Disperse!",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226660,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83197] = {
+        name = "Who Owns the Streets?",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234551,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83198] = {
+        name = "Backyard Navy",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225868,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83199] = {
+        name = "Been Savin' This One",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225867,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83200] = {
+        name = "A Vast, Ye Swabs",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225870,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83201] = {
+        name = "Expedited Delivery",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 235849,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83202] = {
+        name = "Punching Up",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225871,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83203] = {
+        name = "Weapons Hot",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225873,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83204] = {
+        name = "The Thingamajig",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 233390,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83205] = {
+        name = "Production Halted",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234728,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83206] = {
+        name = "We Own the Streets",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 230268,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83207] = {
+        name = "My Top Gal",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225878,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83229] = {
+        name = "Special Assignment: When the Deeps Stir",
+        contentTuningID = 2869,
+    },
+    [83240] = {
+        name = "The Theater Troupe",
+        contentTuningID = 2462,
+    },
+    [83247] = {
+        name = "Suspicious Minds",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 225879,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83271] = {
+        name = "There's Always Another Secret",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 214917,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83276] = {
+        name = "Saving Private Spindle",
+        contentTuningID = 2861,
+        source = {
+            type = "npc",
+            id = 207471,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83277] = {
+        name = "Personal Pilfering",
+        contentTuningID = 2861,
+        source = {
+            type = "npc",
+            id = 226019,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83279] = {
+        name = "Prove One's Mettle",
+        contentTuningID = 2799,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83283] = {
+        name = "For Morale",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 225857,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11150, 11300, 11450, 11600, 11750, 
+                },
+                minLevel = 75,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83286] = {
+        name = "What's Hidden Beneath Dornogal",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 226040,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83306] = {
+        name = "Where the Wild Things Camp",
+        contentTuningID = 2762,
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83315] = {
+        name = "Preparing for the Unknown",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 226040,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83321] = {
+        name = "Strange Bats",
+        contentTuningID = 2762,
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83322] = {
+        name = "The Dawnbreaker: The Christening",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 215335,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 936000,
+            },
+        },
+    },
+    [83324] = {
+        name = "A Silken Thread",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 223754,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83325] = {
+        name = "Bountiful Beetles",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 224729,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amount = 1450,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83326] = {
+        name = "The Final Candle",
+        contentTuningID = 2798,
+        source = {
+            type = "object",
+            id = 413694,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83331] = {
+        name = "Preserve and Pretend",
+        contentTuningID = 2798,
+        source = {
+            type = "npc",
+            id = 226255,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    10850, 11000, 11150, 11300, 11450, 6500, 4350, 
+                },
+                minLevel = 73,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83333] = {
+        name = "Gearing Up for Trouble",
+        contentTuningID = 2869,
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83335] = {
+        name = "Wanted: The Boroughbreaker",
+        contentTuningID = 2797,
+        source = {
+            type = "object",
+            id = 454463,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83336] = {
+        name = "The Earthwound",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 226750,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83337] = {
+        name = "Stormscarred",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 226792,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83338] = {
+        name = "The Mage Slayer",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 226791,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83339] = {
+        name = "The Spirebreaker",
+        contentTuningID = 2797,
+        source = {
+            type = "npc",
+            id = 226791,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    13000, 13200, 13400, 13600, 13750, 13950, 7900, 5300, 2650, 1300, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    561800, 468000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83417] = {
+        name = "Out-laws",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226518,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83418] = {
+        name = "The Perfect Coat",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226518,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83419] = {
+        name = "The Perfect Guest List",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226522,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83420] = {
+        name = "Catering to Perfection",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226522,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83421] = {
+        name = "The Perfect Wedding",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226518,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83442] = {
+        name = "Tossed and Torqued",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226569,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83445] = {
+        name = "Something Smells",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226569,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83446] = {
+        name = "Cease and Desist",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226703,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83484] = {
+        name = "Oh, Rats!",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226728,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83485] = {
+        name = "Potent Potables",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226710,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83486] = {
+        name = "Remote Work",
+        contentTuningID = 2888,
+        source = {
+            type = "object",
+            id = 454456,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [83487] = {
+        name = "Occupational Hazard",
+        contentTuningID = 2888,
+        source = {
+            type = "object",
+            id = 466110,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [83497] = {
+        name = "A Concerned Friend",
+        contentTuningID = 2462,
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83501] = {
+    },
+    [83503] = {
+        name = "Return to Dornogal",
+        contentTuningID = 2462,
+        source = {
+            type = "npc",
+            id = 220688,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83519] = {
+        name = "But What About the Casino?",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226273,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83522] = {
+        name = "Debting For A Living",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226277,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83524] = {
+        name = "Gold In Them There Trash",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228420,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83527] = {
+        name = "Winning is for Losers, Anyway",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228473,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83528] = {
+        name = "All Part of the Game",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228474,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83529] = {
+        name = "Hallowfall Fishing Derby",
+        contentTuningID = 2862,
+        source = {
+            type = "npc",
+            id = 226846,
+        },
+    },
+    [83530] = {
+        name = "Hallowfall Fishing Derby",
+        contentTuningID = 2862,
+    },
+    [83531] = {
+        name = "Hallowfall Fishing Derby",
+        contentTuningID = 2862,
+    },
+    [83532] = {
+        name = "Hallowfall Fishing Derby",
+        contentTuningID = 2862,
+        rewards = {
+            {
+                type = "currency",
+                id = 3055,
+                amount = 10,
+            },
+        },
+    },
+    [83534] = {
+        name = "Ain't No Warm Up Act",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226899,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83535] = {
+        name = "Plunder Party Rockin' Rumble",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 232005,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83536] = {
+    },
+    [83537] = {
+        name = "Geothermal Gem Treatment",
+        contentTuningID = 2869,
+    },
+    [83538] = {
+        name = "Excavation Liberation",
+        contentTuningID = 2869,
+    },
+    [83540] = {
+        name = "Work the Line",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226932,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83541] = {
+        name = "Review Bombed",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226934,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83542] = {
+        name = "Quick Gills for Gold Now",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226934,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83543] = {
+        name = "Adventuring in Khaz Algar",
+        contentTuningID = 2832,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83546] = {
+        name = "Responsibility",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 227018,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83548] = {
+        name = "Isle of Dorn",
+        contentTuningID = 2832,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83550] = {
+        name = "The Ringing Deeps",
+        contentTuningID = 2832,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83551] = {
+        name = "Hallowfall",
+        contentTuningID = 2832,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83552] = {
+        name = "Azj-Kahet",
+        contentTuningID = 2832,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83558] = {
+        name = "Casino Court",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 227032,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83563] = {
+        name = "Coffee is for Closers",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 227032,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83566] = {
+        name = "Oh, That Casino!",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226894,
+            locations = {
+                [2346] = {
+                    {
+                        x = 0.567783,
+                        y = 0.442953,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83569] = {
+        name = "Death and Taxes",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226273,
+            locations = {
+                [2346] = {
+                    {
+                        x = 0.670844,
+                        y = 0.444615,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83587] = {
+        name = "Our Chance to Strike",
+        contentTuningID = 2942,
+        source = {
+            type = "npc",
+            id = 227217,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [83616] = {
+        name = "The Entrenched",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 222136,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8700, 8850, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [83621] = {
+    },
+    [83627] = {
+        name = "The Beginning of Something Beautiful",
+        contentTuningID = 2860,
+        source = {
+            type = "npc",
+            id = 216046,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83628] = {
+        name = "Tense Recovery",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 227222,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    8700, 8850, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [83629] = {
+        name = "Ancient Respite",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 227224,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83632] = {
+        name = "Rings of Memory",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 227224,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    11600, 11750, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83639] = {
+        name = "Open Communications",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 215724,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    5800, 5900, 
+                },
+                minLevel = 78,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [83715] = {
+        name = "Claimed Salvage",
+        contentTuningID = 2869,
+    },
+    [83718] = {
+        name = "Eggstraction",
+        contentTuningID = 2861,
+    },
+    [83719] = {
+        name = "Those Are Chitin Words",
+        contentTuningID = 2860,
+        source = {
+            type = "npc",
+            id = 218171,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83720] = {
+        name = "Venom? More Like Get 'Em",
+        contentTuningID = 2860,
+        source = {
+            type = "npc",
+            id = 218171,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83721] = {
+        name = "A Small Ocean's Worth of Blood",
+        contentTuningID = 2860,
+        source = {
+            type = "npc",
+            id = 218171,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [83749] = {
+        name = "Delves: The Waterworks",
+        contentTuningID = 2677,
+        source = {
+            type = "npc",
+            id = 227477,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    15650, 15850, 16100, 16300, 16550, 16750, 17000, 17200, 17450, 17650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    842700, 702000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83752] = {
+        name = "Threats of Zekvir",
+        contentTuningID = 2677,
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1300, 1300, 1350, 1350, 1400, 1400, 1400, 1450, 
+                },
+                minLevel = 70,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amounts = {
+                    28090, 23400, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83755] = {
+        name = "Delves: Nightfall Sanctum",
+        contentTuningID = 2677,
+        source = {
+            type = "npc",
+            id = 227523,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    15650, 15850, 16100, 16300, 16550, 16750, 17000, 17200, 17450, 17650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    842700, 702000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83761] = {
+        name = "Delves: The Underkeep",
+        contentTuningID = 2677,
+        source = {
+            type = "npc",
+            id = 227544,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    15650, 15850, 16100, 16300, 16550, 16750, 17000, 17200, 17450, 17650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    842700, 702000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83766] = {
+        name = "Delver's Call: Dread Pit",
+        contentTuningID = 2677,
+        source = {
+            type = "object",
+            id = 455685,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    15650, 15850, 16100, 16300, 16550, 16750, 17000, 17200, 17450, 17650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    842700, 702000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83767] = {
+        name = "Delver's Call: The Sinkhole",
+        contentTuningID = 2882,
+        source = {
+            type = "object",
+            id = 455704,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    62550, 63450, 64350, 65250, 66150, 67050, 67950, 68850, 69750, 70650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    3370800, 2808000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83768] = {
+        name = "Delver's Call: The Skittering Breach",
+        contentTuningID = 2882,
+        source = {
+            type = "object",
+            id = 455694,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    62550, 63450, 64350, 65250, 66150, 67050, 67950, 68850, 69750, 70650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    3370800, 2808000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83769] = {
+        name = "Delver's Call: Mycomancer Cavern",
+        contentTuningID = 2677,
+        source = {
+            type = "object",
+            id = 455690,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    15650, 15850, 16100, 16300, 16550, 16750, 17000, 17200, 17450, 17650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    842700, 702000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83770] = {
+        name = "Delver's Call: Spiral Weave",
+        contentTuningID = 2882,
+        source = {
+            type = "npc",
+            id = 211721,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    62550, 63450, 64350, 65250, 66150, 67050, 67950, 68850, 69750, 70650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    3370800, 2808000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83771] = {
+        name = "Delver's Call: Tak-Rethan Abyss",
+        contentTuningID = 2882,
+        source = {
+            type = "object",
+            id = 455720,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    62550, 63450, 64350, 65250, 66150, 67050, 67950, 68850, 69750, 70650, 
+                },
+                minLevel = 70,
+                maxLevel = 79,
+            },
+            {
+                type = "money",
+                amounts = {
+                    3370800, 2808000, 
+                },
+                minLevel = 70,
+                maxLevel = 71,
+            },
+        },
+    },
+    [83930] = {
+        name = "Deworming Solution",
+        contentTuningID = 2869,
+    },
+    [83933] = {
+        name = "The Kaja'Coast",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225639,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84022] = {
+        name = "Uniting Severed Threads",
+        contentTuningID = 2762,
+        source = {
+            type = "npc",
+            id = 207471,
+        },
+    },
+    [84121] = {
+        name = "A Little Insurance",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 227937,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84122] = {
+        name = "Cut the Cameras",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225645,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84140] = {
+        name = "Can-Do Caddy",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228158,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84141] = {
+        name = "Scam Cans",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228158,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84142] = {
+        name = "The Hole Deal",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228158,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84214] = {
+        name = "The Job",
+        contentTuningID = 2888,
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84215] = {
+        name = "The Crew",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228286,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84216] = {
+        name = "The Play",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228286,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84217] = {
+        name = "The Highst",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228333,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84218] = {
+        name = "The Getaway",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228341,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84221] = {
+        name = "Paperwork Makes the Mine Go Under",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228369,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84242] = {
+        name = "Diving into the Heaps",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228369,
+            locations = {
+                [2346] = {
+                    {
+                        x = 0.388954,
+                        y = 0.340927,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84244] = {
+        name = "Blackwater Beach Blast",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 231812,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84249] = {
+        name = "A Vat in the Pan",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 232823,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84298] = {
+        name = "HELP WANTED: Kaja'Curiosity",
+        contentTuningID = 2888,
+        source = {
+            type = "object",
+            id = 456747,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84300] = {
+        name = "Refine, Repair, Repeat",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228566,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84301] = {
+        name = "Mineral Madness",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228566,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84302] = {
+        name = "Creative Iteration",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228566,
+            locations = {
+                [862] = {
+                    {
+                        x = 0.225683,
+                        y = 0.593747,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84303] = {
+        name = "Experimental Application",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228566,
+            locations = {
+                [862] = {
+                    {
+                        x = 0.225683,
+                        y = 0.593747,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84304] = {
+        name = "A Gem-Splitting Headache",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228566,
+            locations = {
+                [862] = {
+                    {
+                        x = 0.225683,
+                        y = 0.593747,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84376] = {
+        name = "Property Devalued",
+        contentTuningID = 2888,
+        source = {
+            type = "object",
+            id = 461478,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84378] = {
+        name = "Renter's Insurance",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228857,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84379] = {
+        name = "Tenant Trouble",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228860,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84380] = {
+        name = "Weapons Cash",
+        contentTuningID = 2888,
+        source = {
+            type = "object",
+            id = 461492,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84381] = {
+        name = "Renegotiations",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228857,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84392] = {
+        name = "Hungry in Hollow",
+        contentTuningID = 2799,
+        source = {
+            type = "npc",
+            id = 222683,
+        },
+        rewards = {
+            {
+                type = "experience",
+                amounts = {
+                    1400, 1400, 1450, 
+                },
+                minLevel = 75,
+                maxLevel = 77,
+            },
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84429] = {
+        name = "Construct Containment",
+        contentTuningID = 2869,
+    },
+    [84439] = {
+        name = "Kaja'Conclusions",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228566,
+            locations = {
+                [862] = {
+                    {
+                        x = 0.198038,
+                        y = 0.564251,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84471] = {
+    },
+    [84621] = {
+        name = "Squire's Spurs",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 218864,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84638] = {
+        name = "Trouble in the Highlands",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 223875,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84639] = {
+        name = "Torches and Tar",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 230174,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84640] = {
+        name = "Emblematic of Things to Come",
+        contentTuningID = 3005,
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84641] = {
+        name = "Ill Tidings",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 234662,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84643] = {
+        name = "Curfew Kerfuffle",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 235041,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84645] = {
+        name = "Deputy Delivery",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 235041,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84649] = {
+        name = "Marran Trollbane",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 229940,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84650] = {
+        name = "Finding Refuge at Refuge Pointe",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 229940,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84651] = {
+        name = "A Familiar Face",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 236815,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84652] = {
+        name = "Supply Run",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 236815,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84656] = {
+        name = "Onward to Hammerfall",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 230815,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84657] = {
+        name = "Return to Stromgarde",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231828,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84658] = {
+        name = "Finding Family",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231748,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84659] = {
+        name = "The Search for Faerin",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 238012,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84667] = {
+        name = "The G.O.L.E.M. of Progress",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 230554,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84672] = {
+        name = "Garbage Day",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 230555,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84673] = {
+        name = "World's Okayest Inventor",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 231517,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84674] = {
+        name = "The G.O.L.E.M. Goes Berserk!",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 231517,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84675] = {
+        name = "Showdown in the Attic",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 232180,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84683] = {
+        name = "Into the Gutter",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225591,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84701] = {
+        name = "The Speaker",
+        contentTuningID = 2829,
+        source = {
+            type = "npc",
+            id = 227499,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84704] = {
+        name = "A Different Point of View",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 230145,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84705] = {
+        name = "Withering the Witherbark",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 230151,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84706] = {
+        name = "Crime Family",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 230151,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84707] = {
+        name = "To See a Troll",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231764,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84708] = {
+        name = "The Syndicate Strikes Back",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 230151,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84709] = {
+        name = "Hammerfall Down",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231770,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84710] = {
+        name = "Once Bitten Twice Shy",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231771,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84711] = {
+        name = "Danath's Disappearance",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231803,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84712] = {
+        name = "False Flag",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231829,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84713] = {
+        name = "Fallen Fortress",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231826,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84714] = {
+        name = "From Ironforge With Love",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231833,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84715] = {
+        name = "The Search for Danath",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231832,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84716] = {
+        name = "Returning to Stromgarde",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 230154,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84717] = {
+        name = "Rise of the Red Dawn",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231837,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 702000,
+            },
+        },
+    },
+    [84719] = {
+        name = "The Expedition Awaits",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 232132,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84720] = {
+        name = "To the Siren Isle!",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 230235,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84721] = {
+        name = "To Scan a Crystal",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 230242,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84722] = {
+        name = "Facet-nating Signals",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 230242,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84723] = {
+        name = "Buried Secrets",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 230271,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84724] = {
+        name = "The Radiant Vault",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 231143,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84725] = {
+        name = "The Circlet Calls",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 228074,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84726] = {
+        name = "Uncovered Mysteries",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 228074,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84727] = {
+        name = "The Second Signal",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 231140,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84728] = {
+        name = "Reforged Anew",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 228074,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [84740] = {
+        name = "Bridge to Nowhere",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230159,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84741] = {
+        name = "Signs in the Sands",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230159,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84759] = {
+        name = "Ill-met in Starlight",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230789,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84760] = {
+        name = "A Friendly Warning",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230233,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84761] = {
+        name = "Toil and Trespass",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230233,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84762] = {
+        name = "We Are Our Words",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230233,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84765] = {
+        name = "Of Bonds and Boughs",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230159,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.738065,
+                        y = 0.532747,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84820] = {
+        name = "By Oath and Blood",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230233,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.763508,
+                        y = 0.552042,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [84821] = {
+        name = "Biological Quintainment",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 218866,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84822] = {
+        name = "To Iskaara",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234745,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84826] = {
+        name = "Eco-Dome: Rhovan",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230811,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84827] = {
+        name = "The Shattered Dome",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230288,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84831] = {
+        name = "The Rhovan Infestation",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230294,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84834] = {
+        name = "Tempest Clefts",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233878,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84838] = {
+        name = "Enemies of Enemies",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233878,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84848] = {
+        name = "Before the Void",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230634,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84855] = {
+        name = "Dead Silence",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230806,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84856] = {
+        name = "Where the Void Gathers",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233946,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84857] = {
+        name = "Eco-Dome: Primus",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234106,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 58500,
+            },
+        },
+    },
+    [84858] = {
+        name = "System Restart",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230814,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84859] = {
+        name = "Damage Report 101",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230814,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84860] = {
+        name = "Eco-Stabilizing",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230814,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84861] = {
+        name = "This Is Our Dome!",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230814,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84862] = {
+        name = "Void Alliance",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230825,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84863] = {
+        name = "Counter Measures",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230814,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84864] = {
+        name = "Her Dark Side",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230825,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84865] = {
+        name = "Divide and Conquer",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230825,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84866] = {
+        name = "To Purchase Safety",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232642,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84867] = {
+        name = "Stalking Stalkers",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230658,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84869] = {
+        name = "Hunting on Glass",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233878,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84876] = {
+        name = "The Oasis",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230658,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84879] = {
+        name = "Restoring Hope",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230738,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84883] = {
+        name = "K'aresh That Was",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230739,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [84885] = {
+        name = "Working for G.E.T.A.",
+        contentTuningID = 2888,
+        source = {
+            type = "object",
+            id = 456747,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84891] = {
+        name = "G.E.T.A. The Radioactive Rat",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228393,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84892] = {
+        name = "G.E.T.A. The Crocodilian",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228393,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84893] = {
+        name = "G.E.T.A. The Captain",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228393,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84896] = {
+        name = "The Next Dimension",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230786,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84897] = {
+        name = "The Calm Before We Storm",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230818,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84898] = {
+        name = "The Sands of K'aresh",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231443,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84899] = {
+        name = "Shadowguard Diffusion",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230817,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84900] = {
+        name = "Like a Knife Through Aether",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231445,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84902] = {
+        name = "Adverse Instantiation",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231487,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84903] = {
+        name = "Until the Sands Bleed Void",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231488,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84904] = {
+        name = "And We Will Answer",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231486,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84905] = {
+        name = "To Walk Among Shadow",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231492,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84906] = {
+        name = "Nexus Regicide",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231505,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84910] = {
+        name = "The Tabiqa",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230739,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84915] = {
+        name = "Clearing the Dunes",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230159,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84940] = {
+        name = "Friendly Competition",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 230238,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84941] = {
+        name = "Cave Barging",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 233501,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84956] = {
+        name = "A Shadowy Invitation",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 227758,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84957] = {
+        name = "Return to the Veiled Market",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233603,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [84958] = {
+        name = "Beasts Unbound",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230954,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84959] = {
+        name = "Lost Lines of Defense",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230955,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84960] = {
+        name = "The Darkness Among Us",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233706,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84961] = {
+        name = "Barriers to Entry",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234596,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84963] = {
+        name = "Sealing the Shadows",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234601,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84964] = {
+        name = "Heroes Among Shadow",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234602,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84965] = {
+        name = "Core Contributions",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234483,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84967] = {
+        name = "The Shadowguard Shattered",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234620,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [84972] = {
+        name = "Chipping the Void",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231162,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84973] = {
+        name = "Of Motes and Husks",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231162,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [84974] = {
+        name = "Shards of Hope",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231162,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85003] = {
+        name = "Restoring Operational Efficiency",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230604,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85006] = {
+        name = "Those We Have Lost",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231314,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85007] = {
+        name = "Extended Reach",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231314,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85008] = {
+        name = "Machinations of Memory",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231314,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.510303,
+                        y = 0.683141,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85009] = {
+        name = "Those We Have Yet to Save",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231314,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.510303,
+                        y = 0.683141,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85018] = {
+        name = "Packets of Promises",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231162,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [85019] = {
+        name = "An Outcast's Request",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231422,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85020] = {
+        name = "The Blood of K'aresh",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231422,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85021] = {
+        name = "Cleansing the Void",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231422,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85022] = {
+        name = "Priest of the Old Ways",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231699,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85032] = {
+        name = "What Is Left of Home",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231128,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85037] = {
+        name = "That's a Wrap",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231520,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 702000,
+            },
+        },
+    },
+    [85039] = {
+        name = "Compromised Containment",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231564,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85052] = {
+        name = "A Lucrative Opportunity",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231674,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85053] = {
+        name = "Obtaining Permits",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232008,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85054] = {
+        name = "Articles of Acquisition",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232008,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85055] = {
+        name = "Expired Goods",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232057,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85075] = {
+        name = "To Stormsong",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85076] = {
+        name = "Don't Bee Crazy",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85077] = {
+        name = "Sticky Fingers",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85078] = {
+        name = "Bee in the Bonnet",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85079] = {
+        name = "Such a Sleebee-head",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85080] = {
+        name = "An Un-Bee-lievable Solution",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [942] = {
+                    {
+                        x = 0.725617,
+                        y = 0.658229,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85081] = {
+        name = "Beehemian Rhapsody",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [942] = {
+                    {
+                        x = 0.725617,
+                        y = 0.658229,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85082] = {
+        name = "To K'aresh",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [942] = {
+                    {
+                        x = 0.725617,
+                        y = 0.658229,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85083] = {
+        name = "Photogra-Bee",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.483838,
+                        y = 0.612262,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85084] = {
+        name = "Bee Strong",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.483838,
+                        y = 0.612262,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85174] = {
+        name = "Get Out There",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225523,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85189] = {
+        name = "Our Day in Court",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226894,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85190] = {
+        name = "Settled Dust",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 232822,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85191] = {
+        name = "Cut After Cut",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234783,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85192] = {
+        name = "Coming Home",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234783,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85238] = {
+        name = "Stranger on the Steps",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233500,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85239] = {
+        name = "A New Devouring",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233500,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85240] = {
+        name = "Only Hunger Remains",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233500,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85241] = {
+        name = "A Once-Proud Priest",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233500,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.594599,
+                        y = 0.605323,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [85249] = {
+        name = "A Bee Test",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85255] = {
+        name = "Tranquila-Bee",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.489571,
+                        y = 0.571779,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85256] = {
+        name = "Botany, Finally",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.489571,
+                        y = 0.571779,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85257] = {
+        name = "Primus Buzzness",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.483838,
+                        y = 0.612262,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85258] = {
+        name = "Oh Honey Honey",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 232385,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85259] = {
+        name = "Waggle Dance",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85260] = {
+        name = "Hiving a Hard Day",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 232385,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85261] = {
+        name = "Bee Roll",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 232385,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85262] = {
+        name = "The Royal Procession",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 232385,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [85383] = {
+        name = "Applied Mixology",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232351,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85384] = {
+        name = "Market Research",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232351,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85394] = {
+        name = "An Eye for Trouble",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232351,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [85409] = {
+        name = "Snitches Get Stitches",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225772,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85410] = {
+        name = "Undermine's Long Shadow",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225599,
+            locations = {
+                [2214] = {
+                    {
+                        x = 0.702832,
+                        y = 0.894741,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [85429] = {
+        name = "Overwhelm Them",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232498,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85430] = {
+        name = "Mandatory Time Off",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232498,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85431] = {
+        name = "Drain Their Resources",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232498,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [85432] = {
+        name = "Confuse Their Contacts",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232498,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85433] = {
+        name = "Eyes on Us",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232498,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [85434] = {
+        name = "On a Technicality",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 232498,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [85438] = {
+        name = "Or Else",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 233235,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85444] = {
+        name = "Found Family",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228214,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85449] = {
+        name = "Phase Shift",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225669,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85450] = {
+        name = "Evacuation Plan",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 232660,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85451] = {
+        name = "The Burning of Hammerfall",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 231768,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85529] = {
+        name = "Past Glory",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 232986,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85562] = {
+        name = "Tougher Than We Thought",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 233296,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85711] = {
+        name = "Unsolicited Feedback",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226728,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [85724] = {
+        name = "Repel the Invaders",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 233296,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85730] = {
+        name = "Salvaging What's Left",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230294,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [85780] = {
+        name = "Right Where We Want Him",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 235238,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 175500,
+            },
+        },
+    },
+    [85941] = {
+        name = "Attitude Adjustment",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229246,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [85961] = {
+        name = "Moving the Pawns",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230700,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86182] = {
+        name = "Ghost Buster",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86183] = {
+        name = "The Power of Gods",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86184] = {
+        name = "Diminishing Returns",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86185] = {
+        name = "Running Free",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235353,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86186] = {
+        name = "The Super Sniffer",
+        contentTuningID = 3007,
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86187] = {
+        name = "The Smallest Possible Effort",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234272,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86188] = {
+        name = "More-shrooms",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234272,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86189] = {
+        name = "Fungal Invasion",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234272,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86190] = {
+        name = "One Mushroom to Rule Them All",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234272,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86191] = {
+        name = "Smell Ya Later",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234272,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86192] = {
+        name = "On a Bed of Bones They Lie",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234316,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86193] = {
+        name = "Life for Life",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 233500,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.594599,
+                        y = 0.605323,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86194] = {
+        name = "The Scent of Love",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234316,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86195] = {
+        name = "Slateback Soccer",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [86196] = {
+        name = "Give me Fuel",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234216,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86200] = {
+        name = "Give me Fire",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234216,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86201] = {
+        name = "Watch me Make These Bugs Expire",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234216,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86204] = {
+        name = "Liberation of Undermine: The House Loses",
+        contentTuningID = 2983,
+        source = {
+            type = "npc",
+            id = 233482,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 14040000,
+            },
+        },
+    },
+    [86271] = {
+        name = "Sanity's Rest",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 233420,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86272] = {
+        name = "Counteracting the Black Blood",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234293,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86273] = {
+        name = "Visit to the Shop",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234293,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86274] = {
+        name = "Automation Solution",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234294,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86275] = {
+        name = "Bug Exterminator Needed",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234294,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86276] = {
+        name = "Out in the Fields",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 233420,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86277] = {
+        name = "\"Worm\" Food No More",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 233420,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86297] = {
+        name = "Morale Reflects Leadership",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 229223,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86327] = {
+        name = "The Tempest Fields",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 230602,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86332] = {
+        name = "Distribution of Power",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234190,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86348] = {
+        name = "Fox Bane",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86349] = {
+        name = "Lapbug Essence Hunter",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86350] = {
+        name = "Eau de Foxy",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234316,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86351] = {
+        name = "Strike a Pose",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86352] = {
+        name = "Hunting for a Good Author",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86353] = {
+        name = "Protecting the Young",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234745,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86354] = {
+        name = "A Percussive Antidote",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234745,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86355] = {
+        name = "Using the Whole Animal",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235290,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86356] = {
+        name = "Sustainable Harvesting",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235290,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86357] = {
+        name = "Time for Noms",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235290,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86358] = {
+        name = "Any Old Excuse",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235290,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86359] = {
+        name = "Return to K'aresh",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235290,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86360] = {
+        name = "Fantastic Ms. Fox",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235353,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86361] = {
+        name = "Are You Kitting Me?",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86362] = {
+        name = "What Does the Fox Dream?",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86392] = {
+        name = "Foxy Footwork",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [86408] = {
+        name = "My Hole in the Wall",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 228857,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86417] = {
+        name = "Ready Check",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 225876,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86482] = {
+        name = "A Lifeline",
+        contentTuningID = 3004,
+        source = {
+            type = "npc",
+            id = 235216,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86483] = {
+    },
+    [86484] = {
+    },
+    [86485] = {
+    },
+    [86495] = {
+        name = "The Reshii Ribbon",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234106,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86575] = {
+        name = "Rocket Roll",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234294,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86587] = {
+        name = "To Maldraxxus",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86588] = {
+        name = "Ritualistic Murder",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235860,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86589] = {
+        name = "A Plague a Day Keeps the Doctor Away",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235860,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86590] = {
+        name = "I Don't Even Work Here",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235860,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86591] = {
+        name = "A Poor Imitation",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235860,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [86592] = {
+        name = "Get Your Jabs",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235860,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86593] = {
+        name = "To the Oasis",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235860,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86594] = {
+        name = "A Cultured Palette",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 236846,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86595] = {
+        name = "Custodial Duties",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 236846,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86601] = {
+        name = "Triple Twenty",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 236890,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86602] = {
+        name = "Medical Checkup",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 236890,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86603] = {
+        name = "Ray-ket Ball",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86604] = {
+        name = "Dubious Intent",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86605] = {
+        name = "Booster Shots",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86606] = {
+        name = "The Golden Ooze",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [86607] = {
+        name = "The Freedom of Ray-cing",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235353,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [86697] = {
+        name = "The Cleanup Crew",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 233420,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86782] = {
+        name = "Atrium Hospital",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86783] = {
+        name = "Rays of Sunshine",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 236846,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86786] = {
+        name = "The Void Hunter",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 240842,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [86820] = {
+        name = "Manaforge Omega: Dimensius Looms",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 231522,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 14040000,
+            },
+        },
+    },
+    [86835] = {
+        name = "Regroup!",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 234483,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [86946] = {
+        name = "Unwrapped and Unraveled",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 237705,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87008] = {
+        name = "Ad-Hoc Wedding Planner",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 226518,
+            locations = {
+                [2346] = {
+                    {
+                        x = 0.262068,
+                        y = 0.436636,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87290] = {
+        name = "The Oasis",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 238212,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [87291] = {
+        name = "Salad Bar",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 232385,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [87292] = {
+        name = "Rooting for Trouble",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 232385,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [87293] = {
+        name = "Shameless Hawking",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87294] = {
+        name = "A Truth Universally Acknowledged",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [87297] = {
+        name = "Cashing the Check",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 234801,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [87299] = {
+        name = "How Old Are These Things?",
+        contentTuningID = 3005,
+        source = {
+            type = "npc",
+            id = 238012,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87321] = {
+        name = "Things Left Undone",
+        contentTuningID = 2888,
+        source = {
+            type = "npc",
+            id = 238006,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [87337] = {
+        name = "Custodian Duties",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 238209,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [87338] = {
+        name = "Day One Orientation",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87339] = {
+        name = "Ongoing Activities",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87340] = {
+        name = "Junk Mail",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87408] = {
+        name = "Being Spiritual",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87409] = {
+        name = "From Death, Life",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [87410] = {
+        name = "Percussive Negotiation",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 235353,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [87411] = {
+        name = "Making Stuff to Look Tough",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231820,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [87412] = {
+        name = "K'arrocing Photos",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [87413] = {
+        name = "Bird Bath",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 234316,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [87414] = {
+        name = "Medical Maneuvers",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 117000,
+            },
+        },
+    },
+    [87415] = {
+        name = "The Skies of K'aresh",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 230736,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [89323] = {
+        name = "Wasted Lands",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 236907,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [89324] = {
+        name = "A Piece of Something Greater",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 242179,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [89325] = {
+        name = "The Void Confluence",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 242179,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [89326] = {
+        name = "Distilled Darkness",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 240842,
+            locations = {
+                [2477] = {
+                    {
+                        x = 0.619925,
+                        y = 0.531236,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [89327] = {
+        name = "Chaos",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 240842,
+            locations = {
+                [2477] = {
+                    {
+                        x = 0.619925,
+                        y = 0.531236,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [89343] = {
+        name = "The Untethered Void",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 241624,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [89344] = {
+        name = "What Doesn't See You",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 241624,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [89345] = {
+        name = "The Untethered Horror",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 241624,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [89348] = {
+        name = "Let There Bee Love",
+        contentTuningID = 3007,
+        source = {
+            type = "npc",
+            id = 231919,
+            locations = {
+                [2371] = {
+                    {
+                        x = 0.489571,
+                        y = 0.571779,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [89380] = {
+        name = "Another World",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 241601,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [89561] = {
+        name = "Wrapped Up",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 241588,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [90517] = {
+        name = "My Part of the Deal",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 242538,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [90938] = {
+        name = "A Skip Through the Void",
+        contentTuningID = 3008,
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [90972] = {
+        name = "A Common Cause",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 248153,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [91039] = {
+        name = "Faerin's Request",
+        contentTuningID = 3005,
+        rewards = {
+            {
+                type = "money",
+                amount = 23400,
+            },
+        },
+    },
+    [91044] = {
+        name = "Hunger of the Void",
+        contentTuningID = 3008,
+        source = {
+            type = "npc",
+            id = 240842,
+            locations = {
+                [2477] = {
+                    {
+                        x = 0.619925,
+                        y = 0.531236,
+                    },
+                },
+            },
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 468000,
+            },
+        },
+    },
+    [91314] = {
+        name = "Untethered Potential",
+        contentTuningID = 4159,
+        source = {
+            type = "npc",
+            id = 246601,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+    [91454] = {
+        name = "Phase-Lost Adventurer",
+        contentTuningID = 4159,
+        source = {
+            type = "npc",
+            id = 246608,
+        },
+        rewards = {
+            {
+                type = "money",
+                amount = 234000,
+            },
+        },
+    },
+})

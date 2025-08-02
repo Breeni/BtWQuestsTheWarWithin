@@ -1,3 +1,6481 @@
 ----- AUTO GENERATED - DO NOT EDIT
 
-BtWQuestsDatabase:AddNPCsTable(C_EncodingUtil.DeserializeCBOR("πO\000_•¢Ilocations°•Å¢Ay˚?€∆:‚TAx˚?‰ˇdœçqmDnameMOrator Tx'itk\000t ¢Ilocations°¶Å¢Ay˚?ÈW\n=p£◊Ax˚?‰ix‘˝Û∂DnamePProspera Cogwail\000H´¢Ilocations°»Å¢Ay˚?„µL'IÒAx˚?“ô– >cÈDnameRKurdran Wildhammer\000Q)¢Ilocations°œÅ¢Ay˚?Ê#˙±Ax˚?„fuDnameRAlleria Windrunner\000E¨¢Ilocations°»Å¢Ay˚?ÊıSi3†@Ax˚?€XÍ|‡¸/DnameHAggartha\000é¢Ilocations°	DÅ¢Ay˚?‰ﬂND0±yAx˚?À≤ª©é⁄#DnamePDanath Trollbane\000n¢¢Ilocations°»Å¢Ay˚?‚@¶π<ÕAx˚?Ê]J]Ú#ûDnameFUrtago\000h$¢Ilocations°ßÅ¢Ay˚?‡8Cx%Ax˚?‹áè´⁄\r˛DnameSGeneral Steelstrike\000q\"¢Ilocations°	*Å¢Ay˚?‡NÁƒü◊°Ax˚?«5®Xy=ŸDnameMMonte Gazlowe\000J¨¢Ilocations°œÅ¢Ay˚?·	«ˇﬁrAx˚?ÕÄ^_0ÁˇDnameHNey'leia\000É¢Ilocations°	DÅ¢Ay˚?Ÿ6óÄ∫¶Ax˚? <˚3•DDnameNWalker Gresham\000P+¢Ilocations°¶Å¢Ay˚?‘c∫∫{ëqAx˚?ﬁHîƒG√\rDnameNFourman Grimes\000q#¢Ilocations°	#Å¢Ay˚?—E((=5ÎAx˚?€%Ó«…DnameQRenzik \"The Shiv\"\000Öû¢Ilocations°	CÅ¢Ay˚?·uMñ√¸Ax˚?ﬁ*Ñ8Ö\nDnameGVe'nari\000ó¢Ilocations°ËÅ¢Ay˚?ﬂq:’æ„÷Ax˚?¡qüå®DnamePHemet Nesingwary\000o§¢Ilocations°ßÅ¢Ay˚?·{≤˛≈m]Ax˚?’Ñæ@BoDnameSGeneral Steelstrike\000ê¢Ilocations°	CÅ¢Ay˚?‚XîÅ+‰äAx˚?‚?v¢Ùå.DnameGOm'taha\000Öü¢Ilocations°	DÅ¢Ay˚?·$“≤ø€MAx˚?⁄ ˚ÉDnameMFaerin Lothar\000P-¢Ilocations°œÅ¢Ay˚?⁄ßÎkÙD·Ax˚?“◊æòV£{DnamePKal Smoulderbrow\000O.¢Ilocations°»Å¢Ay˚?‹Ç˘D$Ax˚?„ÑØí)b–DnameFUrtago\000ãü¢Ilocations°	®Å¢Ay˚?‡Ω’M§ŒÅAx˚?€ˇ∞NÁƒ†DnameNTrader Ba'kril\000U≠¢Ilocations°ßÅ¢Ay˚?Ê∞lCı˘Ax˚?⁄\no≈äπ,DnameLAnduin Wrynn\000{$¢Ilocations°^Å¢Ay˚?‚u8%·;Ax˚?ÃLúêƒﬁ¬DnameQRenzik \"The Shiv\"\000`´¢Ilocations°»Å¢Ay˚?·Ô¡X˚CŸAx˚?·◊S£ÏÛDnameFUrtago\000Y-¢Ilocations°»Å¢Ay˚?·⁄nuˇ`ûAx˚?·∑ıfI\nDnamePDornogal Citizen\000Ö¢¢Ilocations°	CÅ¢Ay˚?“®⁄<˜Ax˚?„GIj≠DnameKSoul-Scribe\000_¨¢Ilocations°ßÅ¢Ay˚?‘ÎâPv:Ax˚?·•ª{k±)DnameFFaerin\000ï¢Ilocations°4Å¢Ay˚?ÎâenÔ°‰Ax˚?”6*^x[[DnameSMaster Mathias Shaw\000ì ¢Ilocations°œÅ¢Ay˚?„ƒΩ3“ïdAx˚?Ë–Pzk÷ÈDnameGRhubarn\000u®¢Ilocations°	*Å¢Ay˚?ÏPE˛wAx˚?ÿp`ª+∫ôDnameRHumphrey Shortswig\000^.¢Ilocations°ßÅ¢Ay˚?„D—¢£Ax˚?„[W>´6zDnameLMaera Ashyld\000ñ!¢Ilocations°	DÅ¢Ay˚?‚TÕ∑ÆXAx˚?»≈CkèõDnameXCaptain Roderick Brewston\000p´¢Ilocations°»Å¢Ay˚?‰ú‡uˆ˝\"Ax˚?‹ØU!öÑDnameTDagran Thaurissan II\000I5¢Ilocations°œÅ¢Ay˚?…NÙYŸê*Ax˚?‚}\\∑ê˚eDnameQGreat Hexer Ohodo\000N4¢Ilocations°	#Å¢Ay˚?ËÒÀtﬁAx˚?’~+UÔ DnameHBaelgrim\000B∑¢Ilocations°»Å¢Ay˚?⁄ù”∫˝ópAx˚?„æ3¨’∂ÄDnameFUrtago\000|)¢Ilocations°	*Å¢Ay˚?‡™JË[üAx˚?’?ëÊFÒDnameNBruxie Slyhook\000B∏¢Ilocations°»Å¢Ay˚?€JÄﬂ◊Ax˚?‰A÷œÖ\rÒDnameFUrtago\000x´¢Ilocations°	#Å¢Ay˚?—Ñ¨S∞ÅAx˚?€]–ïØ)DnameGOrweyna\000&¿¢Ilocations°ßÅ¢Ay˚?”Önij&ÂAx˚?„ìáúA«DnameNAliya Hillhelm\000pÆ¢Ilocations°»Å¢Ay˚?‰ë∏#»\\%Ax˚?‹≤ yKêDnameSPeacekeeper Hektare\000q.¢Ilocations°¶Å¢Ay˚?Àe°Dà∆\rAx˚?⁄Jb#·ÜòDnameNForeman Duinth\000Ö©¢Ilocations°	CÅ¢Ay˚?·x◊“™\\Ax˚?ﬁ#–ø†î`DnameIXal'atath\000j∞¢Ilocations°ßÅ¢Ay˚?„“⁄ògjrAx˚?ﬂo⁄Én¥ÍDnameKOrren Masyn\000î¶¢Ilocations°	DÅ¢Ay˚?Ÿ'Z∑‹z¿Ax˚? +Æ≥ÈßDnamePDanath Trollbane\000q/¢Ilocations°¶Å¢Ay˚?Àf‡È≥çAx˚?⁄ND0±x≥DnamePMachinist Kilton\000qØ¢Ilocations°ßÅ¢Ay˚?‹êÓ¢	´Ax˚?Â‰IU¥g{DnameSGeneral Steelstrike\000Ü*¢Ilocations°	®Å¢Ay˚?Á[_¢'’Ax˚?‚1e”ôo®DnameETa'ka\000Bª¢Ilocations°»Å¢Ay˚?‹\r•⁄{˛Ax˚?Âp`ª+∫ôDnameFHarmot\000a4¢Ilocations°ßÅ¢Ay˚?·ÃN¯ãóxAx˚?”Ãˇ!≥ÆÔDnameMPriory Knight\000yÆ¢Ilocations°	#Å¢Ay˚?—4∞·¥ª^Ax˚?€Ó˛O¸òDnameRAlleria Windrunner\000Ü+¢Ilocations°	®Å¢Ay˚?‰üœ=¿TÔAx˚?‡˛Gô≈XDnameFBa'ver\000n±¢Ilocations°ßÅ¢Ay˚?‰ûåG°AAx˚?‚fŒ-DnameMFaerin Lothar\000c¥¢Ilocations°œÅ¢Ay˚?€efå&êAx˚?ÁSsØ˚ÓDnameDTeth\000D<°DnameSSkedgit Cinderbangs\000Ö,¢Ilocations°	®Å¢Ay˚?ª∆…}åÛôAx˚?’ø7∏”ÒÑDnameLLocus-Walker\000n≤¢Ilocations°ßÅ¢Ay˚?‰ö¨S∞Å=Ax˚?‚g,≠ÇDnameKGreat Kyron\000å+¢Ilocations°¶Å¢Ay˚?ÍT…ÖoiAx˚?Á\"¶Ûı/¬DnameEPamsy\000Q:¢Ilocations°œÅ¢Ay˚?‰ä≈¡?—Ax˚?ËÓcä	DnameEGrigg\000j¥¢Ilocations°»Å¢Ay˚?ÈwÖrõ(Ax˚?’≠Ÿ©T\"DnameNNatalia Pearce\000h5¢Ilocations°œÅ¢Ay˚?‰sºê>ßAx˚?„#ÏÚ˘áDnameGOrweyna\000q3¢Ilocations°¶Å¢Ay˚?Ë)*0U2aAx˚?Â–kΩæ<DnameMMonte Gazlowe\000]∏¢Ilocations°¶Å¢Ay˚?›@™Í˙µ=Ax˚?„Våi/nÉDnameFHaimaz\000R;¢Ilocations°»Å¢Ay˚?”h/îBAƒAx˚?ËÒX1=DnameRTharessa Sunstrand\000z±¢Ilocations°¶Å¢Ay˚?ÈRVyâX⁄Ax˚?Á5®Xy=ŸDnameEZirdo\000h6¢Ilocations°œÅ¢Ay˚?‰xtÖ„⁄0Ax˚?„ƒ¡eê~DnameFHannan\000@¿¢Ilocations°»Å¢Ay˚?€}ıœ$ï·Ax˚?‚b(DÄcDnameGKorgran\000c∏¢Ilocations°œÅ¢Ay˚?ﬁ≤p*4ÜAx˚?ÊOÂÜ6aDnameDTeth\000l6¢Ilocations°ßÅ¢Ay˚?‚mﬂ\000´˜jAx˚?ÊÍµÄÌ DnameKGreat Kyron\000BA¢Ilocations°¶Å¢Ay˚? Ñ8Ö	¿Ax˚?ﬁ)0zÚ¶DnameOSpeaker Brinthe\000èÆ¢Ilocations°	*Å¢Ay˚?Ë÷‰}√z>Ax˚?ﬂ◊æòV£DnameEPamsy\000Y<¢Ilocations°¶Å¢Ay˚?‰óˇCAûAx˚?ÂÔógê2DnameQMagni Bronzebeard\000]ª¢Ilocations°œÅ¢Ay˚?‰k*M±dAx˚?„)ä®exDnameGOrweyna\000J¿¢Ilocations°»Å¢Ay˚?‡∂L„ﬁaAx˚?‚,≤≤$´DnameHBurkhalt\000\\<¢Ilocations°¶Å¢Ay˚?⁄.bé˜Ax˚?ÊHQ®i@5DnameTBerrund the Gleaming\000@√¢Ilocations°»Å¢Ay˚?€{=é\000cAx˚?‚d%ÆÊ1˘DnameFUrtago\000q7¢Ilocations°¶Å¢Ay˚?ÍÒ.@Ö+NAx˚?ÊAì≥¶ãDnameEPamsy\000q∑¢Ilocations°	*Å¢Ay˚?‰UOΩ≠uAx˚?·“$$¢v∏DnameMMonte Gazlowe\000r7¢Ilocations°^Å¢Ay˚?„B\"Nﬂa$Ax˚?ŒCô≤ƒ\rDnameRVenture Supervisor\000J¡¢Ilocations°»Å¢Ay˚?‡±ûs.Ax˚?‚+◊ı˚nDnameFRabaan\000K¡¢Ilocations°ßÅ¢Ay˚?„J›ﬂC«÷Ax˚?‡ﬁRõÆF–DnameSSophietta Lynflayme\000P@¢Ilocations°¶Å¢Ay˚?€SÔk]F,Ax˚?Âø Ö ∞DnameGSnubjaw\000H¬¢Ilocations°¶Å¢Ay˚?¬YŸUmAx˚?‡o∞í£#DnameHFerdagor\000Ç4¢Ilocations°	DÅ¢Ay˚?„•i±tÇAx˚?∆s£eÀ5ÙDnameVColonel Veronica Nials\000å2¢Ilocations°	®Å¢Ay˚?ÿ∆ÕØJ€∆Ax˚?‡*^x[[pDnameQAssociate Xy'nell\000ù.¢Ilocations°	CÅ¢Ay˚?„â®äŒ$ºAx˚?ﬂ1ΩË-{DnamePHemet Nesingwary\0009«¢Ilocations°œÅ¢Ay˚?…g∫#|‹ Ax˚?›B™ü{[DnameMMonte Gazlowe\000=G¢Ilocations°»Å¢Ay˚?‡´©—ˆyAx˚?‚\"á~‰‚mDnameIWenbrandt\000Jƒ¢Ilocations°»Å¢Ay˚?‡≥·C|VìAx˚?‚-’ê¿≠DnameIWendeline\000H≈¢Ilocations°ßÅ¢Ay˚?·ÀË5ﬁﬂAx˚?⁄π√ÃÓ[DnameNAlyza Bowblaze\000]¿¢Ilocations°œÅ¢Ay˚?‰z%–tAx˚?„Ã{’ùVDnameFHannan\000gæ¢Ilocations°»Å¢Ay˚?·£:G#´Ax˚?”œªîñ$öDnameXArchmage Aethas Sunreaver\000q<¢Ilocations°¶Å¢Ay˚?ÈøÃû©£”Ax˚?ÊˇÏ∑M‡DnameGOrweyna\000O≈¢Ilocations°œÅ¢Ay˚?‰à5XßaAx˚?Ë™|¶CÃDnameMMonte Gazlowe\000q=¢Ilocations°¶Å¢Ay˚?Í∑º]È¿Ax˚?Ê€;´ßπDnameMMonte Gazlowe\000]¬¢Ilocations°–Å¢Ay˚?ÈXærñˆQAx˚?‰·¡Pó»DnameGOrweyna\000ì5¢Ilocations°¶Å¢Ay˚?Ôa‘0n]Ax˚?Âï;—gfADnameIStitchoaf\000q>¢Ilocations°¶Å¢Ay˚?Ïd¥JAx˚?ÊëOH<Ø¥DnameMMonte Gazlowe\000Öπ¢Ilocations°¶Å¢Ay˚?Èæ„’˝Õ˜Ax˚?Â ƒ∞ûôDnameVThe Verdigrease Knight\000ì6¢Ilocations°¶Å¢Ay˚?Ôh€ã¨q\rAx˚?ÂÜ9’‰£ÉDnameQTrixxie Boltcrank\000HI¢Ilocations°œÅ¢Ay˚?‚ûD˙<Ax˚?÷⁄∆äìlYDnameGOrweyna\000q?¢Ilocations°¶Å¢Ay˚?ÏgâÁtÓøAx˚?Êé‡mìÅRDnameQRenzik \"The Shiv\"\000uæ¢Ilocations°»Å¢Ay˚?··÷IMPÏAx˚?·√¥ˆr2DnameQFreysworn Etterca\000JI¢Ilocations°œÅ¢Ay˚?‹;lΩò|cAx˚?·‘6∏˘±1DnameKLilian Voss\000LI¢Ilocations°¶Å¢Ay˚?€ßäÛ‰iAx˚?ﬁAÈØ[¢æDnameHZZ-01-47\000p¿¢Ilocations°»Å¢Ay˚? Y—,≠›ÙAx˚?‹ªI F·DnameTDagran Thaurissan II\000JJ¢Ilocations°•Å¢Ay˚?ÊÒÌ≈ÔcAx˚?ÊA¢aø7πDnameKLilian Voss\000{>¢Ilocations°	*Å¢Ay˚?„'π\rbøAx˚?‰‹Ø-ïDnameJRipsnoodle\000{æ¢Ilocations°	*Å¢Ay˚?ÍÇÉ”^∑EAx˚?€Ø5„€DnameSSkedgit Cinderbangs\000rA¢Ilocations°ßÅ¢Ay˚?‹KH”Æh^Ax˚?Â¬v1µÑ≤DnameMLerrenai Fayn\000°∂¢Ilocations°	*Å¢Ay˚?Êµïx¢©\rAx˚?—Éò¶TíˇDnameRMarin Noggenfogger\000JL¢Ilocations°•Å¢Ay˚?Ï˛ôcÙœAx˚?‚\"Ã≥¢Y\\DnameKLilian Voss\000LL¢Ilocations°¶Å¢Ay˚?⁄Lf\n rAx˚?·“2“ª#WDnameHZZ-01-47\0009—¢Ilocations°œÅ¢Ay˚?»«KÉåAx˚?‚ˇæ˝\000q?DnameMFaerin Lothar\000fF¢Ilocations°®Å¢Ay˚?⁄U˚µ§aAx˚?‚VCÂÕDnameHGut'usul\000Ø¥¢Ilocations°	CÅ¢Ay˚?◊@≥NvÖòAx˚?‡∫‹	Ä≤DnameFHashim\000à>¢Ilocations°	CÅ¢Ay˚?—\"x–Ã5ŒAx˚?ﬂÒÄ\n|DnameKSoul-Scribe\000CP¢Ilocations°¶Å¢Ay˚?‘ñRΩ<6Ax˚?ﬁ∑8Ê—Z—DnameNInnkeeper Brax\000à?¢Ilocations°	CÅ¢Ay˚?—Ù8K†ËAx˚?ﬂ;ÖËÌDnameLLocus-Walker\000x√¢Ilocations°ßÅ¢Ay˚?‚±´VÁAx˚?€◊¬ ã®DnameQBrann Bronzebeard\000n∆¢Ilocations°¶Å¢Ay˚?‹¿\r°©3Ax˚?·7`ø]xÅDnameLMindi Maxlof\000à@¢Ilocations°	CÅ¢Ay˚?—\n5\r(ØAx˚?ﬂÎ‘œ–çDnameRAlleria Windrunner\000p∆¢Ilocations°»Å¢Ay˚?Êuîl3/Ax˚?„ª:h±öADnameOSpeaker Brinthe\000j»¢Ilocations°	#Å¢Ay˚?„“Ñú≤SAx˚?‘0æ\rÌ(çDnameRAlleria Windrunner\000SŒ¢Ilocations°ßÅ¢Ay˚?‡Oìº\nAx˚?‡∆;ÖËDnameNAlyza Bowblaze\000|D¢Ilocations°	*Å¢Ay˚?Ác\000¯µâAx˚?‡ﬂ|gY´mDnameUTarbonara Fizzlecrank\000ã¡¢Ilocations°	CÅ¢Ay˚?’©ÇDÈ>Ax˚?Ë>BZÓc DnamePBotanist Alaenra\000qH¢Ilocations°¶Å¢Ay˚?ÈXb,EiAx˚?‰g˘\rùwuDnamePProspera Cogwail\000°º¢Ilocations°	DÅ¢Ay˚?„SIæèÛ(Ax˚?∆∞Ø_‘{ÓDnameXCaptain Roderick Brewston\000í@¢Ilocations°	*Å¢Ay˚?„¸ª<ÅêéAx˚?„∫+‡XöÃDnameMMonte Gazlowe\000G”¢Ilocations°»Å¢Ay˚?„Ö◊Dı”VAx˚?“D(M¸„DnameGOlbarig\000p…¢Ilocations°	*Å¢Ay˚?Î‹ë—N;ÕAx˚?⁄ávÅgDnameTSlimediver Kazzandra\000ET¢Ilocations°œÅ¢Ay˚?ÍfúÌ0∂Ax˚?Ë[pißãDnameHVix'aron\000àD¢Ilocations°	CÅ¢Ay˚?»ﬂiáÉ†Ax˚?ﬁﬁ %Rü‡DnameLLocus-Walker\000`Œ°DnamePWaxmonger Squick\000âD¢Ilocations°	DÅ¢Ay˚?Ÿ\\·Çfw-Ax˚? Dki€eÌDnamePMaggie Wiltshire\000äƒ¢Ilocations°	#Å¢Ay˚?–æ€rÅ˝úAx˚?⁄…Ø·⁄{DnameDDawn\000äE¢Ilocations°	*Å¢Ay˚?ŒúàabÒgAx˚?ÊµΩ@gœDnamePChancellor Gnome\000v ¢Ilocations°	*Å¢Ay˚?’µ÷[ÊAx˚?ÿ‘CÈc‹DnameNMarty Zoomcart\000LU¢Ilocations°	#Å¢Ay˚?ÈµãÇ¢Ax˚?◊ÊuDnamePMoira Thaurissan\000H÷¢Ilocations°ßÅ¢Ay˚?‡Æ¨ü0Ax˚?‡∆M¬*≤[DnameNAlyza Bowblaze\000EW¢Ilocations°œÅ¢Ay˚?ÍXò≤ÈÃ∏Ax˚?ËSÀƒè™DnameHKish'nal\000rL¢Ilocations°	*Å¢Ay˚?’<ñâC·\000Ax˚?‚≤ª©é⁄#DnameNBaron Revilgaz\000xÀ¢Ilocations°¶Å¢Ay˚?È§¨Û≤Ax˚?‰(| DnameMMonte Gazlowe\000YS¢Ilocations°	#Å¢Ay˚?∂XºY∏Ax˚?‚!∑Ñf,DnameISteelvein\000g–¢Ilocations°¶Å¢Ay˚?È&TíˇK•Ax˚?‰»j“‹±FDnamePGarv Gearwhistle\000äH¢Ilocations°	®Å¢Ay˚?»ƒ¥–V≈	Ax˚?‡\r_·'DnameSCartel Boss Xy'eolm\000V’¢Ilocations°¶Å¢Ay˚?Èä†íßAx˚?ÂZc˘§ú,DnameEArfur\000Ñ ¢Ilocations°	CÅ¢Ay˚?‡ùÜ\"ƒP'Ax˚?Â‰f±Â¿∫DnameIXal'atath\000vN¢Ilocations°	*Å¢Ay˚?÷^gîcœ≥Ax˚?·’ß“AÄ‘DnameNMarty Zoomcart\000>‹¢Ilocations°»Å¢Ay˚?Ê]Ù<}^–Ax˚?·#:G#´DnamePWoldtender Igris\000sœ¢Ilocations°¶Å¢Ay˚?‘äÛ‰h ≈Ax˚?‚¶ÿ±›]>DnameEChive\000qP¢Ilocations°¶Å¢Ay˚?Ãªw9Û@’Ax˚?⁄w∑«Ç\n1DnameFCogwin\000fS¢Ilocations°	#Å¢Ay˚?ÍÄîÂ’≤Ax˚?◊)R·PDnameGSkitter\000Ø¡¢Ilocations°	CÅ¢Ay˚?”Ê)ï$ø”Ax˚?Á˜¸¸?ÅDnameIShad'anis\000ÑÃ¢Ilocations°	®Å¢Ay˚?ÍöP\r^çTAx˚?„>¢ã±DnameEOm'en\000rQ¢Ilocations°	*Å¢Ay˚?‚lNrS⁄sAx˚?‹M€U%ÃDnameGOrweyna\000qR¢Ilocations°	*Å¢Ay˚?„Ñé:!dAx˚?€˛ÇQ~w’DnameEPamsy\000ôI¢Ilocations°	*Å¢Ay˚?≈˜g»óAx˚?‰x7¥¢3úDnameRBlackwater Bruiser\000VZ¢Ilocations°¶Å¢Ay˚?’EÄ<—AßAx˚?ﬁ){˙LaÿDnamePMoira Thaurissan\000èÃ¢Ilocations°¶Å¢Ay˚?Ó›®Ω#ûAx˚?ÂÁFÀñkËDnameQBenny Gooserocket\000V[¢Ilocations°¶Å¢Ay˚?’CçäTÇAx˚?ﬁ$≥=Øç¯DnameOSpeaker Brinthe\000ìL¢Ilocations°	CÅ¢Ay˚?÷ßäÛ‰iAx˚?ËM∂ÌgwDnameGRhubarn\000ÖP¢Ilocations°	CÅ¢Ay˚?’‚!»ß§Ax˚?ËB¶mΩrΩDnameHOm'talad\000=‚¢Ilocations°»Å¢Ay˚?·ò;`(^ƒAx˚?“ÂÍ´%)DnameLAnduin Wrynn\000T›¢Ilocations°»Å¢Ay˚?‰„’˝ÕˆòAx˚?·Zúô(ZíDnamePWoldtender Igris\000rV¢Ilocations°	*Å¢Ay˚?‹°nz1ÜAx˚?‚V£z√ÎDnameMMonte Gazlowe\000íŒ¢Ilocations°	CÅ¢Ay˚?ŸêßÇêhòAx˚?„Öúåì ⁄DnameGNarathe\000[‹¢Ilocations°ßÅ¢Ay˚?·√vı◊àAx˚?⁄¨¿Ω —JDnameMFaerin Lothar\000àQ¢Ilocations°	CÅ¢Ay˚?»q˜î ≥’Ax˚?ﬁ‘0n\\‘ÌDnameRAlleria Windrunner\000X›¢Ilocations°•Å¢Ay˚?‹vºœ(»Ax˚?Ê›,MfDnameMOrator Tx'itk\000ÖR¢Ilocations°	CÅ¢Ay˚?’‡2€ü'Ax˚?ËG’Ì˛¯DnameIXal'atath\000rW¢Ilocations°ßÅ¢Ay˚?‹MUh∆ìAx˚?Â«åÜãü‹DnameKDerill Fayn\000>‰¢Ilocations°»Å¢Ay˚?Ê‘%Ú{Ax˚?⁄§zû+œíDnamePFreysworn Cruton\000èP¢Ilocations°	*Å¢Ay˚?≈˜g»óAx˚?‰x7¥¢3úDnameTFleet Master Seahorn\000lY¢Ilocations°œÅ¢Ay˚?⁄`NqOAx˚?·öy˛…üDnameIAnub'azal\000ÖS¢Ilocations°	CÅ¢Ay˚?’Ò‰¥JAx˚?ËC¸C≤›7DnameKSoul-Scribe\000e€¢Ilocations°ßÅ¢Ay˚?Ÿ:éqGj˘Ax˚?ﬁˇ6¨dwyDnamePHaelmut Aegisaxe\000nY¢Ilocations°¶Å¢Ay˚?‰¥¸aëAx˚?‚¥0ÙîëÛDnameMMonte Gazlowe\000¨ ¢Ilocations°	CÅ¢Ay˚?Œ˙/ßÓAx˚?‚¸§*ÌîDnameQLeona Darkstrider\000mZ¢Ilocations°¶Å¢Ay˚?‰â≥(È-Ax˚?‚›3L]¶§DnameFDanagh\000vÿ¢Ilocations°	*Å¢Ay˚?‹Xû˝Ü®¸Ax˚?‚+\no≈äπDnameNMarty Zoomcart\000xÿ¢Ilocations°œÅ¢Ay˚?‹∫<ßP<Ax˚?·‡?pXW∞DnameQBrann Bronzebeard\000âT¢Ilocations°	DÅ¢Ay˚?’\n∑'$1Ax˚?ÊD⁄êÓ¢DnameMFaerin Lothar\000t⁄¢Ilocations°	*Å¢Ay˚?⁄≈ÇU∞5ΩAx˚?–4L7Ê˜DnameSNeenee Torquewrench\000Je¢Ilocations°ßÅ¢Ay˚?“¿\r°©3Ax˚?·|$=ÃÍ)DnameRKobyss Shadeshaper\000JÂ¢Ilocations°¶Å¢Ay˚?‰DiP¸q÷Ax˚?·ú.3ÔÒïDnamePMoira Thaurissan\000p‹¢Ilocations°	*Å¢Ay˚?‡s‡7‹áAx˚?ŒÌ√ΩYíCDnameRGrimla Fizzlecrank\000q‹¢Ilocations°	*Å¢Ay˚?œß®P¬	Ax˚?ÿıﬂÎçÇ4DnameMMonte Gazlowe\000R‰¢Ilocations°»Å¢Ay˚?”e≤Äf√Ax˚?ËÚÑzï»DnameMRannan Korren\000Eh¢Ilocations°ßÅ¢Ay˚?‘&¡Ω•Ax˚?·Aﬂ3\000ﬁLDnameSGeneral Steelstrike\000IÁ¢Ilocations°ßÅ¢Ay˚?‘†æQ	Ax˚?‰ÒOŒtlπDnameRKeyrra Flamestonge\000*o¢Ilocations°œÅ¢Ay˚?‹,≠ÅÆAx˚?·’fœAÚDnameNWidow Arak'nai\000Üÿ¢Ilocations°	®Å¢Ay˚?ÁÔ\\Ø-ïAx˚?ÿ∞/aÌDnameLLocus-Walker\000√I¢Ilocations°	CÅ¢Ay˚?“¢Y[ªËyAx˚?„)ó=û«\000DnameRResearcher Essarae\000Lg°DnameFThrall\000ôT¢Ilocations°\000Å¢Ay˚?ﬂÚ	1Ax˚?Ê˝XÖ”DnameWPlague Deviser Marileth\000<l¢Ilocations°œÅ¢Ay˚?‹·Ôs¿¡˝Ax˚?—°3¡Œl	DnameSGeneral Steelstrike\000Ej¢Ilocations°ßÅ¢Ay˚?‘˚m ˆAx˚?·@ `ìDnameFFaerin\000Gj¢Ilocations°¶Å¢Ay˚?‚¨ù¸õ«Ax˚?Â*‡\"'DnameRIronhaul Bodyguard\000Li¢Ilocations°»Å¢Ay˚?€0¯∆O€\nAx˚?‚B$gæU;DnameGKorgran\000âZ¢Ilocations°	DÅ¢Ay˚?⁄1É/ »ÁAx˚?ÊO≥1T?DnameGEitrigg\000Bl¢Ilocations°¶Å¢Ay˚?„\"U)˛\000KAx˚?„S°”#˛„DnameQMagni Bronzebeard\000El¢Ilocations°ßÅ¢Ay˚?‚K”=)VAx˚?€≥øµç'DnamePRaen Dawncavalyr\000nb¢Ilocations°¶Å¢Ay˚?ÈÖ–˙X˜Ax˚?‰†©XS~,DnameGOrweyna\000Si¢Ilocations°»Å¢Ay˚?Ê´Æ≥ÈßAx˚?⁄∑°¬]BDnameEHreka\000s·¢Ilocations°	*Å¢Ay˚?‹ãÇ°†œAx˚?‰d∫îª‰GDnameMMonte Gazlowe\000ë⁄¢Ilocations°	CÅ¢Ay˚?◊v1µÑ±´Ax˚?ﬁ‘‡óÑÏcDnameIXal'atath\000Bn¢Ilocations°ßÅ¢Ay˚? ¬!x˜Ax˚?ﬂın¨ÜhDnamePTaenar Strongoth\000JÏ¢Ilocations°¶Å¢Ay˚?‰>û°@WAx˚?·õV2;ºoDnameTBerrund the Gleaming\000óY¢Ilocations°	CÅ¢Ay˚?’…ƒ⁄êÔAx˚?ËB∞Í7.DnamePHemet Nesingwary\000gÂ¢Ilocations°»Å¢Ay˚?‰H#Ö@FAAx˚?’TK±Ø:DnameTHigh Exarch Turalyon\000à]¢Ilocations°	*Å¢Ay˚?‡Û∂E° ¡Ax˚?◊◊^ F«eDnameIPitz Lowe\000HÌ¢Ilocations°»Å¢Ay˚?‰Cx$‘ÀüAx˚?’R2“ª#WDnameHAdelgonn\000qc¢Ilocations°	*Å¢Ay˚?È$ÂíñpAx˚?›}0≠FıàDnameMMonte Gazlowe\000m‰¢Ilocations°ßÅ¢Ay˚?‡É£\"ØWqAx˚?œ‡~ÌEÈDnameGOrweyna\000za¢Ilocations°^Å¢Ay˚?·kNòáúAx˚?Ãh+bÑYñDnameQRenzik \"The Shiv\"\000r„¢Ilocations°•Å¢Ay˚?„n¥ÈÅ8Ax˚?Ï√¸C≤›DnameGSpindle\000Lm¢Ilocations°»Å¢Ay˚?‚*äÇ•aNAx˚?ÊWwJ∫8vDnameFUrtago\000mÂ¢Ilocations°ßÅ¢Ay˚?‘Ÿ/±ûsAx˚?Êa‘0n\\’DnameFDolena\000Jn¢Ilocations°•Å¢Ay˚?ŸVÊñ¢nTAx˚?È*Q„!¢ËDnameKLilian Voss\000√P¢Ilocations°	≠Å¢Ay˚?Ëb‰—¶PaAx˚?€vã@öDnameRPhase-Lost Creeper\000KÓ¢Ilocations°œÅ¢Ay˚?Â<◊åCo¡Ax˚?‰Ö˝¢˝DnameITka'ktath\000ùZ¢Ilocations°	CÅ¢Ay˚?‚=◊fÉ¬òAx˚?ﬂcÄﬁÙDnamePHemet Nesingwary\000:Û¢Ilocations°œÅ¢Ay˚?€Ó«…WÕAx˚?“œ–çK≠}DnameFFaerin\000sÂ¢Ilocations°	*Å¢Ay˚?Ês≤„‚ìAx˚?‡3¯U”çDnameNMarty Zoomcart\000à`¢Ilocations°	CÅ¢Ay˚?«©®ñg∂Ax˚?‹O∆ÈDnameIXal'atath\000qf¢Ilocations°	*Å¢Ay˚?Êæµ≤‘‘Ax˚?·ÒbÆKDnameRGrimla Fizzlecrank\0009Ù¢Ilocations°œÅ¢Ay˚?—eò·ı≤Ax˚?‰-fjò$ODnameNFlynn Fairwind\000Éb¢Ilocations°	AÅ¢Ay˚?⁄‹~ÒwßAx˚?Âô\000ÇˇDnameFBargus\000@s¢Ilocations°ßÅ¢Ay˚?·âXŸµÈ[Ax˚?’~œÈ∑øDnameMFaerin Lothar\000qg¢Ilocations°	*Å¢Ay˚?ÊΩ¯ÙsAx˚?·Ÿã˜gDnameMMonte Gazlowe\000ZÌ¢Ilocations°	Å¢Ay˚?‚Üª€„¡Ax˚?Á=˚\rQ¯DnameLAnduin Wrynn\000Øÿ¢Ilocations°	CÅ¢Ay˚?◊=º#1]pAx˚?‡∂^Ã>2DnameIShad'anis\000àb¢Ilocations°	CÅ¢Ay˚?ÀÑ ’{«˜Ax˚?€{ 1ŒØ%DnameRAlleria Windrunner\000uÁ¢Ilocations°»Å¢Ay˚?—\\$ƒß/Ax˚?‚™…l≈˚¯DnameMViolet Warden\000Bt¢Ilocations°QÅ¢Ay˚?‹‘\nÆØ´TAx˚?⁄⁄”Õ$·DnameFThrall\000lj¢Ilocations°¶Å¢Ay˚?⁄\000∆˜†∂Ax˚?‡B®Üúf”DnameHBatzvara\000hÎ¢Ilocations°‚Å¢Ay˚?‚hYÖ≠SãAx˚?ﬂHoöôtDnameMFaerin Lothar\000mj¢Ilocations°¶Å¢Ay˚?‡?ºAx˚?‡è‡G”‘(DnameRDanagh's Cogwalker\000uË¢Ilocations°»Å¢Ay˚?“\"tüM°Ax˚?‚Æn®TGÄDnameQRancher Edidithet\000nj¢Ilocations°¶Å¢Ay˚?ÈÜ®¸\r,8Ax˚?‰™é:¿∆DnameMMonte Gazlowe\000V¢Ilocations°¶Å¢Ay˚?È%®õï\\Ax˚?Â]óˆ+jËDnameHGullhead\000PÚ¢Ilocations°œÅ¢Ay˚?…A[\"Ã¥Ax˚?›l¯PﬂDnameIAnub'azal\000an¢Ilocations°œÅ¢Ay˚?⁄tK+w}Ax˚?ÂPÇœRπ\nDnameHRen'khat\000g¢Ilocations°	*Å¢Ay˚?⁄Ω+oìOAx˚?›&‘ÄuDnameMMonte Gazlowe\000PÛ¢Ilocations°¶Å¢Ay˚?€ d#ñ>Ax˚?ﬁFA,˘”DnameTDagran Thaurissan II\000Iu¢Ilocations°œÅ¢Ay˚?ŒòôøYF√Ax˚?ﬁUqKú∂ÖDnameMMonte Gazlowe\000^p¢Ilocations°¶Å¢Ay˚?Ÿ≤g∆∏∂ïAx˚?‹:£i¸Û‹DnameHBatzvara\000VÚ¢Ilocations°¶Å¢Ay˚?È4¡®¨Ax˚?ÂaR*o?SDnameGWalkmay\000qÏ¢Ilocations°¶Å¢Ay˚?Í∫√.æYAx˚?Êﬁÿ”kLDnameEPamsy\000Bx¢Ilocations°	Å¢Ay˚?‰‹Ω€òA´Ax˚?‡ÊŒ-DnameQMagni Bronzebeard\000ÜÁ¢Ilocations°	GÅ¢Ay˚?Ê°LÏA›Ax˚?Ÿ±1e”ôpDnameFBargus\000îd¢Ilocations°	®Å¢Ay˚?‰1ªœNáMAx˚?·U>ˆµ‘cDnameLLocus-Walker\000qm¢Ilocations°^Å¢Ay˚?·n.±ƒ2 Ax˚?Ãv:\000ÇDnameMMonte Gazlowe\000Mˆ¢Ilocations°¶Å¢Ay˚?È%e∂ôÖAx˚?Âh›§ãe#DnameVThe Verdigrease Knight\000By¢Ilocations°	Å¢Ay˚?‚æfºò¢Ax˚?ﬂ±ÖH©º˝DnameULady Jaina Proudmoore\000Xt¢Ilocations°œÅ¢Ay˚?‹Iîûà‰Ax˚?·Ãß\r£3DnameRAlleria Windrunner\000L˜¢Ilocations°¶Å¢Ay˚?‰ÑYñtK+Ax˚?‚⁄πıY≥–DnameNClive DelGizmo\000M˜¢Ilocations°¶Å¢Ay˚?÷©õyŸAx˚?ﬁíû≤DnameEJanky\000Jx¢Ilocations°¶Å¢Ay˚?Àÿ•H#Ö@Ax˚?„!BoÁDnameGSkitter\000_s¢Ilocations°¶Å¢Ay˚?„ÙÓøe€˝Ax˚?‚¥&x9ÕÅDnameKNoli Marlen\0003˛¢Ilocations°»Å¢Ay˚?“ñÂä2ÙIAx˚?„Û«ôkDnameUHead Rancher Stenspor\000ÑÍ¢Ilocations°	CÅ¢Ay˚?Ÿ#ÈÍqAx˚?„õ‘|Ò√DnameIXal'atath\000…Y¢Ilocations°	CÅ¢Ay˚?—æ„’˝Õ˜Ax˚?„~¡;üDnameOMagister Umbric\000M¯¢Ilocations°¶Å¢Ay˚?÷ßÔù≤-Ax˚?ﬁô°˝iıDnameNFourman Grimes\000B{¢Ilocations°uÅ¢Ay˚?„)mL3µ9Ax˚?€q¥xB0˝DnamePArchmage Khadgar\000ñÊ¢Ilocations°	*Å¢Ay˚?‹ûjπ≤=’Ax˚?‚Pm÷ù0'DnameMMonte Gazlowe\000{Ì¢Ilocations°	*Å¢Ay˚?◊◊∫fòªMAx˚?‡^PÇœRπDnameSSkedgit Cinderbangs\000@|¢Ilocations°ßÅ¢Ay˚?‹ﬁ-ËpóAx˚?Â„•¡∆çDnameMFaerin Lothar\000qp¢Ilocations°^Å¢Ay˚?‚x £\r∂¢Ax˚?ÃD‡⁄† ÊDnameMMonte Gazlowe\000F{¢Ilocations°uÅ¢Ay˚?·J>}QAx˚?Ÿ‡ÛÀ>WTDnamePMoira Thaurissan\000íË¢Ilocations°	CÅ¢Ay˚?‚bI°3¡ŒAx˚?ﬂÎNòáúDnameXAssistant Engineer Om'vek\000\\ˆ¢Ilocations°ßÅ¢Ay˚?‚ávÅgAx˚?€¨q≤ïÍDnameMFaerin Lothar\000au¢Ilocations°œÅ¢Ay˚?‡—ÉjÉ,Ax˚?ËB,À:%ñDnameXGrand Overspinner Antourix\000R˘¢Ilocations°»Å¢Ay˚?‹$ÂíñpAx˚?ËJ ˇm3DnameHAdelgonn\000G|¢Ilocations°	Å¢Ay˚?‡$ú,˝Ax˚?‡#eÀ5ÛÿDnameRAlleria Windrunner\000îi¢Ilocations°	®Å¢Ay˚?‰_ãÕ˛¸Ax˚?·MﬂÜ„¥pDnameEOm'en\000êÍ¢Ilocations°	®Å¢Ay˚?Í¨•zxl\"Ax˚?„Ë≥≥ SDnameLLocus-Walker\000?ˇ¢Ilocations°¶Å¢Ay˚?‘~d^NjAx˚?„Æﬁ]	DnameGSkitter\000îj¢Ilocations°	®Å¢Ay˚?‰=}ÆÅàAx˚?·4iîPYDnameRAlleria Windrunner\000pÛ¢Ilocations°	*Å¢Ay˚?œ˚πIbJAx˚?Ÿw5¡ÇÏØDnameMMonte Gazlowe\000@\000¢Ilocations°¶Å¢Ay˚?‘w¿*˝⁄åAx˚?„≠£;Ÿ ‚DnameOSpeaker Brinthe\000@Ä¢Ilocations°ßÅ¢Ay˚?‰ïƒ\"`Ax˚?‚jp6…¡DnameLAnduin Wrynn\000Dˇ¢Ilocations°ßÅ¢Ay˚?‚Úd°jHsAx˚?ÊÏ -∂∞DnameSGeneral Steelstrike\000R|¢Ilocations°œÅ¢Ay˚?Ê∞©7ü©Ax˚?‚€§÷‰}√DnameKAdolchomper\000R¸¢Ilocations°	#Å¢Ay˚?‰é2÷Ï·Ax˚?◊+f∂~¢DnameHBaelgrim\000q¢Ilocations°	*Å¢Ay˚?ﬁª◊≤ÎAx˚?’%Ä√˛¨DnameMMonte Gazlowe\000Gˇ¢Ilocations°	#Å¢Ay˚?ÍJ¿ÉnòAx˚?◊˜∆uö∂–DnameRRooktender Lufsela\000âÔ¢Ilocations°ÆÅ¢Ay˚?Ê['£HoAx˚?Á/7˚Ô–DnamePBotanist Alaenra\000vt¢Ilocations°	*Å¢Ay˚?È∂~AN~ÈAx˚?‘Ë1ÙoDnameNMarty Zoomcart\000Z˚¢Ilocations°¶Å¢Ay˚?◊å;Eà†Ax˚?›öm⁄ŒÓDnameHBatzvara\000Kˇ¢Ilocations°ßÅ¢Ay˚?ﬂ≈\000O±;Ax˚?Ë¬ŒFIêDnameNScout Wayshelm\000E¢Ilocations°ßÅ¢Ay˚?„≈&^A’Ax˚?‰¶;hã⁄îDnameLAnduin Wrynn\000ùk¢Ilocations°	CÅ¢Ay˚?”OãXé7Ax˚?„=Øli∂DnamePAdarus Duskblaze\000Q˛¢Ilocations°¶Å¢Ay˚?›4†Ω®Ax˚?‚K≥»ÊDnamePMoira Thaurissan\000BÇ¢Ilocations°¶Å¢Ay˚?‚õyŸ	ÚAx˚?„.fDÿwDnameTDagran Thaurissan II\000R˛¢Ilocations°	#Å¢Ay˚?„vß&JAx˚?“–≥ZßDnameFMerrix\000s¢Ilocations°	*Å¢Ay˚?Á\nòπZAx˚?„¿Ø∏ùkDnameMMonte Gazlowe\000H¢Ilocations°ßÅ¢Ay˚?Ài7—˛Ax˚?„JÕL' DnameTMiral Murder-Mittens\000EÇ¢Ilocations°ßÅ¢Ay˚?·~ø\"¿iAx˚?⁄F^â\"SDnameRAlleria Windrunner\000U˛¢Ilocations°¶Å¢Ay˚?⁄J˝TT+Ax˚?·“XíhLDnameHZZ-01-47\000vv¢Ilocations°	*Å¢Ay˚?Ï*Ê»˜U7Ax˚?◊èñ·XuDnameKJojo Gobdre\000V˛¢Ilocations°¶Å¢Ay˚?Èu%FAx˚?Â^Î≥A·LDnameGMarline\000t¢Ilocations°	*Å¢Ay˚?‡r'–(°‡Ax˚?€è¥=âŒDnameMMonte Gazlowe\000D¢Ilocations°ßÅ¢Ay˚?⁄Mîâa=Ax˚?ﬂzˆ@cù^DnameOAegor Irynbawnd\000?¢Ilocations°¶Å¢Ay˚?’› KM\nAx˚?ﬁ47?1n7DnameOSpeaker Brinthe\000{v¢Ilocations°¶Å¢Ay˚?ÏX»ÓÒ∫√Ax˚?Êï€3ó›DnameEPamsy\000Wˇ¢Ilocations°ßÅ¢Ay˚?‰§zû+œíAx˚?ﬂ:‚TéÜDnameMWenren Althal\000lz¢Ilocations°ßÅ¢Ay˚?‰æFå¨KMAx˚?ﬁDE™.<SDnameKOrren Masyn\000E¢Ilocations°ßÅ¢Ay˚?‰áiÏ,‰eAx˚?ÂÔG∂wˆ≤DnameULady Jaina Proudmoore\000EÑ¢Ilocations°ßÅ¢Ay˚?⁄‚∞c‡z)Ax˚?·˝iL ≥ÓDnameMFaerin Lothar\000?¢Ilocations°¶Å¢Ay˚?’÷ˇ¥Ä¶Ax˚?ﬁ0\r‰≈DnamePMoira Thaurissan\000GÑ¢Ilocations°»Å¢Ay˚?‡+6Ω+oAx˚?‚BgÉúÿDnameFMerrix\000l{¢Ilocations°ßÅ¢Ay˚?„ —0ﬂõ‹Ax˚?›œ9éóDnameKOrren Masyn\000\\ˇ¢Ilocations°¶Å¢Ay˚?ﬁ¥Ã% ÜAx˚?„˚ˆ£5DnameGHrandaz\000EÖ¢Ilocations°ßÅ¢Ay˚?⁄o≈äπ,Ax˚?·ÿy=ŸcDnameRAlleria Windrunner\000äÙ¢Ilocations°	*Å¢Ay˚?„©‘‡mîAx˚?Ÿgjrd°jDnameLOld Man Lowe\000GÖ¢Ilocations°	#Å¢Ay˚?‚˛8ÎπAx˚?‘V…:qDnamePMoira Thaurissan\000P¢Ilocations°	#Å¢Ay˚?‚hæ/{ŒAx˚?‹®˘„ÜMDnameGVokgret\000Y¢Ilocations°	#Å¢Ay˚?À—≤Âö˘ÏAx˚?‰nΩL˝	DnameEAldra\000q{¢Ilocations°	*Å¢Ay˚?„ãXé6èAx˚?€œˆL¯◊DnameGOrweyna\000;	¢Ilocations°œÅ¢Ay˚?«Õ˛˚Ù≈Ax˚?‚ÿ˘*˘®ŒDnameVSir Jonathan Trueheart\000ìÛ¢Ilocations°	®Å¢Ay˚?ﬁˆ@tdVAx˚?‡Q*îˇ\000&DnameTConsortium Assistant\000|y¢Ilocations°	*Å¢Ay˚?Ë@ `ìAx˚?·Ÿ·Û•~™DnameOFantastic Davey\000]¢Ilocations°¶Å¢Ay˚?ﬁ)•Î∑tAx˚?„Êúo6DnameIKagfritha\000}˘¢Ilocations°	*Å¢Ay˚?ÂÎ\rï¯€Ax˚?Ÿ\\WÎâPDnameJMama Keara\000Fá¢Ilocations°¶Å¢Ay˚?Á˘¢ÉM&˙Ax˚?‚œxx∑¢DnameTHigh Speaker Brinthe\000Gá¢Ilocations°»Å¢Ay˚?„us}¶Ax˚?—ÃöwÂÍ´DnameFThrall\000|z¢Ilocations°	*Å¢Ay˚?ËK:%ïªøAx˚?·÷G4q˜îDnameFKayjay\000p˝¢Ilocations°¶Å¢Ay˚?‘<Wü#FVAx˚?ﬁIêl -∂DnameGTherkan\000çv¢Ilocations°	*Å¢Ay˚?‡~¥¶eY˜Ax˚?€BkµZ¿@DnameMMonte Gazlowe\000S¢Ilocations°	#Å¢Ay˚?–¢æâ¨ΩAx˚?ŸÅU’ıj{DnameFMerrix\000/é¢Ilocations°•Å¢Ay˚?›s£eÀ5ÙAx˚?‡ÌA∑Zt¡DnameOExecutor Nizrek\000çw¢Ilocations°	*Å¢Ay˚?‰¯‹ÏAx˚?‚\rsÜ	ô›DnameNMarty Zoomcart\000Fâ¢Ilocations°uÅ¢Ay˚?’LQjãèAx˚?‚ÀÊˇÎDnamePArchmage Drenden\000?¢Ilocations°	#Å¢Ay˚?„œ —0‡Ax˚?÷'(bıòûDnameHBaelgrim\000Kà¢Ilocations°œÅ¢Ay˚?‚NŒö,gAx˚?’ó{ûDnameGOrweyna\000P¢Ilocations°	#Å¢Ay˚?‘r⁄/≠mAx˚?ﬂΩQ.∆ºËDnameFMerrix\000}¸¢Ilocations°	*Å¢Ay˚?Â€ƒKÙÀAx˚?ŸYÃ˙Ôı«DnameL\"Gabby\" Gabi\000äy¢Ilocations°	®Å¢Ay˚?÷ÿîÅ+‰äAx˚?‹™‡\"'DnameRVaultkeeper Xy'vez\000Ü˙¢Ilocations°	CÅ¢Ay˚?’ˆÏ[çìAx˚?Ëá¸π#¢úDnameFDriruj\000Gä¢Ilocations°»Å¢Ay˚?ﬁD0±x≥pAx˚?Âqåü∂MDnamePHarvester Farnee\000I\n¢Ilocations°ßÅ¢Ay˚?‡ƒ¥–V≈	Ax˚?⁄à	N][%DnamePEndiri Dawnsurge\000?\r¢Ilocations°»Å¢Ay˚?€ö‡¡vWuAx˚?Ë\000\\FQÙDnameHBaelgrim\000É|¢Ilocations°	*Å¢Ay˚?ÂÑ8Ö	¿Ax˚?‚ˇCAû0DnameMMonte Gazlowe\000P	¢Ilocations°	#Å¢Ay˚?Ÿ]J]Ú#ûAx˚?„Ê›\nøwDnameFMerrix\000â{¢Ilocations°	DÅ¢Ay˚?”õ´ñÚAx˚?ÂÈnX£/EDnameQOverlord Geya'rah\000R	¢Ilocations°ßÅ¢Ay˚?‹\rqué\"Ax˚?Ê)EsßóâDnamePBarahl Lynflayme\000jÉ¢Ilocations°	#Å¢Ay˚?ﬂ¿]R¡mÙAx˚?›}ôà“°˘DnameMFaerin Lothar\000?¢Ilocations°»Å¢Ay˚?€°ê _ÚAx˚?Ë*sq‰DnameIWenbrandt\000~¢Ilocations°	*Å¢Ay˚?⁄ˆ±¢§€Ax˚?‹\nøv¢ıDnameRGrimla Fizzlecrank\000Y¢Ilocations°	#Å¢Ay˚?∂iÉQX∏Ax˚?‚!UOΩ≠uDnameFMerrix\000Eç¢Ilocations°ßÅ¢Ay˚?ŸÎŸéuyAx˚?·›ÿ˘*˘©DnameMFaerin Lothar\000Zà¢Ilocations°¶Å¢Ay˚?”TüîÖ]¢Ax˚?‡h-{cM≠DnameHBatzvara\000Sä¢Ilocations°®Å¢Ay˚?„ÌNLî-IAx˚?Â˘≥JD«∞DnameFAlbert\000Q¢Ilocations°•Å¢Ay˚?¿ÓsÊÅ©πAx˚?ﬁ™é¥cI{DnameGKlaskin\000Jm¢Ilocations°•Å¢Ay˚?‚[†•&ïñAx˚?È3ÃJ∆ÕØDnameKLilian Voss\000K\r¢Ilocations°¶Å¢Ay˚?‰ÍpÇIAx˚?·eOzëññDnamePMoira Thaurissan\000É¢Ilocations°	AÅ¢Ay˚?«ï˛⁄fÑAx˚?ﬂE∫ı3Ù#DnameFBargus\000á˛¢Ilocations°	CÅ¢Ay˚?Ÿ|–57rAx˚?Ë⁄l] láDnameOOutcast Hizfran\000îË¢Ilocations°	*Å¢Ay˚?Ë¿ÙQvYAx˚?ﬂ∆ÜaÆqDnameGOrweyna\000Q¢Ilocations°•Å¢Ay˚?ƒc{–Zˆ«Ax˚?‰Å:í£SDnameGArax'ne\000S*¢Ilocations°»Å¢Ay˚?ﬁ∏3\"l<Ax˚?‚‘‡óÖDnamePMoira Thaurissan\000b%¢Ilocations°ßÅ¢Ay˚?ŸøL±âzhAx˚?·§ó˙](–DnameMFaerin Lothar\000Q*¢Ilocations°•Å¢Ay˚?›z%–t!Ax˚?·±Ø:ŒƒDnameLAnduin Wrynn\000K¢Ilocations°¶Å¢Ay˚?ÂPø†î_ûAx˚?·G—ªI DnameTBerrund the Gleaming\000{ı¢Ilocations°	*Å¢Ay˚?‘´6zêóAx˚?„∑•ÙÔpDnameSSkedgit Cinderbangs\000Lï¢Ilocations°œÅ¢Ay˚?‚*£≠“_Ax˚?‹RGÀp¨;DnameGSpindle\000î|¢Ilocations°	®Å¢Ay˚?Â±-4±BAx˚?ŸÌ¢/jP◊DnameLLocus-Walker\000å¬¢Ilocations°	CÅ¢Ay˚?›y-á¬Ax˚?·eéd≤1@DnameSVoid Elf Riftwalker\000qÖ¢Ilocations°	*Å¢Ay˚?Ê=Øç˜§ËAx˚?“ŸQ?ç¥âDnameRAlleria Windrunner\000uñ¢Ilocations°	*Å¢Ay˚?Í˚a4Œ=ÊAx˚?’.<Sme^DnameIAlley Rat\000rÖ¢Ilocations°ßÅ¢Ay˚?„´:´ÕyAx˚?·ŒxûwODnameSSophietta Lynflayme\000c	¢Ilocations°œÅ¢Ay˚?∆“≤ø€L¬Ax˚?‰f”sØ˚DnameMFaerin Lothar\000;ì¢Ilocations°»Å¢Ay˚?·’\\RÁ-°Ax˚?”wŸUqKùDnameHBaelgrim\000S¢Ilocations°	#Å¢Ay˚?„-îç¡CAx˚?“—5YƒóDnameOSpeaker Brinthe\000QR¢Ilocations°ßÅ¢Ay˚?·Õ3H+ÈAx˚?”œ˛∞tßrDnameUSir Theleon Braunpyke\000d<¢Ilocations°	#Å¢Ay˚?«Ùfn…‚7Ax˚?ÂÅÒhDnamePPeacekeeper Leif\000dj¢Ilocations°»Å¢Ay˚?Ê¥–V≈≥Ax˚?€Mã§\rê‚DnamePPeacekeeper Leif\000C¢Ilocations°ßÅ¢Ay˚?¿´OúÜAx˚?›Ij≠DnameKDuke Velhan\000rÜ¢Ilocations°ßÅ¢Ay˚?„bÑYñtKAx˚?·^ªw9ÛDnameSSophietta Lynflayme\000K¢Ilocations°¶Å¢Ay˚?‡—EÿAx˚?·Úî›r6~DnamePMoira Thaurissan\000ê¢Ilocations°	AÅ¢Ay˚?“<Sme^)Ax˚?€‹®‚‚∏«DnameFBargus\000JU¢Ilocations°•Å¢Ay˚?Á∫‹	Ä≤Ax˚?Ê9˘ãq∏™DnameGY'tekhi\000là¢Ilocations°»Å¢Ay˚?…:ÊÖ€v¥Ax˚?Á‹Î˙èDnameGOlbarig\000Ö¢Ilocations°	CÅ¢Ay˚?ÿˆ{\000«Ax˚?‰3≥ S\\ûDnameIXal'atath\000ÖÇ¢Ilocations°	CÅ¢Ay˚?”{ 1ŒØ%Ax˚?ÁÕ∆\\pC_DnameKSoul-Scribe\000Fç¢Ilocations°uÅ¢Ay˚?ﬂlCı˘Ax˚?ﬁmµ@ÊDnameQBrann Bronzebeard\000¢Ñ¢Ilocations°	®Å¢Ay˚?œ\r∂°Ë¥Ax˚?Ÿ7£€;˚YDnameHOm'talad\000?¢Ilocations°»Å¢Ay˚?€z$âLDAx˚?ÁÌÈ}ª‹DnameHBaelgrim\000S¢Ilocations°»Å¢Ay˚?ÁB§Tﬁ~¶Ax˚?⁄œö¶„.DnamePMoira Thaurissan\000mŸ¢Ilocations°œÅ¢Ay˚?⁄ı∫+‡XõAx˚?·‚®\000d©ŒDnameIAnub'okki\000î7¢Ilocations°	*Å¢Ay˚?÷∞´.îAx˚?‡Fb∫‡;?DnameMMonte Gazlowe\000qX¢Ilocations°	*Å¢Ay˚?Ê™ÄJú‹Ax˚?—íß7EDnameRMarin Noggenfogger\000lä¢Ilocations°»Å¢Ay˚?“)W…±Ax˚?„A(ø;ÍíDnameFHarmot\000j\n¢Ilocations°œÅ¢Ay˚?€˝¡a^ø©Ax˚?·ÿ˝\\∑ê˚DnamePLinny Leadfinger\000å‘¢Ilocations°	*Å¢Ay˚?Ê;@≥NvÜAx˚?“€µù‹yDnameOVoid Elf Archer\000Jk¢Ilocations°•Å¢Ay˚?Ì…„%’Ax˚?‚D°Ä0<DnameGY'tekhi\000O¢Ilocations°	#Å¢Ay˚?‚ﬁá	tAx˚?‚!∑Ñf,DnameGBevrusi\000Cﬂ¢Ilocations°¶Å¢Ay˚?‘ûæúàacAx˚?ﬁ ÓçıDnameLAnduin Wrynn\000Hì¢Ilocations°»Å¢Ay˚?‰B∑4µsAx˚?’M†ú√∆DnameQOverlord Geya'rah\000ud¢Ilocations°	*Å¢Ay˚?⁄ê%|ëKAx˚?ﬂ&ˆ∂|DnameQDirk Greasedealer\0009ó¢Ilocations°®Å¢Ay˚?‘(9-å*Ax˚?ÂzPìñJZDnameLAnduin Wrynn\000rK¢Ilocations°	*Å¢Ay˚?’L]¶§DAx˚?‚∑∞pu≥·DnameRMarin Noggenfogger\000rN¢Ilocations°	*Å¢Ay˚?≈ˇW}ïWAx˚?‰yçäóûDnameTFleet Master Seahorn\000S¢Ilocations°	#Å¢Ay˚?–âµ ›DAx˚?ŸÛ‰h ƒµDnamePMoira Thaurissan\000gå¢Ilocations°–Å¢Ay˚?ÍEXdE#ˆAx˚?‰\000!çÔAlDnameVDiscordant Skitterling\000rO¢Ilocations°	*Å¢Ay˚?‚fÓ∑`-Ax˚?‹ˇ?‡G‘DnameRGrimla Fizzlecrank\000lã¢Ilocations°ßÅ¢Ay˚?Âò˙7i\"ŸAx˚?‰&Á_ˆ	›DnameGOrweyna\000u	¢Ilocations°	*Å¢Ay˚?”÷+ÒílAx˚?‘†b\n∑'DnameQSnap Vellumgrease\000âÑ¢Ilocations°	*Å¢Ay˚?Ï>’'Â!Ax˚?◊è—ôª'âDnameNMarty Zoomcart\000q›¢Ilocations°	*Å¢Ay˚?œ\000´˜j/IAx˚?ŸcV≠Õ-DnameMMonte Gazlowe\000ï1¢Ilocations°	*Å¢Ay˚?ÕƒÛ∫w_≥Ax˚?Ÿ	J+ù<ºDnameMMonte Gazlowe\000_\000¢Ilocations°¶Å¢Ay˚?Ë÷•ì¢ﬂìAx˚?·Ä0<ÓDnameTHigh Speaker Brinthe\000qY¢Ilocations°	*Å¢Ay˚?Êπ⁄akUAx˚?—ï1„ß€DnameMMonte Gazlowe\000Ü‰¢Ilocations°	AÅ¢Ay˚?‹ ˚ÉAx˚?ﬁ—ëW´∏ÄDnameFBargus\000êÉ¢Ilocations°	#Å¢Ay˚?—;˚X—RnAx˚?⁄ˆr2LÉDnameLLocus-Walker\000@t¢Ilocations°ßÅ¢Ay˚?ﬂ%_5ΩAx˚?€…Åæ±ÅDnameSGeneral Steelstrike\000à˙¢Ilocations°	®Å¢Ay˚?œNπ°v›≠Ax˚?ﬁÿ{V∏syDnameRVaultkeeper Xy'vez\000^¢Ilocations°ßÅ¢Ay˚?÷±ñ°]≥Ax˚?÷˛“ñ≥5DnameRAlleria Windrunner\000e[¢Ilocations°	#Å¢Ay˚?„≈®∏ÒAx˚?÷Q“Z´GDnameHBaelgrim\000É¢Ilocations°	DÅ¢Ay˚?‰9æ”-Ax˚?·k÷ËØÅbDnameQOverlord Geya'rah\000zÍ¢Ilocations°	AÅ¢Ay˚?‹<lóÿœ:Ax˚?Êæ¯Œ≥V⁄DnameGAngorla\000L¢Ilocations°¶Å¢Ay˚?›◊4.€µûAx˚?„√¡ãP*ªDnamePMoira Thaurissan\000lç¢Ilocations°ßÅ¢Ay˚?Âü∫E\nÃAx˚?‰'π\rbøDnameFHannan\000>◊¢Ilocations°¶Å¢Ay˚?’]·\\¶ Ax˚?ﬁﬁŒWàDnameQMachinist Kittrin\000Uå¢Ilocations°ßÅ¢Ay˚?·≠‚%˙eåAx˚?€>BZÓc DnameQJoseph Brayvemarc\000<¢Ilocations°»Å¢Ay˚?·üM7¡7mAx˚?“ŸÍ¶“gDnameFThrall\000Lh¢Ilocations°	#Å¢Ay˚?ÍáúA«Ax˚?÷ı≠ñ¶†DnameULady Jaina Proudmoore\000vS¢Ilocations°	*Å¢Ay˚?÷âµ ›DAx˚?‚B¶mΩrΩDnamePChancellor Gnome\000QP¢Ilocations°ßÅ¢Ay˚?·ÃN¯ãóxAx˚?”Ãˇ!≥ÆÔDnameXBaron Sybaestan Braunpyke\000<¢Ilocations°»Å¢Ay˚?·ö=-á¯áAx˚?“‚iD$DnameULady Jaina Proudmoore\000dê¢Ilocations°»Å¢Ay˚?”EwŸUqLAx˚?‚kC,•zDnameSLamplighter Kaerter\000E¢Ilocations°»Å¢Ay˚?‡q*«C Ax˚?‚>ÃƒiQDnameUStage Manager Huberta\000@ô¢Ilocations°ßÅ¢Ay˚?‡˘ƒ<hfAx˚?⁄ia√ivºDnameSAuralia Steelstrike\000j¢Ilocations°¶Å¢Ay˚?‚Bå˚¸Ax˚?„K~«Ü<DnameGSinruna\000¢Å¢Ilocations°	CÅ¢Ay˚?’Ò<Óù◊ÌAx˚?ËGÀp¨:ÜDnameSCartel Om Custodian\000Pù¢Ilocations°¶Å¢Ay˚?’Á·u—=Ax˚?ﬁ$≥=Øç¯DnameTHigh Speaker Brinthe\000[ì¢Ilocations°œÅ¢Ay˚?—gèé}›Ax˚?‰-Ÿ©T\"DnameNFlynn Fairwind\000;¢Ilocations°»Å¢Ay˚?‘CN3iπÿAx˚?„©ó=û«\000DnameRRooktender Lufsela\000z¢Ilocations°	*Å¢Ay˚?Ÿ#ñ=·„Ax˚?”∂R7yDnameQRenzik \"The Shiv\"\000m√¢Ilocations°»Å¢Ay˚?‰o\\Ø-ÄAx˚?›[[’ÏDnameGAlvegar\000Dò¢Ilocations°œÅ¢Ay˚?ŸlÔÌcEJAx˚?⁄∫Á£DnameSSkedgit Cinderbangs\000j¢Ilocations°•Å¢Ay˚?’yN†wmAx˚?⁄/@_k†bDnameHUkos'via\000bí¢Ilocations°œÅ¢Ay˚?·WMYO&ØAx˚?„-rˇ—‹◊DnamePAlchemist Talbax\000É\n¢Ilocations°	DÅ¢Ay˚?’¸\r,8m/Ax˚?—ÊÅ©∏ÀéDnamePDanath Trollbane\000TF¢Ilocations°ßÅ¢Ay˚?·–7O¯eÿAx˚?€\\=Óx@DnameRAlleria Windrunner\000{¢Ilocations°	*Å¢Ay˚?Á\000«:ºîpAx˚?„≈¥™óﬂDnameQRenzik \"The Shiv\"\000q¬¢Ilocations°	*Å¢Ay˚?„◊òÿ©Ax˚?‚√≈ΩËDnameMMonte Gazlowe\000wV¢Ilocations°–Å¢Ay˚?ÈM”ÿZAx˚?‰WÓ‘^íDnameFHannan\000âX¢Ilocations°	DÅ¢Ay˚?⁄C¨ƒÔâAx˚?ÊG)ıúœØDnameQOverlord Geya'rah\000xï¢Ilocations°¶Å¢Ay˚?‘c«OµI˘Ax˚?ﬁ+IYÊ%cDnameQBrann Bronzebeard\000mƒ¢Ilocations°»Å¢Ay˚?„p\nøv¢ıAx˚?ﬂ“^›)DnameJCenderragg\000S¢Ilocations°»Å¢Ay˚?Á>>)0zÚAx˚?⁄ ¿ÉnòDnameHAdelgonn\000É[¢Ilocations°	#Å¢Ay˚?∞¸vAx˚?ÁsEöMÙDnameGSkaggit\000:ƒ¢Ilocations°œÅ¢Ay˚?€4ÍJåAx˚?€\r^çT˘DnameUGreenspeaker Na'layro\000ñ–¢Ilocations°	AÅ¢Ay˚?ﬂ’à]13Ax˚?Ê∂‹†fËDnameXStarving Snapdragon Runt\000g¢Ilocations°¶Å¢Ay˚?º`‹π©⁄YAx˚?·µı≤Ö#DnameFKeldaz\000uè¢Ilocations°	*Å¢Ay˚?÷¨yp.fEAx˚?—lr\"ıDnameQSnap Vellumgrease\000KŸ¢Ilocations°¶Å¢Ay˚?ƒ⁄±ë›„vAx˚?‚5Æ£DnameSRampaging Elemental\000në¢Ilocations°¶Å¢Ay˚?Î·ì-nŒAx˚?„SG•∞ˇDnameQRenzik \"The Shiv\"\000S¢Ilocations°	#Å¢Ay˚?ÊI˜/vÊAx˚?”FÀñkÁ∞DnameFMerrix\000ç¢Ilocations°	*Å¢Ay˚?Á`Z≥™ΩAx˚?—:ºîpdÌDnameMMonte Gazlowe\000†â¢Ilocations°	CÅ¢Ay˚?›!ƒuÊ6Ax˚?·]øŒ∑àòDnameIXal'atath\000dî¢Ilocations°»Å¢Ay˚?”ßQa§Ax˚?„€Í°Ù≤DnameSLamplighter Kaerter\000p≠¢Ilocations°»Å¢Ay˚?Êtı\n∏AAx˚?„∏q`ïl\rDnameTDagran Thaurissan II\000QÇ¢Ilocations°¶Å¢Ay˚?√ÍªÀ…Ax˚?‡XöÀ»¿œDnameFKeldaz\000]µ¢Ilocations°¶Å¢Ay˚?€¡3;ñØAx˚?‰I™KDnameGBrennok\000@†¢Ilocations°¶Å¢Ay˚?’‹Œ¢è‚aAx˚?ﬁ0\r‰≈DnameGSkitter\000S¢Ilocations°»Å¢Ay˚?Á?≠)ôV~Ax˚?⁄ªj§πàLDnameHBaelgrim\000^¢Ilocations°•Å¢Ay˚?ƒƒ.òôøYAx˚?‰rf∫I<äDnameGKlaskin\000ê\n¢Ilocations°	*Å¢Ay˚?‡Y∆∞SÉAx˚?€ËÓkÉŸDnameMMonte Gazlowe\000àå¢Ilocations°	®Å¢Ay˚?ÁRvâ Ax˚?‚ íß7DnameFXy'bin\000Ö°¢Ilocations°	CÅ¢Ay˚?—·‚ﬁá	tAx˚?„oø@O¬DnameRAlleria Windrunner\000âå¢Ilocations°	CÅ¢Ay˚?’ﬂèG0@:Ax˚?ËI4&x9ŒDnameGVe'nari\000âù¢Ilocations°	DÅ¢Ay˚?‚mèOîAx˚?»‰üQi DnameMFaerin Lothar\000R\\¢Ilocations°•Å¢Ay˚?ÃøL±âzhAx˚?‘vØâ≈ÊˇDnameFAr'syn\000K¢Ilocations°¶Å¢Ay˚?›ÄA\000Ax˚?‚J-∂∞`DnameTBerrund the Gleaming\000wë¢Ilocations°	#Å¢Ay˚?‰5\" º8*Ax˚?‘<é%»•DnameGWebster\000É¢Ilocations°	DÅ¢Ay˚?Ÿ±ç¨%çAx˚?ÊNÅÛGDnameGEitrigg\000dñ¢Ilocations°»Å¢Ay˚?”ˇﬁræîAx˚?Âu{AøΩÒDnamePPeacekeeper Leif\000q¢Ilocations°¶Å¢Ay˚?”h©6≈éÎAx˚?›≈m\\˙¨⁄DnameIKnicknack\000iï¢Ilocations°»Å¢Ay˚?ÊièÊíp∞Ax˚?€åP˚ÑDnameNNatalia Pearce\000≤¢Ilocations°	CÅ¢Ay˚?·ÆlèuSAx˚?ÈC.æYlÉDnamePAdarus Duskblaze\000wñ¢Ilocations°œÅ¢Ay˚?‡≤™‚ó9mAx˚?Œ<d4\\˛ﬂDnameQYsabel Gleamgaard\000É¢Ilocations°	CÅ¢Ay˚?‰cÙœJVAx˚?·kF4ó∑ADnameIOm'fennad\000dõ¢Ilocations°»Å¢Ay˚?Œàzçd◊ÒAx˚?Â#ë’˙DnamePPeacekeeper Leif\000|¢Ilocations°	*Å¢Ay˚?’ü@¢á~ÂAx˚?ÿ∆2~ÿM4DnameNMarty Zoomcart\000Tõ¢Ilocations°ßÅ¢Ay˚?‡¿¶π<ÕAx˚?€†QCørqDnameMFaerin Lothar\000≥j¢Ilocations°	CÅ¢Ay˚?·sœp;—Ax˚?ﬁ(àµE«äDnameGVe'nari\000R8¢Ilocations°»Å¢Ay˚?”ißäÛ‰Ax˚?ËÓÿêOm¸DnameHTuberros\000Z¢Ilocations°»Å¢Ay˚?⁄Â∏VCAx˚?Áy_gn§DnameEJanky\000H°¢Ilocations°»Å¢Ay˚?Ëà=º#1]Ax˚?ﬂ‡üËh3∆DnameHAggartha\000;(¢Ilocations°œÅ¢Ay˚?€JAcAx˚?“…GNŒöDnameRAlleria Windrunner\000Éê¢Ilocations°	CÅ¢Ay˚?‚òvãAAx˚?Ê≥~≤çÜfDnameLLocus-Walker\000L¢Ilocations°»Å¢Ay˚?Áw¿*˝⁄åAx˚?€Ò• )ÑDnameEKodun\000dò¢Ilocations°»Å¢Ay˚?”Ù@Ø∏ùAx˚?Âs°LÏA›DnameSLamplighter Kaerter\000I¢Ilocations°»Å¢Ay˚?ËÅ∫√.æAx˚?ﬂ∂ZöÄIfDnameHAggartha\000Mü¢Ilocations°¶Å¢Ay˚?‚¨ù¸õ«Ax˚?Â*‡\"'DnameQMagni Bronzebeard\000Q›¢Ilocations°œÅ¢Ay˚?Â,◊œ_NDAx˚?„2µ^Ò˝ﬂDnameIAl'kubian\000>'¢Ilocations°¶Å¢Ay˚?“¶„.8!ØAx˚?‚rˇ—‹◊DnameOSpeaker Brinthe\000c¢Ilocations°œÅ¢Ay˚?∆Îg¬Ü¯≠Ax˚?‰f∫I<âÙDnameMMonte Gazlowe\000â[¢Ilocations°	DÅ¢Ay˚?⁄E((=5ÎAx˚?ÊYf8C=lDnameMFaerin Lothar\000S0¢Ilocations°	#Å¢Ay˚?‘D˛6“$%Ax˚?ÿÂ>≥ôı‡DnameFMerrix\000I#¢Ilocations°ßÅ¢Ay˚?‡‘‡óÑÏcAx˚?€†	ˆ#lDnameMFaerin Lothar\000ÖÖ¢Ilocations°	CÅ¢Ay˚?·Wñø ÖÀAx˚?„u{AøΩÒDnameGShahata\000qñ¢Ilocations°	*Å¢Ay˚?ŸCII.Ax˚?”Æ≥›ænDnameNBaron Revilgaz\000I¢Ilocations°ßÅ¢Ay˚?‡3√ÁJ˝TAx˚?⁄ÏkŒÖ4DnamePShinda Creedpike\000]¢Ilocations°¶Å¢Ay˚?⁄ïÓnqŒAx˚?‰«∂wˆ±£DnameHSkorthuz\000~¢Ilocations°¶Å¢Ay˚?Ï`‹π©⁄YAx˚?ÊïÃÖ0bDnameGOrweyna\000î˘¢Ilocations°ËÅ¢Ay˚?ŸÜò5ãÇAx˚?»\r\r˘Ω«DnamePHemet Nesingwary\000d¢Ilocations°¶Å¢Ay˚?›5„€VAx˚?‰\r¡B·&DnameEScrit\000dö¢Ilocations°»Å¢Ay˚?œû0OãYAx˚?ÂäÎÄÏ˙DnamePPeacekeeper Leif\000pí¢Ilocations°	#Å¢Ay˚?·…!F°•Ax˚?›Inﬁ⁄ÏJDnameFSaradi\000M†¢Ilocations°¶Å¢Ay˚?‚®]_V®Ax˚?Â(u’o2æDnameTDagran Thaurissan II\000Uß¢Ilocations°»Å¢Ay˚?Áﬂ¸Ty’Ax˚?⁄DøL±âzDnameGGermira\000up¢Ilocations°–Å¢Ay˚?„D*f€◊,Ax˚?ﬂáD,∫ÀDnameGOrweyna\000S¢Ilocations°	#Å¢Ay˚?ÊY¿e∂=>Ax˚?”6e¬“xDnamePMoira Thaurissan\000áí¢Ilocations°	CÅ¢Ay˚?‰∫ﬁ\"_¶YAx˚?‡ù`óÃDnameHOm'dalan\000qe¢Ilocations°	*Å¢Ay˚?ÈAÂ}ù∫ëAx˚?›g{9\\B DnameRGrimla Fizzlecrank\000P†¢Ilocations°»Å¢Ay˚?‡≥√ÁJ˝TAx˚?‚*¥tsDnameDElma\000rT¢Ilocations°	*Å¢Ay˚?Â©8ﬁmﬂAx˚?‚⁄nuˇaDnameRGrimla Fizzlecrank\000âí¢Ilocations°	DÅ¢Ay˚?„¶PaAcxAx˚?⁄û∂9ëDnameGEitrigg\000H©¢Ilocations°¶Å¢Ay˚?∂_0ÁˇX:Ax˚?‡„\000¯µâDnameHMunderut\000c¢Ilocations°œÅ¢Ay˚?≤±ƒ2 W®Ax˚?‰òπZ)DnameNArathi Avenger\000C$¢Ilocations°¶Å¢Ay˚?∫CEœÌÈ}Ax˚?›„üw),IDnamePMoira Thaurissan\000kö¢Ilocations°ßÅ¢Ay˚?ﬂ»>»í´iAx˚?‹ O*‡~ZDnameSGeneral Steelstrike\000à¢Ilocations°	CÅ¢Ay˚?—Î™ﬁe{ÖAx˚?„kT‚∞c‡DnameKSoul-Scribe\000dú¢Ilocations°»Å¢Ay˚?ŒïJÄ‡Ax˚?Âø\r«h‡DnameSLamplighter Kaerter\000â¢Ilocations°	CÅ¢Ay˚?Ÿ'ıËO	SAx˚?ËÔ¸]ˆUDnameOOutcast Hizfran\000Bm¢Ilocations°ßÅ¢Ay˚? ®¸\r,8mAx˚?ﬂ¸aêºDnameLAemyra Acton\000Q6¢Ilocations°ßÅ¢Ay˚?÷bÆKÜAx˚?ŸÈÍpÇDnameRSister Etna Blayze\000Cm¢Ilocations°¶Å¢Ay˚?÷Kr≈z%Ax˚?ﬁø\r«hﬂΩDnameLWatcher Toki\000Gl¢Ilocations°¶Å¢Ay˚?‰Ö/Iå;Ax˚?Â~ÜÉ<`DnameTDagran Thaurissan II\000O¢¢Ilocations°œÅ¢Ay˚?‰G^cb¶Ax˚?ËË7˜æDnamePJenni Boombuckle\000C¢Ilocations°¶Å¢Ay˚? É\nºıAx˚?ﬁ\"&˛qãDnamePMoira Thaurissan\000Y¢Ilocations°	#Å¢Ay˚?‚ãiU./æAx˚?‡•CÒ«XDnameRPeacekeeper Kragad\000ù¢Ilocations°	DÅ¢Ay˚?·\"ØWq\000Ax˚?⁄4⁄”Õ%DnameOKarga Bloodfury\000âî¢Ilocations°	DÅ¢Ay˚?„ßZ∑‹z¿Ax˚?⁄åÖ†æQDnameMFaerin Lothar\000v¢Ilocations°»Å¢Ay˚? R⁄ötAx˚?‹ø\"¿h°DnameOSpeaker Brinthe\000I-¢Ilocations°ßÅ¢Ay˚?‡≈R®G≤Ax˚?€ür˜naDnameKGreat Kyron\000è¢Ilocations°	*Å¢Ay˚?‡T˚€Ax˚?‹1T?vDnameNGerry Clogcraw\000Éñ¢Ilocations°	CÅ¢Ay˚?‚í≠Å≠ÍâAx˚?Ê∂‡“=ODnameGOm'resh\000à¢Ilocations°	CÅ¢Ay˚?”o?R¸&WAx˚?·£_ÄôîDnameIXal'atath\000íz¢Ilocations°	CÅ¢Ay˚?◊d^Ni_Ax˚?ﬁ÷‹G©„DnameLLocus-Walker\000Y&¢Ilocations°ßÅ¢Ay˚?–6–âAx˚?·r\ns˜H°DnameMPeculiar Fish\000âï¢Ilocations°	DÅ¢Ay˚?„æhõåπAx˚?⁄óï≥[øDnameQOverlord Geya'rah\000wò¢Ilocations°œÅ¢Ay˚?⁄QÜ€PÙAx˚?Œ§πàLj<DnameEGoehi\000R£¢Ilocations°»Å¢Ay˚?“Œ-¸Ax˚?‚–‚2èüDnameMRannan Korren\000K%¢Ilocations°œÅ¢Ay˚?–~|·õëAx˚?‡ì/á≠DnameMMonte Gazlowe\000O§¢Ilocations°œÅ¢Ay˚?‰yg ÍtAx˚?ËÌ\"BJ'kDnameGRhubarn\000d¢Ilocations°¶Å¢Ay˚?ÿ‡XöÀ»¡Ax˚?Â_ÄôìöDnameEScrit\000T≤¢Ilocations°¶Å¢Ay˚?“vãAAx˚?⁄ı€πœöDnameMForeman Uzjax\000t÷¢Ilocations°	*Å¢Ay˚?⁄‚∞hAx˚?–6iHòˆDnameVPapa Kraz Torquewrench\000>p¢Ilocations°¶Å¢Ay˚?“#$»6eAx˚?⁄‰⁄	Ã2DnameOSpeaker Brinthe\000|÷¢Ilocations°^Å¢Ay˚?‚î»yÄıAx˚?…ìÃ–˛äµDnameLJazz Mokkitz\000h#¢Ilocations°ßÅ¢Ay˚?‡C(sºê?Ax˚?‹\n¢qõDnameSAuralia Steelstrike\000r¯¢Ilocations°	?Å¢Ay˚?„qÌ≈ÔcAx˚?ﬂÏ›\rå∞}DnameTHigh Speaker Brinthe\000Öñ¢Ilocations°	CÅ¢Ay˚?◊v1µÑ±´Ax˚?ﬁﬁ %Rü‡DnameLLocus-Walker\000]≥¢Ilocations°œÅ¢Ay˚?Â>}QúAx˚?‹äòπZDnameGOrweyna\000d¢Ilocations°	#Å¢Ay˚?»™∏•Œ[BAx˚?·cÍˆÉ|DnamePPeacekeeper Leif\000I'¢Ilocations°ßÅ¢Ay˚?‡=nä¯'Ax˚?ŸÌÑ”8˜òDnameSGeneral Steelstrike\000ÉY¢Ilocations°	CÅ¢Ay˚?·≥&ù˘z´Ax˚?Ëtºj~˘€DnameGShahata\000:+¢Ilocations°®Å¢Ay˚?‘»6e€Ax˚?Âó†/µ–1DnameOExecutor Nizrek\000Ñö¢Ilocations°	*Å¢Ay˚?„˙Nz∑VCAx˚?—ã≈õÄ#ßDnameLOld Man Lowe\000Mv¢Ilocations°¶Å¢Ay˚?÷ﬁÔ‰ˇ…yAx˚?ﬁ¥˚ﬂ	DnamePGranny Scribbles\000âò¢Ilocations°	DÅ¢Ay˚?–ví-îç¡Ax˚?—œ≥1T?DnameGEitrigg\000T;¢Ilocations°•Å¢Ay˚?¡ZÖáì›òAx˚?›®∏ÒNDnameFShalba\000H®¢Ilocations°¶Å¢Ay˚?√¶Ωnä¯Ax˚?‡T^ëÖŒ·DnameGOrsenth\000OÌ¢Ilocations°	#Å¢Ay˚?∑‹i¯¬Ax˚?·˛dıMóDnameFMerrix\000ëñ¢Ilocations°	CÅ¢Ay˚?ﬁ≠[Ó=`Ax˚?‰ÉﬂÛ˛DnameIXal'atath\000Jπ¢Ilocations°¶Å¢Ay˚?€I˝z¬UAx˚?ÂÚê´¥NDnameDNebb\000R¶¢Ilocations°»Å¢Ay˚?‡¶….Ax˚?‚ü‰6uﬁDnameHBaelgrim\000É^¢Ilocations°	AÅ¢Ay˚?ﬁ√q⁄7Ô[Ax˚?Ê-œF#–¿DnameGSkaggit\000iÎ¢Ilocations°®Å¢Ay˚?◊¯è…6?WAx˚?‰Cc,BªDnameMMr. Sunflower\000X%¢Ilocations°ßÅ¢Ay˚?‰™u[ÃØAx˚?ﬂ'ÿå∞DnameMWenren Althal\000Pß¢Ilocations°•Å¢Ay˚?ÂÌ;lΩò|Ax˚?Ë¡R∞¶¸YDnameGAg'thax\000G˝¢Ilocations°œÅ¢Ay˚?‰£Ùfn…‚Ax˚?Ë¥Ì≤ˆaÚDnameJVetiverian\000âô¢Ilocations°	DÅ¢Ay˚?–}‘A5TvAx˚?—⁄¬X’Ñ+DnameQOverlord Geya'rah\000v¢Ilocations°ßÅ¢Ay˚?„¥ˆr2MAx˚?‹M∆\\pC_DnameOCaptain Oathmyt\000yk¢Ilocations°¶Å¢Ay˚?Ë#§µVéÇAx˚?ÂñAˆEDnameGOrweyna\000K˝¢Ilocations°ßÅ¢Ay˚?‹º˘2±-Ax˚?ÊèW˜7⁄bDnameQCaptain Trueflame\000_§¢Ilocations°•Å¢Ay˚?Ÿ™|¶CÃAx˚?Â≈õÄ#ßDnameMOrator Tx'itk\000P(¢Ilocations°¶Å¢Ay˚?‘p`ª+∫ôAx˚?ﬁbÖU>˜DnameNSpeaker Kuldas\000Ñõ¢Ilocations°	*Å¢Ay˚?„„∞> ÃˇAx˚?—∑À≥»	DnameIPitz Lowe\000=-¢Ilocations°¶Å¢Ay˚?“ßP;Å∂NAx˚?‚us}¶DnameGSkitter\000Öõ¢Ilocations°	CÅ¢Ay˚?·rS⁄rßΩAx˚?ﬁ û€¯πªDnameLLocus-Walker\000R(¢Ilocations°®Å¢Ay˚?·ê6CàÎÃAx˚?Â^5?|ÌëDnameFAlbert\000Gâ¢Ilocations°»Å¢Ay˚?ﬁQŒ_pAx˚?ÂptŸ∆∞DnameFHarmot\000b¸¢Ilocations°œÅ¢Ay˚?‰w©i]íAx˚?‡r◊˘PπVDnameISum'latha"))
+BtWQuestsDatabase:AddNPCsTable({
+    [206528] = {
+        name = "Aliya Hillhelm",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.611759,
+                    y = 0.305019,
+                },
+            },
+        },
+    },
+    [207471] = {
+        name = "Widow Arak'nai",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.5573,
+                    y = 0.438365,
+                },
+            },
+        },
+    },
+    [208782] = {
+        name = "Executor Nizrek",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.528962,
+                    y = 0.460183,
+                },
+            },
+        },
+    },
+    [209918] = {
+        name = "Head Rancher Stenspor",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.596918,
+                    y = 0.29046,
+                },
+            },
+        },
+    },
+    [211351] = {
+        name = "Anduin Wrynn",
+        locations = {
+            [2216] = {
+                {
+                    x = 0.671181,
+                    y = 0.314955,
+                },
+            },
+        },
+    },
+    [211399] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.453324,
+                    y = 0.198478,
+                },
+            },
+        },
+    },
+    [211409] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.593719,
+                    y = 0.193582,
+                },
+            },
+        },
+    },
+    [211444] = {
+        name = "Flynn Fairwind",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.630542,
+                    y = 0.271826,
+                },
+            },
+        },
+    },
+    [211499] = {
+        name = "Executor Nizrek",
+        locations = {
+            [2216] = {
+                {
+                    x = 0.674759,
+                    y = 0.32472,
+                },
+            },
+        },
+    },
+    [211652] = {
+        name = "Greenspeaker Na'layro",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.422691,
+                    y = 0.42505,
+                },
+            },
+        },
+    },
+    [211699] = {
+        name = "Faerin",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.293934,
+                    y = 0.422054,
+                },
+            },
+        },
+    },
+    [211721] = {
+        name = "Sir Jonathan Trueheart",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.588986,
+                    y = 0.185974,
+                },
+            },
+        },
+    },
+    [211740] = {
+        name = "Rooktender Lufsela",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.614452,
+                    y = 0.316608,
+                },
+            },
+        },
+    },
+    [211752] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.293535,
+                    y = 0.426395,
+                },
+            },
+        },
+    },
+    [211859] = {
+        name = "Baelgrim",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.30419,
+                    y = 0.557295,
+                },
+            },
+        },
+    },
+    [211993] = {
+        name = "Thrall",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.294502,
+                    y = 0.550696,
+                },
+            },
+        },
+    },
+    [211994] = {
+        name = "Lady Jaina Proudmoore",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.295069,
+                    y = 0.550078,
+                },
+            },
+        },
+    },
+    [212076] = {
+        name = "General Steelstrike",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.275464,
+                    y = 0.45129,
+                },
+            },
+        },
+    },
+    [212269] = {
+        name = "Skitter",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.576843,
+                    y = 0.291462,
+                },
+            },
+        },
+    },
+    [212295] = {
+        name = "Wenbrandt",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.566715,
+                    y = 0.520955,
+                },
+            },
+        },
+    },
+    [212450] = {
+        name = "Anduin Wrynn",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.295283,
+                    y = 0.549833,
+                },
+            },
+        },
+    },
+    [212519] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.576538,
+                    y = 0.291436,
+                },
+            },
+        },
+    },
+    [212592] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.420953,
+                    y = 0.283395,
+                },
+            },
+        },
+    },
+    [212695] = {
+        name = "Machinist Kittrin",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.482349,
+                    y = 0.333855,
+                },
+            },
+        },
+    },
+    [212700] = {
+        name = "Woldtender Igris",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.535524,
+                    y = 0.698969,
+                },
+            },
+        },
+    },
+    [212708] = {
+        name = "Freysworn Cruton",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.416289,
+                    y = 0.713397,
+                },
+            },
+        },
+    },
+    [212741] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.471937,
+                    y = 0.341662,
+                },
+            },
+        },
+    },
+    [212742] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.471683,
+                    y = 0.341187,
+                },
+            },
+        },
+    },
+    [212747] = {
+        name = "Baelgrim",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.34614,
+                    y = 0.619021,
+                },
+            },
+        },
+    },
+    [212749] = {
+        name = "Baelgrim",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.753174,
+                    y = 0.431328,
+                },
+            },
+        },
+    },
+    [212750] = {
+        name = "Wenbrandt",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.753072,
+                    y = 0.431736,
+                },
+            },
+        },
+    },
+    [212756] = {
+        name = "Baelgrim",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.747792,
+                    y = 0.42343,
+                },
+            },
+        },
+    },
+    [212991] = {
+        name = "Skitter",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.615004,
+                    y = 0.320191,
+                },
+            },
+        },
+    },
+    [212992] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.614946,
+                    y = 0.319809,
+                },
+            },
+        },
+    },
+    [213107] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.335865,
+                    y = 0.548016,
+                },
+            },
+        },
+    },
+    [213108] = {
+        name = "General Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.434174,
+                    y = 0.486276,
+                },
+            },
+        },
+    },
+    [213116] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.684039,
+                    y = 0.451057,
+                },
+            },
+        },
+    },
+    [213120] = {
+        name = "Anduin Wrynn",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.575443,
+                    y = 0.643282,
+                },
+            },
+        },
+    },
+    [213145] = {
+        name = "Auralia Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.412682,
+                    y = 0.530489,
+                },
+            },
+        },
+    },
+    [213152] = {
+        name = "Skitter",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.471683,
+                    y = 0.341602,
+                },
+            },
+        },
+    },
+    [213184] = {
+        name = "Korgran",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.574482,
+                    y = 0.429563,
+                },
+            },
+        },
+    },
+    [213187] = {
+        name = "Urtago",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.574725,
+                    y = 0.429397,
+                },
+            },
+        },
+    },
+    [213569] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.471264,
+                    y = 0.20716,
+                },
+            },
+        },
+    },
+    [213612] = {
+        name = "Magni Bronzebeard",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.603959,
+                    y = 0.597941,
+                },
+            },
+        },
+    },
+    [213613] = {
+        name = "Aemyra Acton",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.499779,
+                    y = 0.208282,
+                },
+            },
+        },
+    },
+    [213614] = {
+        name = "Taenar Strongoth",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.499355,
+                    y = 0.209049,
+                },
+            },
+        },
+    },
+    [213620] = {
+        name = "Thrall",
+        locations = {
+            [81] = {
+                {
+                    x = 0.419606,
+                    y = 0.450442,
+                },
+            },
+        },
+    },
+    [213624] = {
+        name = "Magni Bronzebeard",
+        locations = {
+            [2321] = {
+                {
+                    x = 0.500598,
+                    y = 0.651946,
+                },
+            },
+        },
+    },
+    [213625] = {
+        name = "Lady Jaina Proudmoore",
+        locations = {
+            [2321] = {
+                {
+                    x = 0.49521,
+                    y = 0.585742,
+                },
+            },
+        },
+    },
+    [213627] = {
+        name = "Archmage Khadgar",
+        locations = {
+            [629] = {
+                {
+                    x = 0.428815,
+                    y = 0.598807,
+                },
+            },
+        },
+    },
+    [213634] = {
+        name = "Dagran Thaurissan II",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.623069,
+                    y = 0.581434,
+                },
+            },
+        },
+    },
+    [213687] = {
+        name = "Urtago",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.616968,
+                    y = 0.415883,
+                },
+            },
+        },
+    },
+    [213688] = {
+        name = "Urtago",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.633037,
+                    y = 0.426422,
+                },
+            },
+        },
+    },
+    [213691] = {
+        name = "Harmot",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.669968,
+                    y = 0.438333,
+                },
+            },
+        },
+    },
+    [213763] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.47083,
+                    y = 0.207124,
+                },
+            },
+        },
+    },
+    [213787] = {
+        name = "Duke Velhan",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.457606,
+                    y = 0.130222,
+                },
+            },
+        },
+    },
+    [213796] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.467018,
+                    y = 0.102589,
+                },
+            },
+        },
+    },
+    [213840] = {
+        name = "Innkeeper Brax",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.479933,
+                    y = 0.321675,
+                },
+            },
+        },
+    },
+    [213869] = {
+        name = "Watcher Toki",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.480411,
+                    y = 0.348355,
+                },
+            },
+        },
+    },
+    [213983] = {
+        name = "Anduin Wrynn",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.47076,
+                    y = 0.322189,
+                },
+            },
+        },
+    },
+    [214019] = {
+        name = "Aegor Irynbawnd",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.49188,
+                    y = 0.410985,
+                },
+            },
+        },
+    },
+    [214076] = {
+        name = "Skedgit Cinderbangs",
+    },
+    [214168] = {
+        name = "Skedgit Cinderbangs",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.407393,
+                    y = 0.397274,
+                },
+            },
+        },
+    },
+    [214271] = {
+        name = "General Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.716405,
+                    y = 0.592089,
+                },
+            },
+        },
+    },
+    [214273] = {
+        name = "Anduin Wrynn",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.645292,
+                    y = 0.617816,
+                },
+            },
+        },
+    },
+    [214276] = {
+        name = "Lady Jaina Proudmoore",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.685459,
+                    y = 0.64153,
+                },
+            },
+        },
+    },
+    [214296] = {
+        name = "Stage Manager Huberta",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.564361,
+                    y = 0.513814,
+                },
+            },
+        },
+    },
+    [214356] = {
+        name = "Vix'aron",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.761162,
+                    y = 0.825026,
+                },
+            },
+        },
+    },
+    [214359] = {
+        name = "Kish'nal",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.760229,
+                    y = 0.823315,
+                },
+            },
+        },
+    },
+    [214376] = {
+        name = "General Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.539291,
+                    y = 0.314825,
+                },
+            },
+        },
+    },
+    [214378] = {
+        name = "Faerin",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.539159,
+                    y = 0.314391,
+                },
+            },
+        },
+    },
+    [214380] = {
+        name = "Raen Dawncavalyr",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.432846,
+                    y = 0.564001,
+                },
+            },
+        },
+    },
+    [214402] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.410545,
+                    y = 0.546722,
+                },
+            },
+        },
+    },
+    [214404] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.562184,
+                    y = 0.420086,
+                },
+            },
+        },
+    },
+    [214405] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.557675,
+                    y = 0.413072,
+                },
+            },
+        },
+    },
+    [214413] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.558331,
+                    y = 0.40502,
+                },
+            },
+        },
+    },
+    [214444] = {
+        name = "Aggartha",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.427302,
+                    y = 0.717447,
+                },
+            },
+        },
+    },
+    [214651] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [629] = {
+                {
+                    x = 0.404355,
+                    y = 0.540313,
+                },
+            },
+        },
+    },
+    [214663] = {
+        name = "High Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.562721,
+                    y = 0.749223,
+                },
+            },
+        },
+    },
+    [214665] = {
+        name = "Archmage Drenden",
+        locations = {
+            [629] = {
+                {
+                    x = 0.56394,
+                    y = 0.332783,
+                },
+            },
+        },
+    },
+    [214669] = {
+        name = "Brann Bronzebeard",
+        locations = {
+            [629] = {
+                {
+                    x = 0.470241,
+                    y = 0.490983,
+                },
+            },
+        },
+    },
+    [214890] = {
+        name = "Ironhaul Bodyguard",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.661385,
+                    y = 0.583571,
+                },
+            },
+        },
+    },
+    [214892] = {
+        name = "Dagran Thaurissan II",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.671695,
+                    y = 0.641258,
+                },
+            },
+        },
+    },
+    [214908] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2305] = {
+                {
+                    x = 0.504321,
+                    y = 0.504469,
+                },
+            },
+        },
+    },
+    [214916] = {
+        name = "Merrix",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.570606,
+                    y = 0.505262,
+                },
+            },
+        },
+    },
+    [214917] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.317797,
+                    y = 0.593533,
+                },
+            },
+        },
+    },
+    [214919] = {
+        name = "Thrall",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.278113,
+                    y = 0.608093,
+                },
+            },
+        },
+    },
+    [214921] = {
+        name = "Harmot",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.669924,
+                    y = 0.4737,
+                },
+            },
+        },
+    },
+    [214922] = {
+        name = "Harvester Farnee",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.670111,
+                    y = 0.472912,
+                },
+            },
+        },
+    },
+    [214995] = {
+        name = "Olbarig",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.28541,
+                    y = 0.610088,
+                },
+            },
+        },
+    },
+    [215037] = {
+        name = "Vetiverian",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.772086,
+                    y = 0.645014,
+                },
+            },
+        },
+    },
+    [215039] = {
+        name = "Rooktender Lufsela",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.374498,
+                    y = 0.821625,
+                },
+            },
+        },
+    },
+    [215041] = {
+        name = "Miral Murder-Mittens",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.602881,
+                    y = 0.211551,
+                },
+            },
+        },
+    },
+    [215113] = {
+        name = "Orweyna",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.357103,
+                    y = 0.58182,
+                },
+            },
+        },
+    },
+    [215187] = {
+        name = "Overlord Geya'rah",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.332863,
+                    y = 0.633144,
+                },
+            },
+        },
+    },
+    [215201] = {
+        name = "Aggartha",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.498085,
+                    y = 0.766631,
+                },
+            },
+        },
+    },
+    [215208] = {
+        name = "Orsenth",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.510299,
+                    y = 0.148671,
+                },
+            },
+        },
+    },
+    [215209] = {
+        name = "Munderut",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.52771,
+                    y = 0.08739,
+                },
+            },
+        },
+    },
+    [215211] = {
+        name = "Kurdran Wildhammer",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.290638,
+                    y = 0.615881,
+                },
+            },
+        },
+    },
+    [215234] = {
+        name = "Ferdagor",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.513634,
+                    y = 0.143342,
+                },
+            },
+        },
+    },
+    [215237] = {
+        name = "Alyza Bowblaze",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.417588,
+                    y = 0.556141,
+                },
+            },
+        },
+    },
+    [215254] = {
+        name = "Alyza Bowblaze",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.524207,
+                    y = 0.501792,
+                },
+            },
+        },
+    },
+    [215277] = {
+        name = "Adelgonn",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.333142,
+                    y = 0.633236,
+                },
+            },
+        },
+    },
+    [215301] = {
+        name = "Shinda Creedpike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.407405,
+                    y = 0.506319,
+                },
+            },
+        },
+    },
+    [215306] = {
+        name = "Endiri Dawnsurge",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.414553,
+                    y = 0.524012,
+                },
+            },
+        },
+    },
+    [215327] = {
+        name = "Aggartha",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.495505,
+                    y = 0.765836,
+                },
+            },
+        },
+    },
+    [215331] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.431643,
+                    y = 0.525986,
+                },
+            },
+        },
+    },
+    [215335] = {
+        name = "General Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.405122,
+                    y = 0.507499,
+                },
+            },
+        },
+    },
+    [215341] = {
+        name = "Great Kyron",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.431607,
+                    y = 0.524087,
+                },
+            },
+        },
+    },
+    [215349] = {
+        name = "Great Hexer Ohodo",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.577803,
+                    y = 0.197722,
+                },
+            },
+        },
+    },
+    [215413] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.473965,
+                    y = 0.239032,
+                },
+            },
+        },
+    },
+    [215527] = {
+        name = "Keyrra Flamestonge",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.654457,
+                    y = 0.322311,
+                },
+            },
+        },
+    },
+    [215625] = {
+        name = "Lilian Voss",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.557155,
+                    y = 0.441127,
+                },
+            },
+        },
+    },
+    [215626] = {
+        name = "Lilian Voss",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.695512,
+                    y = 0.717032,
+                },
+            },
+        },
+    },
+    [215628] = {
+        name = "Lilian Voss",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.566748,
+                    y = 0.906079,
+                },
+            },
+        },
+    },
+    [215637] = {
+        name = "Y'tekhi",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.694577,
+                    y = 0.722135,
+                },
+            },
+        },
+    },
+    [215653] = {
+        name = "Kobyss Shadeshaper",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.546404,
+                    y = 0.281662,
+                },
+            },
+        },
+    },
+    [215659] = {
+        name = "Y'tekhi",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.570878,
+                    y = 0.910008,
+                },
+            },
+        },
+    },
+    [215661] = {
+        name = "Lilian Voss",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.787573,
+                    y = 0.573685,
+                },
+            },
+        },
+    },
+    [215662] = {
+        name = "Lilian Voss",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.786416,
+                    y = 0.395929,
+                },
+            },
+        },
+    },
+    [215672] = {
+        name = "Skitter",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.59546,
+                    y = 0.217549,
+                },
+            },
+        },
+    },
+    [215724] = {
+        name = "Ney'leia",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.23048,
+                    y = 0.532444,
+                },
+            },
+        },
+    },
+    [215737] = {
+        name = "Nebb",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.658685,
+                    y = 0.426391,
+                },
+            },
+        },
+    },
+    [215744] = {
+        name = "Burkhalt",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.567956,
+                    y = 0.522226,
+                },
+            },
+        },
+    },
+    [215745] = {
+        name = "Rabaan",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.567852,
+                    y = 0.521682,
+                },
+            },
+        },
+    },
+    [215748] = {
+        name = "Wendeline",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.568095,
+                    y = 0.521958,
+                },
+            },
+        },
+    },
+    [215781] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.550315,
+                    y = 0.633351,
+                },
+            },
+        },
+    },
+    [215788] = {
+        name = "Berrund the Gleaming",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.550212,
+                    y = 0.632644,
+                },
+            },
+        },
+    },
+    [215821] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.543617,
+                    y = 0.653574,
+                },
+            },
+        },
+    },
+    [215822] = {
+        name = "Berrund the Gleaming",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.540017,
+                    y = 0.666107,
+                },
+            },
+        },
+    },
+    [215824] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.560862,
+                    y = 0.500381,
+                },
+            },
+        },
+    },
+    [215836] = {
+        name = "Berrund the Gleaming",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.571555,
+                    y = 0.454898,
+                },
+            },
+        },
+    },
+    [215845] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.517967,
+                    y = 0.25772,
+                },
+            },
+        },
+    },
+    [215944] = {
+        name = "Orweyna",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.32987,
+                    y = 0.56327,
+                },
+            },
+        },
+    },
+    [216001] = {
+        name = "Sophietta Lynflayme",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.527139,
+                    y = 0.602889,
+                },
+            },
+        },
+    },
+    [216025] = {
+        name = "Rampaging Elemental",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.569053,
+                    y = 0.162924,
+                },
+            },
+        },
+    },
+    [216046] = {
+        name = "Tka'ktath",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.628726,
+                    y = 0.663677,
+                },
+            },
+        },
+    },
+    [216061] = {
+        name = "Captain Trueflame",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.704998,
+                    y = 0.449034,
+                },
+            },
+        },
+    },
+    [216063] = {
+        name = "Scout Wayshelm",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.753755,
+                    y = 0.496399,
+                },
+            },
+        },
+    },
+    [216085] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.617646,
+                    y = 0.46626,
+                },
+            },
+        },
+    },
+    [216094] = {
+        name = "Kodun",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.422604,
+                    y = 0.733368,
+                },
+            },
+        },
+    },
+    [216137] = {
+        name = "ZZ-01-47",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.472773,
+                    y = 0.423746,
+                },
+            },
+        },
+    },
+    [216140] = {
+        name = "ZZ-01-47",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.556909,
+                    y = 0.410913,
+                },
+            },
+        },
+    },
+    [216149] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.361261,
+                    y = 0.803355,
+                },
+            },
+        },
+    },
+    [216167] = {
+        name = "Thrall",
+    },
+    [216168] = {
+        name = "Lady Jaina Proudmoore",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.358745,
+                    y = 0.814884,
+                },
+            },
+        },
+    },
+    [216169] = {
+        name = "Korgran",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.570574,
+                    y = 0.424864,
+                },
+            },
+        },
+    },
+    [216173] = {
+        name = "Urtago",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.698177,
+                    y = 0.567693,
+                },
+            },
+        },
+    },
+    [216213] = {
+        name = "Spindle",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.442522,
+                    y = 0.567705,
+                },
+            },
+        },
+    },
+    [216311] = {
+        name = "Clive DelGizmo",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.5892,
+                    y = 0.641156,
+                },
+            },
+        },
+    },
+    [216438] = {
+        name = "Granny Scribbles",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.479743,
+                    y = 0.357357,
+                },
+            },
+        },
+    },
+    [216479] = {
+        name = "Magni Bronzebeard",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.661385,
+                    y = 0.583571,
+                },
+            },
+        },
+    },
+    [216480] = {
+        name = "Dagran Thaurissan II",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.661189,
+                    y = 0.583018,
+                },
+            },
+        },
+    },
+    [216566] = {
+        name = "The Verdigrease Knight",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.669051,
+                    y = 0.785815,
+                },
+            },
+        },
+    },
+    [216567] = {
+        name = "Janky",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.477664,
+                    y = 0.354072,
+                },
+            },
+        },
+    },
+    [216568] = {
+        name = "Fourman Grimes",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.478127,
+                    y = 0.354,
+                },
+            },
+        },
+    },
+    [216628] = {
+        name = "Baelgrim",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.33582,
+                    y = 0.751946,
+                },
+            },
+        },
+    },
+    [216878] = {
+        name = "Urtago",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.609947,
+                    y = 0.438874,
+                },
+            },
+        },
+    },
+    [216994] = {
+        name = "Jenni Boombuckle",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.778347,
+                    y = 0.628452,
+                },
+            },
+        },
+    },
+    [216996] = {
+        name = "Rhubarn",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.778947,
+                    y = 0.62872,
+                },
+            },
+        },
+    },
+    [217029] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.770756,
+                    y = 0.641627,
+                },
+            },
+        },
+    },
+    [217069] = {
+        name = "Merrix",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.562304,
+                    y = 0.093207,
+                },
+            },
+        },
+    },
+    [217072] = {
+        name = "Bevrusi",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.566532,
+                    y = 0.589664,
+                },
+            },
+        },
+    },
+    [217091] = {
+        name = "Vokgret",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.447757,
+                    y = 0.575286,
+                },
+            },
+        },
+    },
+    [217095] = {
+        name = "Merrix",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.49593,
+                    y = 0.31951,
+                },
+            },
+        },
+    },
+    [217097] = {
+        name = "Merrix",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.621932,
+                    y = 0.396319,
+                },
+            },
+        },
+    },
+    [217128] = {
+        name = "Speaker Kuldas",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.474733,
+                    y = 0.319359,
+                },
+            },
+        },
+    },
+    [217131] = {
+        name = "Fourman Grimes",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.47318,
+                    y = 0.318587,
+                },
+            },
+        },
+    },
+    [217133] = {
+        name = "Kal Smoulderbrow",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.294418,
+                    y = 0.416499,
+                },
+            },
+        },
+    },
+    [217152] = {
+        name = "Snubjaw",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.659027,
+                    y = 0.426998,
+                },
+            },
+        },
+    },
+    [217245] = {
+        name = "High Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.47099,
+                    y = 0.342226,
+                },
+            },
+        },
+    },
+    [217248] = {
+        name = "Elma",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.567713,
+                    y = 0.521944,
+                },
+            },
+        },
+    },
+    [217255] = {
+        name = "Ag'thax",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.773599,
+                    y = 0.685209,
+                },
+            },
+        },
+    },
+    [217330] = {
+        name = "Anub'azal",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.454841,
+                    y = 0.197307,
+                },
+            },
+        },
+    },
+    [217331] = {
+        name = "Dagran Thaurissan II",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.473038,
+                    y = 0.423852,
+                },
+            },
+        },
+    },
+    [217355] = {
+        name = "Klaskin",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.47916,
+                    y = 0.132277,
+                },
+            },
+        },
+    },
+    [217356] = {
+        name = "Arax'ne",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.640775,
+                    y = 0.159286,
+                },
+            },
+        },
+    },
+    [217385] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.606257,
+                    y = 0.687872,
+                },
+            },
+        },
+    },
+    [217386] = {
+        name = "Anduin Wrynn",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.55294,
+                    y = 0.460578,
+                },
+            },
+        },
+    },
+    [217398] = {
+        name = "Sister Etna Blayze",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.404902,
+                    y = 0.349773,
+                },
+            },
+        },
+    },
+    [217402] = {
+        name = "Grigg",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.7791,
+                    y = 0.62824,
+                },
+            },
+        },
+    },
+    [217424] = {
+        name = "Baron Sybaestan Braunpyke",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.309387,
+                    y = 0.55619,
+                },
+            },
+        },
+    },
+    [217426] = {
+        name = "Sir Theleon Braunpyke",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.30957,
+                    y = 0.556285,
+                },
+            },
+        },
+    },
+    [217474] = {
+        name = "Keldaz",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.510816,
+                    y = 0.148496,
+                },
+            },
+        },
+    },
+    [217565] = {
+        name = "Al'kubian",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.59994,
+                    y = 0.661724,
+                },
+            },
+        },
+    },
+    [217598] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.571741,
+                    y = 0.456337,
+                },
+            },
+        },
+    },
+    [217609] = {
+        name = "Barahl Lynflayme",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.692538,
+                    y = 0.4383,
+                },
+            },
+        },
+    },
+    [217640] = {
+        name = "Albert",
+        locations = {
+            [2216] = {
+                {
+                    x = 0.66775,
+                    y = 0.548854,
+                },
+            },
+        },
+    },
+    [217656] = {
+        name = "Tuberros",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.779156,
+                    y = 0.303291,
+                },
+            },
+        },
+    },
+    [217659] = {
+        name = "Tharessa Sunstrand",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.779461,
+                    y = 0.303234,
+                },
+            },
+        },
+    },
+    [217692] = {
+        name = "Ar'syn",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.319744,
+                    y = 0.224588,
+                },
+            },
+        },
+    },
+    [217724] = {
+        name = "Adolchomper",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.589312,
+                    y = 0.709065,
+                },
+            },
+        },
+    },
+    [217763] = {
+        name = "Rannan Korren",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.587892,
+                    y = 0.282764,
+                },
+            },
+        },
+    },
+    [217766] = {
+        name = "Baelgrim",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.565628,
+                    y = 0.520265,
+                },
+            },
+        },
+    },
+    [217828] = {
+        name = "Rannan Korren",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.779604,
+                    y = 0.303082,
+                },
+            },
+        },
+    },
+    [217849] = {
+        name = "Adelgonn",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.752355,
+                    y = 0.439752,
+                },
+            },
+        },
+    },
+    [217852] = {
+        name = "Baelgrim",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.362024,
+                    y = 0.642346,
+                },
+            },
+        },
+    },
+    [217854] = {
+        name = "Merrix",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.293988,
+                    y = 0.594539,
+                },
+            },
+        },
+    },
+    [217857] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.294019,
+                    y = 0.599314,
+                },
+            },
+        },
+    },
+    [217861] = {
+        name = "Merrix",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.398519,
+                    y = 0.259933,
+                },
+            },
+        },
+    },
+    [217864] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.405511,
+                    y = 0.258405,
+                },
+            },
+        },
+    },
+    [217878] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.418921,
+                    y = 0.726885,
+                },
+            },
+        },
+    },
+    [217879] = {
+        name = "Adelgonn",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.418625,
+                    y = 0.726348,
+                },
+            },
+        },
+    },
+    [217880] = {
+        name = "Merrix",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.301196,
+                    y = 0.696529,
+                },
+            },
+        },
+    },
+    [217881] = {
+        name = "Baelgrim",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.417689,
+                    y = 0.726523,
+                },
+            },
+        },
+    },
+    [217887] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.300176,
+                    y = 0.698456,
+                },
+            },
+        },
+    },
+    [217898] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.564701,
+                    y = 0.479986,
+                },
+            },
+        },
+    },
+    [217904] = {
+        name = "Merrix",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.388992,
+                    y = 0.316711,
+                },
+            },
+        },
+    },
+    [217961] = {
+        name = "Hreka",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.417458,
+                    y = 0.708457,
+                },
+            },
+        },
+    },
+    [217994] = {
+        name = "Albert",
+        locations = {
+            [2216] = {
+                {
+                    x = 0.686731,
+                    y = 0.622718,
+                },
+            },
+        },
+    },
+    [218062] = {
+        name = "Alyza Bowblaze",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.524181,
+                    y = 0.501869,
+                },
+            },
+        },
+    },
+    [218171] = {
+        name = "Shalba",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.454168,
+                    y = 0.135575,
+                },
+            },
+        },
+    },
+    [218182] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.427505,
+                    y = 0.556667,
+                },
+            },
+        },
+    },
+    [218267] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.43166,
+                    y = 0.523517,
+                },
+            },
+        },
+    },
+    [218290] = {
+        name = "Foreman Uzjax",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.421256,
+                    y = 0.282743,
+                },
+            },
+        },
+    },
+    [218333] = {
+        name = "Woldtender Igris",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.542311,
+                    y = 0.652812,
+                },
+            },
+        },
+    },
+    [218508] = {
+        name = "Joseph Brayvemarc",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.425675,
+                    y = 0.552476,
+                },
+            },
+        },
+    },
+    [218535] = {
+        name = "Germira",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.410446,
+                    y = 0.720932,
+                },
+            },
+        },
+    },
+    [218541] = {
+        name = "Anduin Wrynn",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.406887,
+                    y = 0.709036,
+                },
+            },
+        },
+    },
+    [218622] = {
+        name = "ZZ-01-47",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.556927,
+                    y = 0.410827,
+                },
+            },
+        },
+    },
+    [218714] = {
+        name = "Moira Thaurissan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.471282,
+                    y = 0.332367,
+                },
+            },
+        },
+    },
+    [218715] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.47099,
+                    y = 0.332248,
+                },
+            },
+        },
+    },
+    [218837] = {
+        name = "Arfur",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.667284,
+                    y = 0.784612,
+                },
+            },
+        },
+    },
+    [218864] = {
+        name = "Gullhead",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.667675,
+                    y = 0.785847,
+                },
+            },
+        },
+    },
+    [218866] = {
+        name = "Walkmay",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.66813,
+                    y = 0.78504,
+                },
+            },
+        },
+    },
+    [218878] = {
+        name = "Marline",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.667837,
+                    y = 0.784425,
+                },
+            },
+        },
+    },
+    [219135] = {
+        name = "Wenren Althal",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.487969,
+                    y = 0.645078,
+                },
+            },
+        },
+    },
+    [219173] = {
+        name = "Wenren Althal",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.486807,
+                    y = 0.645766,
+                },
+            },
+        },
+    },
+    [219252] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.556232,
+                    y = 0.441991,
+                },
+            },
+        },
+    },
+    [219357] = {
+        name = "Orator Tx'itk",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.714488,
+                    y = 0.444709,
+                },
+            },
+        },
+    },
+    [219393] = {
+        name = "Aldra",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.627128,
+                    y = 0.217337,
+                },
+            },
+        },
+    },
+    [219394] = {
+        name = "Peacekeeper Kragad",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.502154,
+                    y = 0.579518,
+                },
+            },
+        },
+    },
+    [219400] = {
+        name = "Merrix",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.566569,
+                    y = 0.08631,
+                },
+            },
+        },
+    },
+    [219430] = {
+        name = "Peculiar Fish",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.545171,
+                    y = 0.253298,
+                },
+            },
+        },
+    },
+    [219437] = {
+        name = "Dornogal Citizen",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.553596,
+                    y = 0.557914,
+                },
+            },
+        },
+    },
+    [219452] = {
+        name = "Magni Bronzebeard",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.685497,
+                    y = 0.643435,
+                },
+            },
+        },
+    },
+    [219475] = {
+        name = "Steelvein",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.566532,
+                    y = 0.086309,
+                },
+            },
+        },
+    },
+    [219674] = {
+        name = "Janky",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.720761,
+                    y = 0.420271,
+                },
+            },
+        },
+    },
+    [219784] = {
+        name = "Batzvara",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.512717,
+                    y = 0.30204,
+                },
+            },
+        },
+    },
+    [219885] = {
+        name = "Anduin Wrynn",
+        locations = {
+            [2307] = {
+                {
+                    x = 0.726316,
+                    y = 0.578947,
+                },
+            },
+        },
+    },
+    [219899] = {
+        name = "Batzvara",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.46253,
+                    y = 0.367934,
+                },
+            },
+        },
+    },
+    [220051] = {
+        name = "Flynn Fairwind",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.630495,
+                    y = 0.271917,
+                },
+            },
+        },
+    },
+    [220124] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.416794,
+                    y = 0.55511,
+                },
+            },
+        },
+    },
+    [220220] = {
+        name = "Berrund the Gleaming",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.696328,
+                    y = 0.409081,
+                },
+            },
+        },
+    },
+    [220406] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.4324,
+                    y = 0.562876,
+                },
+            },
+        },
+    },
+    [220415] = {
+        name = "Hrandaz",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.624507,
+                    y = 0.479785,
+                },
+            },
+        },
+    },
+    [220417] = {
+        name = "Kagfritha",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.621836,
+                    y = 0.468882,
+                },
+            },
+        },
+    },
+    [220446] = {
+        name = "Skorthuz",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.649379,
+                    y = 0.415401,
+                },
+            },
+        },
+    },
+    [220595] = {
+        name = "Orweyna",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.445928,
+                    y = 0.663878,
+                },
+            },
+        },
+    },
+    [220597] = {
+        name = "Brennok",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.633919,
+                    y = 0.433667,
+                },
+            },
+        },
+    },
+    [220600] = {
+        name = "Haimaz",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.604315,
+                    y = 0.457072,
+                },
+            },
+        },
+    },
+    [220603] = {
+        name = "Orweyna",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.598821,
+                    y = 0.638074,
+                },
+            },
+        },
+    },
+    [220608] = {
+        name = "Hannan",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.618711,
+                    y = 0.626401,
+                },
+            },
+        },
+    },
+    [220610] = {
+        name = "Orweyna",
+        locations = {
+            [2256] = {
+                {
+                    x = 0.625718,
+                    y = 0.792083,
+                },
+            },
+        },
+    },
+    [220688] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.359303,
+                    y = 0.354589,
+                },
+            },
+        },
+    },
+    [220690] = {
+        name = "Klaskin",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.638965,
+                    y = 0.162237,
+                },
+            },
+        },
+    },
+    [220718] = {
+        name = "Maera Ashyld",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.6049,
+                    y = 0.602065,
+                },
+            },
+        },
+    },
+    [220784] = {
+        name = "Batzvara",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.441079,
+                    y = 0.401514,
+                },
+            },
+        },
+    },
+    [220928] = {
+        name = "High Speaker Brinthe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.560608,
+                    y = 0.776202,
+                },
+            },
+        },
+    },
+    [221043] = {
+        name = "Noli Marlen",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.584491,
+                    y = 0.623649,
+                },
+            },
+        },
+    },
+    [221092] = {
+        name = "Orator Tx'itk",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.657687,
+                    y = 0.401003,
+                },
+            },
+        },
+    },
+    [221093] = {
+        name = "Orator Tx'itk",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.656176,
+                    y = 0.423284,
+                },
+            },
+        },
+    },
+    [221100] = {
+        name = "Faerin",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.551481,
+                    y = 0.326876,
+                },
+            },
+        },
+    },
+    [221355] = {
+        name = "Urtago",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.557535,
+                    y = 0.560517,
+                },
+            },
+        },
+    },
+    [221390] = {
+        name = "Waxmonger Squick",
+    },
+    [221492] = {
+        name = "Priory Knight",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.309387,
+                    y = 0.55619,
+                },
+            },
+        },
+    },
+    [221550] = {
+        name = "Ren'khat",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.666078,
+                    y = 0.413348,
+                },
+            },
+        },
+    },
+    [221557] = {
+        name = "Grand Overspinner Antourix",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.758078,
+                    y = 0.525522,
+                },
+            },
+        },
+    },
+    [221733] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.551342,
+                    y = 0.402301,
+                },
+            },
+        },
+    },
+    [221842] = {
+        name = "Alchemist Talbax",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.599298,
+                    y = 0.541907,
+                },
+            },
+        },
+    },
+    [221948] = {
+        name = "Sum'latha",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.514019,
+                    y = 0.639607,
+                },
+            },
+        },
+    },
+    [221961] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.637552,
+                    y = 0.178305,
+                },
+            },
+        },
+    },
+    [221977] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.63754,
+                    y = 0.179059,
+                },
+            },
+        },
+    },
+    [221980] = {
+        name = "Arathi Avenger",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.627636,
+                    y = 0.073025,
+                },
+            },
+        },
+    },
+    [222132] = {
+        name = "Teth",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.728937,
+                    y = 0.428064,
+                },
+            },
+        },
+    },
+    [222136] = {
+        name = "Teth",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.697253,
+                    y = 0.479641,
+                },
+            },
+        },
+    },
+    [222224] = {
+        name = "Peacekeeper Leif",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.543447,
+                    y = 0.19271,
+                },
+            },
+        },
+    },
+    [222234] = {
+        name = "Scrit",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.626679,
+                    y = 0.456414,
+                },
+            },
+        },
+    },
+    [222239] = {
+        name = "Scrit",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.667908,
+                    y = 0.388693,
+                },
+            },
+        },
+    },
+    [222268] = {
+        name = "Peacekeeper Leif",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.671767,
+                    y = 0.187146,
+                },
+            },
+        },
+    },
+    [222314] = {
+        name = "Peacekeeper Leif",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.426608,
+                    y = 0.709572,
+                },
+            },
+        },
+    },
+    [222352] = {
+        name = "Lamplighter Kaerter",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.575575,
+                    y = 0.301115,
+                },
+            },
+        },
+    },
+    [222356] = {
+        name = "Lamplighter Kaerter",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.620595,
+                    y = 0.307072,
+                },
+            },
+        },
+    },
+    [222358] = {
+        name = "Peacekeeper Leif",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.670591,
+                    y = 0.312492,
+                },
+            },
+        },
+    },
+    [222360] = {
+        name = "Lamplighter Kaerter",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.670365,
+                    y = 0.311783,
+                },
+            },
+        },
+    },
+    [222362] = {
+        name = "Peacekeeper Leif",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.659368,
+                    y = 0.247015,
+                },
+            },
+        },
+    },
+    [222363] = {
+        name = "Peacekeeper Leif",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.659807,
+                    y = 0.23854,
+                },
+            },
+        },
+    },
+    [222364] = {
+        name = "Lamplighter Kaerter",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.659637,
+                    y = 0.238931,
+                },
+            },
+        },
+    },
+    [222555] = {
+        name = "Baelgrim",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.344624,
+                    y = 0.617806,
+                },
+            },
+        },
+    },
+    [222683] = {
+        name = "Haelmut Aegisaxe",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.484327,
+                    y = 0.394199,
+                },
+            },
+        },
+    },
+    [222790] = {
+        name = "Gut'usul",
+        locations = {
+            [2216] = {
+                {
+                    x = 0.573012,
+                    y = 0.411498,
+                },
+            },
+        },
+    },
+    [222803] = {
+        name = "Skitter",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.361897,
+                    y = 0.815491,
+                },
+            },
+        },
+    },
+    [223000] = {
+        name = "Keldaz",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.553462,
+                    y = 0.110853,
+                },
+            },
+        },
+    },
+    [223116] = {
+        name = "Discordant Skitterling",
+        locations = {
+            [2256] = {
+                {
+                    x = 0.625016,
+                    y = 0.820965,
+                },
+            },
+        },
+    },
+    [223166] = {
+        name = "Archmage Aethas Sunreaver",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.309554,
+                    y = 0.551149,
+                },
+            },
+        },
+    },
+    [223184] = {
+        name = "Garv Gearwhistle",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.649465,
+                    y = 0.785929,
+                },
+            },
+        },
+    },
+    [223205] = {
+        name = "High Exarch Turalyon",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.33327,
+                    y = 0.633806,
+                },
+            },
+        },
+    },
+    [223267] = {
+        name = "Auralia Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.445254,
+                    y = 0.508198,
+                },
+            },
+        },
+    },
+    [223268] = {
+        name = "General Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.445774,
+                    y = 0.506846,
+                },
+            },
+        },
+    },
+    [223285] = {
+        name = "Orweyna",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.598135,
+                    y = 0.639128,
+                },
+            },
+        },
+    },
+    [223286] = {
+        name = "Hannan",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.597628,
+                    y = 0.639704,
+                },
+            },
+        },
+    },
+    [223467] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2274] = {
+                {
+                    x = 0.488796,
+                    y = 0.575238,
+                },
+            },
+        },
+    },
+    [223637] = {
+        name = "Natalia Pearce",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.430439,
+                    y = 0.700386,
+                },
+            },
+        },
+    },
+    [223723] = {
+        name = "Mr. Sunflower",
+        locations = {
+            [2216] = {
+                {
+                    x = 0.633226,
+                    y = 0.374546,
+                },
+            },
+        },
+    },
+    [223754] = {
+        name = "Linny Leadfinger",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.557738,
+                    y = 0.437363,
+                },
+            },
+        },
+    },
+    [223759] = {
+        name = "Sinruna",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.602916,
+                    y = 0.57056,
+                },
+            },
+        },
+    },
+    [223760] = {
+        name = "Ukos'via",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.409134,
+                    y = 0.335529,
+                },
+            },
+        },
+    },
+    [223875] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.460791,
+                    y = 0.496116,
+                },
+            },
+        },
+    },
+    [223920] = {
+        name = "Orren Masyn",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.491202,
+                    y = 0.619489,
+                },
+            },
+        },
+    },
+    [223924] = {
+        name = "Natalia Pearce",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.338685,
+                    y = 0.79584,
+                },
+            },
+        },
+    },
+    [223944] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.315475,
+                    y = 0.596658,
+                },
+            },
+        },
+    },
+    [224154] = {
+        name = "General Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.439472,
+                    y = 0.496597,
+                },
+            },
+        },
+    },
+    [224310] = {
+        name = "Great Kyron",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.716151,
+                    y = 0.575912,
+                },
+            },
+        },
+    },
+    [224345] = {
+        name = "Anub'azal",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.550107,
+                    y = 0.412128,
+                },
+            },
+        },
+    },
+    [224362] = {
+        name = "Batzvara",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.508137,
+                    y = 0.406254,
+                },
+            },
+        },
+    },
+    [224378] = {
+        name = "Orren Masyn",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.472917,
+                    y = 0.648227,
+                },
+            },
+        },
+    },
+    [224379] = {
+        name = "Orren Masyn",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.465773,
+                    y = 0.597756,
+                },
+            },
+        },
+    },
+    [224392] = {
+        name = "Olbarig",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.745616,
+                    y = 0.19711,
+                },
+            },
+        },
+    },
+    [224394] = {
+        name = "Harmot",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.601704,
+                    y = 0.283753,
+                },
+            },
+        },
+    },
+    [224395] = {
+        name = "Orweyna",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.629749,
+                    y = 0.674924,
+                },
+            },
+        },
+    },
+    [224397] = {
+        name = "Hannan",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.629849,
+                    y = 0.675748,
+                },
+            },
+        },
+    },
+    [224602] = {
+        name = "Danagh",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.589502,
+                    y = 0.641809,
+                },
+            },
+        },
+    },
+    [224618] = {
+        name = "Danagh's Cogwalker",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.517563,
+                    y = 0.5077,
+                },
+            },
+        },
+    },
+    [224707] = {
+        name = "Alvegar",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.45868,
+                    y = 0.628349,
+                },
+            },
+        },
+    },
+    [224708] = {
+        name = "Cenderragg",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.48589,
+                    y = 0.607427,
+                },
+            },
+        },
+    },
+    [224729] = {
+        name = "Anub'okki",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.558918,
+                    y = 0.421248,
+                },
+            },
+        },
+    },
+    [224740] = {
+        name = "Orweyna",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.249026,
+                    y = 0.516069,
+                },
+            },
+        },
+    },
+    [224741] = {
+        name = "Dolena",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.699442,
+                    y = 0.325756,
+                },
+            },
+        },
+    },
+    [224857] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.584496,
+                    y = 0.647093,
+                },
+            },
+        },
+    },
+    [224866] = {
+        name = "Orweyna",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.644612,
+                    y = 0.797585,
+                },
+            },
+        },
+    },
+    [224874] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.645767,
+                    y = 0.797688,
+                },
+            },
+        },
+    },
+    [224913] = {
+        name = "Renzik \"The Shiv\"",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.603916,
+                    y = 0.871286,
+                },
+            },
+        },
+    },
+    [224930] = {
+        name = "Urtago",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.698888,
+                    y = 0.570392,
+                },
+            },
+        },
+    },
+    [224945] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.574963,
+                    y = 0.644354,
+                },
+            },
+        },
+    },
+    [224946] = {
+        name = "Great Kyron",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.57508,
+                    y = 0.643881,
+                },
+            },
+        },
+    },
+    [224966] = {
+        name = "Mindi Maxlof",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.53801,
+                    y = 0.437912,
+                },
+            },
+        },
+    },
+    [225188] = {
+        name = "General Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.336227,
+                    y = 0.54635,
+                },
+            },
+        },
+    },
+    [225426] = {
+        name = "Saradi",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.457607,
+                    y = 0.555802,
+                },
+            },
+        },
+    },
+    [225451] = {
+        name = "Dagran Thaurissan II",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.448186,
+                    y = 0.64415,
+                },
+            },
+        },
+    },
+    [225453] = {
+        name = "Dagran Thaurissan II",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.616265,
+                    y = 0.701777,
+                },
+            },
+        },
+    },
+    [225454] = {
+        name = "Peacekeeper Hektare",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.448372,
+                    y = 0.642788,
+                },
+            },
+        },
+    },
+    [225472] = {
+        name = "Dagran Thaurissan II",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.448931,
+                    y = 0.205866,
+                },
+            },
+        },
+    },
+    [225478] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.616605,
+                    y = 0.701853,
+                },
+            },
+        },
+    },
+    [225481] = {
+        name = "Slimediver Kazzandra",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.406438,
+                    y = 0.870675,
+                },
+            },
+        },
+    },
+    [225500] = {
+        name = "Grimla Fizzlecrank",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.241631,
+                    y = 0.514145,
+                },
+            },
+        },
+    },
+    [225523] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.397901,
+                    y = 0.243072,
+                },
+            },
+        },
+    },
+    [225533] = {
+        name = "Therkan",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.47324,
+                    y = 0.316183,
+                },
+            },
+        },
+    },
+    [225555] = {
+        name = "Knicknack",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.465175,
+                    y = 0.303263,
+                },
+            },
+        },
+    },
+    [225570] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.181325,
+                    y = 0.509632,
+                },
+            },
+        },
+    },
+    [225571] = {
+        name = "Renzik \"The Shiv\"",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.422189,
+                    y = 0.269846,
+                },
+            },
+        },
+    },
+    [225582] = {
+        name = "Foreman Duinth",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.41079,
+                    y = 0.214039,
+                },
+            },
+        },
+    },
+    [225583] = {
+        name = "Machinist Kilton",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.411027,
+                    y = 0.214077,
+                },
+            },
+        },
+    },
+    [225587] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.659157,
+                    y = 0.755025,
+                },
+            },
+        },
+    },
+    [225591] = {
+        name = "Pamsy",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.695505,
+                    y = 0.841941,
+                },
+            },
+        },
+    },
+    [225596] = {
+        name = "Orweyna",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.718636,
+                    y = 0.804663,
+                },
+            },
+        },
+    },
+    [225597] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.714244,
+                    y = 0.834854,
+                },
+            },
+        },
+    },
+    [225598] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.705238,
+                    y = 0.887293,
+                },
+            },
+        },
+    },
+    [225599] = {
+        name = "Renzik \"The Shiv\"",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.704941,
+                    y = 0.887639,
+                },
+            },
+        },
+    },
+    [225608] = {
+        name = "Prospera Cogwail",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.637692,
+                    y = 0.792039,
+                },
+            },
+        },
+    },
+    [225616] = {
+        name = "Cogwin",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.413557,
+                    y = 0.224471,
+                },
+            },
+        },
+    },
+    [225618] = {
+        name = "Pamsy",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.437409,
+                    y = 0.609931,
+                },
+            },
+        },
+    },
+    [225624] = {
+        name = "Marin Noggenfogger",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.274576,
+                    y = 0.708313,
+                },
+            },
+        },
+    },
+    [225625] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.27472,
+                    y = 0.710187,
+                },
+            },
+        },
+    },
+    [225635] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.460766,
+                    y = 0.785754,
+                },
+            },
+        },
+    },
+    [225637] = {
+        name = "Grimla Fizzlecrank",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.459441,
+                    y = 0.789294,
+                },
+            },
+        },
+    },
+    [225638] = {
+        name = "Grimla Fizzlecrank",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.534661,
+                    y = 0.71078,
+                },
+            },
+        },
+    },
+    [225639] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.533551,
+                    y = 0.71069,
+                },
+            },
+        },
+    },
+    [225645] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [862] = {
+                {
+                    x = 0.222358,
+                    y = 0.5447,
+                },
+            },
+        },
+    },
+    [225648] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [862] = {
+                {
+                    x = 0.220852,
+                    y = 0.577164,
+                },
+            },
+        },
+    },
+    [225659] = {
+        name = "Orweyna",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.434568,
+                    y = 0.61076,
+                },
+            },
+        },
+    },
+    [225669] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.294514,
+                    y = 0.69503,
+                },
+            },
+        },
+    },
+    [225686] = {
+        name = "Baron Revilgaz",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.307538,
+                    y = 0.394718,
+                },
+            },
+        },
+    },
+    [225711] = {
+        name = "General Steelstrike",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.684117,
+                    y = 0.44629,
+                },
+            },
+        },
+    },
+    [225719] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.556902,
+                    y = 0.635414,
+                },
+            },
+        },
+    },
+    [225730] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.586398,
+                    y = 0.594613,
+                },
+            },
+        },
+    },
+    [225756] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.390007,
+                    y = 0.247304,
+                },
+            },
+        },
+    },
+    [225757] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.396688,
+                    y = 0.242208,
+                },
+            },
+        },
+    },
+    [225772] = {
+        name = "Pamsy",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.714703,
+                    y = 0.835266,
+                },
+            },
+        },
+    },
+    [225847] = {
+        name = "Venture Supervisor",
+        locations = {
+            [862] = {
+                {
+                    x = 0.236438,
+                    y = 0.601823,
+                },
+            },
+        },
+    },
+    [225857] = {
+        name = "Lerrenai Fayn",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.679988,
+                    y = 0.442095,
+                },
+            },
+        },
+    },
+    [225867] = {
+        name = "Marin Noggenfogger",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.584923,
+                    y = 0.332786,
+                },
+            },
+        },
+    },
+    [225868] = {
+        name = "Baron Revilgaz",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.584318,
+                    y = 0.331823,
+                },
+            },
+        },
+    },
+    [225870] = {
+        name = "Fleet Master Seahorn",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.639838,
+                    y = 0.171845,
+                },
+            },
+        },
+    },
+    [225871] = {
+        name = "Grimla Fizzlecrank",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.453079,
+                    y = 0.575065,
+                },
+            },
+        },
+    },
+    [225873] = {
+        name = "Orweyna",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.452167,
+                    y = 0.575721,
+                },
+            },
+        },
+    },
+    [225876] = {
+        name = "Grimla Fizzlecrank",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.564069,
+                    y = 0.676907,
+                },
+            },
+        },
+    },
+    [225878] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.565471,
+                    y = 0.447353,
+                },
+            },
+        },
+    },
+    [225879] = {
+        name = "Derill Fayn",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.680609,
+                    y = 0.44222,
+                },
+            },
+        },
+    },
+    [225925] = {
+        name = "Sophietta Lynflayme",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.534034,
+                    y = 0.594442,
+                },
+            },
+        },
+    },
+    [225926] = {
+        name = "Sophietta Lynflayme",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.534469,
+                    y = 0.605776,
+                },
+            },
+        },
+    },
+    [226019] = {
+        name = "Spindle",
+        locations = {
+            [2213] = {
+                {
+                    x = 0.877779,
+                    y = 0.594169,
+                },
+            },
+        },
+    },
+    [226040] = {
+        name = "High Speaker Brinthe",
+        locations = {
+            [2367] = {
+                {
+                    x = 0.498832,
+                    y = 0.607657,
+                },
+            },
+        },
+    },
+    [226255] = {
+        name = "Chive",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.582867,
+                    y = 0.320981,
+                },
+            },
+        },
+    },
+    [226273] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.637296,
+                    y = 0.446015,
+                },
+            },
+        },
+    },
+    [226277] = {
+        name = "Marty Zoomcart",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.506344,
+                    y = 0.701623,
+                },
+            },
+        },
+    },
+    [226336] = {
+        name = "Prospera Cogwail",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.637875,
+                    y = 0.791875,
+                },
+            },
+        },
+    },
+    [226518] = {
+        name = "Papa Kraz Torquewrench",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.253321,
+                    y = 0.420048,
+                },
+            },
+        },
+    },
+    [226522] = {
+        name = "Neenee Torquewrench",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.253192,
+                    y = 0.418305,
+                },
+            },
+        },
+    },
+    [226569] = {
+        name = "Snap Vellumgrease",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.322289,
+                    y = 0.309947,
+                },
+            },
+        },
+    },
+    [226660] = {
+        name = "Dirk Greasedealer",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.486753,
+                    y = 0.407383,
+                },
+            },
+        },
+    },
+    [226672] = {
+        name = "Orweyna",
+        locations = {
+            [2256] = {
+                {
+                    x = 0.492631,
+                    y = 0.602071,
+                },
+            },
+        },
+    },
+    [226703] = {
+        name = "Snap Vellumgrease",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.272244,
+                    y = 0.354277,
+                },
+            },
+        },
+    },
+    [226710] = {
+        name = "Alley Rat",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.330947,
+                    y = 0.843186,
+                },
+            },
+        },
+    },
+    [226728] = {
+        name = "Humphrey Shortswig",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.381859,
+                    y = 0.884799,
+                },
+            },
+        },
+    },
+    [226750] = {
+        name = "Freysworn Etterca",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.55514,
+                    y = 0.558818,
+                },
+            },
+        },
+    },
+    [226791] = {
+        name = "Violet Warden",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.583348,
+                    y = 0.271249,
+                },
+            },
+        },
+    },
+    [226792] = {
+        name = "Rancher Edidithet",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.583793,
+                    y = 0.283353,
+                },
+            },
+        },
+    },
+    [226841] = {
+        name = "Speaker Brinthe",
+        locations = {
+            [2248] = {
+                {
+                    x = 0.449166,
+                    y = 0.205631,
+                },
+            },
+        },
+    },
+    [226846] = {
+        name = "Captain Oathmyt",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.442247,
+                    y = 0.61584,
+                },
+            },
+        },
+    },
+    [226894] = {
+        name = "Marty Zoomcart",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.557331,
+                    y = 0.349512,
+                },
+            },
+        },
+    },
+    [226899] = {
+        name = "Chancellor Gnome",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.570636,
+                    y = 0.352155,
+                },
+            },
+        },
+    },
+    [226932] = {
+        name = "Marty Zoomcart",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.326664,
+                    y = 0.803527,
+                },
+            },
+        },
+    },
+    [226934] = {
+        name = "Jojo Gobdre",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.368139,
+                    y = 0.880237,
+                },
+            },
+        },
+    },
+    [227018] = {
+        name = "Marty Zoomcart",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.387945,
+                    y = 0.339179,
+                },
+            },
+        },
+    },
+    [227032] = {
+        name = "Marty Zoomcart",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.567754,
+                    y = 0.442909,
+                },
+            },
+        },
+    },
+    [227158] = {
+        name = "Hannan",
+        locations = {
+            [2256] = {
+                {
+                    x = 0.625164,
+                    y = 0.79071,
+                },
+            },
+        },
+    },
+    [227217] = {
+        name = "Webster",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.316196,
+                    y = 0.631486,
+                },
+            },
+        },
+    },
+    [227222] = {
+        name = "Ysabel Gleamgaard",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.236218,
+                    y = 0.52181,
+                },
+            },
+        },
+    },
+    [227224] = {
+        name = "Goehi",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.239402,
+                    y = 0.407246,
+                },
+            },
+        },
+    },
+    [227477] = {
+        name = "Brann Bronzebeard",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.471392,
+                    y = 0.31859,
+                },
+            },
+        },
+    },
+    [227499] = {
+        name = "Orweyna",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.422996,
+                    y = 0.273688,
+                },
+            },
+        },
+    },
+    [227523] = {
+        name = "Brann Bronzebeard",
+        locations = {
+            [2215] = {
+                {
+                    x = 0.435044,
+                    y = 0.563073,
+                },
+            },
+        },
+    },
+    [227531] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.629942,
+                    y = 0.783892,
+                },
+            },
+        },
+    },
+    [227544] = {
+        name = "Brann Bronzebeard",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.558624,
+                    y = 0.438582,
+                },
+            },
+        },
+    },
+    [227691] = {
+        name = "Orweyna",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.658572,
+                    y = 0.754351,
+                },
+            },
+        },
+    },
+    [227758] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.423702,
+                    y = 0.268841,
+                },
+            },
+        },
+    },
+    [227937] = {
+        name = "Renzik \"The Shiv\"",
+        locations = {
+            [862] = {
+                {
+                    x = 0.221929,
+                    y = 0.544349,
+                },
+            },
+        },
+    },
+    [228017] = {
+        name = "Zirdo",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.7253,
+                    y = 0.791301,
+                },
+            },
+        },
+    },
+    [228074] = {
+        name = "Angorla",
+        locations = {
+            [2369] = {
+                {
+                    x = 0.710812,
+                    y = 0.441188,
+                },
+            },
+        },
+    },
+    [228132] = {
+        name = "Renzik \"The Shiv\"",
+        locations = {
+            [862] = {
+                {
+                    x = 0.221088,
+                    y = 0.576809,
+                },
+            },
+        },
+    },
+    [228158] = {
+        name = "Ripsnoodle",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.651939,
+                    y = 0.598599,
+                },
+            },
+        },
+    },
+    [228214] = {
+        name = "Pamsy",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.705793,
+                    y = 0.885838,
+                },
+            },
+        },
+    },
+    [228286] = {
+        name = "Skedgit Cinderbangs",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.432569,
+                    y = 0.828432,
+                },
+            },
+        },
+    },
+    [228333] = {
+        name = "Skedgit Cinderbangs",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.511513,
+                    y = 0.372542,
+                },
+            },
+        },
+    },
+    [228341] = {
+        name = "Skedgit Cinderbangs",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.616168,
+                    y = 0.32295,
+                },
+            },
+        },
+    },
+    [228369] = {
+        name = "Marty Zoomcart",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.387097,
+                    y = 0.337845,
+                },
+            },
+        },
+    },
+    [228393] = {
+        name = "Bruxie Slyhook",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.329605,
+                    y = 0.520754,
+                },
+            },
+        },
+    },
+    [228420] = {
+        name = "Tarbonara Fizzlecrank",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.527281,
+                    y = 0.730835,
+                },
+            },
+        },
+    },
+    [228473] = {
+        name = "Fantastic Davey",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.557847,
+                    y = 0.757909,
+                },
+            },
+        },
+    },
+    [228474] = {
+        name = "Kayjay",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.557407,
+                    y = 0.759183,
+                },
+            },
+        },
+    },
+    [228566] = {
+        name = "Jazz Mokkitz",
+        locations = {
+            [862] = {
+                {
+                    x = 0.199823,
+                    y = 0.564402,
+                },
+            },
+        },
+    },
+    [228857] = {
+        name = "Mama Keara",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.396261,
+                    y = 0.684943,
+                },
+            },
+        },
+    },
+    [228860] = {
+        name = "\"Gabby\" Gabi",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.396106,
+                    y = 0.683077,
+                },
+            },
+        },
+    },
+    [228894] = {
+        name = "Orweyna",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.705786,
+                    y = 0.886824,
+                },
+            },
+        },
+    },
+    [229223] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.455495,
+                    y = 0.417796,
+                },
+            },
+        },
+    },
+    [229233] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.330414,
+                    y = 0.480215,
+                },
+            },
+        },
+    },
+    [229235] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.617271,
+                    y = 0.719981,
+                },
+            },
+        },
+    },
+    [229236] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.423191,
+                    y = 0.513935,
+                },
+            },
+        },
+    },
+    [229242] = {
+        name = "Renzik \"The Shiv\"",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.308003,
+                    y = 0.392797,
+                },
+            },
+        },
+    },
+    [229243] = {
+        name = "Renzik \"The Shiv\"",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.617884,
+                    y = 0.718845,
+                },
+            },
+        },
+    },
+    [229246] = {
+        name = "Grimla Fizzlecrank",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.452151,
+                    y = 0.421307,
+                },
+            },
+        },
+    },
+    [229261] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.26921,
+                    y = 0.720627,
+                },
+            },
+        },
+    },
+    [229940] = {
+        name = "Colonel Veronica Nials",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.175404,
+                    y = 0.595782,
+                },
+            },
+        },
+    },
+    [230145] = {
+        name = "Eitrigg",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.697083,
+                    y = 0.391827,
+                },
+            },
+        },
+    },
+    [230151] = {
+        name = "Overlord Geya'rah",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.544414,
+                    y = 0.632049,
+                },
+            },
+        },
+    },
+    [230154] = {
+        name = "Danath Trollbane",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.279694,
+                    y = 0.343509,
+                },
+            },
+        },
+    },
+    [230159] = {
+        name = "Om'fennad",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.544345,
+                    y = 0.637094,
+                },
+            },
+        },
+    },
+    [230174] = {
+        name = "Walker Gresham",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.204986,
+                    y = 0.393927,
+                },
+            },
+        },
+    },
+    [230233] = {
+        name = "Shahata",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.76425,
+                    y = 0.553119,
+                },
+            },
+        },
+    },
+    [230235] = {
+        name = "Skaggit",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.732821,
+                    y = 0.062531,
+                },
+            },
+        },
+    },
+    [230238] = {
+        name = "Skaggit",
+        locations = {
+            [2369] = {
+                {
+                    x = 0.693092,
+                    y = 0.480679,
+                },
+            },
+        },
+    },
+    [230242] = {
+        name = "Bargus",
+        locations = {
+            [2369] = {
+                {
+                    x = 0.674927,
+                    y = 0.419708,
+                },
+            },
+        },
+    },
+    [230268] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.56311,
+                    y = 0.67239,
+                },
+            },
+        },
+    },
+    [230271] = {
+        name = "Bargus",
+        locations = {
+            [2369] = {
+                {
+                    x = 0.488631,
+                    y = 0.184265,
+                },
+            },
+        },
+    },
+    [230288] = {
+        name = "Locus-Walker",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.709411,
+                    y = 0.581111,
+                },
+            },
+        },
+    },
+    [230294] = {
+        name = "Om'resh",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.709824,
+                    y = 0.580405,
+                },
+            },
+        },
+    },
+    [230554] = {
+        name = "Old Man Lowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.274156,
+                    y = 0.624305,
+                },
+            },
+        },
+    },
+    [230555] = {
+        name = "Pitz Lowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.276843,
+                    y = 0.621544,
+                },
+            },
+        },
+    },
+    [230602] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.684131,
+                    y = 0.519229,
+                },
+            },
+        },
+    },
+    [230604] = {
+        name = "Om'en",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.594512,
+                    y = 0.831337,
+                },
+            },
+        },
+    },
+    [230634] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.612772,
+                    y = 0.392817,
+                },
+            },
+        },
+    },
+    [230658] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.631311,
+                    y = 0.390044,
+                },
+            },
+        },
+    },
+    [230700] = {
+        name = "Locus-Walker",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.339796,
+                    y = 0.108502,
+                },
+            },
+        },
+    },
+    [230736] = {
+        name = "Om'talad",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.758136,
+                    y = 0.341927,
+                },
+            },
+        },
+    },
+    [230738] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.758769,
+                    y = 0.341809,
+                },
+            },
+        },
+    },
+    [230739] = {
+        name = "Soul-Scribe",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.758299,
+                    y = 0.342889,
+                },
+            },
+        },
+    },
+    [230786] = {
+        name = "Soul-Scribe",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.743869,
+                    y = 0.30439,
+                },
+            },
+        },
+    },
+    [230789] = {
+        name = "Shahata",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.608091,
+                    y = 0.541942,
+                },
+            },
+        },
+    },
+    [230806] = {
+        name = "Locus-Walker",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.482348,
+                    y = 0.366589,
+                },
+            },
+        },
+    },
+    [230811] = {
+        name = "Locus-Walker",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.470741,
+                    y = 0.545206,
+                },
+            },
+        },
+    },
+    [230814] = {
+        name = "Ve'nari",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.471345,
+                    y = 0.545569,
+                },
+            },
+        },
+    },
+    [230815] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.408206,
+                    y = 0.535745,
+                },
+            },
+        },
+    },
+    [230817] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.607391,
+                    y = 0.279412,
+                },
+            },
+        },
+    },
+    [230818] = {
+        name = "Soul-Scribe",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.602452,
+                    y = 0.291556,
+                },
+            },
+        },
+    },
+    [230825] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.470936,
+                    y = 0.546001,
+                },
+            },
+        },
+    },
+    [230841] = {
+        name = "The Verdigrease Knight",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.68091,
+                    y = 0.804552,
+                },
+            },
+        },
+    },
+    [230954] = {
+        name = "Ta'ka",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.56853,
+                    y = 0.729904,
+                },
+            },
+        },
+    },
+    [230955] = {
+        name = "Ba'ver",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.53104,
+                    y = 0.644508,
+                },
+            },
+        },
+    },
+    [231128] = {
+        name = "Locus-Walker",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.376812,
+                    y = 0.747969,
+                },
+            },
+        },
+    },
+    [231140] = {
+        name = "Bargus",
+        locations = {
+            [2369] = {
+                {
+                    x = 0.481541,
+                    y = 0.439456,
+                },
+            },
+        },
+    },
+    [231143] = {
+        name = "Bargus",
+        locations = {
+            [2375] = {
+                {
+                    x = 0.40144,
+                    y = 0.70719,
+                },
+            },
+        },
+    },
+    [231162] = {
+        name = "Driruj",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.7666,
+                    y = 0.343196,
+                },
+            },
+        },
+    },
+    [231314] = {
+        name = "Om'dalan",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.51918,
+                    y = 0.647811,
+                },
+            },
+        },
+    },
+    [231422] = {
+        name = "Outcast Hizfran",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.776663,
+                    y = 0.398243,
+                },
+            },
+        },
+    },
+    [231443] = {
+        name = "Soul-Scribe",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.606852,
+                    y = 0.280009,
+                },
+            },
+        },
+    },
+    [231445] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.551193,
+                    y = 0.303665,
+                },
+            },
+        },
+    },
+    [231486] = {
+        name = "Soul-Scribe",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.485965,
+                    y = 0.267729,
+                },
+            },
+        },
+    },
+    [231487] = {
+        name = "Locus-Walker",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.485793,
+                    y = 0.267026,
+                },
+            },
+        },
+    },
+    [231488] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.485774,
+                    y = 0.266248,
+                },
+            },
+        },
+    },
+    [231492] = {
+        name = "Locus-Walker",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.482348,
+                    y = 0.194318,
+                },
+            },
+        },
+    },
+    [231505] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.481701,
+                    y = 0.190978,
+                },
+            },
+        },
+    },
+    [231517] = {
+        name = "Pitz Lowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.37252,
+                    y = 0.52975,
+                },
+            },
+        },
+    },
+    [231520] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.442369,
+                    y = 0.184865,
+                },
+            },
+        },
+    },
+    [231522] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.42939,
+                    y = 0.21499,
+                },
+            },
+        },
+    },
+    [231564] = {
+        name = "Xy'bin",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.566407,
+                    y = 0.72877,
+                },
+            },
+        },
+    },
+    [231674] = {
+        name = "Vaultkeeper Xy'vez",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.481963,
+                    y = 0.24459,
+                },
+            },
+        },
+    },
+    [231699] = {
+        name = "Outcast Hizfran",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.779295,
+                    y = 0.393064,
+                },
+            },
+        },
+    },
+    [231748] = {
+        name = "Maggie Wiltshire",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.205213,
+                    y = 0.396294,
+                },
+            },
+        },
+    },
+    [231764] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.695905,
+                    y = 0.328779,
+                },
+            },
+        },
+    },
+    [231768] = {
+        name = "Overlord Geya'rah",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.696187,
+                    y = 0.410345,
+                },
+            },
+        },
+    },
+    [231770] = {
+        name = "Eitrigg",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.697229,
+                    y = 0.409272,
+                },
+            },
+        },
+    },
+    [231771] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.698413,
+                    y = 0.410471,
+                },
+            },
+        },
+    },
+    [231803] = {
+        name = "Overlord Geya'rah",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.684745,
+                    y = 0.306343,
+                },
+            },
+        },
+    },
+    [231812] = {
+        name = "Marty Zoomcart",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.368153,
+                    y = 0.87857,
+                },
+            },
+        },
+    },
+    [231820] = {
+        name = "Ve'nari",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.758936,
+                    y = 0.34177,
+                },
+            },
+        },
+    },
+    [231826] = {
+        name = "Eitrigg",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.415937,
+                    y = 0.614052,
+                },
+            },
+        },
+    },
+    [231828] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.414796,
+                    y = 0.614179,
+                },
+            },
+        },
+    },
+    [231829] = {
+        name = "Overlord Geya'rah",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.415502,
+                    y = 0.616993,
+                },
+            },
+        },
+    },
+    [231832] = {
+        name = "Eitrigg",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.278302,
+                    y = 0.257237,
+                },
+            },
+        },
+    },
+    [231833] = {
+        name = "Overlord Geya'rah",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.278977,
+                    y = 0.25768,
+                },
+            },
+        },
+    },
+    [231837] = {
+        name = "Faerin Lothar",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.194477,
+                    y = 0.591809,
+                },
+            },
+        },
+    },
+    [231919] = {
+        name = "Botanist Alaenra",
+        locations = {
+            [942] = {
+                {
+                    x = 0.724514,
+                    y = 0.698627,
+                },
+            },
+        },
+    },
+    [232005] = {
+        name = "Chancellor Gnome",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.709607,
+                    y = 0.239152,
+                },
+            },
+        },
+    },
+    [232008] = {
+        name = "Cartel Boss Xy'eolm",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.501589,
+                    y = 0.193503,
+                },
+            },
+        },
+    },
+    [232057] = {
+        name = "Vaultkeeper Xy'vez",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.44788,
+                    y = 0.356969,
+                },
+            },
+        },
+    },
+    [232132] = {
+        name = "Dawn",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.41856,
+                    y = 0.261649,
+                },
+            },
+        },
+    },
+    [232180] = {
+        name = "Old Man Lowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.396937,
+                    y = 0.614481,
+                },
+            },
+        },
+    },
+    [232351] = {
+        name = "Trader Ba'kril",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.437481,
+                    y = 0.523173,
+                },
+            },
+        },
+    },
+    [232385] = {
+        name = "Botanist Alaenra",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.7576,
+                    y = 0.338471,
+                },
+            },
+        },
+    },
+    [232491] = {
+        name = "Pamsy",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.72298,
+                    y = 0.82285,
+                },
+            },
+        },
+    },
+    [232498] = {
+        name = "Associate Xy'nell",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.505172,
+                    y = 0.387134,
+                },
+            },
+        },
+    },
+    [232642] = {
+        name = "Void Elf Riftwalker",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.543647,
+                    y = 0.460521,
+                },
+            },
+        },
+    },
+    [232660] = {
+        name = "Void Elf Archer",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.29466,
+                    y = 0.694733,
+                },
+            },
+        },
+    },
+    [232822] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.425929,
+                    y = 0.515467,
+                },
+            },
+        },
+    },
+    [232823] = {
+        name = "Marty Zoomcart",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.564142,
+                    y = 0.655281,
+                },
+            },
+        },
+    },
+    [232986] = {
+        name = "Danath Trollbane",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.216392,
+                    y = 0.652259,
+                },
+            },
+        },
+    },
+    [233235] = {
+        name = "Gerry Clogcraw",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.440497,
+                    y = 0.500989,
+                },
+            },
+        },
+    },
+    [233296] = {
+        name = "Fleet Master Seahorn",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.639675,
+                    y = 0.171629,
+                },
+            },
+        },
+    },
+    [233390] = {
+        name = "Pamsy",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.485403,
+                    y = 0.776232,
+                },
+            },
+        },
+    },
+    [233420] = {
+        name = "Benny Gooserocket",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.684482,
+                    y = 0.964558,
+                },
+            },
+        },
+    },
+    [233482] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.436092,
+                    y = 0.510959,
+                },
+            },
+        },
+    },
+    [233500] = {
+        name = "Om'taha",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.570247,
+                    y = 0.573313,
+                },
+            },
+        },
+    },
+    [233501] = {
+        name = "Bargus",
+        locations = {
+            [2369] = {
+                {
+                    x = 0.435343,
+                    y = 0.284932,
+                },
+            },
+        },
+    },
+    [233603] = {
+        name = "Locus-Walker",
+        locations = {
+            [2339] = {
+                {
+                    x = 0.42127,
+                    y = 0.269286,
+                },
+            },
+        },
+    },
+    [233706] = {
+        name = "Locus-Walker",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.597401,
+                    y = 0.833575,
+                },
+            },
+        },
+    },
+    [233878] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.641098,
+                    y = 0.469951,
+                },
+            },
+        },
+    },
+    [233946] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.481743,
+                    y = 0.366589,
+                },
+            },
+        },
+    },
+    [234048] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.616476,
+                    y = 0.624601,
+                },
+            },
+        },
+    },
+    [234106] = {
+        name = "Locus-Walker",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.481864,
+                    y = 0.365501,
+                },
+            },
+        },
+    },
+    [234190] = {
+        name = "Narathe",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.61006,
+                    y = 0.399454,
+                },
+            },
+        },
+    },
+    [234216] = {
+        name = "Assistant Engineer Om'vek",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.498737,
+                    y = 0.574498,
+                },
+            },
+        },
+    },
+    [234272] = {
+        name = "Rhubarn",
+        locations = {
+            [2255] = {
+                {
+                    x = 0.775429,
+                    y = 0.617766,
+                },
+            },
+        },
+    },
+    [234293] = {
+        name = "Stitchoaf",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.674467,
+                    y = 0.969407,
+                },
+            },
+        },
+    },
+    [234294] = {
+        name = "Trixxie Boltcrank",
+        locations = {
+            [2214] = {
+                {
+                    x = 0.672635,
+                    y = 0.98155,
+                },
+            },
+        },
+    },
+    [234316] = {
+        name = "Rhubarn",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.759405,
+                    y = 0.345621,
+                },
+            },
+        },
+    },
+    [234483] = {
+        name = "Consortium Assistant",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.509908,
+                    y = 0.483769,
+                },
+            },
+        },
+    },
+    [234551] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.508592,
+                    y = 0.345318,
+                },
+            },
+        },
+    },
+    [234596] = {
+        name = "Locus-Walker",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.541656,
+                    y = 0.631071,
+                },
+            },
+        },
+    },
+    [234601] = {
+        name = "Om'en",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.540756,
+                    y = 0.636606,
+                },
+            },
+        },
+    },
+    [234602] = {
+        name = "Alleria Windrunner",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.537648,
+                    y = 0.632447,
+                },
+            },
+        },
+    },
+    [234620] = {
+        name = "Locus-Walker",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.405129,
+                    y = 0.677878,
+                },
+            },
+        },
+    },
+    [234662] = {
+        name = "Danath Trollbane",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.204458,
+                    y = 0.393027,
+                },
+            },
+        },
+    },
+    [234728] = {
+        name = "Orweyna",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.485582,
+                    y = 0.773554,
+                },
+            },
+        },
+    },
+    [234745] = {
+        name = "Hemet Nesingwary",
+        locations = {
+            [2024] = {
+                {
+                    x = 0.187899,
+                    y = 0.39884,
+                },
+            },
+        },
+    },
+    [234783] = {
+        name = "Master Mathias Shaw",
+        locations = {
+            [52] = {
+                {
+                    x = 0.300181,
+                    y = 0.860522,
+                },
+            },
+        },
+    },
+    [234801] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.391192,
+                    y = 0.232573,
+                },
+            },
+        },
+    },
+    [235041] = {
+        name = "Captain Roderick Brewston",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.19352,
+                    y = 0.563517,
+                },
+            },
+        },
+    },
+    [235216] = {
+        name = "Starving Snapdragon Runt",
+        locations = {
+            [2369] = {
+                {
+                    x = 0.709822,
+                    y = 0.486318,
+                },
+            },
+        },
+    },
+    [235238] = {
+        name = "Monte Gazlowe",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.572318,
+                    y = 0.447169,
+                },
+            },
+        },
+    },
+    [235290] = {
+        name = "Hemet Nesingwary",
+        locations = {
+            [2024] = {
+                {
+                    x = 0.13628,
+                    y = 0.491286,
+                },
+            },
+        },
+    },
+    [235353] = {
+        name = "Hemet Nesingwary",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.758141,
+                    y = 0.34044,
+                },
+            },
+        },
+    },
+    [235849] = {
+        name = "Blackwater Bruiser",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.639675,
+                    y = 0.171629,
+                },
+            },
+        },
+    },
+    [235860] = {
+        name = "Plague Deviser Marileth",
+        locations = {
+            [1536] = {
+                {
+                    x = 0.689696,
+                    y = 0.484921,
+                },
+            },
+        },
+    },
+    [236815] = {
+        name = "Karga Bloodfury",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.409476,
+                    y = 0.535484,
+                },
+            },
+        },
+    },
+    [236846] = {
+        name = "Hemet Nesingwary",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.484631,
+                    y = 0.610554,
+                },
+            },
+        },
+    },
+    [236890] = {
+        name = "Hemet Nesingwary",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.490448,
+                    y = 0.570049,
+                },
+            },
+        },
+    },
+    [236907] = {
+        name = "Adarus Duskblaze",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.601199,
+                    y = 0.296955,
+                },
+            },
+        },
+    },
+    [237705] = {
+        name = "Xal'atath",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.542694,
+                    y = 0.454781,
+                },
+            },
+        },
+    },
+    [238006] = {
+        name = "Marin Noggenfogger",
+        locations = {
+            [2346] = {
+                {
+                    x = 0.273657,
+                    y = 0.709666,
+                },
+            },
+        },
+    },
+    [238012] = {
+        name = "Captain Roderick Brewston",
+        locations = {
+            [2372] = {
+                {
+                    x = 0.177267,
+                    y = 0.603917,
+                },
+            },
+        },
+    },
+    [238209] = {
+        name = "Cartel Om Custodian",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.758764,
+                    y = 0.342849,
+                },
+            },
+        },
+    },
+    [238212] = {
+        name = "Om'talad",
+        locations = {
+            [2472] = {
+                {
+                    x = 0.394021,
+                    y = 0.242606,
+                },
+            },
+        },
+    },
+    [240842] = {
+        name = "Leona Darkstrider",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.59334,
+                    y = 0.24201,
+                },
+            },
+        },
+    },
+    [241588] = {
+        name = "Hashim",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.503385,
+                    y = 0.363324,
+                },
+            },
+        },
+    },
+    [241601] = {
+        name = "Shad'anis",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.749022,
+                    y = 0.310923,
+                },
+            },
+        },
+    },
+    [241624] = {
+        name = "Shad'anis",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.503627,
+                    y = 0.363143,
+                },
+            },
+        },
+    },
+    [242179] = {
+        name = "Adarus Duskblaze",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.789451,
+                    y = 0.534507,
+                },
+            },
+        },
+    },
+    [242538] = {
+        name = "Ve'nari",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.471224,
+                    y = 0.545387,
+                },
+            },
+        },
+    },
+    [246601] = {
+        name = "Researcher Essarae",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.598827,
+                    y = 0.291159,
+                },
+            },
+        },
+    },
+    [246608] = {
+        name = "Phase-Lost Creeper",
+        locations = {
+            [2477] = {
+                {
+                    x = 0.429083,
+                    y = 0.762072,
+                },
+            },
+        },
+    },
+    [248153] = {
+        name = "Magister Umbric",
+        locations = {
+            [2371] = {
+                {
+                    x = 0.609223,
+                    y = 0.277276,
+                },
+            },
+        },
+    },
+})

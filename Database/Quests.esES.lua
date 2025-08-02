@@ -4,4 +4,3577 @@ if GetLocale() ~= "esES" then
     return
 end
 
-BtWQuestsDatabase:UpdateQuestsTable(C_EncodingUtil.DeserializeCBOR([[π¶\0006°DnameXPor el pelo de una ara√±a\000G°DnameNOvoextracci√≥n\000Q°DnameXSe acab√≥ ser carne de gusano\000:°DnameX!La custodia del Bancal de Brunwin\000Dá°DnameXAcumulaci√≥n de minerales\000E°DnameOMi mano derecha\0005â°DnameLRuido y caos\0006	°DnameSProteger la cosecha\000G°DnamePQuitinas mayores\000@°DnameQLa voz del pueblo\000D°DnameXUna oportunidad de relajarse\000Dà°DnameTLimpieza de Taelloch\0005\n°DnameXProyecto de embellecimiento\000Má°DnameTCocteler√≠a aplicada\0006\n°DnameXUna cataplasma para el veneno\000?	°DnameVHonramos tus esfuerzos\000@	°DnameOEste es el plan\000:\n°DnameODe acompa√±ante\000Dâ°DnameXNo hay suficientes minerales\0005°DnameQAsesor√≠a experta\000Mà°DnameWInformaci√≥n de mercado\0006°DnameMUna cura real\000?ä°DnameX;Carreras de surcacielos - Giro de la Guardia de la Tormenta\000@\n°DnameRLa guerra interior\000Qà°DnameQMi propio agujero\000:°DnameUExcavaci√≥n elemental\0004°DnameM¬°M√°s velas!\000Dä°DnameSEl frente de √≥palo\0005°DnameXEl punto de vista ar√°cnido\0005å°DnameQNoticias de abajo\0006°DnameVUn atisbo de esperanza\000?°DnameRAbrevar las ovejas\000Dã°DnameQUn lugar olvidado\0005\r°DnameXUna joven y brillante niffen\000Eã°DnameNLa Rompeagujas\000?å°DnameX1Carreras de surcacielos - Carrera por las colinas\0002°DnameXLos h√©roes nunca mueren\000D°DnameXHacia el Punto Oportunidad\000Då°DnameULas √≥rdenes antiguas\0005°DnameXNueva direcci√≥n para Rak-Ush\0007°DnameVBuscar en la telara√±a\0003°DnameJA Mereldar\000Kå°DnameHEl Oasis\000D\r°DnameSGracias por la cera\0005°DnameW¬°Es duro ser un bicho!\0007°DnameXLa gran evasi√≥n de Klaskin\000?é°DnameX/Carreras de surcacielos - Marat√≥n de Minarroca\000:°DnameWRaciones y revelaciones\000Jç°DnameTEspuelas de escudero\0005°DnameXComo un alfazaque en un pajar\0006ê°DnameXDripsy se olvid√≥ de su vela\0009°DnameOEl llanto grial\0002°DnameXTeme a la sangre antigua\000L°DnameULos que hemos perdido\000Dè°DnamePLa vieja guardia\000M°DnameRLa procesi√≥n real\0006ë°DnameX√ëam√±am y el derrumbamiento\000?ê°DnameX;Carreras de surcacielos - Paseo por las Cavernas Resonantes\0009°DnameMLa veta madre\0001í°DnameXUna invitaci√≥n intrigante\000B°DnameXRes√©rvalo en la biblioteca\000Kè°DnameVRestaurar la esperanza\000L°DnameQAlcance extendido\000Dê°DnameXColeccionables c√°usticos\0005°DnameTEscarabajos truferos\000:°DnameNCubos y flores\000L°DnameXMaquinaciones de recuerdos\000Dë°DnameRGafas para goblins\0005°DnameXContrataci√≥n permanente\0006ì°DnameXEl d√≠a que llegar cabezarrocas\0001î°DnameXHacia una ciudad reptadora\000C°DnameX%Profundidades: Investigaci√≥n mundial\000L°DnameXLos que a√∫n no hemos salvado\0004î°DnameQArmas y guerreros\0005°DnameX\"El conducto de la tormenta del sur\0006°DnameX%El destierro de la bestia de ci√©naga\000>ì°DnameX$Trabajos turbios: Diezmo y diezmados\000?°DnameWColecci√≥n de primavera\000I°DnameXA las Chatarrer√≠as se ha dicho\000Që°DnameMComprobaci√≥n\000B°DnameXConservaci√≥n de peluches\0003°DnameXEl basti√≥n de Santificaci√≥n\0003ï°DnameSOradores compasivos\000Dì°DnameSProt√©gete los ojos\000Mí°DnameXVisi√≥n para los problemas\000>î°DnameVUna niebla nada nativa\000Aî°DnameRRecogida de larvas\000:°DnameNDemasiado cool\000Bî°DnameX,Misi√≥n de mensajero: Recuperaci√≥n de menas\0003°DnameRLa luz de Mereldar\0003ñ°DnameXLa batalla del Taller Terr√°neo\000Dî°DnameQUn final ardiente\0006ñ°DnameSLa vela sin desvelo\000?°DnameX3El pr√≥ximo maestro de tintes estrella de Azj-Kahet\0008ñ°DnameX$Llamada a los jinetes de la tormenta\000A°DnameVAlboroto en la reserva\0001ó°DnameXComo una ara√±a en la pared\000:°DnameXBuscar las gemas de Ausgazur\0003°DnameXEl repicar de las campanas\0003ó°DnameRAntes de mi marcha\0004ó°DnameRCoraz√≥n de h√©roe\0006°DnameXRed de manipulaci√≥n - Activar\000>ñ°DnameXDepredadores antinaturales\000?°DnameXSubterfugio envuelto en seda\0001ò°DnameWReescribir lo reescrito\000:°DnameXMechacentella la Robagemas\0003ò°DnameTHonrar sus recuerdos\0005ò°DnameRUna pizca de miedo\000>ó°DnamePSeguir la niebla\000?°DnameXTanto monta, monta tinte\0001ô°DnameXEl regalo de la Tejedora\000:°DnameXLas Cataratas Nieblabrillante\000Bó°DnameXPrendiendo el fuego interior\0003ô°DnameX¬°T√∫ no llevarte bot√≠n!\0005°DnameUConvocar a los grajos\0007°DnamePBorra su sonrisa\0001ö°DnameLAbrirte paso\000B°DnameLC√≥mete esto\000Bò°DnameQGambito de la Luz\000K°DnameX&Encuentros aciagos bajo la luz estelar\0003ö°DnameXLas leyes son para todos\0004°DnameOAyuda conjurada\000Dò°DnameWBienvenidos a Minahonda\0005ö°DnameXProblemas con el agua mineral\000?°DnameWOrientaci√≥n: Gundargaz\000@°DnameWHacia el Conf√≠n Arathi\000Iò°DnameSPropiedad devaluada\000Bô°DnamePCon la gran pira\000K°DnameXUna advertencia amistosa\0003õ°DnameVEl gran derrumbamiento\000D°DnameORastreo p√©treo\0005õ°DnameNPon buena cara\0007°DnameVEl temible Colmiterror\000Hô°DnameXSeguro anti-Fundisombras\000I°DnameNEntre cazuelas\0001ú°DnameSEl rezagado pele√≥n\000Bö°DnameWExterminador de esporas\000K°DnameTInvasi√≥n y victoria\0003ú°DnameOCortar la mecha\0005ú°DnameIEpicentro\000N°DnameOGlorias pasadas\0007°DnameOVe al priorato.\000?õ°DnameX/Carreras de surcacielos - Palmo de Piedraserena\000Hö°DnameNFuera c√°maras\000Q°DnameX#La moral es un reflejo de liderazgo\0001ù°DnameJ¬°A volar!\0003°DnameSLa sombra creciente\000Cõ°DnamePUn toque terroso\000L°DnameTPaquetes de promesas\000U°DnameOCosas por hacer\0005ù°DnameMLoca de furia\0007°DnameTPlaga de punzadulces\000Aú°DnameXLa modesta ara√±a mensajera\000Cú°DnameUEn buenas condiciones\000L°DnameXLa petici√≥n de un marginado\0005û°DnameQRonda de limpieza\000F°DnameMQu√© mal rato\000?°DnameX$Buscando a Skorthuz desesperadamente\000Aù°DnameTMisiones desgastadas\000;°DnameWLos ojos de la Tejedora\000Kú°DnameXG.E.T.A. el cocodriliano\000L°DnameTLa sangre de K'aresh\000Dù°DnameTEn busca de recursos\000E°DnameX4Tarea especial: Cuando se agitan las zonas profundas\0005ü°DnameRL√≠neas divisorias\000F°DnameQMejunjes potentes\0007°DnameRReflejos ardientes\000?û°DnameX-Carreras de surcacielos - Meandro de Mereldar\000@°DnameX¬°Aperitivos que hacen BUM!\000A°DnameQHacia las sombras\0003 °DnameXUna vela en la oscuridad\000Kù°DnameTG.E.T.A. El Capit√°n\000L°DnameSPurificar el Vac√≠o\0005†°DnameSEstas manos fuertes\000F°DnameSTrabajo a distancia\0007 °DnameRLos que nos faltan\000Aü°DnameICristales\000Jû°DnameXProblemas en las Tierras Altas\000; °DnameQLa mano del visir\000Cü°DnameJAjo y agua\000L°DnameXSacerdote de las antiguas artes\0005°°DnameIDomamiedo\000F°DnameOCosas que pasan\0006°°DnameORecabar pruebas\0007!°DnameX Inquisici√≥n de la Llama Sagrada\000?†°DnameX5Carreras de surcacielos - Carrera de la Ciudad Tejida\000Jü°DnamePAntorchas y brea\0003\"°DnameUD√≠a de entrenamiento\0003¢°DnameRUn paquete perdido\0005¢°DnameXEl legado de Barbabronce\000F†°DnamePAtrincheramiento\0007\"°DnameX4Priorato de la Llama Sagrada: El dolor de un hermano\000B!°DnameOGemas preciosas\000J†°DnameXEl emblem√°tico porvenir\0003#°DnameQEl √∫ltimo frente\0003£°DnameQJugar en el barro\0005#°DnameWA solas en la oscuridad\0005£°DnameWDar cera, sabotear olla\0006£°DnameKAlgo oculto\0007#°DnameRSocios comerciales\000A¢°DnameNRecado ausente\000B\"°DnameXLo que hacemos por unas gemas\000J°°DnameNMalas noticias\0003$°DnameQTrampilla abierta\0003§°DnameWMontones de miel √≠gnea\0005$°DnameXEntrenamiento por las duras\000M°°DnameUMuerte a los chivatos\000A£°DnameVUn asesinato sin honor\000B#°DnameXLas gemas son para siempre\000;$°DnameXDesfragmentar la memoria\000cü°DnameVLa petici√≥n de Faerin\000M¢°DnameXLa larga sombra de Minahonda\0006•°DnameX Informar al custodio del consejo\000A$°DnamePPez le√≥n d√©bil\000A§°DnameRExtremidad perdida\000B$°DnameNDeja que ganen\000J£°DnameXReyerta en el toque de queda\0003&°DnameXEl ascenso de la Venganza\0003¶°DnameUEl pulso de la tierra\000D§°DnameUDiagn√≥sticos diarios\0006¶°DnameISedici√≥n\000A%°DnameUUna petici√≥n alocada\000;&°DnameNTiempo perdido\000K§°DnameX$Como un cuchillo a trav√©s del √©ter\000D•°DnameTEl expreso de Grimla\0006ß°DnameUMitigaci√≥n de da√±os\000G%°DnameX\"Profundidades: Estaci√≥n de Bombeo\000A&°DnameX\"¬øA alguien le gustan las avispas?\000A¶°DnameXUn peque√±o fardo de bienes\000B&°DnameOEnigmas Arcanos\000J•°DnameTTrabajo de ayudantes\000S$°DnameX/Forja de Man√° Omega: El despertar de Dimensius\0003®°DnameXHierro Negro desde las alturas\0006®°DnameSDisipar los rumores\000@'°DnameTRecogida de brebajes\000A'°DnameMFibra regular\0001©°DnameWPersonajes espec√≠ficos\000+*°DnameOPropagar la Luz\000K¶°DnameSInstancias adversas\0005)°DnameNMetal y piedra\0006©°DnameOPor obligaci√≥n\000P¶°DnameMCazafantasmas\000A(°DnameTPetici√≥n econ√≥mica\000A®°DnameTBlasones desgastados\0003*°DnameX!Ning√∫n minero se quedar√° atr√°s\000Kß°DnameX#Hasta que las arenas sangren Vac√≠o\000E(°DnameULa compa√±√≠a teatral\0006™°DnameKMal negocio\000G(°DnameRAmenazas de Zekvir\000Pß°DnameVEl poder de los dioses\000A)°DnameVEconom√≠a subterr√°nea\000I®°DnameVHambre en la hondonada\000;*°DnameTUna √∫ltima historia\000K®°DnameOY responderemos\000L(°DnameXLo que queda de nuestro hogar\0005+°DnameXClases de vuelo para novatos\000F)°DnameVUna amistad preocupada\000@*°DnameX\"Un empuj√≥n en la buena direcci√≥n\000P®°DnameXEl retorno de la reducci√≥n\000J©°DnameRMarran Aterratrols\0003,°DnameXLa reconquista de las minas\000K©°DnameXUn camino entre las sombras\000D™°DnameJBurocracia\0005,°DnameXLa Refiner√≠a de Nibelgaz\000@+°DnameXLos frutos de nuestra labor\000P©°DnameQCorre en libertad\000A+°DnameULa especia de la vida\000R©°DnameREquipo de limpieza\0003-°DnameXMachaquemos a Mascaencranajes\000K™°DnameNRegicidio-nexo\000D´°DnameIEn el ajo\0005-°DnameXDesenfreno en la refiner√≠a\000F´°DnameXEl comienzo de algo hermoso\000G+°DnameX!Profundidades: Sagrario del Ocaso\000@,°DnameVEl destino del herrero\000P™°DnameKSuperolfato\000A,°DnameWEl descenso del √°guila\0001Æ°DnameQInfluencia robada\000J´°DnameRUn rostro familiar\0003.°DnameWIngenier√≠a destructiva\0004Æ°DnameUUna se√±al misteriosa\0005.°DnameWActores en el Proscenio\000F¨°DnameSRecuperaci√≥n tensa\000@-°DnameVPerturbaci√≥n invasora\000H¨°DnameLCaddie capaz\000A-°DnameODe tiros largos\0001Ø°DnameWAqu√≠ no pasa nada raro\000B-°DnameUUna ayuda en el campo\000:Æ°DnameONada aventurado\0003/°DnameN√âchale koraje\0004/°DnameXUna sombra sobre Gundargaz\0004Ø°DnameXAmiga peque√±a, grandes planes\0005/°DnameXLa petici√≥n de una hu√©rfana\000F≠°DnameRDescanso ancestral\000@.°DnameXHe dormido como una roca\000P¨°DnameVSomos los champi√±ones\0009/°DnameOEl √∫ltimo mago\0001∞°DnameWEl consenso del general\000B.°DnameX Mantenimiento regular programado\00030°DnameRDestino manifiesto\000L-°DnameXEnvolturas para terminar\0004∞°DnameXReconocimiento de f√°brica\00050°DnameSUn charco de tripas\000P≠°DnameRInvasi√≥n f√∫ngica\000A/°DnameQUna comida casera\000*2°DnameWPor un atizacoles mejor\00031°DnameWTe toca, Torchogru√±ido\000KÆ°DnameILa tabiqa\00041°DnameSUna plaga agusanada\000DØ°DnameUMerece la pena probar\00051°DnameU¬°Ay de los vencidos!\000?0°DnameOTarde de perros\000PÆ°DnameX'Un champi√±√≥n para gobernarlos a todos\00091°DnameTExperimentos Arcanos\000B0°DnameX(M√°quinas que acaban con el trabajo o...\000;1°DnameQCuidar a Ausgazur\00042°DnameUIntenci√≥n o instinto\0004≤°DnameX!Que bombee la Estaci√≥n de Bombeo\00052°DnameQEl √∫ltimo adi√≥s\0005≤°DnameOEl gran estreno\000F∞°DnameTAnillos de recuerdos\000?1°DnameJMocomodius\000@1°DnameRUn fin para el fin\000PØ°DnameNLuego te huelo\00092°DnamePUn vil asesinato\000:2°DnameWHacia las profundidades\000J∞°DnameOHacia Sentencia\0004≥°DnameTAgitaci√≥n elemental\0006≥°DnameO¬°Electrizante!\00073°DnameLEs elemental\000P∞°DnameXSobre un lecho de huesos yacen\00093°DnameTEn busca de justicia\000:≥°DnameXHerramienta de armonizaci√≥n\00044°DnameXCon sus fr√≠as y oscuras alas\000D≤°DnameQHundir el mercado\00054°DnameKLos edictos\0006¥°DnameSSe acab√≥ la fiesta\000P±°DnameQUna vida por otra\000A≥°DnameX%Tarea especial: Oleada de cenizabejas\000J≤°DnameVEn busca de la familia\00045°DnameO¬°¬°Socorrooo!!\000D≥°DnameOUn error minero\00055°DnameSResguardo tit√°nico\0006µ°DnameRQue arda en llamas\000P≤°DnameQEl aroma del amor\000J≥°DnameVLa b√∫squeda de Faerin\000+7°DnameX%Justo entre los gir√≥pticos - Activar\000K≥°DnameXLa limpieza de las dunas\00046°DnameXExcavaci√≥n por delegaci√≥n\000D¥°DnameXObservaci√≥n de A.V.E.S.\0006∂°DnameX#La llamada del custodio del consejo\000P≥°DnameSPartido lomopizarra\000:∂°DnameTAbundan los enemigos\000S3°DnameM¬°Reagrupaos!\000Dµ°DnameQSubida de precios\00057°DnameWNegligencia en el deber\0006∑°DnameXEl benefactor de Dornogal\000P¥°DnamePDame combustible\00028°DnameXUna telara√±a enrevesada\000:∑°DnameXCanci√≥n de restauraci√≥n\000d≤°DnameVPotencial desvinculado\00058°DnameXPescar es bueno para el alma\000Mµ°DnameJAbr√∫malos\0006∏°DnameXSeguridad a cambio de negocios\000G6°DnameX6Llamada de explorador de profundidades: Foso del Pavor\000Oµ°DnameQAjuste de actitud\000H6°DnameXCoser los hilos cortados\0009∏°DnameQS√∫plica jadeante\00029°DnameSUn aparente respiro\000:∏°DnameRNo dejar ni rastro\000D∑°DnameNA contrarreloj\000M∂°DnameTDescanso obligatorio\000F∑°DnameWComunicaciones abiertas\000G7°DnameX0Llamada de explorador de profundidades: Sumidero\0009π°DnameVTalismanes de la marea\000:π°DnameQEnfoque armonioso\000D∏°DnameUSacar a nuestra gente\0005:°DnameX!El s√≠ndrome del teniente quemado\000M∑°DnameSDrenaje de recursos\000>9°DnameUArtefactos a raudales\0006∫°DnameXLa mecataberna clandestina\000G8°DnameX9Llamada de explorador de profundidades: Brecha Deslizante\0008∫°DnameSZafarrancho k√≥bold\000Q7°DnameXLos Campos de la Tempestad\0009∫°DnameXVoces de las profundidades\000:∫°DnamePDetener el flujo\000Dπ°DnameWNo hay donde esconderse\000M∏°DnameWConfusi√≥n de contactos\000G9°DnameX=Llamada de explorador de profundidades: Caverna del Micomante\000P∏°DnameJDame fuego\0009ª°DnameTUna oferta tentadora\000:ª°DnameWDescifrar la cacofon√≠a\000+Ω°DnameUEn busca de la patata\000D∫°DnameOVictoria amarga\000Mπ°DnameXLa mirada puesta sobre nosotros\000G:°DnameX<Llamada de explorador de profundidades: Espiral Serpenteante\000Pπ°DnameSControl de bichejos\0009º°DnamePLa vuelta al mar\000:º°DnameTMedidas discordantes\0005=°DnameXUn momento para descansar\000M∫°DnameKTecnicismos\000N:°DnameXM√°s duro de lo que pens√°bamos\000G;°DnameX<Llamada de explorador de profundidades: Abismo de Tak-Rethan\000Aº°DnameXDocumentaci√≥n de disonancia\000Jª°DnameXEl G.√ì.L.E.M. del progreso\0005>°DnameUPertenencias perdidas\000@=°DnameQ¬øQu√© ej√©rcito?\000A=°DnameURemontar las cascadas\000R;°DnameLA Maldraxxus\000L<°DnameXUna oportunidad lucrativa\0005?°DnameSAyudar es divertido\0005ø°DnameWRi√©galo todo - Activar\000>>°DnameX#Asomar la oreja: Tejido ladronzuelo\0007?°DnameWMente majara en la mina\000?æ°DnameX1Solicitud de mantenimiento de la V√≠a del N√∫cleo\000Pº°DnameX(Liberaci√≥n de Minahonda: La casa pierde\000Q<°DnameWDistribuci√≥n del poder\000R<°DnameTAsesinato ritualista\0003@°DnameSA manguerazo limpio\000L=°DnameVObtenci√≥n de permisos\0005@°DnameQGambito de la Luz\000>?°DnameX!Asomar la oreja: Salvar el pasado\0006¿°DnameMCera caliente\0007@°DnameXApa√±os en las tuber√≠as\000Aø°DnameXGema con tierra incrustada\000R=°DnameX3Una peste al d√≠a mantiene al doctor en la lejan√≠a\000:¿°DnameNOyente perdido\0003A°DnameWCentinela de medianoche\000L>°DnameXArt√≠culos de adquisici√≥n\0005¡°DnameQPatrulla nocturna\000F?°DnameX¬øY qu√© hay del casino?\0006¡°DnameRUn remedio natural\0007A°DnameRFontaner√≠a fet√©n\0009¡°DnameGPartida\000R>°DnameXNi siquiera trabajo aqu√≠\000:¡°DnameXPreparativos del recitado\0003B°DnameUEl camino santificado\000L?°DnamePBienes caducados\000>A°DnameX8Control de informaci√≥n: El lado correcto de la historia\0007B°DnameT¬°Presi√≥n cr√≠tica!\000R?°DnameVUna imitaci√≥n p√©sima\000J¿°DnameQA tirar la basura\0003C°DnameVDonde s√≠ llega la luz\000D¡°DnameXCuando la oportunidad explota\0007C°DnamePMi vela es hogar\000R@°DnameXLa importancia de las vacunas\0002ƒ°DnameUArtefactos err√°ticos\000D¬°DnameQAl acabar el d√≠a\000e>°DnameXAventurero perdido en fase\0005ƒ°DnameKEl cuaderno\000>C°DnameX2Romper la falange: Candidato nombrado por la reina\0006ƒ°DnameX!Formaci√≥n en el lugar de trabajo\000RA°DnameHAl Oasis\0002≈°DnameQAsegurar la playa\000D√°DnameQSe√±ales confusas\0005≈°DnameQUn club de altura\000>D°DnameXRecompensa: Goliat quitinoso\000RB°DnameTUn paladar exquisito\000Bƒ°DnameVLos hermanos Braunpyke\0004F°DnameXLos nudillos de lat√≥n de Brax\000Dƒ°DnameVEntorno laboral hostil\0005F°DnameVInfestaci√≥n infestada\0005∆°DnameXLo que el viento se llev√≥\000>E°DnamePArmamento: Armas\0007F°DnameXFung√°ricos preocupantes\000RC°DnameVTareas de conserjer√≠a\0002«°DnameXVienen de las profundidades\000D≈°DnameWInvestigaciones mineras\0005G°DnameXCreo que ahora soy un z√°ngano\000Mƒ°DnameRFamilia encontrada\000>F°DnameX%Reliquias de guerra: El Lago Quebrado\0006«°DnameWEl caballero de verdete\000?∆°DnameOFrenes√≠ felino\000@F°DnameTLa llamada de la Luz\0002»°DnameWContra todo pron√≥stico\000D∆°DnameMPedido enorme\0005H°DnameO√ìpalos y runas\0005»°DnamePPaquete de ayuda\000>G°DnameWRequisa: Champiumbr√≠os\0008H°DnameQFallas furibundas\000:H°DnameSUn arathi descarado\0003I°DnameWProblemas subterr√°neos\000D«°DnameOTrabajo honrado\000EG°DnameXSiempre hay otro secreto\000>H°DnameX'Componentes salvajes: Hondura Delirante\0006…°DnameVSe√±or de los gigantes\000@»°DnameKLimpiapozas\000AH°DnameTAvanzar hacia Faerin\000:I°DnameWAl servicio de la reina\0002 °DnameOEsfuerzo grupal\0003J°DnameXLa √∫nica ara√±a buena...\000D»°DnameKFlebotom√≠a\000FH°DnameXTodo forma parte del juego\0009J°DnameXPolinizaci√≥n en caliente\0002À°DnameVReparaciones duraderas\0003K°DnameTRecuerdos reavivados\000D…°DnameXPrevenci√≥n de la paranoia\000FI°DnameX'Competici√≥n de pesca de Santificaci√≥n\0006À°DnamePLa Dama del Lago\0007K°DnameXMonstruos en la oscuridad\0009K°DnameOPistas sociales\0002Ã°DnameNHacia el lagar\0003L°DnameXReuni√≥n en el Rompealbas\000D °DnameXLa bomba m√°s bonita de Pamsy\000M…°DnameNCambio de fase\0006Ã°DnameX#El regreso del caballero de verdete\0007L°DnameVEnterrada, no olvidada\000O…°DnameUMoviendo a los peones\0009L°DnameXEspionaje y ventriloquia\000RI°DnameMTriple veinte\0002Õ°DnamePTender la trampa\0003M°DnameRSolo para sus ojos\000DÀ°DnameSAsuntos sangrientos\0005Õ°DnameUInforme de situaci√≥n\000FK°DnameX'Competici√≥n de pesca de Santificaci√≥n\0006Õ°DnameRLas velas de Cutri\000@Ã°DnameTEl principio del fin\0009M°DnameXEl que tira de los hilos\000RJ°DnameQRevisi√≥n m√©dica\0002Œ°DnameSZona de evacuaci√≥n\0003N°DnameXSabotaje de armas de asedio\000DÃ°DnameVRefrigeraci√≥n extrema\000EL°DnameXSalvar a la soldado Rueca\0005Œ°DnameXBuscar a los desaparecidos\000FL°DnameX'Competici√≥n de pesca de Santificaci√≥n\000>Õ°DnameXNo vayamos a preocuparla\000?Õ°DnameXAvivando fuegos con miel\000@Õ°DnameWUn esp√≠a como nosotros\0009N°DnameXPiedad para las marionetas\0009Œ°DnameRAgujas destrozadas\000RK°DnameJRayquetbol\0002œ°DnameXSacudiendo el nido de ara√±as\0003O°DnameXLa luz de la Torre del Alba\000DÕ°DnameXEn nombre de la venganza\000EM°DnamePUn robo personal\0005œ°DnameWInsecticida y fungicida\000@Œ°DnameRDefensa del pueblo\000QL°DnameLAterrazorros\000RL°DnameQIntenci√≥n dudosa\0002–°DnameQInvocar el trueno\0003P°DnameXEl deber de un prendel√°mparas\000CŒ°DnameXEl precio de la esperanza\000DŒ°DnameRPlan en expansi√≥n\0005–°DnameWSegar las malas hierbas\000>O°DnameXRomper la falange: Hojahilos\000>œ°DnameHMechados\000@O°DnameX¬°Hogar nuevo, vela nueva!\000@œ°DnameNCazador cazado\000QM°DnameXCazador de esencia de bichejo\0001—°DnameMA Villatrueno\000RM°DnameUPinchazos de refuerzo\0002—°DnameXRegreso a la V√≠a del N√∫cleo\000Cœ°DnameQEl peso del deber\0004Q°DnameXSecretos de la oscuridad\000Dœ°DnameRMinahonda de abajo\000EO°DnamePPrueba de temple\0005—°DnameXLo que crece en la oscuridad\000>P°DnameX%Romper la falange: Sabios cism√°ticos\0009Q°DnameXUn bicho raro en Dornogal\0001“°DnameQOvejas dormilonas\000RN°DnameNEl moco dorado\0002“°DnameJRecompensa\000CP°DnameRPesca en las nubes\000D–°DnameSGesti√≥n magm√°tica\000>Q°DnameXRecompensa: Zorikal la Mecenas\000Nœ°DnameXOpiniones no solicitadas\0008R°DnameJ¬°Ara√±as!\0008“°DnameSRegreso a Gundargaz\000QO°DnameMHora de posar\0001”°DnameXDepredadores energ√©ticos\000RO°DnameX'Necrorrayando en la velocidad de la luz\000D—°DnameQMuestras gaseosas\000FQ°DnameX!Tratamiento de gemas geot√©rmicas\0008S°DnameXY ahora sufro aracnofobia...\000@“°DnameULucha contra el poder\000AR°DnameXArmas de asedio asediantes\0001‘°DnameXSe√±or de la tormenta perdido\0004T°DnameSPez voluble maligno\000D“°DnameXLas baratijas de Baratijas\000>S°DnameUArmamento: Arbalestas\0008T°DnameQPatas en el techo\000AS°DnameVEn honor a los ca√≠dos\0001’°DnameXSu musgo, nuestro sustento\000D”°DnameRBasta de tropiezos\000ES°DnameLPor la moral\000>T°DnameX$Armamento: Herramientas de herrer√≠a\000>‘°DnameXTrabajo de recuperaci√≥n\0007U°DnameXHa llegado la caballer√≠a\0008U°DnameSGusanos en los ojos\0009U°DnameXFuego sagrado en Villatrueno\0001÷°DnameSTopetazo Tronatesta\000DT°DnameVOlisqueadores ladrones\000>U°DnameX:Reliquias de guerra: El conflicto de las Cloacas de Salien\0006÷°DnameQEl segundo frente\000@’°DnameX,Documentaci√≥n: Edici√≥n del manual de campo\000QS°DnameVNo dejes ni los huesos\000CU°DnameRUn favor funcional\000LT°DnameXNo pierdas el rumbo, abeja\000>V°DnameXReliquias de guerra: Rak-Zakaz\000?V°DnamePCultivo de nubes\0008W°DnameOGuscraft Rumble\0009W°DnameXLiberar a los terr√°neos\000A÷°DnameTBlasones desgastados\000BV°DnameXHay que apa√±ar esas tuber√≠as\000KU°DnameWQuintenci√≥n biol√≥gica\0004X°DnameXA cada pez le llega su vez\000EV°DnameXLo que se esconde bajo Dornogal\000FV°DnameOAgallas por oro\000?W°DnameLFuego y gema\0008X°DnameQMen√∫ para llevar\000QU°DnameQLa hora del papeo\000KV°DnameIA Iskaara\0004Y°DnameRSombra tras sombra\0005Y°DnameX!Las espinas de esporas giratorias\000FW°DnameWAventuras en Khaz Algar\0009Y°DnameX*Una l√°mpara para la constructora de naves\000I◊°DnameQConclusiones kaja\000LW°DnameXNo te duermas en las colmenas\000Dÿ°DnameXLa reserva de Tragoceniza\0005Z°DnameIAl origen\000>Y°DnameX'Componentes salvajes: Cloacas de Salien\000QW°DnameQRegreso a K'aresh\0002€°DnameXBajo tierra y bajo presi√≥n\000LX°DnameXUna soluci√≥n inabejable\000EŸ°DnameIForajidos\0006€°DnameUEspacio a√©reo minado\000QX°DnameWLa fant√°stica Sra. Fox\000LY°DnamePRapsodia abejuna\000D⁄°DnameX¬°Devu√©lvela, devu√©lvela!\000E⁄°DnameREl abrigo perfecto\000FZ°DnameOResponsabilidad\0006‹°DnameOContra ofensiva\000G⁄°DnameXSoluci√≥n desparasitadora\000QY°DnameKCachorradas\0002›°DnameXDescarrilamiento en las minas\0003]°DnameQEl fin del t√∫nel\000LZ°DnameIA K'aresh\000D€°DnamePVentura dividida\0005]°DnameXV√≠nculo con la superficie\0005›°DnameXExtracci√≥n en Vetasombr√≠a\000>\\°DnameX*Trabajos turbios: Colarse en la recepci√≥n\000QZ°DnameX¬øEn qu√© sue√±an los zorros?\000B\\°DnameJExterminar\0003^°DnameKLuces fuera\000L[°DnameKFotograbeja\000]Ÿ°DnameTEmbozado en mantones\000F\\°DnameOLa Isla de Dorn\0007^°DnameVUna aleta de cada tipo\000@›°DnameQMatar a una reina\0003_°DnameXLos restos del accidente\000K‹°DnameXUna invitaci√≥n sombr√≠a\000L\\°DnameUFuerte como una abeja\000D›°DnameQMecamala conducta\0005ﬂ°DnameXEl fragmento relumbrante\000>^°DnameX'Pruebas de f√≥rmulas: Filtro maloliente\000>ﬁ°DnameXProtocolo de activaci√≥n\0007_°DnameXEso es bastante asqueroso\000G›°DnameJCosta Kaja\000B^°DnameUQue les den por bicho\0003`°DnameNJaulas y fuego\000K›°DnameXRegreso al Mercado Velado\0005‡°DnameTEmbajadas y enviados\000F^°DnameWLas Cavernas Resonantes\000@ﬂ°DnameXEl camino de la disonancia\000Kﬁ°DnameQBestias desatadas\000Dﬂ°DnameXVigilancia desde las alturas\0005·°DnameXUna cosecha resplandeciente\000F_°DnameNSantificaci√≥n\0007a°DnameQUn ba√±o visceral\000@‡°DnameLEn el camino\0002‚°DnameSRotas y abandonadas\0003b°DnameXPercepci√≥n de la situaci√≥n\000Kﬂ°DnameXL√≠neas de defensa perdidas\000D‡°DnameXEl rastro de la sangre negra\0007b°DnameRRescatar la comida\000Qﬂ°DnameNEl lazo reshii\000J‡°DnameXUn punto de vista diferente\000Ca°DnameXFantasmas en la m√°quina\000K‡°DnameX!La oscuridad est√° entre nosotros\000D·°DnameXLejos de Bah√≠a del Bot√≠n\000>b°DnameX\"Sabotaje: Instrumentos de alquimia\0007c°DnameX!Soluciones grandiosas y valientes\000?‚°DnameXSolicitudes sin completar\000@‚°DnameX%Tarea especial: Oleada de cenizabejas\000J·°DnameXMarchitar a los Secacorteza\0003d°DnameXEnse√±a a un hombre a pescar...\000S‡°DnameX Planificaci√≥n de bodas a medida\000D‚°DnameN¬°Otra vez no!\0007d°DnameXLa historia a nuestros pies\000J‚°DnamePFamilia criminal\000Kb°DnameXHendiduras de la tempestad\000D„°DnamePSal en la herida\0005e°DnameLNo es basura\0005Â°DnameNLlega la flota\000N‚°DnameVRecuperar lo que queda\0007e°DnameOV√≠as de acceso\000J„°DnameMVer a un trol\0003f°DnameXReclamar Reclamaci√≥n de Velhan\000K„°DnameRSellar las sombras\000D‰°DnameVRelevo de sangre negra\0005f°DnameORecuerdos rotos\0007f°DnameXLos irregulares de las Madejas\000J‰°DnameXLa Hermandad contraataca\0003g°DnameRFaroles encendidos\000K‰°DnameTH√©roes en la sombra\0004g°DnameTUna sombra creciente\000DÂ°DnameSAtaque al dep√≥sito\0005Á°DnameOOtra tradici√≥n\000>f°DnameK¬°Enviadlo!\000JÂ°DnameOSentencia firme\0003h°DnameVNunca vamos a Taelloch\000KÂ°DnameSN√∫cleos esenciales\0004h°DnameTLa resistencia final\000DÊ°DnameRNuestro buen amigo\0005Ë°DnameXLa forja de los recuerdos\000Ff°DnameREl casino a juicio\000JÊ°DnamePPica que te pica\0003i°DnameXEl fantasma de un pueblo minero\000DÁ°DnameXOtra pieza del rompecabezas\0005È°DnamePEl √∫ltimo viaje\000>h°DnameTDecorados e incienso\0007i°DnameHFuego va\000Bh°DnameXOperaci√≥n de extracci√≥n\0002Í°DnameQLegado desgarrado\000Ch°DnameKMena o nada\000KÁ°DnameX#La Guardia de las Sombras, dispersa\000Dh°DnameXCaminantes desencaminados\000DË°DnameQEs una corazonada\0005Í°DnameTEl terr√°neo perdido\0007j°DnameVMucho que desentra√±ar\000@È°DnameTEmbajadas y enviados\0002Î°DnamePCaos micol√≥gico\0003Î°DnameN¬°Llevar vela!\0005Î°DnameTCambio de tradici√≥n\000>j°DnameWProfundidades pr√≥digas\0007k°DnameXRepatriaci√≥n por sustracci√≥n\0002/°DnameREstrategia afilada\0002Ì°DnameVAyuda de una vigilante\000@®°DnameXEl final de los kobismales\0005*°DnameXFuerzas de choque terrestres\000JÈ°DnamePFortaleza ca√≠da\0003l°DnameVDemolici√≥n controlada\0004j°DnameXRestaurar la Llama sacra\0003ß°DnameVDespertar a un gigante\0002‰°DnameTProp√≥sito reforjado\000Ej°DnameX Donde acampan las cosas salvajes\0005Ï°DnameXInstrumentos de declaraci√≥n\0002¬°DnameXMata a los saboteadores.\000E‹°DnameTEl catering perfecto\0007l°DnameX¬°Una expedici√≥n tit√°nica!\000A\\°DnameVEl triste viaje a casa\0007°DnameUEl vino conmemorativo\000LV°DnameXTienes abejas en la cabeza\0003°DnameXLa encrucijada del crep√∫sculo\0006¢°DnameUInformaci√≥n retenida\0004[°DnameSLa llama oscurecida\000JÍ°DnameUDesde Forjaz con amor\0003m°DnameXLa verdad est√° en la tiza\000EÖ°DnameSEsperando problemas\000E°DnameTProducci√≥n detenida\000?°DnameQLa llama interior\0005m°DnameNEl anacronismo\0005Ì°DnameUCenizas purificadoras\0006m°DnameX Lo que acecha bajo nuestros pies\000)◊°DnameX&El fuego del hogar contra la oscuridad\0007m°DnameVNo son para calentarse\0003ù°DnameX1¬øQui√©n es el encargado de este estupendo lugar?\000?°DnameXLa luz al final del t√∫nel\000@Ï°DnameX4Tarea especial: Cuando se agitan las zonas profundas\000Al°DnameWRecuerdo de los ca√≠dos\000P´°DnameXEl menor esfuerzo posible\0002°DnameXAmigos en las profundidades\000JÎ°DnameVLa b√∫squeda de Danath\000Cl°DnameRLa tercera entrada\000QQ°DnameWProteger a los j√≥venes\000QR°DnameVUn ant√≠doto percusivo\0001™°DnameQAdmisi√≥n general\0001§°DnameSHospitalidad kaheti\0005Ó°DnameTY llega la despedida\000E°DnameIEl trasto\000>ï°DnameXIdentificaciones de la niebla\0007n°DnameR\"En catalogaci√≥n\"\0004ñ°DnameVGranjeros en el frente\000M°DnameRUn d√≠a de colmena\000:Ö°DnameVDe vuelta al principio\00020°DnamePEn pos de la Luz\0006î°DnameVMipsy, jinete de topos\000M°DnameNTranquiliabeja\000JÏ°DnameVDe vuelta a Stromgarde\0003o°DnameSEnterrado en piedra\000KÏ°DnameSAstillas del Vac√≠o\000M°DnameMBaile zumb√≥n\000DÌ°DnameXAmigos del alma, mismo final\0009S°DnameXEl saqueo de la Aldea Foldefrey\0005Ô°DnameWOlfateando a todo trapo\0006o°DnameQLa Arena L√∫gubre\000G°DnameVRecuperaci√≥n obtenida\0007o°DnameSPorque es brillante\000U*°DnameXLa orientaci√≥n del primer d√≠a\000?°DnameKEso es todo\000EÉ°DnameUPreservar y aparentar\000E°DnameNArmas cargadas\000AÓ°DnameX\"Tarea especial: M√°s vale prevenir\0002°DnameMUn hilo gu√≠a\000JÌ°DnameXEl ascenso del Alba Roja\0003p°DnameWBuscar a la supervisora\000KÌ°DnameSMotas y caparazones\0008œ°DnameSPalos en las ruedas\000\\Î°DnameQTierras desoladas\0005p°DnameTRed de manipulaci√≥n\0005°DnameMOdisea urbana\000Fn°DnameQ¬°Ah, ese casino!\000A2°DnameXDocumentaci√≥n, por favor\0007p°DnameWSeguramente no sea nada\0002Ö°DnameQFiebre de pradera\000Eä°DnameSEl asesino de magos\000AP°DnameX#Capturar criaturas de las cataratas\000KZ°DnameOEcodomo: Rhovan\000;°DnameSLa hoja del general\000>J°DnameX*Pruebas de f√≥rmulas: Ung√ºento gelatinoso\0003q°DnameOLo que vio ella\000KÓ°DnameWFragmentos de esperanza\000U)°DnameRTareas de conserje\0004Ò°DnameSLimpieza consagrada\0005q°DnameSDe vuelta a la base\000>L°DnameX'Trabajos turbios: Muerte de un vendedor\000C§°DnameX!Tarea especial: Rescate del lince\0005°DnameTLas semillas del mal\0007q°DnameOHaz los deberes\000c\\°DnamePUna causa com√∫n\000K°DnameRDespedida familiar\000KT°DnameUPor sangre y por voto\000Ap°DnameXTrabaja duro y no desistas\0002Ñ°DnameJEl Archivo\000;%°DnameOLuces ardientes\0001®°DnameXLo que todav√≠a nos queda\0003r°DnameXEl secreto del alto orador\000K£°DnameX&Difusi√≥n de la Guardia de las Sombras\0003%°DnameVRescate de reservistas\000\\Ì°DnameXLa confluencia del Vac√≠o\0003í°DnameQEl orador ausente\000J√°DnameXEnfrentamiento en el √°tico\0003+°DnameQQu√© cer√°, cer√°\0007W°DnameXEsperanza, una anomal√≠a\0007r°DnameRPersecuci√≥n tenaz\0007°DnameSFuera esos bastones\0005°DnamePTras la tormenta\0009R°DnameXJunto a los Desvinculados\000AN°DnameLAcuacalipsis\000AÒ°DnameUUna llave poco com√∫n\000>_°DnameX Infiltraci√≥n: Terror manifiesto\0002É°DnameOCarga por carga\000Kp°DnamePAntes del Vac√≠o\000:°DnameTUna esponja perfecta\000Dq°DnameNPoner l√≠mites\000\\Ó°DnameSOscuridad destilada\000:—°DnameRUn sorbo de ceniza\000CV°DnameLDesnieblador\000Fq°DnameTLa muerte y Hacienda\0009T°DnameXAlto a los secuestradores\0003'°DnameWOrando con los oradores\000JÁ°DnameXLa desaparici√≥n de Danath\000?°DnameQSe te va la pinza\0005°DnameGRuptura\000E›°DnamePLa boda perfecta\000AÚ°DnameXUn alijo de blasones y poder\0002t°DnameSRefuerzos - Activar\000U+°DnameUActividades continuas\0003Ç°DnameU¬°Rumbo a Khaz Algar!\0009O°DnameS¬°Qu√© escandaloso!\0002Ç°DnameXSombras de sabor - Activar\000\\Ô°DnameDCaos\000Up°DnameNSer espiritual\000EÚ°DnameLPatas arriba\0006t°DnameSEscuchar la llamada\0003c°DnameQEl que se escap√≥\000K°DnameUSomos nuestra palabra\000B	°DnameTPor amor a las gemas\000Eá°DnameXSe busca: El Quebrantaburgos\0005°DnamePSalvar a Tomothy\000As°DnameIRobolucha\000:t°DnameVLa familia Barbabronce\000K†°DnameWLa siguiente dimensi√≥n\000FN°DnameXCalentar motores sin tonter√≠as\0003ı°DnameXPompa y circunstancia (extrema)\0005°DnameFBrecha\0007	°DnameSAferrarse a la vida\000Uq°DnameXDe la muerte surge la vida\0005ı°DnameSEmprendedores S. A.\0006u°DnameHPerdidos\000:°DnameSTerr√°neos musgosos\0003Å°DnameXHora de conocer al equipo\000:Ä°DnameTVencer a los mejores\0002√°DnameURecuperaci√≥n urgente\000IO°DnameXAplicaci√≥n experimental\000At°DnameVColeccionista de rocas\0002∆°DnameJA Dornogal\0003z°DnameSUna mala recepci√≥n\000B°DnamePSe acab√≥ el pan\000,≈°DnameWPerdidos en las sombras\0003ˆ°DnameWPartes de la maquinaria\000Cm°DnameSEl fondo de la mina\000Cî°DnamePDe Xerosh a cero\000Ur°DnameVNegociaci√≥n percusiva\000D˛°DnameWMarina de patio trasero\000>X°DnameVRequisa: Colmip√©talos\000C~°DnameXDesmantelar la oscuridad\0002¡°DnamePImpacto violento\000:°DnameXInspecci√≥n del campamento\0008‡°DnameTLa pala en la piedra\000Iõ°DnameVProblema de inquilinos\000Au°DnameVEl poder de la amistad\000IP°DnameWUn quebradero de cabeza\000:v°DnameXNo llores por m√≠, Azj-Kahet\000R/°DnameVEl rock de los cohetes\000C†°DnameISous-chef\0003˜°DnameSControl de k√≥bolds\000Es°DnameXPrepararse para lo desconocido\000M\n°DnameUUn panal de rica miel\000Us°DnameXHacer cosas para parecer duro\000Eı°DnameROlor a chamusquina\0003°DnameUCiudadanos de Dalaran\0002z°DnameXCaos en la cosecha - Activador\000Fk°DnameXLo que se empieza, se termina\000D˝°DnameX¬øQui√©n manda en las calles?\0005~°DnameXDe puntillas por los pasillos\0003e°DnameWContra el miedo, lanzas\000Av°DnameVEj√©rcito en miniatura\000C}°DnameOTiempo prestado\0002~°DnameREcos de compasi√≥n\000:~°DnameSPurificar las aguas\000:¬°DnameTEl atuendo corriente\000D¨°DnameUConmoci√≥n de poci√≥n\0005‹°DnameXA la Estaci√≥n de Bombeo\0003|°DnameSLecciones dolorosas\000Ut°DnameQFotos de k'arrocs\000Eˆ°DnameNCese y desista\0006x°DnameXPresentamos nuestros respetos\000>˜°DnameXCarne de crolusco jugosa\000HÆ°DnameLH√≥yeme bien\000D∞°DnameNRobo de llaves\0005{°DnameQA vista de ara√±a\000Hˆ°DnameJEl trabajo\000>†°DnameULiberar a las bestias\0002y°DnameSPiedras de Dornogal\000:≤°DnameRManjar floreciente\000D¸°DnameM¬°Dispersaos!\0006s°DnameVLa carga colina arriba\000Lˆ°DnameXTras la pista de un extra√±o\000Uu°DnameMBa√±o de aves\000B∑°DnameX Recuperar la Estaci√≥n de Bombeo\0006y°DnameXCuidar de los aterrorizados\000>¯°DnameQTodo se aprovecha\0003~°DnameWReforzar los resguardos\000?¯°DnameOClases de vuelo\000D≠°DnameMTras la pista\000H˜°DnameIEl equipo\000E/°DnameQMentes suspicaces\000M °DnameSPlan de evacuaci√≥n\000Bx°DnameKPuro nervio\000B¯°DnameX'La criatura p√°jaro de los Tres Escudos\000Kw°DnameOSilencio mortal\000DÆ°DnameURevisi√≥n de horarios\000:°DnameJPolarizado\000L˜°DnameUUna nueva Devoraci√≥n\000Uv°DnameRManiobras m√©dicas\0005˙°DnamePLos Mecaoradores\0006π°DnameX2La alguacil del mercado de las Tierras de la Forja\000L∂°DnameNSal ah√≠ fuera\000JÀ°DnameKA la cloaca\000?˘°DnameXClases de vuelo intermedias\000@y°DnameXLa bendici√≥n de Beledar\000H¯°DnameILa jugada\000Ay°DnameTUn gusano hambriento\0009˙°DnameXUna luz de las tinieblas\0002{°DnameVEl estado de las cosas\000B˘°DnameSNubegrajo derribado\000Kx°DnameXDonde se junta el Vac√≠o\000H≠°DnameQEstafas enlatadas\00032°DnameXVela nueva, esperanza nueva\000L¯°DnameTSolo queda el hambre\000Uw°DnameSEl cielo de K'aresh\0005˚°DnameXPreservaci√≥n de prisioneros\000Dˇ°DnamePPara emergencias\000E\000°DnameU¬°Alto, marineruchos!\0003}°DnameXUna advertencia misteriosa\000N‹°DnameWRepeler a los invasores\000H˘°DnameWAtraco por todo lo alto\000Qx°DnameUJuego de pies zorruno\0002}°DnameQEl cuarto asiento\0002|°DnameJHipocentro\000B˙°DnameXAperitivos para elementales\000Ky°DnameOEcodomo: Primus\000K[°DnameREl domo destrozado\0004|°DnameRCaos en la cosecha\000L˘°DnameXUn sacerdote anta√±o orgulloso\000Ez°DnameXEl bautizo del Rompealbas\0005¸°DnameWPrendefuegos antihongos\000E°DnameULa hora de las tortas\000L∆°DnameNPolvo asentado\0001´°DnameXLos m√°s angustiados de Dalaran\000?˚°DnamePDe casa al nidal\000O°DnameWJusto donde lo queremos\000H˙°DnameHLa huida\000L«°DnameRUn corte tras otro\000D˙°DnameMBajo el fuego\000:|°DnameRTerror en el cubil\00090°DnameOUn goteo Arcano\000Kz°DnameTReinicio del sistema\000L»°DnameMVuelta a casa\000Cz°DnameQTiempo encontrado\000D˚°DnameUMovilizaci√≥n popular\000D.°DnamePReparar el da√±o\0005˝°DnamePFuera sombrerete\000DÓ°DnameSHerencia sangrienta\000U°DnamePCobrar el cheque\000Az°DnameSLa cosa del pantano\000B/°DnameXLa espada es m√°s fuerte\0006≤°DnameRArbustos apestosos\0004∂°DnameVLa voz de los oradores\000A|°DnameMAver√≠a grave\000IJ°DnameX\"SE BUSCA AYUDA: Curiosidad de Kaja\000:}°DnamePUn traje de baba\0002˛°DnameXUna hozada que es una gozada\000K{°DnameQInforme de da√±os\000>`°DnameXInfiltraci√≥n: Figuras ocultas\0004~°DnameWMentalidad de alfazaque\000T˙°DnameHEl Oasis\000E|°DnameOUn hilo de seda\000FO°DnameVSaqueo fiestero a tope\000Cp°DnameWUn momento sedimentario\000>˝°DnamePAl Alto del Luto\000Ey°DnameVMurci√©lagos extra√±os\000A1°DnameXExcavaci√≥n extravagante\0008~°DnameU√Åcaros no estar bien\0004µ°DnameXA esto se le llama sabotaje\000FB°DnameXTrabajar para endeudarse m√°s\000Cq°DnameRMi mina, mi √≥palo\0002°DnameXBloques de construcci√≥n\000D±°DnameRControl de activos\000K|°DnameREcoestabilizaci√≥n\000FU°DnameVBombardeo de opiniones\000:¥°DnameWInvestigaci√≥n de campo\000T˚°DnameSEnsalada de plantas\000E}°DnameUEscarabajos pr√≥digos\000G1°DnameXProfundidades: El Infrastillo\000+,°DnameTDefensor de la Llama\000D2°DnameXUna contribuci√≥n cer√∫lea\000;!°DnameXEl circuito espantapolillas\000\\Ï°DnameWUn pedazo de algo mayor\0008°DnameTPrender la esperanza\000H˝°DnameXEl papeleo hundir√° la mina\000Cn°DnameTLa fiebre del √≥palo\000Mæ°DnameN¬°O ya ver√°s!\0002Ä°DnameXLas profundidades de la tierra\000FD°DnameUHay oro en esa basura\000K}°DnameW¬°Este es nuestro domo!\000E€°DnameXLa lista de invitados perfecta\000FT°DnameIA la cola\000T¸°DnameULa ra√≠z del problema\0005Ä°DnameTAquellos que cayeron\000Co°DnameUTelara√±a gana a roca\000QP°DnameXA la caza de un buen autor\000J¡°DnameX#El inventor m√°s mediocre del mundo\0005x°DnameSReunir informaci√≥n\000J¬°DnameX#¬°El G.√ì.L.E.M. se ha vuelto loco!\0008Ä°DnameHPicabeja\000A.°DnameRCocinar con estilo\0004±°DnameXCuando el plan sale bien\000D∂°DnameQInvasi√≥n et√©rea\0002Å°DnameSEl Tramo de Golgrin\0003{°DnameQLa voz de Azeroth\000K~°DnameUAlianza con el Vac√≠o\0005°DnameTUna prueba de bichos\000I°DnameX#Desmadre en la Playa de Aguasnegras\000T˝°DnameVCampa√±a de donaciones\0005Å°DnameUAcceso al laboratorio\000L≈°DnameXUn d√≠a en los tribunales\000Iö°DnameSSeguro del alquiler\000Iú°DnameMPago en armas\000Iù°DnameORenegociaciones\000Kï°DnameXTrabajando para la G.E.T.A.\000Kõ°DnameXG.E.T.A. La rata radioactiva\000IL°DnameXRefinar, reparar y repetir\000IM°DnameNLocura mineral\000IN°DnameSIteraci√≥n creativa\000:Å°DnameQSabotaje sibilino\000R˛°DnameWHospital en el Claustro\000K°DnameMContramedidas\000Eâ°DnameTTormenta cicatrizada\000>R°DnameXRecompensa: Balaxir el Mat√≥n\000T˛°DnameTUna verdad universal\000J™°DnameX)En busca de refugio en Refugio de la Zaga\000J¨°DnameWRecogida de suministros\000:µ°DnameXRepercusiones resonantes\000MÀ°DnameXEl incendio de Sentencia\000?Å°DnameXChispas de guerra: Isla de Dorn\000JË°DnameMFalsa bandera\000J±°DnameTRetorno a Stromgarde\000Pˇ°DnameVDescanso de la Cordura\000L°DnameX!Restaurar la eficiencia operativa\000L/°DnameXContenci√≥n comprometida\000:Ç°DnameT¬°Liberar a Berrund!\000Rˇ°DnameLRayas de sol\000KÄ°DnameNSu lado oscuro\000S¢°DnameVDesenvuelto y deshecho\000aï°DnameRMi parte del trato\000E°DnameOEntrega urgente\000K_°DnameXLa infestaci√≥n de Rhovan\0009ß°DnameX\"Rocas, agua y despojos elementales\000Kf°DnameTEnemigos de enemigos\0004V°DnameWLas hojas de los arathi\000?Ç°DnameX&Chispas de guerra: Cavernas Resonantes\000K°°DnameX\"La calma antes de nuestra tormenta\000K¢°DnameULas arenas de K'aresh\000Q\000°DnameXMedidas contra la sangre negra\0004ï°DnameNPerlas robadas\0009V°DnameXMatanza en el aserradero\000:É°DnameUQue brille con fuerza\000C°DnameTSombras persistentes\000KÅ°DnameRDivide y vencer√°s\000D°DnameTDar cera, pulir cera\000M	°DnamePPrimus zumbantus\000\\ˇ°DnameVEl Vac√≠o Desvinculado\000Cb°DnameODeber de cuidar\000c§°DnameQHambre del Vac√≠o\0005°DnameNSeguir a Miral\000?°DnameMEl advenedizo\0003•°DnameXCuritas de miel y arcilla\000c:°DnameXUn salto a trav√©s del Vac√≠o\000Kì°DnameUEl K'aresh del pasado\000Q°DnamePVisita al taller\000>W°DnameSRequisa: Floraluces\000U,°DnameMCorreo basura\000:Ñ°DnameMA por el jefe\0004¥°DnameQ¬°M√°s minerales!\000KÇ°DnameRSeguridad comprada\000M°DnameQUna prueba abejil\0005«°DnameSUn rector muy recto\000]\000°DnameOLo que no te ve\0005Ö°DnameXLa creaci√≥n de un monstruo\0002Ï°DnameSRecuerdos del folde\000FÉ°DnameXNuestra oportunidad de actuar\000?°DnameXMide una vez, corta tres\000LS°DnamePA Canto Tormenta\000LU°DnameODedos pegajosos\0008Ö°DnameXPesca de cangrejo - Activar\000Q°DnameXSoluci√≥n de automatizaci√≥n\000M°DnameTAl fin, la bot√°nica\000]°DnameRAmor en la colmena\0002Ü°DnameLEl Proscenio\000S°DnameUEl cazador del Vac√≠o\000KÉ°DnameXAcechar a los acechadores\000M\r°DnameRUn rollo de abejas\0005ã°DnameTMot√≠n manufacturado\000]°DnameVEl horror desvinculado\000FG°DnameX$De todos modos, ganar es de d√©biles\0008±°DnameRLa Llama a√∫n arde\000Eà°DnamePEl Sangratierras\000?°DnameNPalos y huesos\000?Ö°DnameXReconocimiento espec√≠fico\000QT°DnameRCosecha sostenible\000QV°DnamePCualquier excusa\000Q°DnameUSe busca exterminador\0002°DnameSNo hay nada tan vil\000QN°DnameLEau de Zorro\0002á°DnameLConvergencia\000K°DnameXUn puente a ninguna parte\000A°DnameS√ìxido y redenci√≥n\000]$°DnameJOtro mundo\0009X°DnameTOculto en la foresta\000U°DnameX$¬øCu√°nto tiempo tienen estas cosas?\0005á°DnameWLas cadenas de la reina\0006°DnameQUn Nebb en apuros\0009Z°DnameX'Malas intenciones en la Gruta del Sedal\000?°DnameOSeda destrozada\000?Ü°DnamePVolver con Moira\0004°DnameXBenditos sean estos hogares\0004°DnameOEvocar la forja\000Q°DnameKEn el campo\000)â°DnameVBrillo en la oscuridad\0002„°DnameSEl peso de un mundo\0002à°DnameXLuz en la oscuridad - Activar\000K°DnameTSe√±ales en la arena\000KÖ°DnameUDe caza sobre cristal\000K·°DnameRBarreras de acceso\0003©°DnameUEntrar en la m√°quina\000E°DnameWLas calles son nuestras\0005à°DnameNAgente rebelde\0002Ó°DnameVEl jefe de la espesura]]))
+loadstring([[
+BtWQuestsDatabase:UpdateQuestsTable({
+    [76169] = {
+        name = "Brillo en la oscuridad",
+    },
+    [76247] = {
+        name = "El fuego del hogar contra la oscuridad",
+    },
+    [76338] = {
+        name = "Por un atizacoles mejor",
+    },
+    [76586] = {
+        name = "Propagar la Luz",
+    },
+    [76588] = {
+        name = "Defensor de la Llama",
+    },
+    [76599] = {
+        name = "Justo entre los gir√≥pticos - Activar",
+    },
+    [76733] = {
+        name = "En busca de la patata",
+    },
+    [76997] = {
+        name = "Perdidos en las sombras",
+    },
+    [78226] = {
+        name = "Una invitaci√≥n intrigante",
+    },
+    [78228] = {
+        name = "Hacia una ciudad reptadora",
+    },
+    [78231] = {
+        name = "Como una ara√±a en la pared",
+    },
+    [78232] = {
+        name = "Reescribir lo reescrito",
+    },
+    [78233] = {
+        name = "El regalo de la Tejedora",
+    },
+    [78234] = {
+        name = "Abrirte paso",
+    },
+    [78236] = {
+        name = "El rezagado pele√≥n",
+    },
+    [78237] = {
+        name = "¬°A volar!",
+    },
+    [78244] = {
+        name = "Hospitalidad kaheti",
+    },
+    [78248] = {
+        name = "Lo que todav√≠a nos queda",
+    },
+    [78249] = {
+        name = "Personajes espec√≠ficos",
+    },
+    [78250] = {
+        name = "Admisi√≥n general",
+    },
+    [78251] = {
+        name = "Los m√°s angustiados de Dalaran",
+    },
+    [78254] = {
+        name = "Influencia robada",
+    },
+    [78255] = {
+        name = "Aqu√≠ no pasa nada raro",
+    },
+    [78256] = {
+        name = "El consenso del general",
+    },
+    [78289] = {
+        name = "A Villatrueno",
+    },
+    [78290] = {
+        name = "Ovejas dormilonas",
+    },
+    [78291] = {
+        name = "Depredadores energ√©ticos",
+    },
+    [78292] = {
+        name = "Se√±or de la tormenta perdido",
+    },
+    [78293] = {
+        name = "Su musgo, nuestro sustento",
+    },
+    [78294] = {
+        name = "Topetazo Tronatesta",
+    },
+    [78348] = {
+        name = "Amigos en las profundidades",
+    },
+    [78350] = {
+        name = "Los h√©roes nunca mueren",
+    },
+    [78352] = {
+        name = "No hay nada tan vil",
+    },
+    [78353] = {
+        name = "Teme a la sangre antigua",
+    },
+    [78354] = {
+        name = "Un hilo gu√≠a",
+    },
+    [78383] = {
+        name = "Estrategia afilada",
+    },
+    [78384] = {
+        name = "En pos de la Luz",
+    },
+    [78392] = {
+        name = "Una telara√±a enrevesada",
+    },
+    [78393] = {
+        name = "Un aparente respiro",
+    },
+    [78452] = {
+        name = "Refuerzos - Activar",
+    },
+    [78457] = {
+        name = "Piedras de Dornogal",
+    },
+    [78458] = {
+        name = "Caos en la cosecha - Activador",
+    },
+    [78459] = {
+        name = "El estado de las cosas",
+    },
+    [78460] = {
+        name = "Hipocentro",
+    },
+    [78461] = {
+        name = "El cuarto asiento",
+    },
+    [78462] = {
+        name = "Ecos de compasi√≥n",
+    },
+    [78463] = {
+        name = "Bloques de construcci√≥n",
+    },
+    [78464] = {
+        name = "Las profundidades de la tierra",
+    },
+    [78465] = {
+        name = "El Tramo de Golgrin",
+    },
+    [78466] = {
+        name = "Sombras de sabor - Activar",
+    },
+    [78467] = {
+        name = "Carga por carga",
+    },
+    [78468] = {
+        name = "El Archivo",
+    },
+    [78469] = {
+        name = "Fiebre de pradera",
+    },
+    [78470] = {
+        name = "El Proscenio",
+    },
+    [78471] = {
+        name = "Convergencia",
+    },
+    [78472] = {
+        name = "Luz en la oscuridad - Activar",
+    },
+    [78529] = {
+        name = "Impacto violento",
+    },
+    [78530] = {
+        name = "Mata a los saboteadores.",
+    },
+    [78531] = {
+        name = "Recuperaci√≥n urgente",
+    },
+    [78532] = {
+        name = "Artefactos err√°ticos",
+    },
+    [78533] = {
+        name = "Asegurar la playa",
+    },
+    [78534] = {
+        name = "A Dornogal",
+    },
+    [78535] = {
+        name = "Vienen de las profundidades",
+    },
+    [78536] = {
+        name = "Contra todo pron√≥stico",
+    },
+    [78538] = {
+        name = "Esfuerzo grupal",
+    },
+    [78539] = {
+        name = "Reparaciones duraderas",
+    },
+    [78540] = {
+        name = "Hacia el lagar",
+    },
+    [78541] = {
+        name = "Tender la trampa",
+    },
+    [78542] = {
+        name = "Zona de evacuaci√≥n",
+    },
+    [78543] = {
+        name = "Sacudiendo el nido de ara√±as",
+    },
+    [78544] = {
+        name = "Invocar el trueno",
+    },
+    [78545] = {
+        name = "Regreso a la V√≠a del N√∫cleo",
+    },
+    [78546] = {
+        name = "Recompensa",
+    },
+    [78555] = {
+        name = "Bajo tierra y bajo presi√≥n",
+    },
+    [78557] = {
+        name = "Descarrilamiento en las minas",
+    },
+    [78562] = {
+        name = "Rotas y abandonadas",
+    },
+    [78563] = {
+        name = "El peso de un mundo",
+    },
+    [78564] = {
+        name = "Prop√≥sito reforjado",
+    },
+    [78570] = {
+        name = "Legado desgarrado",
+    },
+    [78571] = {
+        name = "Caos micol√≥gico",
+    },
+    [78572] = {
+        name = "Recuerdos del folde",
+    },
+    [78573] = {
+        name = "Ayuda de una vigilante",
+    },
+    [78574] = {
+        name = "El jefe de la espesura",
+    },
+    [78590] = {
+        name = "Una hozada que es una gozada",
+    },
+    [78607] = {
+        name = "A Mereldar",
+    },
+    [78613] = {
+        name = "El basti√≥n de Santificaci√≥n",
+    },
+    [78614] = {
+        name = "La luz de Mereldar",
+    },
+    [78615] = {
+        name = "El repicar de las campanas",
+    },
+    [78620] = {
+        name = "La encrucijada del crep√∫sculo",
+    },
+    [78621] = {
+        name = "La sombra creciente",
+    },
+    [78624] = {
+        name = "Una vela en la oscuridad",
+    },
+    [78626] = {
+        name = "D√≠a de entrenamiento",
+    },
+    [78627] = {
+        name = "El √∫ltimo frente",
+    },
+    [78628] = {
+        name = "Trampilla abierta",
+    },
+    [78629] = {
+        name = "Rescate de reservistas",
+    },
+    [78630] = {
+        name = "El ascenso de la Venganza",
+    },
+    [78631] = {
+        name = "Orando con los oradores",
+    },
+    [78634] = {
+        name = "Ning√∫n minero se quedar√° atr√°s",
+    },
+    [78635] = {
+        name = "Qu√© cer√°, cer√°",
+    },
+    [78636] = {
+        name = "La reconquista de las minas",
+    },
+    [78637] = {
+        name = "Machaquemos a Mascaencranajes",
+    },
+    [78638] = {
+        name = "Ingenier√≠a destructiva",
+    },
+    [78639] = {
+        name = "√âchale koraje",
+    },
+    [78640] = {
+        name = "Destino manifiesto",
+    },
+    [78641] = {
+        name = "Te toca, Torchogru√±ido",
+    },
+    [78642] = {
+        name = "Vela nueva, esperanza nueva",
+    },
+    [78656] = {
+        name = "A manguerazo limpio",
+    },
+    [78657] = {
+        name = "Centinela de medianoche",
+    },
+    [78658] = {
+        name = "El camino santificado",
+    },
+    [78659] = {
+        name = "Donde s√≠ llega la luz",
+    },
+    [78665] = {
+        name = "Problemas subterr√°neos",
+    },
+    [78666] = {
+        name = "La √∫nica ara√±a buena...",
+    },
+    [78667] = {
+        name = "Recuerdos reavivados",
+    },
+    [78668] = {
+        name = "Reuni√≥n en el Rompealbas",
+    },
+    [78669] = {
+        name = "Solo para sus ojos",
+    },
+    [78670] = {
+        name = "Sabotaje de armas de asedio",
+    },
+    [78671] = {
+        name = "La luz de la Torre del Alba",
+    },
+    [78672] = {
+        name = "El deber de un prendel√°mparas",
+    },
+    [78685] = {
+        name = "El fin del t√∫nel",
+    },
+    [78686] = {
+        name = "Luces fuera",
+    },
+    [78687] = {
+        name = "Los restos del accidente",
+    },
+    [78688] = {
+        name = "Jaulas y fuego",
+    },
+    [78690] = {
+        name = "Percepci√≥n de la situaci√≥n",
+    },
+    [78691] = {
+        name = "El que se escap√≥",
+    },
+    [78692] = {
+        name = "Ense√±a a un hombre a pescar...",
+    },
+    [78693] = {
+        name = "Contra el miedo, lanzas",
+    },
+    [78694] = {
+        name = "Reclamar Reclamaci√≥n de Velhan",
+    },
+    [78695] = {
+        name = "Faroles encendidos",
+    },
+    [78696] = {
+        name = "Nunca vamos a Taelloch",
+    },
+    [78697] = {
+        name = "El fantasma de un pueblo minero",
+    },
+    [78700] = {
+        name = "Demolici√≥n controlada",
+    },
+    [78701] = {
+        name = "La verdad est√° en la tiza",
+    },
+    [78703] = {
+        name = "Enterrado en piedra",
+    },
+    [78704] = {
+        name = "Buscar a la supervisora",
+    },
+    [78705] = {
+        name = "Lo que vio ella",
+    },
+    [78706] = {
+        name = "El secreto del alto orador",
+    },
+    [78714] = {
+        name = "Una mala recepci√≥n",
+    },
+    [78715] = {
+        name = "La voz de Azeroth",
+    },
+    [78716] = {
+        name = "Lecciones dolorosas",
+    },
+    [78717] = {
+        name = "Una advertencia misteriosa",
+    },
+    [78718] = {
+        name = "Reforzar los resguardos",
+    },
+    [78719] = {
+        name = "Ciudadanos de Dalaran",
+    },
+    [78721] = {
+        name = "Hora de conocer al equipo",
+    },
+    [78722] = {
+        name = "¬°Rumbo a Khaz Algar!",
+    },
+    [78738] = {
+        name = "El orador ausente",
+    },
+    [78741] = {
+        name = "Oradores compasivos",
+    },
+    [78742] = {
+        name = "La batalla del Taller Terr√°neo",
+    },
+    [78743] = {
+        name = "Antes de mi marcha",
+    },
+    [78744] = {
+        name = "Honrar sus recuerdos",
+    },
+    [78745] = {
+        name = "¬°T√∫ no llevarte bot√≠n!",
+    },
+    [78746] = {
+        name = "Las leyes son para todos",
+    },
+    [78747] = {
+        name = "El gran derrumbamiento",
+    },
+    [78748] = {
+        name = "Cortar la mecha",
+    },
+    [78749] = {
+        name = "¬øQui√©n es el encargado de este estupendo lugar?",
+    },
+    [78754] = {
+        name = "Un paquete perdido",
+    },
+    [78755] = {
+        name = "Jugar en el barro",
+    },
+    [78756] = {
+        name = "Montones de miel √≠gnea",
+    },
+    [78757] = {
+        name = "Curitas de miel y arcilla",
+    },
+    [78758] = {
+        name = "El pulso de la tierra",
+    },
+    [78759] = {
+        name = "Despertar a un gigante",
+    },
+    [78760] = {
+        name = "Hierro Negro desde las alturas",
+    },
+    [78761] = {
+        name = "Entrar en la m√°quina",
+    },
+    [78827] = {
+        name = "¬°Llevar vela!",
+    },
+    [78837] = {
+        name = "Pompa y circunstancia (extrema)",
+    },
+    [78838] = {
+        name = "Partes de la maquinaria",
+    },
+    [78839] = {
+        name = "Control de k√≥bolds",
+    },
+    [78860] = {
+        name = "¬°M√°s velas!",
+    },
+    [78874] = {
+        name = "Ayuda conjurada",
+    },
+    [78877] = {
+        name = "Benditos sean estos hogares",
+    },
+    [78879] = {
+        name = "Evocar la forja",
+    },
+    [78895] = {
+        name = "Una sombra sobre Gundargaz",
+    },
+    [78897] = {
+        name = "Una plaga agusanada",
+    },
+    [78898] = {
+        name = "Intenci√≥n o instinto",
+    },
+    [78900] = {
+        name = "Con sus fr√≠as y oscuras alas",
+    },
+    [78901] = {
+        name = "¬°¬°Socorrooo!!",
+    },
+    [78902] = {
+        name = "Excavaci√≥n por delegaci√≥n",
+    },
+    [78918] = {
+        name = "Los nudillos de lat√≥n de Brax",
+    },
+    [78929] = {
+        name = "Secretos de la oscuridad",
+    },
+    [78932] = {
+        name = "Pez voluble maligno",
+    },
+    [78934] = {
+        name = "Las hojas de los arathi",
+    },
+    [78936] = {
+        name = "A cada pez le llega su vez",
+    },
+    [78937] = {
+        name = "Sombra tras sombra",
+    },
+    [78939] = {
+        name = "La llama oscurecida",
+    },
+    [78951] = {
+        name = "Una sombra creciente",
+    },
+    [78952] = {
+        name = "La resistencia final",
+    },
+    [78954] = {
+        name = "Restaurar la Llama sacra",
+    },
+    [78972] = {
+        name = "Caos en la cosecha",
+    },
+    [78974] = {
+        name = "Mentalidad de alfazaque",
+    },
+    [78996] = {
+        name = "Armas y guerreros",
+    },
+    [78997] = {
+        name = "Perlas robadas",
+    },
+    [78998] = {
+        name = "Granjeros en el frente",
+    },
+    [78999] = {
+        name = "Coraz√≥n de h√©roe",
+    },
+    [79022] = {
+        name = "Una se√±al misteriosa",
+    },
+    [79023] = {
+        name = "Amiga peque√±a, grandes planes",
+    },
+    [79024] = {
+        name = "Reconocimiento de f√°brica",
+    },
+    [79025] = {
+        name = "Cuando el plan sale bien",
+    },
+    [79026] = {
+        name = "Que bombee la Estaci√≥n de Bombeo",
+    },
+    [79027] = {
+        name = "Agitaci√≥n elemental",
+    },
+    [79028] = {
+        name = "¬°M√°s minerales!",
+    },
+    [79029] = {
+        name = "A esto se le llama sabotaje",
+    },
+    [79030] = {
+        name = "La voz de los oradores",
+    },
+    [79089] = {
+        name = "Limpieza consagrada",
+    },
+    [79105] = {
+        name = "Brecha",
+    },
+    [79106] = {
+        name = "Ruptura",
+    },
+    [79107] = {
+        name = "Tras la tormenta",
+    },
+    [79108] = {
+        name = "Las semillas del mal",
+    },
+    [79109] = {
+        name = "Seguir a Miral",
+    },
+    [79110] = {
+        name = "Salvar a Tomothy",
+    },
+    [79114] = {
+        name = "Proyecto de embellecimiento",
+    },
+    [79115] = {
+        name = "Asesor√≠a experta",
+    },
+    [79116] = {
+        name = "El punto de vista ar√°cnido",
+    },
+    [79117] = {
+        name = "Una joven y brillante niffen",
+    },
+    [79118] = {
+        name = "Nueva direcci√≥n para Rak-Ush",
+    },
+    [79119] = {
+        name = "¬°Es duro ser un bicho!",
+    },
+    [79120] = {
+        name = "Como un alfazaque en un pajar",
+    },
+    [79121] = {
+        name = "Una prueba de bichos",
+    },
+    [79122] = {
+        name = "Escarabajos truferos",
+    },
+    [79123] = {
+        name = "Contrataci√≥n permanente",
+    },
+    [79124] = {
+        name = "El conducto de la tormenta del sur",
+    },
+    [79129] = {
+        name = "Convocar a los grajos",
+    },
+    [79139] = {
+        name = "A solas en la oscuridad",
+    },
+    [79140] = {
+        name = "Entrenamiento por las duras",
+    },
+    [79145] = {
+        name = "Metal y piedra",
+    },
+    [79146] = {
+        name = "Fuerzas de choque terrestres",
+    },
+    [79147] = {
+        name = "Clases de vuelo para novatos",
+    },
+    [79148] = {
+        name = "La Refiner√≠a de Nibelgaz",
+    },
+    [79149] = {
+        name = "Desenfreno en la refiner√≠a",
+    },
+    [79150] = {
+        name = "Actores en el Proscenio",
+    },
+    [79151] = {
+        name = "La petici√≥n de una hu√©rfana",
+    },
+    [79152] = {
+        name = "Un charco de tripas",
+    },
+    [79153] = {
+        name = "¬°Ay de los vencidos!",
+    },
+    [79154] = {
+        name = "El √∫ltimo adi√≥s",
+    },
+    [79156] = {
+        name = "Los edictos",
+    },
+    [79157] = {
+        name = "Resguardo tit√°nico",
+    },
+    [79159] = {
+        name = "Negligencia en el deber",
+    },
+    [79160] = {
+        name = "Pescar es bueno para el alma",
+    },
+    [79162] = {
+        name = "El s√≠ndrome del teniente quemado",
+    },
+    [79165] = {
+        name = "Un momento para descansar",
+    },
+    [79166] = {
+        name = "Pertenencias perdidas",
+    },
+    [79167] = {
+        name = "Ayudar es divertido",
+    },
+    [79168] = {
+        name = "Gambito de la Luz",
+    },
+    [79174] = {
+        name = "Infestaci√≥n infestada",
+    },
+    [79175] = {
+        name = "Creo que ahora soy un z√°ngano",
+    },
+    [79176] = {
+        name = "√ìpalos y runas",
+    },
+    [79193] = {
+        name = "Las espinas de esporas giratorias",
+    },
+    [79194] = {
+        name = "Al origen",
+    },
+    [79197] = {
+        name = "V√≠nculo con la superficie",
+    },
+    [79205] = {
+        name = "No es basura",
+    },
+    [79206] = {
+        name = "Recuerdos rotos",
+    },
+    [79213] = {
+        name = "El anacronismo",
+    },
+    [79216] = {
+        name = "Red de manipulaci√≥n",
+    },
+    [79217] = {
+        name = "De vuelta a la base",
+    },
+    [79224] = {
+        name = "Reunir informaci√≥n",
+    },
+    [79227] = {
+        name = "A vista de ara√±a",
+    },
+    [79230] = {
+        name = "De puntillas por los pasillos",
+    },
+    [79232] = {
+        name = "Aquellos que cayeron",
+    },
+    [79233] = {
+        name = "Acceso al laboratorio",
+    },
+    [79237] = {
+        name = "La creaci√≥n de un monstruo",
+    },
+    [79239] = {
+        name = "Las cadenas de la reina",
+    },
+    [79240] = {
+        name = "Agente rebelde",
+    },
+    [79241] = {
+        name = "Ruido y caos",
+    },
+    [79243] = {
+        name = "Mot√≠n manufacturado",
+    },
+    [79244] = {
+        name = "Noticias de abajo",
+    },
+    [79256] = {
+        name = "Una pizca de miedo",
+    },
+    [79258] = {
+        name = "Problemas con el agua mineral",
+    },
+    [79259] = {
+        name = "Pon buena cara",
+    },
+    [79260] = {
+        name = "Epicentro",
+    },
+    [79261] = {
+        name = "Loca de furia",
+    },
+    [79262] = {
+        name = "Ronda de limpieza",
+    },
+    [79263] = {
+        name = "L√≠neas divisorias",
+    },
+    [79264] = {
+        name = "Estas manos fuertes",
+    },
+    [79265] = {
+        name = "Domamiedo",
+    },
+    [79266] = {
+        name = "El legado de Barbabronce",
+    },
+    [79267] = {
+        name = "Dar cera, sabotear olla",
+    },
+    [79282] = {
+        name = "El gran estreno",
+    },
+    [79295] = {
+        name = "Ri√©galo todo - Activar",
+    },
+    [79297] = {
+        name = "Patrulla nocturna",
+    },
+    [79300] = {
+        name = "El cuaderno",
+    },
+    [79301] = {
+        name = "Un club de altura",
+    },
+    [79302] = {
+        name = "Lo que el viento se llev√≥",
+    },
+    [79303] = {
+        name = "Un rector muy recto",
+    },
+    [79304] = {
+        name = "Paquete de ayuda",
+    },
+    [79309] = {
+        name = "Informe de situaci√≥n",
+    },
+    [79310] = {
+        name = "Buscar a los desaparecidos",
+    },
+    [79311] = {
+        name = "Insecticida y fungicida",
+    },
+    [79312] = {
+        name = "Segar las malas hierbas",
+    },
+    [79313] = {
+        name = "Lo que crece en la oscuridad",
+    },
+    [79324] = {
+        name = "A la Estaci√≥n de Bombeo",
+    },
+    [79325] = {
+        name = "Extracci√≥n en Vetasombr√≠a",
+    },
+    [79327] = {
+        name = "El fragmento relumbrante",
+    },
+    [79328] = {
+        name = "Embajadas y enviados",
+    },
+    [79329] = {
+        name = "Una cosecha resplandeciente",
+    },
+    [79333] = {
+        name = "Llega la flota",
+    },
+    [79335] = {
+        name = "Otra tradici√≥n",
+    },
+    [79336] = {
+        name = "La forja de los recuerdos",
+    },
+    [79337] = {
+        name = "El √∫ltimo viaje",
+    },
+    [79338] = {
+        name = "El terr√°neo perdido",
+    },
+    [79339] = {
+        name = "Cambio de tradici√≥n",
+    },
+    [79340] = {
+        name = "Instrumentos de declaraci√≥n",
+    },
+    [79341] = {
+        name = "Cenizas purificadoras",
+    },
+    [79342] = {
+        name = "Y llega la despedida",
+    },
+    [79343] = {
+        name = "Olfateando a todo trapo",
+    },
+    [79344] = {
+        name = "Odisea urbana",
+    },
+    [79349] = {
+        name = "Emprendedores S. A.",
+    },
+    [79354] = {
+        name = "Los Mecaoradores",
+    },
+    [79355] = {
+        name = "Preservaci√≥n de prisioneros",
+    },
+    [79356] = {
+        name = "Prendefuegos antihongos",
+    },
+    [79357] = {
+        name = "Fuera sombrerete",
+    },
+    [79367] = {
+        name = "Un Nebb en apuros",
+    },
+    [79368] = {
+        name = "Por el pelo de una ara√±a",
+    },
+    [79369] = {
+        name = "Proteger la cosecha",
+    },
+    [79370] = {
+        name = "Una cataplasma para el veneno",
+    },
+    [79371] = {
+        name = "Una cura real",
+    },
+    [79372] = {
+        name = "Un atisbo de esperanza",
+    },
+    [79380] = {
+        name = "El destierro de la bestia de ci√©naga",
+    },
+    [79383] = {
+        name = "Red de manipulaci√≥n - Activar",
+    },
+    [79469] = {
+        name = "Lo que acecha bajo nuestros pies",
+    },
+    [79471] = {
+        name = "La Arena L√∫gubre",
+    },
+    [79475] = {
+        name = "La carga colina arriba",
+    },
+    [79476] = {
+        name = "Escuchar la llamada",
+    },
+    [79477] = {
+        name = "Perdidos",
+    },
+    [79480] = {
+        name = "Presentamos nuestros respetos",
+    },
+    [79481] = {
+        name = "Cuidar de los aterrorizados",
+    },
+    [79504] = {
+        name = "Dripsy se olvid√≥ de su vela",
+    },
+    [79505] = {
+        name = "√ëam√±am y el derrumbamiento",
+    },
+    [79507] = {
+        name = "El d√≠a que llegar cabezarrocas",
+    },
+    [79508] = {
+        name = "Mipsy, jinete de topos",
+    },
+    [79510] = {
+        name = "La vela sin desvelo",
+    },
+    [79521] = {
+        name = "Recabar pruebas",
+    },
+    [79522] = {
+        name = "Informaci√≥n retenida",
+    },
+    [79523] = {
+        name = "Algo oculto",
+    },
+    [79525] = {
+        name = "Informar al custodio del consejo",
+    },
+    [79526] = {
+        name = "Sedici√≥n",
+    },
+    [79527] = {
+        name = "Mitigaci√≥n de da√±os",
+    },
+    [79528] = {
+        name = "Disipar los rumores",
+    },
+    [79529] = {
+        name = "Por obligaci√≥n",
+    },
+    [79530] = {
+        name = "Mal negocio",
+    },
+    [79538] = {
+        name = "Arbustos apestosos",
+    },
+    [79539] = {
+        name = "¬°Electrizante!",
+    },
+    [79540] = {
+        name = "Se acab√≥ la fiesta",
+    },
+    [79541] = {
+        name = "Que arda en llamas",
+    },
+    [79542] = {
+        name = "La llamada del custodio del consejo",
+    },
+    [79543] = {
+        name = "El benefactor de Dornogal",
+    },
+    [79544] = {
+        name = "Seguridad a cambio de negocios",
+    },
+    [79545] = {
+        name = "La alguacil del mercado de las Tierras de la Forja",
+    },
+    [79546] = {
+        name = "La mecataberna clandestina",
+    },
+    [79552] = {
+        name = "Cera caliente",
+    },
+    [79553] = {
+        name = "Un remedio natural",
+    },
+    [79556] = {
+        name = "Formaci√≥n en el lugar de trabajo",
+    },
+    [79559] = {
+        name = "El caballero de verdete",
+    },
+    [79561] = {
+        name = "Se√±or de los gigantes",
+    },
+    [79563] = {
+        name = "La Dama del Lago",
+    },
+    [79564] = {
+        name = "El regreso del caballero de verdete",
+    },
+    [79565] = {
+        name = "Las velas de Cutri",
+    },
+    [79574] = {
+        name = "El segundo frente",
+    },
+    [79579] = {
+        name = "Espacio a√©reo minado",
+    },
+    [79580] = {
+        name = "Contra ofensiva",
+    },
+    [79625] = {
+        name = "Aferrarse a la vida",
+    },
+    [79630] = {
+        name = "Buscar en la telara√±a",
+    },
+    [79631] = {
+        name = "La gran evasi√≥n de Klaskin",
+    },
+    [79641] = {
+        name = "Borra su sonrisa",
+    },
+    [79642] = {
+        name = "Fuera esos bastones",
+    },
+    [79643] = {
+        name = "El temible Colmiterror",
+    },
+    [79644] = {
+        name = "Ve al priorato.",
+    },
+    [79645] = {
+        name = "Plaga de punzadulces",
+    },
+    [79646] = {
+        name = "El vino conmemorativo",
+    },
+    [79647] = {
+        name = "Reflejos ardientes",
+    },
+    [79648] = {
+        name = "Los que nos faltan",
+    },
+    [79649] = {
+        name = "Inquisici√≥n de la Llama Sagrada",
+    },
+    [79650] = {
+        name = "Priorato de la Llama Sagrada: El dolor de un hermano",
+    },
+    [79651] = {
+        name = "Socios comerciales",
+    },
+    [79667] = {
+        name = "Es elemental",
+    },
+    [79679] = {
+        name = "Mente majara en la mina",
+    },
+    [79680] = {
+        name = "Apa√±os en las tuber√≠as",
+    },
+    [79681] = {
+        name = "Fontaner√≠a fet√©n",
+    },
+    [79682] = {
+        name = "¬°Presi√≥n cr√≠tica!",
+    },
+    [79683] = {
+        name = "Mi vela es hogar",
+    },
+    [79686] = {
+        name = "Fung√°ricos preocupantes",
+    },
+    [79691] = {
+        name = "Monstruos en la oscuridad",
+    },
+    [79692] = {
+        name = "Enterrada, no olvidada",
+    },
+    [79701] = {
+        name = "Ha llegado la caballer√≠a",
+    },
+    [79703] = {
+        name = "Esperanza, una anomal√≠a",
+    },
+    [79710] = {
+        name = "Una aleta de cada tipo",
+    },
+    [79711] = {
+        name = "Eso es bastante asqueroso",
+    },
+    [79713] = {
+        name = "Un ba√±o visceral",
+    },
+    [79714] = {
+        name = "Rescatar la comida",
+    },
+    [79715] = {
+        name = "Soluciones grandiosas y valientes",
+    },
+    [79716] = {
+        name = "La historia a nuestros pies",
+    },
+    [79717] = {
+        name = "V√≠as de acceso",
+    },
+    [79718] = {
+        name = "Los irregulares de las Madejas",
+    },
+    [79721] = {
+        name = "Fuego va",
+    },
+    [79722] = {
+        name = "Mucho que desentra√±ar",
+    },
+    [79723] = {
+        name = "Repatriaci√≥n por sustracci√≥n",
+    },
+    [79724] = {
+        name = "¬°Una expedici√≥n tit√°nica!",
+    },
+    [79725] = {
+        name = "No son para calentarse",
+    },
+    [79726] = {
+        name = "\"En catalogaci√≥n\"",
+    },
+    [79727] = {
+        name = "Porque es brillante",
+    },
+    [79728] = {
+        name = "Seguramente no sea nada",
+    },
+    [79729] = {
+        name = "Haz los deberes",
+    },
+    [79730] = {
+        name = "Persecuci√≥n tenaz",
+    },
+    [79944] = {
+        name = "Fallas furibundas",
+    },
+    [79954] = {
+        name = "¬°Ara√±as!",
+    },
+    [79955] = {
+        name = "Y ahora sufro aracnofobia...",
+    },
+    [79956] = {
+        name = "Patas en el techo",
+    },
+    [79957] = {
+        name = "Gusanos en los ojos",
+    },
+    [79959] = {
+        name = "Guscraft Rumble",
+    },
+    [79960] = {
+        name = "Men√∫ para llevar",
+    },
+    [79998] = {
+        name = "√Åcaros no estar bien",
+    },
+    [79999] = {
+        name = "Prender la esperanza",
+    },
+    [80000] = {
+        name = "Picabeja",
+    },
+    [80005] = {
+        name = "Pesca de cangrejo - Activar",
+    },
+    [80022] = {
+        name = "Llamada a los jinetes de la tormenta",
+    },
+    [80049] = {
+        name = "La Llama a√∫n arde",
+    },
+    [80058] = {
+        name = "Zafarrancho k√≥bold",
+    },
+    [80079] = {
+        name = "Palos en las ruedas",
+    },
+    [80082] = {
+        name = "Regreso a Gundargaz",
+    },
+    [80096] = {
+        name = "La pala en la piedra",
+    },
+    [80144] = {
+        name = "El llanto grial",
+    },
+    [80145] = {
+        name = "La veta madre",
+    },
+    [80175] = {
+        name = "El √∫ltimo mago",
+    },
+    [80176] = {
+        name = "Un goteo Arcano",
+    },
+    [80177] = {
+        name = "Experimentos Arcanos",
+    },
+    [80178] = {
+        name = "Un vil asesinato",
+    },
+    [80179] = {
+        name = "En busca de justicia",
+    },
+    [80202] = {
+        name = "Polinizaci√≥n en caliente",
+    },
+    [80203] = {
+        name = "Pistas sociales",
+    },
+    [80204] = {
+        name = "Espionaje y ventriloquia",
+    },
+    [80205] = {
+        name = "El que tira de los hilos",
+    },
+    [80206] = {
+        name = "Piedad para las marionetas",
+    },
+    [80207] = {
+        name = "¬°Qu√© escandaloso!",
+    },
+    [80209] = {
+        name = "Un bicho raro en Dornogal",
+    },
+    [80210] = {
+        name = "Junto a los Desvinculados",
+    },
+    [80211] = {
+        name = "El saqueo de la Aldea Foldefrey",
+    },
+    [80212] = {
+        name = "Alto a los secuestradores",
+    },
+    [80213] = {
+        name = "Fuego sagrado en Villatrueno",
+    },
+    [80214] = {
+        name = "Matanza en el aserradero",
+    },
+    [80215] = {
+        name = "Liberar a los terr√°neos",
+    },
+    [80216] = {
+        name = "Oculto en la foresta",
+    },
+    [80217] = {
+        name = "Una l√°mpara para la constructora de naves",
+    },
+    [80218] = {
+        name = "Malas intenciones en la Gruta del Sedal",
+    },
+    [80295] = {
+        name = "Rocas, agua y despojos elementales",
+    },
+    [80312] = {
+        name = "S√∫plica jadeante",
+    },
+    [80313] = {
+        name = "Talismanes de la marea",
+    },
+    [80314] = {
+        name = "Voces de las profundidades",
+    },
+    [80315] = {
+        name = "Una oferta tentadora",
+    },
+    [80316] = {
+        name = "La vuelta al mar",
+    },
+    [80321] = {
+        name = "Partida",
+    },
+    [80334] = {
+        name = "Agujas destrozadas",
+    },
+    [80378] = {
+        name = "Una luz de las tinieblas",
+    },
+    [80392] = {
+        name = "La custodia del Bancal de Brunwin",
+    },
+    [80394] = {
+        name = "De acompa√±ante",
+    },
+    [80395] = {
+        name = "Excavaci√≥n elemental",
+    },
+    [80399] = {
+        name = "Raciones y revelaciones",
+    },
+    [80401] = {
+        name = "Una esponja perfecta",
+    },
+    [80402] = {
+        name = "Cubos y flores",
+    },
+    [80404] = {
+        name = "Terr√°neos musgosos",
+    },
+    [80405] = {
+        name = "Demasiado cool",
+    },
+    [80406] = {
+        name = "Buscar las gemas de Ausgazur",
+    },
+    [80407] = {
+        name = "Mechacentella la Robagemas",
+    },
+    [80408] = {
+        name = "Las Cataratas Nieblabrillante",
+    },
+    [80409] = {
+        name = "Polarizado",
+    },
+    [80434] = {
+        name = "Hacia las profundidades",
+    },
+    [80456] = {
+        name = "Un arathi descarado",
+    },
+    [80457] = {
+        name = "Al servicio de la reina",
+    },
+    [80500] = {
+        name = "La familia Barbabronce",
+    },
+    [80502] = {
+        name = "No llores por m√≠, Azj-Kahet",
+    },
+    [80508] = {
+        name = "Terror en el cubil",
+    },
+    [80509] = {
+        name = "Un traje de baba",
+    },
+    [80510] = {
+        name = "Purificar las aguas",
+    },
+    [80511] = {
+        name = "Inspecci√≥n del campamento",
+    },
+    [80512] = {
+        name = "Vencer a los mejores",
+    },
+    [80513] = {
+        name = "Sabotaje sibilino",
+    },
+    [80514] = {
+        name = "¬°Liberar a Berrund!",
+    },
+    [80515] = {
+        name = "Que brille con fuerza",
+    },
+    [80516] = {
+        name = "A por el jefe",
+    },
+    [80517] = {
+        name = "De vuelta al principio",
+    },
+    [80558] = {
+        name = "Nada aventurado",
+    },
+    [80562] = {
+        name = "Manjar floreciente",
+    },
+    [80563] = {
+        name = "Herramienta de armonizaci√≥n",
+    },
+    [80564] = {
+        name = "Investigaci√≥n de campo",
+    },
+    [80565] = {
+        name = "Repercusiones resonantes",
+    },
+    [80566] = {
+        name = "Abundan los enemigos",
+    },
+    [80567] = {
+        name = "Canci√≥n de restauraci√≥n",
+    },
+    [80568] = {
+        name = "No dejar ni rastro",
+    },
+    [80569] = {
+        name = "Enfoque armonioso",
+    },
+    [80570] = {
+        name = "Detener el flujo",
+    },
+    [80571] = {
+        name = "Descifrar la cacofon√≠a",
+    },
+    [80572] = {
+        name = "Medidas discordantes",
+    },
+    [80576] = {
+        name = "Oyente perdido",
+    },
+    [80577] = {
+        name = "Preparativos del recitado",
+    },
+    [80578] = {
+        name = "El atuendo corriente",
+    },
+    [80593] = {
+        name = "Un sorbo de ceniza",
+    },
+    [80670] = {
+        name = "Los ojos de la Tejedora",
+    },
+    [80671] = {
+        name = "La hoja del general",
+    },
+    [80672] = {
+        name = "La mano del visir",
+    },
+    [80673] = {
+        name = "El circuito espantapolillas",
+    },
+    [80676] = {
+        name = "Desfragmentar la memoria",
+    },
+    [80677] = {
+        name = "Luces ardientes",
+    },
+    [80678] = {
+        name = "Tiempo perdido",
+    },
+    [80682] = {
+        name = "Una √∫ltima historia",
+    },
+    [80689] = {
+        name = "Cuidar a Ausgazur",
+    },
+    [81465] = {
+        name = "Artefactos a raudales",
+    },
+    [81470] = {
+        name = "Asomar la oreja: Tejido ladronzuelo",
+    },
+    [81471] = {
+        name = "Asomar la oreja: Salvar el pasado",
+    },
+    [81473] = {
+        name = "Control de informaci√≥n: El lado correcto de la historia",
+    },
+    [81475] = {
+        name = "Romper la falange: Candidato nombrado por la reina",
+    },
+    [81476] = {
+        name = "Recompensa: Goliat quitinoso",
+    },
+    [81477] = {
+        name = "Armamento: Armas",
+    },
+    [81478] = {
+        name = "Reliquias de guerra: El Lago Quebrado",
+    },
+    [81479] = {
+        name = "Requisa: Champiumbr√≠os",
+    },
+    [81480] = {
+        name = "Componentes salvajes: Hondura Delirante",
+    },
+    [81482] = {
+        name = "Pruebas de f√≥rmulas: Ung√ºento gelatinoso",
+    },
+    [81484] = {
+        name = "Trabajos turbios: Muerte de un vendedor",
+    },
+    [81487] = {
+        name = "Romper la falange: Hojahilos",
+    },
+    [81488] = {
+        name = "Romper la falange: Sabios cism√°ticos",
+    },
+    [81489] = {
+        name = "Recompensa: Zorikal la Mecenas",
+    },
+    [81490] = {
+        name = "Recompensa: Balaxir el Mat√≥n",
+    },
+    [81491] = {
+        name = "Armamento: Arbalestas",
+    },
+    [81492] = {
+        name = "Armamento: Herramientas de herrer√≠a",
+    },
+    [81493] = {
+        name = "Reliquias de guerra: El conflicto de las Cloacas de Salien",
+    },
+    [81494] = {
+        name = "Reliquias de guerra: Rak-Zakaz",
+    },
+    [81495] = {
+        name = "Requisa: Floraluces",
+    },
+    [81496] = {
+        name = "Requisa: Colmip√©talos",
+    },
+    [81497] = {
+        name = "Componentes salvajes: Cloacas de Salien",
+    },
+    [81500] = {
+        name = "Trabajos turbios: Colarse en la recepci√≥n",
+    },
+    [81502] = {
+        name = "Pruebas de f√≥rmulas: Filtro maloliente",
+    },
+    [81503] = {
+        name = "Infiltraci√≥n: Terror manifiesto",
+    },
+    [81504] = {
+        name = "Infiltraci√≥n: Figuras ocultas",
+    },
+    [81506] = {
+        name = "Sabotaje: Instrumentos de alquimia",
+    },
+    [81510] = {
+        name = "¬°Enviadlo!",
+    },
+    [81512] = {
+        name = "Decorados e incienso",
+    },
+    [81514] = {
+        name = "Profundidades pr√≥digas",
+    },
+    [81555] = {
+        name = "Trabajos turbios: Diezmo y diezmados",
+    },
+    [81556] = {
+        name = "Una niebla nada nativa",
+    },
+    [81557] = {
+        name = "Identificaciones de la niebla",
+    },
+    [81558] = {
+        name = "Depredadores antinaturales",
+    },
+    [81559] = {
+        name = "Seguir la niebla",
+    },
+    [81568] = {
+        name = "Liberar a las bestias",
+    },
+    [81613] = {
+        name = "No vayamos a preocuparla",
+    },
+    [81615] = {
+        name = "Mechados",
+    },
+    [81620] = {
+        name = "Trabajo de recuperaci√≥n",
+    },
+    [81630] = {
+        name = "Protocolo de activaci√≥n",
+    },
+    [81655] = {
+        name = "Carne de crolusco jugosa",
+    },
+    [81656] = {
+        name = "Todo se aprovecha",
+    },
+    [81661] = {
+        name = "Al Alto del Luto",
+    },
+    [81667] = {
+        name = "El advenedizo",
+    },
+    [81668] = {
+        name = "Mide una vez, corta tres",
+    },
+    [81669] = {
+        name = "Palos y huesos",
+    },
+    [81670] = {
+        name = "Seda destrozada",
+    },
+    [81672] = {
+        name = "Se te va la pinza",
+    },
+    [81673] = {
+        name = "Honramos tus esfuerzos",
+    },
+    [81675] = {
+        name = "Abrevar las ovejas",
+    },
+    [81683] = {
+        name = "Colecci√≥n de primavera",
+    },
+    [81685] = {
+        name = "El pr√≥ximo maestro de tintes estrella de Azj-Kahet",
+    },
+    [81686] = {
+        name = "Subterfugio envuelto en seda",
+    },
+    [81687] = {
+        name = "Tanto monta, monta tinte",
+    },
+    [81688] = {
+        name = "Eso es todo",
+    },
+    [81689] = {
+        name = "Orientaci√≥n: Gundargaz",
+    },
+    [81690] = {
+        name = "La luz al final del t√∫nel",
+    },
+    [81692] = {
+        name = "La llama interior",
+    },
+    [81693] = {
+        name = "Buscando a Skorthuz desesperadamente",
+    },
+    [81712] = {
+        name = "Tarde de perros",
+    },
+    [81713] = {
+        name = "Mocomodius",
+    },
+    [81750] = {
+        name = "Cultivo de nubes",
+    },
+    [81751] = {
+        name = "Fuego y gema",
+    },
+    [81793] = {
+        name = "Chispas de guerra: Isla de Dorn",
+    },
+    [81794] = {
+        name = "Chispas de guerra: Cavernas Resonantes",
+    },
+    [81797] = {
+        name = "Reconocimiento espec√≠fico",
+    },
+    [81798] = {
+        name = "Volver con Moira",
+    },
+    [81802] = {
+        name = "Carreras de surcacielos - Giro de la Guardia de la Tormenta",
+    },
+    [81804] = {
+        name = "Carreras de surcacielos - Carrera por las colinas",
+    },
+    [81806] = {
+        name = "Carreras de surcacielos - Marat√≥n de Minarroca",
+    },
+    [81808] = {
+        name = "Carreras de surcacielos - Paseo por las Cavernas Resonantes",
+    },
+    [81819] = {
+        name = "Carreras de surcacielos - Palmo de Piedraserena",
+    },
+    [81822] = {
+        name = "Carreras de surcacielos - Meandro de Mereldar",
+    },
+    [81824] = {
+        name = "Carreras de surcacielos - Carrera de la Ciudad Tejida",
+    },
+    [81854] = {
+        name = "Solicitud de mantenimiento de la V√≠a del N√∫cleo",
+    },
+    [81862] = {
+        name = "Frenes√≠ felino",
+    },
+    [81869] = {
+        name = "Avivando fuegos con miel",
+    },
+    [81890] = {
+        name = "Solicitudes sin completar",
+    },
+    [81912] = {
+        name = "Clases de vuelo",
+    },
+    [81913] = {
+        name = "Clases de vuelo intermedias",
+    },
+    [81915] = {
+        name = "De casa al nidal",
+    },
+    [81928] = {
+        name = "La voz del pueblo",
+    },
+    [81929] = {
+        name = "Este es el plan",
+    },
+    [81930] = {
+        name = "La guerra interior",
+    },
+    [81945] = {
+        name = "Hacia el Conf√≠n Arathi",
+    },
+    [81950] = {
+        name = "¬°Aperitivos que hacen BUM!",
+    },
+    [81959] = {
+        name = "Recogida de brebajes",
+    },
+    [81962] = {
+        name = "Un empuj√≥n en la buena direcci√≥n",
+    },
+    [81963] = {
+        name = "Los frutos de nuestra labor",
+    },
+    [81964] = {
+        name = "El destino del herrero",
+    },
+    [81965] = {
+        name = "Perturbaci√≥n invasora",
+    },
+    [81966] = {
+        name = "He dormido como una roca",
+    },
+    [81969] = {
+        name = "Un fin para el fin",
+    },
+    [81981] = {
+        name = "¬øQu√© ej√©rcito?",
+    },
+    [81990] = {
+        name = "La llamada de la Luz",
+    },
+    [81999] = {
+        name = "¬°Hogar nuevo, vela nueva!",
+    },
+    [82041] = {
+        name = "La bendici√≥n de Beledar",
+    },
+    [82088] = {
+        name = "El final de los kobismales",
+    },
+    [82120] = {
+        name = "Limpiapozas",
+    },
+    [82124] = {
+        name = "El principio del fin",
+    },
+    [82125] = {
+        name = "Un esp√≠a como nosotros",
+    },
+    [82126] = {
+        name = "Defensa del pueblo",
+    },
+    [82127] = {
+        name = "Cazador cazado",
+    },
+    [82130] = {
+        name = "Lucha contra el poder",
+    },
+    [82133] = {
+        name = "Documentaci√≥n: Edici√≥n del manual de campo",
+    },
+    [82141] = {
+        name = "Matar a una reina",
+    },
+    [82143] = {
+        name = "El camino de la disonancia",
+    },
+    [82144] = {
+        name = "En el camino",
+    },
+    [82146] = {
+        name = "Tarea especial: Oleada de cenizabejas",
+    },
+    [82153] = {
+        name = "Embajadas y enviados",
+    },
+    [82156] = {
+        name = "Tarea especial: Cuando se agitan las zonas profundas",
+    },
+    [82195] = {
+        name = "√ìxido y redenci√≥n",
+    },
+    [82197] = {
+        name = "Alboroto en la reserva",
+    },
+    [82206] = {
+        name = "Hacia las sombras",
+    },
+    [82212] = {
+        name = "Pez le√≥n d√©bil",
+    },
+    [82213] = {
+        name = "Una petici√≥n alocada",
+    },
+    [82214] = {
+        name = "¬øA alguien le gustan las avispas?",
+    },
+    [82215] = {
+        name = "Fibra regular",
+    },
+    [82216] = {
+        name = "Petici√≥n econ√≥mica",
+    },
+    [82217] = {
+        name = "Econom√≠a subterr√°nea",
+    },
+    [82219] = {
+        name = "La especia de la vida",
+    },
+    [82220] = {
+        name = "El descenso del √°guila",
+    },
+    [82221] = {
+        name = "De tiros largos",
+    },
+    [82222] = {
+        name = "Cocinar con estilo",
+    },
+    [82223] = {
+        name = "Una comida casera",
+    },
+    [82225] = {
+        name = "Excavaci√≥n extravagante",
+    },
+    [82226] = {
+        name = "Documentaci√≥n, por favor",
+    },
+    [82237] = {
+        name = "Remontar las cascadas",
+    },
+    [82248] = {
+        name = "Avanzar hacia Faerin",
+    },
+    [82254] = {
+        name = "Acuacalipsis",
+    },
+    [82256] = {
+        name = "Capturar criaturas de las cataratas",
+    },
+    [82258] = {
+        name = "Armas de asedio asediantes",
+    },
+    [82259] = {
+        name = "En honor a los ca√≠dos",
+    },
+    [82268] = {
+        name = "El triste viaje a casa",
+    },
+    [82284] = {
+        name = "Recuerdo de los ca√≠dos",
+    },
+    [82288] = {
+        name = "Trabaja duro y no desistas",
+    },
+    [82291] = {
+        name = "Robolucha",
+    },
+    [82292] = {
+        name = "Coleccionista de rocas",
+    },
+    [82293] = {
+        name = "El poder de la amistad",
+    },
+    [82294] = {
+        name = "Ej√©rcito en miniatura",
+    },
+    [82297] = {
+        name = "Un gusano hambriento",
+    },
+    [82298] = {
+        name = "La cosa del pantano",
+    },
+    [82300] = {
+        name = "Aver√≠a grave",
+    },
+    [82324] = {
+        name = "Recogida de larvas",
+    },
+    [82332] = {
+        name = "La modesta ara√±a mensajera",
+    },
+    [82333] = {
+        name = "Misiones desgastadas",
+    },
+    [82335] = {
+        name = "Cristales",
+    },
+    [82338] = {
+        name = "Recado ausente",
+    },
+    [82339] = {
+        name = "Un asesinato sin honor",
+    },
+    [82340] = {
+        name = "Extremidad perdida",
+    },
+    [82342] = {
+        name = "Un peque√±o fardo de bienes",
+    },
+    [82344] = {
+        name = "Blasones desgastados",
+    },
+    [82355] = {
+        name = "Tarea especial: Oleada de cenizabejas",
+    },
+    [82364] = {
+        name = "Documentaci√≥n de disonancia",
+    },
+    [82367] = {
+        name = "Gema con tierra incrustada",
+    },
+    [82390] = {
+        name = "Blasones desgastados",
+    },
+    [82414] = {
+        name = "Tarea especial: M√°s vale prevenir",
+    },
+    [82417] = {
+        name = "Una llave poco com√∫n",
+    },
+    [82418] = {
+        name = "Un alijo de blasones y poder",
+    },
+    [82441] = {
+        name = "Por amor a las gemas",
+    },
+    [82448] = {
+        name = "Res√©rvalo en la biblioteca",
+    },
+    [82451] = {
+        name = "Conservaci√≥n de peluches",
+    },
+    [82455] = {
+        name = "Se acab√≥ el pan",
+    },
+    [82456] = {
+        name = "C√≥mete esto",
+    },
+    [82465] = {
+        name = "Gemas preciosas",
+    },
+    [82466] = {
+        name = "Lo que hacemos por unas gemas",
+    },
+    [82467] = {
+        name = "Las gemas son para siempre",
+    },
+    [82468] = {
+        name = "Deja que ganen",
+    },
+    [82470] = {
+        name = "Enigmas Arcanos",
+    },
+    [82477] = {
+        name = "Una ayuda en el campo",
+    },
+    [82478] = {
+        name = "Mantenimiento regular programado",
+    },
+    [82479] = {
+        name = "La espada es m√°s fuerte",
+    },
+    [82480] = {
+        name = "M√°quinas que acaban con el trabajo o...",
+    },
+    [82518] = {
+        name = "Hay que apa√±ar esas tuber√≠as",
+    },
+    [82524] = {
+        name = "Exterminar",
+    },
+    [82526] = {
+        name = "Que les den por bicho",
+    },
+    [82536] = {
+        name = "Operaci√≥n de extracci√≥n",
+    },
+    [82552] = {
+        name = "Puro nervio",
+    },
+    [82580] = {
+        name = "Misi√≥n de mensajero: Recuperaci√≥n de menas",
+    },
+    [82583] = {
+        name = "Prendiendo el fuego interior",
+    },
+    [82584] = {
+        name = "Gambito de la Luz",
+    },
+    [82585] = {
+        name = "Con la gran pira",
+    },
+    [82586] = {
+        name = "Exterminador de esporas",
+    },
+    [82615] = {
+        name = "Recuperar la Estaci√≥n de Bombeo",
+    },
+    [82628] = {
+        name = "Los hermanos Braunpyke",
+    },
+    [82680] = {
+        name = "La criatura p√°jaro de los Tres Escudos",
+    },
+    [82681] = {
+        name = "Nubegrajo derribado",
+    },
+    [82682] = {
+        name = "Aperitivos para elementales",
+    },
+    [82690] = {
+        name = "Sombras persistentes",
+    },
+    [82706] = {
+        name = "Profundidades: Investigaci√≥n mundial",
+    },
+    [82768] = {
+        name = "Pesca en las nubes",
+    },
+    [82773] = {
+        name = "Un favor funcional",
+    },
+    [82774] = {
+        name = "Desnieblador",
+    },
+    [82785] = {
+        name = "Fantasmas en la m√°quina",
+    },
+    [82786] = {
+        name = "Deber de cuidar",
+    },
+    [82792] = {
+        name = "Mena o nada",
+    },
+    [82796] = {
+        name = "La tercera entrada",
+    },
+    [82797] = {
+        name = "El fondo de la mina",
+    },
+    [82798] = {
+        name = "La fiebre del √≥palo",
+    },
+    [82799] = {
+        name = "Telara√±a gana a roca",
+    },
+    [82800] = {
+        name = "Un momento sedimentario",
+    },
+    [82801] = {
+        name = "Mi mina, mi √≥palo",
+    },
+    [82810] = {
+        name = "Tiempo encontrado",
+    },
+    [82813] = {
+        name = "Tiempo prestado",
+    },
+    [82814] = {
+        name = "Desmantelar la oscuridad",
+    },
+    [82836] = {
+        name = "De Xerosh a cero",
+    },
+    [82843] = {
+        name = "Un toque terroso",
+    },
+    [82844] = {
+        name = "En buenas condiciones",
+    },
+    [82847] = {
+        name = "Ajo y agua",
+    },
+    [82848] = {
+        name = "Sous-chef",
+    },
+    [82852] = {
+        name = "Tarea especial: Rescate del lince",
+    },
+    [82894] = {
+        name = "El precio de la esperanza",
+    },
+    [82895] = {
+        name = "El peso del deber",
+    },
+    [82946] = {
+        name = "Dar cera, pulir cera",
+    },
+    [82952] = {
+        name = "Una oportunidad de relajarse",
+    },
+    [82956] = {
+        name = "Hacia el Punto Oportunidad",
+    },
+    [82957] = {
+        name = "Gracias por la cera",
+    },
+    [82969] = {
+        name = "Rastreo p√©treo",
+    },
+    [82990] = {
+        name = "Reparar el da√±o",
+    },
+    [82994] = {
+        name = "Una contribuci√≥n cer√∫lea",
+    },
+    [83028] = {
+        name = "Olisqueadores ladrones",
+    },
+    [83048] = {
+        name = "Caminantes desencaminados",
+    },
+    [83057] = {
+        name = "Poner l√≠mites",
+    },
+    [83079] = {
+        name = "Acumulaci√≥n de minerales",
+    },
+    [83080] = {
+        name = "Limpieza de Taelloch",
+    },
+    [83081] = {
+        name = "No hay suficientes minerales",
+    },
+    [83082] = {
+        name = "El frente de √≥palo",
+    },
+    [83083] = {
+        name = "Un lugar olvidado",
+    },
+    [83084] = {
+        name = "Las √≥rdenes antiguas",
+    },
+    [83087] = {
+        name = "La vieja guardia",
+    },
+    [83088] = {
+        name = "Coleccionables c√°usticos",
+    },
+    [83089] = {
+        name = "Gafas para goblins",
+    },
+    [83091] = {
+        name = "Prot√©gete los ojos",
+    },
+    [83092] = {
+        name = "Un final ardiente",
+    },
+    [83096] = {
+        name = "Bienvenidos a Minahonda",
+    },
+    [83101] = {
+        name = "En busca de recursos",
+    },
+    [83108] = {
+        name = "Diagn√≥sticos diarios",
+    },
+    [83109] = {
+        name = "El expreso de Grimla",
+    },
+    [83114] = {
+        name = "Burocracia",
+    },
+    [83115] = {
+        name = "En el ajo",
+    },
+    [83116] = {
+        name = "Conmoci√≥n de poci√≥n",
+    },
+    [83117] = {
+        name = "Tras la pista",
+    },
+    [83118] = {
+        name = "Revisi√≥n de horarios",
+    },
+    [83119] = {
+        name = "Merece la pena probar",
+    },
+    [83120] = {
+        name = "Robo de llaves",
+    },
+    [83121] = {
+        name = "Control de activos",
+    },
+    [83122] = {
+        name = "Hundir el mercado",
+    },
+    [83123] = {
+        name = "Un error minero",
+    },
+    [83124] = {
+        name = "Observaci√≥n de A.V.E.S.",
+    },
+    [83125] = {
+        name = "Subida de precios",
+    },
+    [83126] = {
+        name = "Invasi√≥n et√©rea",
+    },
+    [83127] = {
+        name = "A contrarreloj",
+    },
+    [83128] = {
+        name = "Sacar a nuestra gente",
+    },
+    [83129] = {
+        name = "No hay donde esconderse",
+    },
+    [83130] = {
+        name = "Victoria amarga",
+    },
+    [83137] = {
+        name = "Cuando la oportunidad explota",
+    },
+    [83138] = {
+        name = "Al acabar el d√≠a",
+    },
+    [83139] = {
+        name = "Se√±ales confusas",
+    },
+    [83140] = {
+        name = "Entorno laboral hostil",
+    },
+    [83141] = {
+        name = "Investigaciones mineras",
+    },
+    [83142] = {
+        name = "Pedido enorme",
+    },
+    [83143] = {
+        name = "Trabajo honrado",
+    },
+    [83144] = {
+        name = "Flebotom√≠a",
+    },
+    [83145] = {
+        name = "Prevenci√≥n de la paranoia",
+    },
+    [83146] = {
+        name = "La bomba m√°s bonita de Pamsy",
+    },
+    [83147] = {
+        name = "Asuntos sangrientos",
+    },
+    [83148] = {
+        name = "Refrigeraci√≥n extrema",
+    },
+    [83149] = {
+        name = "En nombre de la venganza",
+    },
+    [83150] = {
+        name = "Plan en expansi√≥n",
+    },
+    [83151] = {
+        name = "Minahonda de abajo",
+    },
+    [83152] = {
+        name = "Gesti√≥n magm√°tica",
+    },
+    [83153] = {
+        name = "Muestras gaseosas",
+    },
+    [83154] = {
+        name = "Las baratijas de Baratijas",
+    },
+    [83155] = {
+        name = "Basta de tropiezos",
+    },
+    [83160] = {
+        name = "La reserva de Tragoceniza",
+    },
+    [83162] = {
+        name = "¬°Devu√©lvela, devu√©lvela!",
+    },
+    [83163] = {
+        name = "Ventura dividida",
+    },
+    [83165] = {
+        name = "Mecamala conducta",
+    },
+    [83167] = {
+        name = "Vigilancia desde las alturas",
+    },
+    [83168] = {
+        name = "El rastro de la sangre negra",
+    },
+    [83169] = {
+        name = "Lejos de Bah√≠a del Bot√≠n",
+    },
+    [83170] = {
+        name = "¬°Otra vez no!",
+    },
+    [83171] = {
+        name = "Sal en la herida",
+    },
+    [83172] = {
+        name = "Relevo de sangre negra",
+    },
+    [83173] = {
+        name = "Ataque al dep√≥sito",
+    },
+    [83174] = {
+        name = "Nuestro buen amigo",
+    },
+    [83175] = {
+        name = "Otra pieza del rompecabezas",
+    },
+    [83176] = {
+        name = "Es una corazonada",
+    },
+    [83181] = {
+        name = "Amigos del alma, mismo final",
+    },
+    [83182] = {
+        name = "Herencia sangrienta",
+    },
+    [83194] = {
+        name = "Bajo el fuego",
+    },
+    [83195] = {
+        name = "Movilizaci√≥n popular",
+    },
+    [83196] = {
+        name = "¬°Dispersaos!",
+    },
+    [83197] = {
+        name = "¬øQui√©n manda en las calles?",
+    },
+    [83198] = {
+        name = "Marina de patio trasero",
+    },
+    [83199] = {
+        name = "Para emergencias",
+    },
+    [83200] = {
+        name = "¬°Alto, marineruchos!",
+    },
+    [83201] = {
+        name = "Entrega urgente",
+    },
+    [83202] = {
+        name = "La hora de las tortas",
+    },
+    [83203] = {
+        name = "Armas cargadas",
+    },
+    [83204] = {
+        name = "El trasto",
+    },
+    [83205] = {
+        name = "Producci√≥n detenida",
+    },
+    [83206] = {
+        name = "Las calles son nuestras",
+    },
+    [83207] = {
+        name = "Mi mano derecha",
+    },
+    [83229] = {
+        name = "Tarea especial: Cuando se agitan las zonas profundas",
+    },
+    [83240] = {
+        name = "La compa√±√≠a teatral",
+    },
+    [83247] = {
+        name = "Mentes suspicaces",
+    },
+    [83271] = {
+        name = "Siempre hay otro secreto",
+    },
+    [83276] = {
+        name = "Salvar a la soldado Rueca",
+    },
+    [83277] = {
+        name = "Un robo personal",
+    },
+    [83279] = {
+        name = "Prueba de temple",
+    },
+    [83283] = {
+        name = "Por la moral",
+    },
+    [83286] = {
+        name = "Lo que se esconde bajo Dornogal",
+    },
+    [83306] = {
+        name = "Donde acampan las cosas salvajes",
+    },
+    [83315] = {
+        name = "Prepararse para lo desconocido",
+    },
+    [83321] = {
+        name = "Murci√©lagos extra√±os",
+    },
+    [83322] = {
+        name = "El bautizo del Rompealbas",
+    },
+    [83324] = {
+        name = "Un hilo de seda",
+    },
+    [83325] = {
+        name = "Escarabajos pr√≥digos",
+    },
+    [83331] = {
+        name = "Preservar y aparentar",
+    },
+    [83333] = {
+        name = "Esperando problemas",
+    },
+    [83335] = {
+        name = "Se busca: El Quebrantaburgos",
+    },
+    [83336] = {
+        name = "El Sangratierras",
+    },
+    [83337] = {
+        name = "Tormenta cicatrizada",
+    },
+    [83338] = {
+        name = "El asesino de magos",
+    },
+    [83339] = {
+        name = "La Rompeagujas",
+    },
+    [83417] = {
+        name = "Forajidos",
+    },
+    [83418] = {
+        name = "El abrigo perfecto",
+    },
+    [83419] = {
+        name = "La lista de invitados perfecta",
+    },
+    [83420] = {
+        name = "El catering perfecto",
+    },
+    [83421] = {
+        name = "La boda perfecta",
+    },
+    [83442] = {
+        name = "Patas arriba",
+    },
+    [83445] = {
+        name = "Olor a chamusquina",
+    },
+    [83446] = {
+        name = "Cese y desista",
+    },
+    [83484] = {
+        name = "Qu√© mal rato",
+    },
+    [83485] = {
+        name = "Mejunjes potentes",
+    },
+    [83486] = {
+        name = "Trabajo a distancia",
+    },
+    [83487] = {
+        name = "Cosas que pasan",
+    },
+    [83497] = {
+        name = "Una amistad preocupada",
+    },
+    [83519] = {
+        name = "¬øY qu√© hay del casino?",
+    },
+    [83522] = {
+        name = "Trabajar para endeudarse m√°s",
+    },
+    [83524] = {
+        name = "Hay oro en esa basura",
+    },
+    [83527] = {
+        name = "De todos modos, ganar es de d√©biles",
+    },
+    [83528] = {
+        name = "Todo forma parte del juego",
+    },
+    [83529] = {
+        name = "Competici√≥n de pesca de Santificaci√≥n",
+    },
+    [83531] = {
+        name = "Competici√≥n de pesca de Santificaci√≥n",
+    },
+    [83532] = {
+        name = "Competici√≥n de pesca de Santificaci√≥n",
+    },
+    [83534] = {
+        name = "Calentar motores sin tonter√≠as",
+    },
+    [83535] = {
+        name = "Saqueo fiestero a tope",
+    },
+    [83537] = {
+        name = "Tratamiento de gemas geot√©rmicas",
+    },
+    [83540] = {
+        name = "A la cola",
+    },
+    [83541] = {
+        name = "Bombardeo de opiniones",
+    },
+    [83542] = {
+        name = "Agallas por oro",
+    },
+    [83543] = {
+        name = "Aventuras en Khaz Algar",
+    },
+    [83546] = {
+        name = "Responsabilidad",
+    },
+    [83548] = {
+        name = "La Isla de Dorn",
+    },
+    [83550] = {
+        name = "Las Cavernas Resonantes",
+    },
+    [83551] = {
+        name = "Santificaci√≥n",
+    },
+    [83558] = {
+        name = "El casino a juicio",
+    },
+    [83563] = {
+        name = "Lo que se empieza, se termina",
+    },
+    [83566] = {
+        name = "¬°Ah, ese casino!",
+    },
+    [83569] = {
+        name = "La muerte y Hacienda",
+    },
+    [83587] = {
+        name = "Nuestra oportunidad de actuar",
+    },
+    [83616] = {
+        name = "Atrincheramiento",
+    },
+    [83627] = {
+        name = "El comienzo de algo hermoso",
+    },
+    [83628] = {
+        name = "Recuperaci√≥n tensa",
+    },
+    [83629] = {
+        name = "Descanso ancestral",
+    },
+    [83632] = {
+        name = "Anillos de recuerdos",
+    },
+    [83639] = {
+        name = "Comunicaciones abiertas",
+    },
+    [83715] = {
+        name = "Recuperaci√≥n obtenida",
+    },
+    [83718] = {
+        name = "Ovoextracci√≥n",
+    },
+    [83719] = {
+        name = "Quitinas mayores",
+    },
+    [83749] = {
+        name = "Profundidades: Estaci√≥n de Bombeo",
+    },
+    [83752] = {
+        name = "Amenazas de Zekvir",
+    },
+    [83755] = {
+        name = "Profundidades: Sagrario del Ocaso",
+    },
+    [83761] = {
+        name = "Profundidades: El Infrastillo",
+    },
+    [83766] = {
+        name = "Llamada de explorador de profundidades: Foso del Pavor",
+    },
+    [83767] = {
+        name = "Llamada de explorador de profundidades: Sumidero",
+    },
+    [83768] = {
+        name = "Llamada de explorador de profundidades: Brecha Deslizante",
+    },
+    [83769] = {
+        name = "Llamada de explorador de profundidades: Caverna del Micomante",
+    },
+    [83770] = {
+        name = "Llamada de explorador de profundidades: Espiral Serpenteante",
+    },
+    [83771] = {
+        name = "Llamada de explorador de profundidades: Abismo de Tak-Rethan",
+    },
+    [83930] = {
+        name = "Soluci√≥n desparasitadora",
+    },
+    [83933] = {
+        name = "Costa Kaja",
+    },
+    [84022] = {
+        name = "Coser los hilos cortados",
+    },
+    [84121] = {
+        name = "Seguro anti-Fundisombras",
+    },
+    [84122] = {
+        name = "Fuera c√°maras",
+    },
+    [84140] = {
+        name = "Caddie capaz",
+    },
+    [84141] = {
+        name = "Estafas enlatadas",
+    },
+    [84142] = {
+        name = "H√≥yeme bien",
+    },
+    [84214] = {
+        name = "El trabajo",
+    },
+    [84215] = {
+        name = "El equipo",
+    },
+    [84216] = {
+        name = "La jugada",
+    },
+    [84217] = {
+        name = "Atraco por todo lo alto",
+    },
+    [84218] = {
+        name = "La huida",
+    },
+    [84221] = {
+        name = "El papeleo hundir√° la mina",
+    },
+    [84242] = {
+        name = "A las Chatarrer√≠as se ha dicho",
+    },
+    [84244] = {
+        name = "Desmadre en la Playa de Aguasnegras",
+    },
+    [84249] = {
+        name = "Entre cazuelas",
+    },
+    [84298] = {
+        name = "SE BUSCA AYUDA: Curiosidad de Kaja",
+    },
+    [84300] = {
+        name = "Refinar, reparar y repetir",
+    },
+    [84301] = {
+        name = "Locura mineral",
+    },
+    [84302] = {
+        name = "Iteraci√≥n creativa",
+    },
+    [84303] = {
+        name = "Aplicaci√≥n experimental",
+    },
+    [84304] = {
+        name = "Un quebradero de cabeza",
+    },
+    [84376] = {
+        name = "Propiedad devaluada",
+    },
+    [84378] = {
+        name = "Seguro del alquiler",
+    },
+    [84379] = {
+        name = "Problema de inquilinos",
+    },
+    [84380] = {
+        name = "Pago en armas",
+    },
+    [84381] = {
+        name = "Renegociaciones",
+    },
+    [84392] = {
+        name = "Hambre en la hondonada",
+    },
+    [84439] = {
+        name = "Conclusiones kaja",
+    },
+    [84621] = {
+        name = "Espuelas de escudero",
+    },
+    [84638] = {
+        name = "Problemas en las Tierras Altas",
+    },
+    [84639] = {
+        name = "Antorchas y brea",
+    },
+    [84640] = {
+        name = "El emblem√°tico porvenir",
+    },
+    [84641] = {
+        name = "Malas noticias",
+    },
+    [84643] = {
+        name = "Reyerta en el toque de queda",
+    },
+    [84645] = {
+        name = "Trabajo de ayudantes",
+    },
+    [84649] = {
+        name = "Marran Aterratrols",
+    },
+    [84650] = {
+        name = "En busca de refugio en Refugio de la Zaga",
+    },
+    [84651] = {
+        name = "Un rostro familiar",
+    },
+    [84652] = {
+        name = "Recogida de suministros",
+    },
+    [84656] = {
+        name = "Hacia Sentencia",
+    },
+    [84657] = {
+        name = "Retorno a Stromgarde",
+    },
+    [84658] = {
+        name = "En busca de la familia",
+    },
+    [84659] = {
+        name = "La b√∫squeda de Faerin",
+    },
+    [84667] = {
+        name = "El G.√ì.L.E.M. del progreso",
+    },
+    [84672] = {
+        name = "A tirar la basura",
+    },
+    [84673] = {
+        name = "El inventor m√°s mediocre del mundo",
+    },
+    [84674] = {
+        name = "¬°El G.√ì.L.E.M. se ha vuelto loco!",
+    },
+    [84675] = {
+        name = "Enfrentamiento en el √°tico",
+    },
+    [84683] = {
+        name = "A la cloaca",
+    },
+    [84704] = {
+        name = "Un punto de vista diferente",
+    },
+    [84705] = {
+        name = "Marchitar a los Secacorteza",
+    },
+    [84706] = {
+        name = "Familia criminal",
+    },
+    [84707] = {
+        name = "Ver a un trol",
+    },
+    [84708] = {
+        name = "La Hermandad contraataca",
+    },
+    [84709] = {
+        name = "Sentencia firme",
+    },
+    [84710] = {
+        name = "Pica que te pica",
+    },
+    [84711] = {
+        name = "La desaparici√≥n de Danath",
+    },
+    [84712] = {
+        name = "Falsa bandera",
+    },
+    [84713] = {
+        name = "Fortaleza ca√≠da",
+    },
+    [84714] = {
+        name = "Desde Forjaz con amor",
+    },
+    [84715] = {
+        name = "La b√∫squeda de Danath",
+    },
+    [84716] = {
+        name = "De vuelta a Stromgarde",
+    },
+    [84717] = {
+        name = "El ascenso del Alba Roja",
+    },
+    [84740] = {
+        name = "Un puente a ninguna parte",
+    },
+    [84741] = {
+        name = "Se√±ales en la arena",
+    },
+    [84759] = {
+        name = "Encuentros aciagos bajo la luz estelar",
+    },
+    [84760] = {
+        name = "Una advertencia amistosa",
+    },
+    [84761] = {
+        name = "Invasi√≥n y victoria",
+    },
+    [84762] = {
+        name = "Somos nuestra palabra",
+    },
+    [84765] = {
+        name = "Despedida familiar",
+    },
+    [84820] = {
+        name = "Por sangre y por voto",
+    },
+    [84821] = {
+        name = "Quintenci√≥n biol√≥gica",
+    },
+    [84822] = {
+        name = "A Iskaara",
+    },
+    [84826] = {
+        name = "Ecodomo: Rhovan",
+    },
+    [84827] = {
+        name = "El domo destrozado",
+    },
+    [84831] = {
+        name = "La infestaci√≥n de Rhovan",
+    },
+    [84834] = {
+        name = "Hendiduras de la tempestad",
+    },
+    [84838] = {
+        name = "Enemigos de enemigos",
+    },
+    [84848] = {
+        name = "Antes del Vac√≠o",
+    },
+    [84855] = {
+        name = "Silencio mortal",
+    },
+    [84856] = {
+        name = "Donde se junta el Vac√≠o",
+    },
+    [84857] = {
+        name = "Ecodomo: Primus",
+    },
+    [84858] = {
+        name = "Reinicio del sistema",
+    },
+    [84859] = {
+        name = "Informe de da√±os",
+    },
+    [84860] = {
+        name = "Ecoestabilizaci√≥n",
+    },
+    [84861] = {
+        name = "¬°Este es nuestro domo!",
+    },
+    [84862] = {
+        name = "Alianza con el Vac√≠o",
+    },
+    [84863] = {
+        name = "Contramedidas",
+    },
+    [84864] = {
+        name = "Su lado oscuro",
+    },
+    [84865] = {
+        name = "Divide y vencer√°s",
+    },
+    [84866] = {
+        name = "Seguridad comprada",
+    },
+    [84867] = {
+        name = "Acechar a los acechadores",
+    },
+    [84869] = {
+        name = "De caza sobre cristal",
+    },
+    [84876] = {
+        name = "El Oasis",
+    },
+    [84879] = {
+        name = "Restaurar la esperanza",
+    },
+    [84883] = {
+        name = "El K'aresh del pasado",
+    },
+    [84885] = {
+        name = "Trabajando para la G.E.T.A.",
+    },
+    [84891] = {
+        name = "G.E.T.A. La rata radioactiva",
+    },
+    [84892] = {
+        name = "G.E.T.A. el cocodriliano",
+    },
+    [84893] = {
+        name = "G.E.T.A. El Capit√°n",
+    },
+    [84896] = {
+        name = "La siguiente dimensi√≥n",
+    },
+    [84897] = {
+        name = "La calma antes de nuestra tormenta",
+    },
+    [84898] = {
+        name = "Las arenas de K'aresh",
+    },
+    [84899] = {
+        name = "Difusi√≥n de la Guardia de las Sombras",
+    },
+    [84900] = {
+        name = "Como un cuchillo a trav√©s del √©ter",
+    },
+    [84902] = {
+        name = "Instancias adversas",
+    },
+    [84903] = {
+        name = "Hasta que las arenas sangren Vac√≠o",
+    },
+    [84904] = {
+        name = "Y responderemos",
+    },
+    [84905] = {
+        name = "Un camino entre las sombras",
+    },
+    [84906] = {
+        name = "Regicidio-nexo",
+    },
+    [84910] = {
+        name = "La tabiqa",
+    },
+    [84915] = {
+        name = "La limpieza de las dunas",
+    },
+    [84956] = {
+        name = "Una invitaci√≥n sombr√≠a",
+    },
+    [84957] = {
+        name = "Regreso al Mercado Velado",
+    },
+    [84958] = {
+        name = "Bestias desatadas",
+    },
+    [84959] = {
+        name = "L√≠neas de defensa perdidas",
+    },
+    [84960] = {
+        name = "La oscuridad est√° entre nosotros",
+    },
+    [84961] = {
+        name = "Barreras de acceso",
+    },
+    [84963] = {
+        name = "Sellar las sombras",
+    },
+    [84964] = {
+        name = "H√©roes en la sombra",
+    },
+    [84965] = {
+        name = "N√∫cleos esenciales",
+    },
+    [84967] = {
+        name = "La Guardia de las Sombras, dispersa",
+    },
+    [84972] = {
+        name = "Astillas del Vac√≠o",
+    },
+    [84973] = {
+        name = "Motas y caparazones",
+    },
+    [84974] = {
+        name = "Fragmentos de esperanza",
+    },
+    [85003] = {
+        name = "Restaurar la eficiencia operativa",
+    },
+    [85006] = {
+        name = "Los que hemos perdido",
+    },
+    [85007] = {
+        name = "Alcance extendido",
+    },
+    [85008] = {
+        name = "Maquinaciones de recuerdos",
+    },
+    [85009] = {
+        name = "Los que a√∫n no hemos salvado",
+    },
+    [85018] = {
+        name = "Paquetes de promesas",
+    },
+    [85019] = {
+        name = "La petici√≥n de un marginado",
+    },
+    [85020] = {
+        name = "La sangre de K'aresh",
+    },
+    [85021] = {
+        name = "Purificar el Vac√≠o",
+    },
+    [85022] = {
+        name = "Sacerdote de las antiguas artes",
+    },
+    [85032] = {
+        name = "Lo que queda de nuestro hogar",
+    },
+    [85037] = {
+        name = "Envolturas para terminar",
+    },
+    [85039] = {
+        name = "Contenci√≥n comprometida",
+    },
+    [85052] = {
+        name = "Una oportunidad lucrativa",
+    },
+    [85053] = {
+        name = "Obtenci√≥n de permisos",
+    },
+    [85054] = {
+        name = "Art√≠culos de adquisici√≥n",
+    },
+    [85055] = {
+        name = "Bienes caducados",
+    },
+    [85075] = {
+        name = "A Canto Tormenta",
+    },
+    [85076] = {
+        name = "No pierdas el rumbo, abeja",
+    },
+    [85077] = {
+        name = "Dedos pegajosos",
+    },
+    [85078] = {
+        name = "Tienes abejas en la cabeza",
+    },
+    [85079] = {
+        name = "No te duermas en las colmenas",
+    },
+    [85080] = {
+        name = "Una soluci√≥n inabejable",
+    },
+    [85081] = {
+        name = "Rapsodia abejuna",
+    },
+    [85082] = {
+        name = "A K'aresh",
+    },
+    [85083] = {
+        name = "Fotograbeja",
+    },
+    [85084] = {
+        name = "Fuerte como una abeja",
+    },
+    [85174] = {
+        name = "Sal ah√≠ fuera",
+    },
+    [85189] = {
+        name = "Un d√≠a en los tribunales",
+    },
+    [85190] = {
+        name = "Polvo asentado",
+    },
+    [85191] = {
+        name = "Un corte tras otro",
+    },
+    [85192] = {
+        name = "Vuelta a casa",
+    },
+    [85238] = {
+        name = "Tras la pista de un extra√±o",
+    },
+    [85239] = {
+        name = "Una nueva Devoraci√≥n",
+    },
+    [85240] = {
+        name = "Solo queda el hambre",
+    },
+    [85241] = {
+        name = "Un sacerdote anta√±o orgulloso",
+    },
+    [85249] = {
+        name = "Una prueba abejil",
+    },
+    [85255] = {
+        name = "Tranquiliabeja",
+    },
+    [85256] = {
+        name = "Al fin, la bot√°nica",
+    },
+    [85257] = {
+        name = "Primus zumbantus",
+    },
+    [85258] = {
+        name = "Un panal de rica miel",
+    },
+    [85259] = {
+        name = "Baile zumb√≥n",
+    },
+    [85260] = {
+        name = "Un d√≠a de colmena",
+    },
+    [85261] = {
+        name = "Un rollo de abejas",
+    },
+    [85262] = {
+        name = "La procesi√≥n real",
+    },
+    [85383] = {
+        name = "Cocteler√≠a aplicada",
+    },
+    [85384] = {
+        name = "Informaci√≥n de mercado",
+    },
+    [85394] = {
+        name = "Visi√≥n para los problemas",
+    },
+    [85409] = {
+        name = "Muerte a los chivatos",
+    },
+    [85410] = {
+        name = "La larga sombra de Minahonda",
+    },
+    [85429] = {
+        name = "Abr√∫malos",
+    },
+    [85430] = {
+        name = "Descanso obligatorio",
+    },
+    [85431] = {
+        name = "Drenaje de recursos",
+    },
+    [85432] = {
+        name = "Confusi√≥n de contactos",
+    },
+    [85433] = {
+        name = "La mirada puesta sobre nosotros",
+    },
+    [85434] = {
+        name = "Tecnicismos",
+    },
+    [85438] = {
+        name = "¬°O ya ver√°s!",
+    },
+    [85444] = {
+        name = "Familia encontrada",
+    },
+    [85449] = {
+        name = "Cambio de fase",
+    },
+    [85450] = {
+        name = "Plan de evacuaci√≥n",
+    },
+    [85451] = {
+        name = "El incendio de Sentencia",
+    },
+    [85529] = {
+        name = "Glorias pasadas",
+    },
+    [85562] = {
+        name = "M√°s duro de lo que pens√°bamos",
+    },
+    [85711] = {
+        name = "Opiniones no solicitadas",
+    },
+    [85724] = {
+        name = "Repeler a los invasores",
+    },
+    [85730] = {
+        name = "Recuperar lo que queda",
+    },
+    [85780] = {
+        name = "Justo donde lo queremos",
+    },
+    [85941] = {
+        name = "Ajuste de actitud",
+    },
+    [85961] = {
+        name = "Moviendo a los peones",
+    },
+    [86182] = {
+        name = "Cazafantasmas",
+    },
+    [86183] = {
+        name = "El poder de los dioses",
+    },
+    [86184] = {
+        name = "El retorno de la reducci√≥n",
+    },
+    [86185] = {
+        name = "Corre en libertad",
+    },
+    [86186] = {
+        name = "Superolfato",
+    },
+    [86187] = {
+        name = "El menor esfuerzo posible",
+    },
+    [86188] = {
+        name = "Somos los champi√±ones",
+    },
+    [86189] = {
+        name = "Invasi√≥n f√∫ngica",
+    },
+    [86190] = {
+        name = "Un champi√±√≥n para gobernarlos a todos",
+    },
+    [86191] = {
+        name = "Luego te huelo",
+    },
+    [86192] = {
+        name = "Sobre un lecho de huesos yacen",
+    },
+    [86193] = {
+        name = "Una vida por otra",
+    },
+    [86194] = {
+        name = "El aroma del amor",
+    },
+    [86195] = {
+        name = "Partido lomopizarra",
+    },
+    [86196] = {
+        name = "Dame combustible",
+    },
+    [86200] = {
+        name = "Dame fuego",
+    },
+    [86201] = {
+        name = "Control de bichejos",
+    },
+    [86204] = {
+        name = "Liberaci√≥n de Minahonda: La casa pierde",
+    },
+    [86271] = {
+        name = "Descanso de la Cordura",
+    },
+    [86272] = {
+        name = "Medidas contra la sangre negra",
+    },
+    [86273] = {
+        name = "Visita al taller",
+    },
+    [86274] = {
+        name = "Soluci√≥n de automatizaci√≥n",
+    },
+    [86275] = {
+        name = "Se busca exterminador",
+    },
+    [86276] = {
+        name = "En el campo",
+    },
+    [86277] = {
+        name = "Se acab√≥ ser carne de gusano",
+    },
+    [86297] = {
+        name = "La moral es un reflejo de liderazgo",
+    },
+    [86327] = {
+        name = "Los Campos de la Tempestad",
+    },
+    [86332] = {
+        name = "Distribuci√≥n del poder",
+    },
+    [86348] = {
+        name = "Aterrazorros",
+    },
+    [86349] = {
+        name = "Cazador de esencia de bichejo",
+    },
+    [86350] = {
+        name = "Eau de Zorro",
+    },
+    [86351] = {
+        name = "Hora de posar",
+    },
+    [86352] = {
+        name = "A la caza de un buen autor",
+    },
+    [86353] = {
+        name = "Proteger a los j√≥venes",
+    },
+    [86354] = {
+        name = "Un ant√≠doto percusivo",
+    },
+    [86355] = {
+        name = "No dejes ni los huesos",
+    },
+    [86356] = {
+        name = "Cosecha sostenible",
+    },
+    [86357] = {
+        name = "La hora del papeo",
+    },
+    [86358] = {
+        name = "Cualquier excusa",
+    },
+    [86359] = {
+        name = "Regreso a K'aresh",
+    },
+    [86360] = {
+        name = "La fant√°stica Sra. Fox",
+    },
+    [86361] = {
+        name = "Cachorradas",
+    },
+    [86362] = {
+        name = "¬øEn qu√© sue√±an los zorros?",
+    },
+    [86392] = {
+        name = "Juego de pies zorruno",
+    },
+    [86408] = {
+        name = "Mi propio agujero",
+    },
+    [86417] = {
+        name = "Comprobaci√≥n",
+    },
+    [86495] = {
+        name = "El lazo reshii",
+    },
+    [86575] = {
+        name = "El rock de los cohetes",
+    },
+    [86587] = {
+        name = "A Maldraxxus",
+    },
+    [86588] = {
+        name = "Asesinato ritualista",
+    },
+    [86589] = {
+        name = "Una peste al d√≠a mantiene al doctor en la lejan√≠a",
+    },
+    [86590] = {
+        name = "Ni siquiera trabajo aqu√≠",
+    },
+    [86591] = {
+        name = "Una imitaci√≥n p√©sima",
+    },
+    [86592] = {
+        name = "La importancia de las vacunas",
+    },
+    [86593] = {
+        name = "Al Oasis",
+    },
+    [86594] = {
+        name = "Un paladar exquisito",
+    },
+    [86595] = {
+        name = "Tareas de conserjer√≠a",
+    },
+    [86601] = {
+        name = "Triple veinte",
+    },
+    [86602] = {
+        name = "Revisi√≥n m√©dica",
+    },
+    [86603] = {
+        name = "Rayquetbol",
+    },
+    [86604] = {
+        name = "Intenci√≥n dudosa",
+    },
+    [86605] = {
+        name = "Pinchazos de refuerzo",
+    },
+    [86606] = {
+        name = "El moco dorado",
+    },
+    [86607] = {
+        name = "Necrorrayando en la velocidad de la luz",
+    },
+    [86697] = {
+        name = "Equipo de limpieza",
+    },
+    [86782] = {
+        name = "Hospital en el Claustro",
+    },
+    [86783] = {
+        name = "Rayas de sol",
+    },
+    [86786] = {
+        name = "El cazador del Vac√≠o",
+    },
+    [86820] = {
+        name = "Forja de Man√° Omega: El despertar de Dimensius",
+    },
+    [86835] = {
+        name = "¬°Reagrupaos!",
+    },
+    [86946] = {
+        name = "Desenvuelto y deshecho",
+    },
+    [87008] = {
+        name = "Planificaci√≥n de bodas a medida",
+    },
+    [87290] = {
+        name = "El Oasis",
+    },
+    [87291] = {
+        name = "Ensalada de plantas",
+    },
+    [87292] = {
+        name = "La ra√≠z del problema",
+    },
+    [87293] = {
+        name = "Campa√±a de donaciones",
+    },
+    [87294] = {
+        name = "Una verdad universal",
+    },
+    [87297] = {
+        name = "Cobrar el cheque",
+    },
+    [87299] = {
+        name = "¬øCu√°nto tiempo tienen estas cosas?",
+    },
+    [87321] = {
+        name = "Cosas por hacer",
+    },
+    [87337] = {
+        name = "Tareas de conserje",
+    },
+    [87338] = {
+        name = "La orientaci√≥n del primer d√≠a",
+    },
+    [87339] = {
+        name = "Actividades continuas",
+    },
+    [87340] = {
+        name = "Correo basura",
+    },
+    [87408] = {
+        name = "Ser espiritual",
+    },
+    [87409] = {
+        name = "De la muerte surge la vida",
+    },
+    [87410] = {
+        name = "Negociaci√≥n percusiva",
+    },
+    [87411] = {
+        name = "Hacer cosas para parecer duro",
+    },
+    [87412] = {
+        name = "Fotos de k'arrocs",
+    },
+    [87413] = {
+        name = "Ba√±o de aves",
+    },
+    [87414] = {
+        name = "Maniobras m√©dicas",
+    },
+    [87415] = {
+        name = "El cielo de K'aresh",
+    },
+    [89323] = {
+        name = "Tierras desoladas",
+    },
+    [89324] = {
+        name = "Un pedazo de algo mayor",
+    },
+    [89325] = {
+        name = "La confluencia del Vac√≠o",
+    },
+    [89326] = {
+        name = "Oscuridad destilada",
+    },
+    [89327] = {
+        name = "Caos",
+    },
+    [89343] = {
+        name = "El Vac√≠o Desvinculado",
+    },
+    [89344] = {
+        name = "Lo que no te ve",
+    },
+    [89345] = {
+        name = "El horror desvinculado",
+    },
+    [89348] = {
+        name = "Amor en la colmena",
+    },
+    [89380] = {
+        name = "Otro mundo",
+    },
+    [89561] = {
+        name = "Embozado en mantones",
+    },
+    [90517] = {
+        name = "Mi parte del trato",
+    },
+    [90938] = {
+        name = "Un salto a trav√©s del Vac√≠o",
+    },
+    [90972] = {
+        name = "Una causa com√∫n",
+    },
+    [91039] = {
+        name = "La petici√≥n de Faerin",
+    },
+    [91044] = {
+        name = "Hambre del Vac√≠o",
+    },
+    [91314] = {
+        name = "Potencial desvinculado",
+    },
+    [91454] = {
+        name = "Aventurero perdido en fase",
+    },
+})
+]])()

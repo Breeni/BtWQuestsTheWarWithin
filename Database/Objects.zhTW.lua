@@ -4,4 +4,16 @@ if GetLocale() ~= "zhTW" then
     return
 end
 
-BtWQuestsDatabase:UpdateObjectsTable(C_EncodingUtil.DeserializeCBOR([[�\000\n��DnameO租用告示牌\000\n��DnameI武器箱\000�+�DnameL零工表單]]))
+loadstring([[
+BtWQuestsDatabase:UpdateObjectsTable({
+    [456747] = {
+        name = "零工表單",
+    },
+    [461478] = {
+        name = "租用告示牌",
+    },
+    [461492] = {
+        name = "武器箱",
+    },
+})
+]])()

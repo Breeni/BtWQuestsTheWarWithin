@@ -4,4 +4,235 @@ if GetLocale() ~= "frFR" then
     return
 end
 
-BtWQuestsDatabase:UpdateNPCsTable(C_EncodingUtil.DeserializeCBOR([[∏L\000X›°DnameQMandataire Tx'itk\000<°DnameWDame Jaina Portvaillant\000I-°DnameNKyron le Grand\000qÖ°DnameRAlleria Coursevent\000;°DnameSLufsela la nourrice\000g–°DnamePGarv Sifflematos\000*o°DnameNVeuve Arak'nai\000fS°DnameITrotteuse\000@ô°DnameRAuralia Heurtacier\000{æ°DnameQSkedgit Cendrepan\000ê\n°DnameLMonte Gazleu\000Bx°DnameUMagni Barbe-de-Bronze\000j∞°DnameLOrren Ma√ßyn\000íË°DnameXIng√©nieur assistant Om'vek\000By°DnameWDame Jaina Portvaillant\000P-°DnameMKal Fumefront\000/é°DnameQEx√©cuteur Nizrek\000u®°DnameUHumphrey Court-gosier\000uË°DnameQFermier Edidithet\000I5°DnameXGrand mal√©ficieur Ohodo\000å2°DnameRPartenaire Xy'nell\000pÆ°DnameRGarde-paix Hektare\000Öπ°DnameXLe Chevalier Vert-de-gras\000q.°DnameWContrema√Ætresse Duinth\000q/°DnameTKilton le machiniste\000Öõ°DnameTArpenteur des ombres\000è°DnameQGerry Crassejabot\000sœ°DnameJCiboulette\000;(°DnameRAlleria Coursevent\000Mv°DnamePMamie Gribouille\000?°DnameRMandataire Brinthe\000q°DnameIGris-gris\000gæ°DnameXArchimage Aethas Saccage-Soleil\000M¯°DnameSContrem√®tre Grimes\000Y-°DnameSCitoyen de Dornagal\000&¿°DnameTAliya Heaume-Colline\000D°DnameNAegor Lealferr\000ÖÇ°DnamePScribe de l'√¢me\000yÆ°DnameRAlleria Coursevent\000K˝°DnameTCapitaine Vrayflamme\000ãü°DnamePMarchand Ba'kril\000Xt°DnameRAlleria Coursevent\000p‹°DnameRGrimla P√©timanche\000H≈°DnameNAlyza Flambarc\000q‹°DnameLMonte Gazleu\000…Y°DnameQMagist√®re Umbric\000√I°DnameRChercheuse Essarae\000{>°DnameKTirenouille\000èÃ°DnamePBenny Roquettoie\000äH°DnameVBoss de cartel Xy'eolm\000à˙°DnameXGardien du coffre Xy'vez\000á˛°DnameSHizfran le Proscrit\000Üÿ°DnameTArpenteur des ombres\000I'°DnameUG√©n√©rale Heurtacier\000:ƒ°DnameUParle-nature Na'layro\000s·°DnameLMonte Gazleu\000IÁ°DnameRKeyrra Forteflamme\000>‹°DnameRSoigne-lande Igris\000qH°DnameUProspera Grincerouage\000Ñö°DnameJVieux Lowe\000p…°DnameTG√©lanaute Kazzandra\000wñ°DnameQYsabel Luisegaard\000I\n°DnameQEndiri Montelaube\000uÁ°DnameSGardienne du caveau\000j»°DnameRAlleria Coursevent\000u	°DnameQSnap Graissevelin\000CP°DnameQBrax l'aubergiste\000t°DnameLMonte Gazleu\000uæ°DnameXEtterca l'asserment√©e √† Freya\000q#°DnameQRenzik \"le kriss\"\000>‰°DnameXCruton l'asserment√© √† Freya\000O≈°DnameLMonte Gazleu\000iÎ°DnameMM.¬†Tournesol\000M˜°DnameFTocard\000Cm°DnameNGardienne Toki\000>◊°DnameUKittrin le machiniste]]))
+loadstring([[
+BtWQuestsDatabase:UpdateNPCsTable({
+    [206528] = {
+        name = "Aliya Heaume-Colline",
+    },
+    [207471] = {
+        name = "Veuve Arak'nai",
+    },
+    [208782] = {
+        name = "Ex√©cuteur Nizrek",
+    },
+    [211652] = {
+        name = "Parle-nature Na'layro",
+    },
+    [211740] = {
+        name = "Lufsela la nourrice",
+    },
+    [211752] = {
+        name = "Alleria Coursevent",
+    },
+    [211994] = {
+        name = "Dame Jaina Portvaillant",
+    },
+    [212695] = {
+        name = "Kittrin le machiniste",
+    },
+    [212700] = {
+        name = "Soigne-lande Igris",
+    },
+    [212708] = {
+        name = "Cruton l'asserment√© √† Freya",
+    },
+    [212741] = {
+        name = "Mandataire Brinthe",
+    },
+    [213145] = {
+        name = "Auralia Heurtacier",
+    },
+    [213624] = {
+        name = "Magni Barbe-de-Bronze",
+    },
+    [213625] = {
+        name = "Dame Jaina Portvaillant",
+    },
+    [213840] = {
+        name = "Brax l'aubergiste",
+    },
+    [213869] = {
+        name = "Gardienne Toki",
+    },
+    [214019] = {
+        name = "Aegor Lealferr",
+    },
+    [215237] = {
+        name = "Alyza Flambarc",
+    },
+    [215306] = {
+        name = "Endiri Montelaube",
+    },
+    [215335] = {
+        name = "G√©n√©rale Heurtacier",
+    },
+    [215341] = {
+        name = "Kyron le Grand",
+    },
+    [215349] = {
+        name = "Grand mal√©ficieur Ohodo",
+    },
+    [215527] = {
+        name = "Keyrra Forteflamme",
+    },
+    [216061] = {
+        name = "Capitaine Vrayflamme",
+    },
+    [216438] = {
+        name = "Mamie Gribouille",
+    },
+    [216567] = {
+        name = "Tocard",
+    },
+    [216568] = {
+        name = "Contrem√®tre Grimes",
+    },
+    [217029] = {
+        name = "Monte Gazleu",
+    },
+    [217133] = {
+        name = "Kal Fumefront",
+    },
+    [219252] = {
+        name = "Alleria Coursevent",
+    },
+    [219357] = {
+        name = "Mandataire Tx'itk",
+    },
+    [219437] = {
+        name = "Citoyen de Dornagal",
+    },
+    [222803] = {
+        name = "Trotteuse",
+    },
+    [223166] = {
+        name = "Archimage Aethas Saccage-Soleil",
+    },
+    [223184] = {
+        name = "Garv Sifflematos",
+    },
+    [223723] = {
+        name = "M.¬†Tournesol",
+    },
+    [223920] = {
+        name = "Orren Ma√ßyn",
+    },
+    [223944] = {
+        name = "Alleria Coursevent",
+    },
+    [225454] = {
+        name = "Garde-paix Hektare",
+    },
+    [225481] = {
+        name = "G√©lanaute Kazzandra",
+    },
+    [225500] = {
+        name = "Grimla P√©timanche",
+    },
+    [225555] = {
+        name = "Gris-gris",
+    },
+    [225571] = {
+        name = "Renzik \"le kriss\"",
+    },
+    [225582] = {
+        name = "Contrema√Ætresse Duinth",
+    },
+    [225583] = {
+        name = "Kilton le machiniste",
+    },
+    [225608] = {
+        name = "Prospera Grincerouage",
+    },
+    [225669] = {
+        name = "Alleria Coursevent",
+    },
+    [225756] = {
+        name = "Monte Gazleu",
+    },
+    [226255] = {
+        name = "Ciboulette",
+    },
+    [226273] = {
+        name = "Monte Gazleu",
+    },
+    [226569] = {
+        name = "Snap Graissevelin",
+    },
+    [226728] = {
+        name = "Humphrey Court-gosier",
+    },
+    [226750] = {
+        name = "Etterca l'asserment√©e √† Freya",
+    },
+    [226791] = {
+        name = "Gardienne du caveau",
+    },
+    [226792] = {
+        name = "Fermier Edidithet",
+    },
+    [227222] = {
+        name = "Ysabel Luisegaard",
+    },
+    [227758] = {
+        name = "Alleria Coursevent",
+    },
+    [228158] = {
+        name = "Tirenouille",
+    },
+    [228286] = {
+        name = "Skedgit Cendrepan",
+    },
+    [229236] = {
+        name = "Monte Gazleu",
+    },
+    [230554] = {
+        name = "Vieux Lowe",
+    },
+    [230786] = {
+        name = "Scribe de l'√¢me",
+    },
+    [230811] = {
+        name = "Arpenteur des ombres",
+    },
+    [230841] = {
+        name = "Le Chevalier Vert-de-gras",
+    },
+    [231128] = {
+        name = "Arpenteur des ombres",
+    },
+    [231422] = {
+        name = "Hizfran le Proscrit",
+    },
+    [231674] = {
+        name = "Gardien du coffre Xy'vez",
+    },
+    [232008] = {
+        name = "Boss de cartel Xy'eolm",
+    },
+    [232351] = {
+        name = "Marchand Ba'kril",
+    },
+    [232498] = {
+        name = "Partenaire Xy'nell",
+    },
+    [233235] = {
+        name = "Gerry Crassejabot",
+    },
+    [233420] = {
+        name = "Benny Roquettoie",
+    },
+    [233482] = {
+        name = "Monte Gazleu",
+    },
+    [234216] = {
+        name = "Ing√©nieur assistant Om'vek",
+    },
+    [246601] = {
+        name = "Chercheuse Essarae",
+    },
+    [248153] = {
+        name = "Magist√®re Umbric",
+    },
+})
+]])()
