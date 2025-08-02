@@ -84,3 +84,4 @@ AzjKahet.lua
 SirenIsle.lua
 11.1.lua
 11.1.7.lua
+11.2.lua

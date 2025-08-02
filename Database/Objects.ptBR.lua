@@ -4,16 +4,4 @@ if GetLocale() ~= "ptBR" then
     return
 end
 
-loadstring([[
-BtWQuestsDatabase:UpdateObjectsTable({
-    [456747] = {
-        name = "AnÃºncios de Trampo",
-    },
-    [461478] = {
-        name = "Placa de Aluguel",
-    },
-    [461492] = {
-        name = "Arca de Armas",
-    },
-})
-]])()
+BtWQuestsDatabase:UpdateObjectsTable(C_EncodingUtil.DeserializeCBOR([[£\000\n¦¡DnamePPlaca de Aluguel\000\n´¡DnameMArca de Armas\000ø+¡DnameSAnÃºncios de Trampo]]))

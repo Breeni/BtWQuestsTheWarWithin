@@ -106,6 +106,7 @@ new_read_globals = {
     'C_DateAndTime.GetSecondsUntilDailyReset',
     'C_DateAndTime.GetSecondsUntilWeeklyReset',
     'C_EncounterJournal.IsEncounterComplete',
+    'C_EncodingUtil.DeserializeCBOR',
     'C_EquipmentSet.GetEquipmentSetID',
     'C_EquipmentSet.GetEquipmentSetIDs',
     'C_EquipmentSet.GetEquipmentSetInfo',

@@ -4,16 +4,4 @@ if GetLocale() ~= "koKR" then
     return
 end
 
-loadstring([[
-BtWQuestsDatabase:UpdateObjectsTable({
-    [456747] = {
-        name = "일거리 공고",
-    },
-    [461478] = {
-        name = "임대 표지판",
-    },
-    [461492] = {
-        name = "무기 보관함",
-    },
-})
-]])()
+BtWQuestsDatabase:UpdateObjectsTable(C_EncodingUtil.DeserializeCBOR([[�\000\n��DnameP임대 표지판\000\n��DnameP무기 보관함\000�+�DnameP일거리 공고]]))
