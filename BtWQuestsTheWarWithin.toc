@@ -74,7 +74,6 @@ Database/Index.ptBR.lua
 Database/Index.ruRU.lua
 Database/Index.zhCN.lua
 Database/Index.zhTW.lua
-Database/Index.11.2.lua
 
 General.lua
 IsleOfDorn.lua
@@ -85,3 +84,4 @@ SirenIsle.lua
 11.1.lua
 11.1.7.lua
 11.2.lua
+11.2.7.lua
